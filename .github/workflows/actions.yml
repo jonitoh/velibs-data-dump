@@ -36,4 +36,5 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "GH ACTION latest update: ${timestamp}" || exit 0
+          git pull
           git push
