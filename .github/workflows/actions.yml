@@ -3,7 +3,11 @@ name: dump data every hour at 30
 on:
   schedule:
     - cron: "30 * * * *" # At xx:30 every day; cf. https://crontab.guru/examples.html
+  workflow_dispatch:
 
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+  
 jobs:
   build:
     runs-on: ubuntu-latest
