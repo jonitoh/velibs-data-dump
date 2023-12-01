@@ -10,7 +10,10 @@ jobs:
 
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v3 # checkout the repository content to github runner
+        uses: actions/checkout@master # checkout the repository content to github runner
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
 
       - name: set up python
         uses: actions/setup-python@v3
@@ -29,12 +32,7 @@ jobs:
         run: |
           echo "$(python -c 'import datetime as dt; print(dt.datetime.now().__str__())')"
 
-      - name: commit and push if changes
-        run: |
-          git config --local user.name actions-user
-          git config --local user.email "actions@github.com"
-          git add -A
-          timestamp=$(date -u)
-          git commit -m "GH ACTION latest update: ${timestamp}" || exit 0
-          git pull
-          git push
+    - name: commit & push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
