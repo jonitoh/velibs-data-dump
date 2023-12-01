@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """This script calls the API to retrieve the data and dumps into a file."""
 import datetime as dt
+import os
 
 from logger import logger
 from utils import dump_data_from_api
@@ -26,6 +27,9 @@ args = [
 if __name__ == "__main__":
     logger.info("------")
     time = dt.datetime.now()
+    if not os.path.exists(FOLDER_PATH): 
+        logger.warn(f"creation of the direction {FOLDER_PATH}")
+        os.makedirs(FOLDER_PATH) 
     for message, url, get_output in args:
         logger.info(message)
         output_path = get_output(time)
