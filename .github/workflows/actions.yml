@@ -2,7 +2,7 @@ name: dump data every hour at 30
 
 on:
   schedule:
-    - cron: "30 * * * *" # At xx:30 every day; cf. https://crontab.guru/examples.html
+    - cron: "20 * * * *" # At xx:20 every day; cf. https://crontab.guru/examples.html
   workflow_dispatch:
 
 env:
