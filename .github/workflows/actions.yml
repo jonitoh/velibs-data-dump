@@ -32,7 +32,7 @@ jobs:
         run: |
           echo "$(python -c 'import datetime as dt; print(dt.datetime.now().__str__())')"
 
-    - name: commit & push changes
-      uses: actions-js/push@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: commit & push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
