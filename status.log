@@ -13421,3 +13421,11 @@ FileNotFoundError: [Errno 2] No such file or directory: './history/station_infor
 2024-02-11 21:25:50,370 - logger - INFO - request status: Successful
 2024-02-11 21:25:50,388 - logger - INFO - Successful dumping
 2024-02-11 21:25:50,389 - logger - INFO - ------
+2024-02-11 22:27:06,435 - logger - INFO - ------
+2024-02-11 22:27:06,435 - logger - INFO - retrieve station status
+2024-02-11 22:27:07,091 - logger - INFO - request status: Successful
+2024-02-11 22:27:07,093 - logger - INFO - Successful dumping
+2024-02-11 22:27:07,094 - logger - INFO - retrieve station information
+2024-02-11 22:27:08,406 - logger - INFO - request status: Successful
+2024-02-11 22:27:08,423 - logger - INFO - Successful dumping
+2024-02-11 22:27:08,424 - logger - INFO - ------
