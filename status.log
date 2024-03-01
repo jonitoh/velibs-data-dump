@@ -16836,3 +16836,11 @@ requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected(
 2024-03-01 04:29:49,022 - logger - INFO - request status: Successful
 2024-03-01 04:29:49,040 - logger - INFO - Successful dumping
 2024-03-01 04:29:49,041 - logger - INFO - ------
+2024-03-01 05:28:04,480 - logger - INFO - ------
+2024-03-01 05:28:04,480 - logger - INFO - retrieve station status
+2024-03-01 05:28:04,928 - logger - INFO - request status: Successful
+2024-03-01 05:28:04,930 - logger - INFO - Successful dumping
+2024-03-01 05:28:04,931 - logger - INFO - retrieve station information
+2024-03-01 05:28:05,893 - logger - INFO - request status: Successful
+2024-03-01 05:28:05,910 - logger - INFO - Successful dumping
+2024-03-01 05:28:05,912 - logger - INFO - ------
