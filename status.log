@@ -128,3 +128,11 @@
 2024-03-02 09:25:31,500 - logger - INFO - request status: Successful
 2024-03-02 09:25:31,519 - logger - INFO - Successful dumping
 2024-03-02 09:25:31,520 - logger - INFO - ------
+2024-03-02 10:27:29,962 - logger - INFO - ------
+2024-03-02 10:27:29,963 - logger - INFO - retrieve station status
+2024-03-02 10:27:30,307 - logger - INFO - request status: Successful
+2024-03-02 10:27:30,310 - logger - INFO - Successful dumping
+2024-03-02 10:27:30,311 - logger - INFO - retrieve station information
+2024-03-02 10:27:31,251 - logger - INFO - request status: Successful
+2024-03-02 10:27:31,270 - logger - INFO - Successful dumping
+2024-03-02 10:27:31,271 - logger - INFO - ------
