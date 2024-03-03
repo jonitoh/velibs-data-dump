@@ -328,3 +328,11 @@
 2024-03-03 11:25:39,713 - logger - INFO - request status: Successful
 2024-03-03 11:25:39,731 - logger - INFO - Successful dumping
 2024-03-03 11:25:39,732 - logger - INFO - ------
+2024-03-03 12:38:56,292 - logger - INFO - ------
+2024-03-03 12:38:56,292 - logger - INFO - retrieve station status
+2024-03-03 12:38:56,840 - logger - INFO - request status: Successful
+2024-03-03 12:38:56,843 - logger - INFO - Successful dumping
+2024-03-03 12:38:56,843 - logger - INFO - retrieve station information
+2024-03-03 12:38:58,163 - logger - INFO - request status: Successful
+2024-03-03 12:38:58,182 - logger - INFO - Successful dumping
+2024-03-03 12:38:58,183 - logger - INFO - ------
