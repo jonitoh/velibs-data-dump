@@ -408,3 +408,11 @@
 2024-03-03 21:25:25,710 - logger - INFO - request status: Successful
 2024-03-03 21:25:25,728 - logger - INFO - Successful dumping
 2024-03-03 21:25:25,729 - logger - INFO - ------
+2024-03-03 22:27:25,432 - logger - INFO - ------
+2024-03-03 22:27:25,432 - logger - INFO - retrieve station status
+2024-03-03 22:27:25,933 - logger - INFO - request status: Successful
+2024-03-03 22:27:25,936 - logger - INFO - Successful dumping
+2024-03-03 22:27:25,936 - logger - INFO - retrieve station information
+2024-03-03 22:27:31,072 - logger - INFO - request status: Successful
+2024-03-03 22:27:31,090 - logger - INFO - Successful dumping
+2024-03-03 22:27:31,090 - logger - INFO - ------
