@@ -360,3 +360,11 @@
 2024-03-03 15:25:29,382 - logger - INFO - request status: Successful
 2024-03-03 15:25:29,401 - logger - INFO - Successful dumping
 2024-03-03 15:25:29,402 - logger - INFO - ------
+2024-03-03 16:29:13,349 - logger - INFO - ------
+2024-03-03 16:29:13,349 - logger - INFO - retrieve station status
+2024-03-03 16:29:13,756 - logger - INFO - request status: Successful
+2024-03-03 16:29:13,759 - logger - INFO - Successful dumping
+2024-03-03 16:29:13,760 - logger - INFO - retrieve station information
+2024-03-03 16:29:14,708 - logger - INFO - request status: Successful
+2024-03-03 16:29:14,726 - logger - INFO - Successful dumping
+2024-03-03 16:29:14,727 - logger - INFO - ------
