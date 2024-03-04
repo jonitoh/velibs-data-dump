@@ -560,3 +560,11 @@
 2024-03-04 19:25:40,861 - logger - INFO - request status: Successful
 2024-03-04 19:25:40,879 - logger - INFO - Successful dumping
 2024-03-04 19:25:40,880 - logger - INFO - ------
+2024-03-04 20:25:41,043 - logger - INFO - ------
+2024-03-04 20:25:41,043 - logger - INFO - retrieve station status
+2024-03-04 20:25:41,411 - logger - INFO - request status: Successful
+2024-03-04 20:25:41,414 - logger - INFO - Successful dumping
+2024-03-04 20:25:41,414 - logger - INFO - retrieve station information
+2024-03-04 20:25:42,211 - logger - INFO - request status: Successful
+2024-03-04 20:25:42,229 - logger - INFO - Successful dumping
+2024-03-04 20:25:42,231 - logger - INFO - ------
