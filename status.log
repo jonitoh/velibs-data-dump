@@ -568,3 +568,11 @@
 2024-03-04 20:25:42,211 - logger - INFO - request status: Successful
 2024-03-04 20:25:42,229 - logger - INFO - Successful dumping
 2024-03-04 20:25:42,231 - logger - INFO - ------
+2024-03-04 21:25:24,925 - logger - INFO - ------
+2024-03-04 21:25:24,925 - logger - INFO - retrieve station status
+2024-03-04 21:25:25,357 - logger - INFO - request status: Successful
+2024-03-04 21:25:25,360 - logger - INFO - Successful dumping
+2024-03-04 21:25:25,360 - logger - INFO - retrieve station information
+2024-03-04 21:25:26,134 - logger - INFO - request status: Successful
+2024-03-04 21:25:26,152 - logger - INFO - Successful dumping
+2024-03-04 21:25:26,153 - logger - INFO - ------
