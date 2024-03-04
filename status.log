@@ -488,3 +488,11 @@
 2024-03-04 10:22:58,378 - logger - INFO - request status: Successful
 2024-03-04 10:22:58,396 - logger - INFO - Successful dumping
 2024-03-04 10:22:58,396 - logger - INFO - ------
+2024-03-04 12:03:36,261 - logger - INFO - ------
+2024-03-04 12:03:36,261 - logger - INFO - retrieve station status
+2024-03-04 12:03:36,673 - logger - INFO - request status: Successful
+2024-03-04 12:03:36,678 - logger - INFO - Successful dumping
+2024-03-04 12:03:36,679 - logger - INFO - retrieve station information
+2024-03-04 12:03:37,604 - logger - INFO - request status: Successful
+2024-03-04 12:03:37,623 - logger - INFO - Successful dumping
+2024-03-04 12:03:37,624 - logger - INFO - ------
