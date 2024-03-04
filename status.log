@@ -480,3 +480,11 @@
 2024-03-04 08:03:35,578 - logger - INFO - request status: Successful
 2024-03-04 08:03:35,596 - logger - INFO - Successful dumping
 2024-03-04 08:03:35,597 - logger - INFO - ------
+2024-03-04 10:22:57,020 - logger - INFO - ------
+2024-03-04 10:22:57,020 - logger - INFO - retrieve station status
+2024-03-04 10:22:57,452 - logger - INFO - request status: Successful
+2024-03-04 10:22:57,455 - logger - INFO - Successful dumping
+2024-03-04 10:22:57,455 - logger - INFO - retrieve station information
+2024-03-04 10:22:58,378 - logger - INFO - request status: Successful
+2024-03-04 10:22:58,396 - logger - INFO - Successful dumping
+2024-03-04 10:22:58,396 - logger - INFO - ------
