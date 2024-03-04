@@ -552,3 +552,11 @@
 2024-03-04 18:29:19,401 - logger - INFO - request status: Successful
 2024-03-04 18:29:19,419 - logger - INFO - Successful dumping
 2024-03-04 18:29:19,420 - logger - INFO - ------
+2024-03-04 19:25:39,689 - logger - INFO - ------
+2024-03-04 19:25:39,690 - logger - INFO - retrieve station status
+2024-03-04 19:25:40,078 - logger - INFO - request status: Successful
+2024-03-04 19:25:40,080 - logger - INFO - Successful dumping
+2024-03-04 19:25:40,081 - logger - INFO - retrieve station information
+2024-03-04 19:25:40,861 - logger - INFO - request status: Successful
+2024-03-04 19:25:40,879 - logger - INFO - Successful dumping
+2024-03-04 19:25:40,880 - logger - INFO - ------
