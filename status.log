@@ -496,3 +496,11 @@
 2024-03-04 12:03:37,604 - logger - INFO - request status: Successful
 2024-03-04 12:03:37,623 - logger - INFO - Successful dumping
 2024-03-04 12:03:37,624 - logger - INFO - ------
+2024-03-04 12:45:03,561 - logger - INFO - ------
+2024-03-04 12:45:03,561 - logger - INFO - retrieve station status
+2024-03-04 12:45:04,033 - logger - INFO - request status: Successful
+2024-03-04 12:45:04,036 - logger - INFO - Successful dumping
+2024-03-04 12:45:04,037 - logger - INFO - retrieve station information
+2024-03-04 12:45:04,981 - logger - INFO - request status: Successful
+2024-03-04 12:45:05,001 - logger - INFO - Successful dumping
+2024-03-04 12:45:05,002 - logger - INFO - ------
