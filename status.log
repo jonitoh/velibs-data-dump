@@ -608,3 +608,11 @@
 2024-03-05 02:29:25,781 - logger - INFO - request status: Successful
 2024-03-05 02:29:25,799 - logger - INFO - Successful dumping
 2024-03-05 02:29:25,800 - logger - INFO - ------
+2024-03-05 03:26:27,699 - logger - INFO - ------
+2024-03-05 03:26:27,699 - logger - INFO - retrieve station status
+2024-03-05 03:26:27,988 - logger - INFO - request status: Successful
+2024-03-05 03:26:27,991 - logger - INFO - Successful dumping
+2024-03-05 03:26:27,992 - logger - INFO - retrieve station information
+2024-03-05 03:26:28,784 - logger - INFO - request status: Successful
+2024-03-05 03:26:28,802 - logger - INFO - Successful dumping
+2024-03-05 03:26:28,803 - logger - INFO - ------
