@@ -664,3 +664,11 @@
 2024-03-05 09:25:43,684 - logger - INFO - request status: Successful
 2024-03-05 09:25:43,703 - logger - INFO - Successful dumping
 2024-03-05 09:25:43,703 - logger - INFO - ------
+2024-03-05 10:32:04,476 - logger - INFO - ------
+2024-03-05 10:32:04,476 - logger - INFO - retrieve station status
+2024-03-05 10:32:04,885 - logger - INFO - request status: Successful
+2024-03-05 10:32:04,888 - logger - INFO - Successful dumping
+2024-03-05 10:32:04,889 - logger - INFO - retrieve station information
+2024-03-05 10:32:05,832 - logger - INFO - request status: Successful
+2024-03-05 10:32:05,850 - logger - INFO - Successful dumping
+2024-03-05 10:32:05,851 - logger - INFO - ------
