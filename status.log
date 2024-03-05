@@ -648,3 +648,11 @@
 2024-03-05 07:25:51,122 - logger - INFO - request status: Successful
 2024-03-05 07:25:51,141 - logger - INFO - Successful dumping
 2024-03-05 07:25:51,142 - logger - INFO - ------
+2024-03-05 08:28:49,963 - logger - INFO - ------
+2024-03-05 08:28:49,963 - logger - INFO - retrieve station status
+2024-03-05 08:28:50,400 - logger - INFO - request status: Successful
+2024-03-05 08:28:50,403 - logger - INFO - Successful dumping
+2024-03-05 08:28:50,404 - logger - INFO - retrieve station information
+2024-03-05 08:28:51,204 - logger - INFO - request status: Successful
+2024-03-05 08:28:51,223 - logger - INFO - Successful dumping
+2024-03-05 08:28:51,225 - logger - INFO - ------
