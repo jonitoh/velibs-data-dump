@@ -640,3 +640,11 @@
 2024-03-05 06:30:01,793 - logger - INFO - request status: Successful
 2024-03-05 06:30:01,810 - logger - INFO - Successful dumping
 2024-03-05 06:30:01,811 - logger - INFO - ------
+2024-03-05 07:25:49,272 - logger - INFO - ------
+2024-03-05 07:25:49,272 - logger - INFO - retrieve station status
+2024-03-05 07:25:49,816 - logger - INFO - request status: Successful
+2024-03-05 07:25:49,819 - logger - INFO - Successful dumping
+2024-03-05 07:25:49,820 - logger - INFO - retrieve station information
+2024-03-05 07:25:51,122 - logger - INFO - request status: Successful
+2024-03-05 07:25:51,141 - logger - INFO - Successful dumping
+2024-03-05 07:25:51,142 - logger - INFO - ------
