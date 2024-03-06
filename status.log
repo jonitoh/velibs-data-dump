@@ -840,3 +840,11 @@
 2024-03-06 08:31:02,899 - logger - INFO - request status: Successful
 2024-03-06 08:31:02,918 - logger - INFO - Successful dumping
 2024-03-06 08:31:02,919 - logger - INFO - ------
+2024-03-06 09:25:39,843 - logger - INFO - ------
+2024-03-06 09:25:39,843 - logger - INFO - retrieve station status
+2024-03-06 09:25:40,321 - logger - INFO - request status: Successful
+2024-03-06 09:25:40,324 - logger - INFO - Successful dumping
+2024-03-06 09:25:40,325 - logger - INFO - retrieve station information
+2024-03-06 09:25:41,571 - logger - INFO - request status: Successful
+2024-03-06 09:25:41,589 - logger - INFO - Successful dumping
+2024-03-06 09:25:41,590 - logger - INFO - ------
