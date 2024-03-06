@@ -888,3 +888,11 @@
 2024-03-06 14:27:29,099 - logger - INFO - request status: Successful
 2024-03-06 14:27:29,117 - logger - INFO - Successful dumping
 2024-03-06 14:27:29,118 - logger - INFO - ------
+2024-03-06 15:26:16,688 - logger - INFO - ------
+2024-03-06 15:26:16,688 - logger - INFO - retrieve station status
+2024-03-06 15:26:17,032 - logger - INFO - request status: Successful
+2024-03-06 15:26:17,034 - logger - INFO - Successful dumping
+2024-03-06 15:26:17,035 - logger - INFO - retrieve station information
+2024-03-06 15:26:17,931 - logger - INFO - request status: Successful
+2024-03-06 15:26:17,950 - logger - INFO - Successful dumping
+2024-03-06 15:26:17,951 - logger - INFO - ------
