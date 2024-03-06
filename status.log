@@ -920,3 +920,11 @@
 2024-03-06 18:29:10,363 - logger - INFO - request status: Successful
 2024-03-06 18:29:10,381 - logger - INFO - Successful dumping
 2024-03-06 18:29:10,382 - logger - INFO - ------
+2024-03-06 19:25:35,927 - logger - INFO - ------
+2024-03-06 19:25:35,927 - logger - INFO - retrieve station status
+2024-03-06 19:25:36,320 - logger - INFO - request status: Successful
+2024-03-06 19:25:36,323 - logger - INFO - Successful dumping
+2024-03-06 19:25:36,323 - logger - INFO - retrieve station information
+2024-03-06 19:25:37,155 - logger - INFO - request status: Successful
+2024-03-06 19:25:37,173 - logger - INFO - Successful dumping
+2024-03-06 19:25:37,174 - logger - INFO - ------
