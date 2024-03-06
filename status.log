@@ -872,3 +872,11 @@
 2024-03-06 12:42:20,361 - logger - INFO - request status: Successful
 2024-03-06 12:42:20,380 - logger - INFO - Successful dumping
 2024-03-06 12:42:20,381 - logger - INFO - ------
+2024-03-06 13:25:33,033 - logger - INFO - ------
+2024-03-06 13:25:33,033 - logger - INFO - retrieve station status
+2024-03-06 13:25:33,401 - logger - INFO - request status: Successful
+2024-03-06 13:25:33,404 - logger - INFO - Successful dumping
+2024-03-06 13:25:33,404 - logger - INFO - retrieve station information
+2024-03-06 13:25:34,183 - logger - INFO - request status: Successful
+2024-03-06 13:25:34,203 - logger - INFO - Successful dumping
+2024-03-06 13:25:34,204 - logger - INFO - ------
