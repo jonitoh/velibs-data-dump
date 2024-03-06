@@ -808,3 +808,11 @@
 2024-03-06 04:28:43,379 - logger - INFO - request status: Successful
 2024-03-06 04:28:43,397 - logger - INFO - Successful dumping
 2024-03-06 04:28:43,398 - logger - INFO - ------
+2024-03-06 05:28:23,969 - logger - INFO - ------
+2024-03-06 05:28:23,970 - logger - INFO - retrieve station status
+2024-03-06 05:28:24,449 - logger - INFO - request status: Successful
+2024-03-06 05:28:24,452 - logger - INFO - Successful dumping
+2024-03-06 05:28:24,453 - logger - INFO - retrieve station information
+2024-03-06 05:28:25,730 - logger - INFO - request status: Successful
+2024-03-06 05:28:25,749 - logger - INFO - Successful dumping
+2024-03-06 05:28:25,750 - logger - INFO - ------
