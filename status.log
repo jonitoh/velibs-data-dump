@@ -856,3 +856,11 @@
 2024-03-06 10:31:16,549 - logger - INFO - request status: Successful
 2024-03-06 10:31:16,570 - logger - INFO - Successful dumping
 2024-03-06 10:31:16,571 - logger - INFO - ------
+2024-03-06 11:25:42,016 - logger - INFO - ------
+2024-03-06 11:25:42,016 - logger - INFO - retrieve station status
+2024-03-06 11:25:42,405 - logger - INFO - request status: Successful
+2024-03-06 11:25:42,408 - logger - INFO - Successful dumping
+2024-03-06 11:25:42,409 - logger - INFO - retrieve station information
+2024-03-06 11:25:43,175 - logger - INFO - request status: Successful
+2024-03-06 11:25:43,193 - logger - INFO - Successful dumping
+2024-03-06 11:25:43,194 - logger - INFO - ------
