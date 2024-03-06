@@ -792,3 +792,11 @@
 2024-03-06 02:28:31,897 - logger - INFO - request status: Successful
 2024-03-06 02:28:31,914 - logger - INFO - Successful dumping
 2024-03-06 02:28:31,915 - logger - INFO - ------
+2024-03-06 03:25:44,900 - logger - INFO - ------
+2024-03-06 03:25:44,901 - logger - INFO - retrieve station status
+2024-03-06 03:25:45,424 - logger - INFO - request status: Successful
+2024-03-06 03:25:45,427 - logger - INFO - Successful dumping
+2024-03-06 03:25:45,427 - logger - INFO - retrieve station information
+2024-03-06 03:25:46,691 - logger - INFO - request status: Successful
+2024-03-06 03:25:46,710 - logger - INFO - Successful dumping
+2024-03-06 03:25:46,711 - logger - INFO - ------
