@@ -848,3 +848,11 @@
 2024-03-06 09:25:41,571 - logger - INFO - request status: Successful
 2024-03-06 09:25:41,589 - logger - INFO - Successful dumping
 2024-03-06 09:25:41,590 - logger - INFO - ------
+2024-03-06 10:31:15,372 - logger - INFO - ------
+2024-03-06 10:31:15,372 - logger - INFO - retrieve station status
+2024-03-06 10:31:15,765 - logger - INFO - request status: Successful
+2024-03-06 10:31:15,768 - logger - INFO - Successful dumping
+2024-03-06 10:31:15,769 - logger - INFO - retrieve station information
+2024-03-06 10:31:16,549 - logger - INFO - request status: Successful
+2024-03-06 10:31:16,570 - logger - INFO - Successful dumping
+2024-03-06 10:31:16,571 - logger - INFO - ------
