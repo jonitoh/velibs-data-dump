@@ -1064,3 +1064,11 @@
 2024-03-07 13:25:43,632 - logger - INFO - request status: Successful
 2024-03-07 13:25:43,651 - logger - INFO - Successful dumping
 2024-03-07 13:25:43,652 - logger - INFO - ------
+2024-03-07 14:28:03,974 - logger - INFO - ------
+2024-03-07 14:28:03,974 - logger - INFO - retrieve station status
+2024-03-07 14:28:04,304 - logger - INFO - request status: Successful
+2024-03-07 14:28:04,307 - logger - INFO - Successful dumping
+2024-03-07 14:28:04,308 - logger - INFO - retrieve station information
+2024-03-07 14:28:05,196 - logger - INFO - request status: Successful
+2024-03-07 14:28:05,214 - logger - INFO - Successful dumping
+2024-03-07 14:28:05,215 - logger - INFO - ------
