@@ -1080,3 +1080,11 @@
 2024-03-07 15:25:37,314 - logger - INFO - request status: Successful
 2024-03-07 15:25:37,332 - logger - INFO - Successful dumping
 2024-03-07 15:25:37,333 - logger - INFO - ------
+2024-03-07 16:30:45,908 - logger - INFO - ------
+2024-03-07 16:30:45,909 - logger - INFO - retrieve station status
+2024-03-07 16:30:46,180 - logger - INFO - request status: Successful
+2024-03-07 16:30:46,183 - logger - INFO - Successful dumping
+2024-03-07 16:30:46,183 - logger - INFO - retrieve station information
+2024-03-07 16:30:46,958 - logger - INFO - request status: Successful
+2024-03-07 16:30:46,976 - logger - INFO - Successful dumping
+2024-03-07 16:30:46,977 - logger - INFO - ------
