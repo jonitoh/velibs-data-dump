@@ -1072,3 +1072,11 @@
 2024-03-07 14:28:05,196 - logger - INFO - request status: Successful
 2024-03-07 14:28:05,214 - logger - INFO - Successful dumping
 2024-03-07 14:28:05,215 - logger - INFO - ------
+2024-03-07 15:25:35,576 - logger - INFO - ------
+2024-03-07 15:25:35,576 - logger - INFO - retrieve station status
+2024-03-07 15:25:36,024 - logger - INFO - request status: Successful
+2024-03-07 15:25:36,027 - logger - INFO - Successful dumping
+2024-03-07 15:25:36,028 - logger - INFO - retrieve station information
+2024-03-07 15:25:37,314 - logger - INFO - request status: Successful
+2024-03-07 15:25:37,332 - logger - INFO - Successful dumping
+2024-03-07 15:25:37,333 - logger - INFO - ------
