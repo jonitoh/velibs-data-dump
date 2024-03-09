@@ -1400,3 +1400,11 @@
 2024-03-09 09:26:05,337 - logger - INFO - request status: Successful
 2024-03-09 09:26:05,361 - logger - INFO - Successful dumping
 2024-03-09 09:26:05,363 - logger - INFO - ------
+2024-03-09 10:31:44,643 - logger - INFO - ------
+2024-03-09 10:31:44,643 - logger - INFO - retrieve station status
+2024-03-09 10:31:45,019 - logger - INFO - request status: Successful
+2024-03-09 10:31:45,022 - logger - INFO - Successful dumping
+2024-03-09 10:31:45,022 - logger - INFO - retrieve station information
+2024-03-09 10:31:45,814 - logger - INFO - request status: Successful
+2024-03-09 10:31:45,833 - logger - INFO - Successful dumping
+2024-03-09 10:31:45,834 - logger - INFO - ------
