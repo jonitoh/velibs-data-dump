@@ -1504,3 +1504,11 @@
 2024-03-09 22:28:58,355 - logger - INFO - request status: Successful
 2024-03-09 22:28:58,373 - logger - INFO - Successful dumping
 2024-03-09 22:28:58,374 - logger - INFO - ------
+2024-03-09 23:25:39,630 - logger - INFO - ------
+2024-03-09 23:25:39,630 - logger - INFO - retrieve station status
+2024-03-09 23:25:40,134 - logger - INFO - request status: Successful
+2024-03-09 23:25:40,137 - logger - INFO - Successful dumping
+2024-03-09 23:25:40,138 - logger - INFO - retrieve station information
+2024-03-09 23:25:41,403 - logger - INFO - request status: Successful
+2024-03-09 23:25:41,421 - logger - INFO - Successful dumping
+2024-03-09 23:25:41,422 - logger - INFO - ------
