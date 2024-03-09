@@ -1336,3 +1336,11 @@
 2024-03-09 01:23:20,280 - logger - INFO - request status: Successful
 2024-03-09 01:23:20,299 - logger - INFO - Successful dumping
 2024-03-09 01:23:20,300 - logger - INFO - ------
+2024-03-09 02:26:54,702 - logger - INFO - ------
+2024-03-09 02:26:54,702 - logger - INFO - retrieve station status
+2024-03-09 02:26:54,982 - logger - INFO - request status: Successful
+2024-03-09 02:26:54,984 - logger - INFO - Successful dumping
+2024-03-09 02:26:54,985 - logger - INFO - retrieve station information
+2024-03-09 02:26:55,769 - logger - INFO - request status: Successful
+2024-03-09 02:26:55,788 - logger - INFO - Successful dumping
+2024-03-09 02:26:55,789 - logger - INFO - ------
