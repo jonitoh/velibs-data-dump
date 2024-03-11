@@ -1744,3 +1744,11 @@
 2024-03-11 06:31:41,541 - logger - INFO - request status: Successful
 2024-03-11 06:31:41,559 - logger - INFO - Successful dumping
 2024-03-11 06:31:41,560 - logger - INFO - ------
+2024-03-11 07:25:31,364 - logger - INFO - ------
+2024-03-11 07:25:31,365 - logger - INFO - retrieve station status
+2024-03-11 07:25:31,745 - logger - INFO - request status: Successful
+2024-03-11 07:25:31,748 - logger - INFO - Successful dumping
+2024-03-11 07:25:31,748 - logger - INFO - retrieve station information
+2024-03-11 07:25:32,545 - logger - INFO - request status: Successful
+2024-03-11 07:25:32,563 - logger - INFO - Successful dumping
+2024-03-11 07:25:32,564 - logger - INFO - ------
