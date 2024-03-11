@@ -1840,3 +1840,11 @@
 2024-03-11 18:29:18,513 - logger - INFO - request status: Successful
 2024-03-11 18:29:18,531 - logger - INFO - Successful dumping
 2024-03-11 18:29:18,532 - logger - INFO - ------
+2024-03-11 19:25:30,119 - logger - INFO - ------
+2024-03-11 19:25:30,119 - logger - INFO - retrieve station status
+2024-03-11 19:25:30,620 - logger - INFO - request status: Successful
+2024-03-11 19:25:30,623 - logger - INFO - Successful dumping
+2024-03-11 19:25:30,623 - logger - INFO - retrieve station information
+2024-03-11 19:25:31,947 - logger - INFO - request status: Successful
+2024-03-11 19:25:31,965 - logger - INFO - Successful dumping
+2024-03-11 19:25:31,966 - logger - INFO - ------
