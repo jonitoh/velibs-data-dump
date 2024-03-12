@@ -1936,3 +1936,11 @@
 2024-03-12 07:25:37,818 - logger - INFO - request status: Successful
 2024-03-12 07:25:37,836 - logger - INFO - Successful dumping
 2024-03-12 07:25:37,837 - logger - INFO - ------
+2024-03-12 08:28:35,227 - logger - INFO - ------
+2024-03-12 08:28:35,227 - logger - INFO - retrieve station status
+2024-03-12 08:28:35,744 - logger - INFO - request status: Successful
+2024-03-12 08:28:35,746 - logger - INFO - Successful dumping
+2024-03-12 08:28:35,747 - logger - INFO - retrieve station information
+2024-03-12 08:28:37,074 - logger - INFO - request status: Successful
+2024-03-12 08:28:37,092 - logger - INFO - Successful dumping
+2024-03-12 08:28:37,094 - logger - INFO - ------
