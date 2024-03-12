@@ -1992,3 +1992,11 @@
 2024-03-12 14:27:53,503 - logger - INFO - request status: Successful
 2024-03-12 14:27:53,521 - logger - INFO - Successful dumping
 2024-03-12 14:27:53,522 - logger - INFO - ------
+2024-03-12 15:25:39,328 - logger - INFO - ------
+2024-03-12 15:25:39,328 - logger - INFO - retrieve station status
+2024-03-12 15:25:39,657 - logger - INFO - request status: Successful
+2024-03-12 15:25:39,660 - logger - INFO - Successful dumping
+2024-03-12 15:25:39,660 - logger - INFO - retrieve station information
+2024-03-12 15:25:40,483 - logger - INFO - request status: Successful
+2024-03-12 15:25:40,502 - logger - INFO - Successful dumping
+2024-03-12 15:25:40,503 - logger - INFO - ------
