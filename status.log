@@ -1968,3 +1968,11 @@
 2024-03-12 11:25:25,933 - logger - INFO - request status: Successful
 2024-03-12 11:25:25,951 - logger - INFO - Successful dumping
 2024-03-12 11:25:25,953 - logger - INFO - ------
+2024-03-12 12:41:44,700 - logger - INFO - ------
+2024-03-12 12:41:44,700 - logger - INFO - retrieve station status
+2024-03-12 12:41:45,170 - logger - INFO - request status: Successful
+2024-03-12 12:41:45,173 - logger - INFO - Successful dumping
+2024-03-12 12:41:45,174 - logger - INFO - retrieve station information
+2024-03-12 12:41:46,431 - logger - INFO - request status: Successful
+2024-03-12 12:41:46,450 - logger - INFO - Successful dumping
+2024-03-12 12:41:46,451 - logger - INFO - ------
