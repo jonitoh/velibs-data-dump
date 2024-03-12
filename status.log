@@ -1952,3 +1952,11 @@
 2024-03-12 09:28:55,631 - logger - INFO - request status: Successful
 2024-03-12 09:28:55,650 - logger - INFO - Successful dumping
 2024-03-12 09:28:55,651 - logger - INFO - ------
+2024-03-12 10:29:18,308 - logger - INFO - ------
+2024-03-12 10:29:18,308 - logger - INFO - retrieve station status
+2024-03-12 10:29:18,656 - logger - INFO - request status: Successful
+2024-03-12 10:29:18,658 - logger - INFO - Successful dumping
+2024-03-12 10:29:18,659 - logger - INFO - retrieve station information
+2024-03-12 10:29:19,452 - logger - INFO - request status: Successful
+2024-03-12 10:29:19,470 - logger - INFO - Successful dumping
+2024-03-12 10:29:19,471 - logger - INFO - ------
