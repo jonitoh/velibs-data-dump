@@ -1944,3 +1944,11 @@
 2024-03-12 08:28:37,074 - logger - INFO - request status: Successful
 2024-03-12 08:28:37,092 - logger - INFO - Successful dumping
 2024-03-12 08:28:37,094 - logger - INFO - ------
+2024-03-12 09:28:53,885 - logger - INFO - ------
+2024-03-12 09:28:53,885 - logger - INFO - retrieve station status
+2024-03-12 09:28:54,336 - logger - INFO - request status: Successful
+2024-03-12 09:28:54,339 - logger - INFO - Successful dumping
+2024-03-12 09:28:54,340 - logger - INFO - retrieve station information
+2024-03-12 09:28:55,631 - logger - INFO - request status: Successful
+2024-03-12 09:28:55,650 - logger - INFO - Successful dumping
+2024-03-12 09:28:55,651 - logger - INFO - ------
