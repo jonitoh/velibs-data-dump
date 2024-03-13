@@ -2224,3 +2224,11 @@
 2024-03-13 20:25:32,589 - logger - INFO - request status: Successful
 2024-03-13 20:25:32,607 - logger - INFO - Successful dumping
 2024-03-13 20:25:32,608 - logger - INFO - ------
+2024-03-13 21:25:26,410 - logger - INFO - ------
+2024-03-13 21:25:26,410 - logger - INFO - retrieve station status
+2024-03-13 21:25:26,774 - logger - INFO - request status: Successful
+2024-03-13 21:25:26,777 - logger - INFO - Successful dumping
+2024-03-13 21:25:26,777 - logger - INFO - retrieve station information
+2024-03-13 21:25:27,717 - logger - INFO - request status: Successful
+2024-03-13 21:25:27,735 - logger - INFO - Successful dumping
+2024-03-13 21:25:27,736 - logger - INFO - ------
