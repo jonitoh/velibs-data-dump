@@ -2104,3 +2104,11 @@
 2024-03-13 05:29:48,692 - logger - INFO - request status: Successful
 2024-03-13 05:29:48,711 - logger - INFO - Successful dumping
 2024-03-13 05:29:48,712 - logger - INFO - ------
+2024-03-13 06:30:01,580 - logger - INFO - ------
+2024-03-13 06:30:01,581 - logger - INFO - retrieve station status
+2024-03-13 06:30:02,065 - logger - INFO - request status: Successful
+2024-03-13 06:30:02,068 - logger - INFO - Successful dumping
+2024-03-13 06:30:02,069 - logger - INFO - retrieve station information
+2024-03-13 06:30:03,389 - logger - INFO - request status: Successful
+2024-03-13 06:30:03,407 - logger - INFO - Successful dumping
+2024-03-13 06:30:03,408 - logger - INFO - ------
