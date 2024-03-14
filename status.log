@@ -2416,3 +2416,11 @@
 2024-03-14 21:25:44,958 - logger - INFO - request status: Successful
 2024-03-14 21:25:44,977 - logger - INFO - Successful dumping
 2024-03-14 21:25:44,978 - logger - INFO - ------
+2024-03-14 22:27:23,847 - logger - INFO - ------
+2024-03-14 22:27:23,847 - logger - INFO - retrieve station status
+2024-03-14 22:27:24,301 - logger - INFO - request status: Successful
+2024-03-14 22:27:24,304 - logger - INFO - Successful dumping
+2024-03-14 22:27:24,305 - logger - INFO - retrieve station information
+2024-03-14 22:27:25,128 - logger - INFO - request status: Successful
+2024-03-14 22:27:25,146 - logger - INFO - Successful dumping
+2024-03-14 22:27:25,147 - logger - INFO - ------
