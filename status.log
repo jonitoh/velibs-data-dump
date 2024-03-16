@@ -2712,3 +2712,11 @@
 2024-03-16 12:40:43,660 - logger - INFO - request status: Successful
 2024-03-16 12:40:43,678 - logger - INFO - Successful dumping
 2024-03-16 12:40:43,679 - logger - INFO - ------
+2024-03-16 13:25:27,158 - logger - INFO - ------
+2024-03-16 13:25:27,158 - logger - INFO - retrieve station status
+2024-03-16 13:25:27,727 - logger - INFO - request status: Successful
+2024-03-16 13:25:27,730 - logger - INFO - Successful dumping
+2024-03-16 13:25:27,730 - logger - INFO - retrieve station information
+2024-03-16 13:25:29,005 - logger - INFO - request status: Successful
+2024-03-16 13:25:29,023 - logger - INFO - Successful dumping
+2024-03-16 13:25:29,024 - logger - INFO - ------
