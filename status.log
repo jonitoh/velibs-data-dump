@@ -2968,3 +2968,11 @@
 2024-03-17 21:25:40,460 - logger - INFO - request status: Successful
 2024-03-17 21:25:40,479 - logger - INFO - Successful dumping
 2024-03-17 21:25:40,480 - logger - INFO - ------
+2024-03-17 22:26:50,948 - logger - INFO - ------
+2024-03-17 22:26:50,948 - logger - INFO - retrieve station status
+2024-03-17 22:26:51,319 - logger - INFO - request status: Successful
+2024-03-17 22:26:51,324 - logger - INFO - Successful dumping
+2024-03-17 22:26:51,326 - logger - INFO - retrieve station information
+2024-03-17 22:26:52,251 - logger - INFO - request status: Successful
+2024-03-17 22:26:52,269 - logger - INFO - Successful dumping
+2024-03-17 22:26:52,270 - logger - INFO - ------
