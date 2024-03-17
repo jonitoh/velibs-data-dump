@@ -2904,3 +2904,11 @@
 2024-03-17 13:25:54,214 - logger - INFO - request status: Successful
 2024-03-17 13:25:54,232 - logger - INFO - Successful dumping
 2024-03-17 13:25:54,233 - logger - INFO - ------
+2024-03-17 14:25:40,266 - logger - INFO - ------
+2024-03-17 14:25:40,267 - logger - INFO - retrieve station status
+2024-03-17 14:25:40,763 - logger - INFO - request status: Successful
+2024-03-17 14:25:40,766 - logger - INFO - Successful dumping
+2024-03-17 14:25:40,767 - logger - INFO - retrieve station information
+2024-03-17 14:25:41,992 - logger - INFO - request status: Successful
+2024-03-17 14:25:42,010 - logger - INFO - Successful dumping
+2024-03-17 14:25:42,011 - logger - INFO - ------
