@@ -2856,3 +2856,11 @@
 2024-03-17 07:25:29,970 - logger - INFO - request status: Successful
 2024-03-17 07:25:29,988 - logger - INFO - Successful dumping
 2024-03-17 07:25:29,989 - logger - INFO - ------
+2024-03-17 08:26:45,141 - logger - INFO - ------
+2024-03-17 08:26:45,141 - logger - INFO - retrieve station status
+2024-03-17 08:26:45,627 - logger - INFO - request status: Successful
+2024-03-17 08:26:45,630 - logger - INFO - Successful dumping
+2024-03-17 08:26:45,631 - logger - INFO - retrieve station information
+2024-03-17 08:26:46,570 - logger - INFO - request status: Successful
+2024-03-17 08:26:46,592 - logger - INFO - Successful dumping
+2024-03-17 08:26:46,593 - logger - INFO - ------
