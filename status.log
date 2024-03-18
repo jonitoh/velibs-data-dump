@@ -3040,3 +3040,11 @@
 2024-03-18 07:25:43,938 - logger - INFO - request status: Successful
 2024-03-18 07:25:43,956 - logger - INFO - Successful dumping
 2024-03-18 07:25:43,956 - logger - INFO - ------
+2024-03-18 08:29:10,821 - logger - INFO - ------
+2024-03-18 08:29:10,821 - logger - INFO - retrieve station status
+2024-03-18 08:29:11,102 - logger - INFO - request status: Successful
+2024-03-18 08:29:11,105 - logger - INFO - Successful dumping
+2024-03-18 08:29:11,105 - logger - INFO - retrieve station information
+2024-03-18 08:29:11,896 - logger - INFO - request status: Successful
+2024-03-18 08:29:11,914 - logger - INFO - Successful dumping
+2024-03-18 08:29:11,915 - logger - INFO - ------
