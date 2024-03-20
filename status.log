@@ -3416,3 +3416,11 @@
 2024-03-20 08:28:40,268 - logger - INFO - request status: Successful
 2024-03-20 08:28:40,286 - logger - INFO - Successful dumping
 2024-03-20 08:28:40,288 - logger - INFO - ------
+2024-03-20 09:27:25,393 - logger - INFO - ------
+2024-03-20 09:27:25,393 - logger - INFO - retrieve station status
+2024-03-20 09:27:25,789 - logger - INFO - request status: Successful
+2024-03-20 09:27:25,794 - logger - INFO - Successful dumping
+2024-03-20 09:27:25,795 - logger - INFO - retrieve station information
+2024-03-20 09:27:26,656 - logger - INFO - request status: Successful
+2024-03-20 09:27:26,674 - logger - INFO - Successful dumping
+2024-03-20 09:27:26,675 - logger - INFO - ------
