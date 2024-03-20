@@ -3352,3 +3352,11 @@
 2024-03-19 23:25:36,935 - logger - INFO - request status: Successful
 2024-03-19 23:25:36,953 - logger - INFO - Successful dumping
 2024-03-19 23:25:36,955 - logger - INFO - ------
+2024-03-20 01:27:50,560 - logger - INFO - ------
+2024-03-20 01:27:50,560 - logger - INFO - retrieve station status
+2024-03-20 01:27:50,895 - logger - INFO - request status: Successful
+2024-03-20 01:27:50,897 - logger - INFO - Successful dumping
+2024-03-20 01:27:50,898 - logger - INFO - retrieve station information
+2024-03-20 01:27:51,687 - logger - INFO - request status: Successful
+2024-03-20 01:27:51,705 - logger - INFO - Successful dumping
+2024-03-20 01:27:51,707 - logger - INFO - ------
