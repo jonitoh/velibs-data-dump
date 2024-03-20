@@ -3528,3 +3528,11 @@
 2024-03-20 22:27:14,652 - logger - INFO - request status: Successful
 2024-03-20 22:27:14,670 - logger - INFO - Successful dumping
 2024-03-20 22:27:14,671 - logger - INFO - ------
+2024-03-20 23:25:42,637 - logger - INFO - ------
+2024-03-20 23:25:42,637 - logger - INFO - retrieve station status
+2024-03-20 23:25:43,018 - logger - INFO - request status: Successful
+2024-03-20 23:25:43,021 - logger - INFO - Successful dumping
+2024-03-20 23:25:43,022 - logger - INFO - retrieve station information
+2024-03-20 23:25:43,945 - logger - INFO - request status: Successful
+2024-03-20 23:25:43,963 - logger - INFO - Successful dumping
+2024-03-20 23:25:43,964 - logger - INFO - ------
