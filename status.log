@@ -3656,3 +3656,11 @@
 2024-03-21 15:26:10,006 - logger - INFO - request status: Successful
 2024-03-21 15:26:10,024 - logger - INFO - Successful dumping
 2024-03-21 15:26:10,025 - logger - INFO - ------
+2024-03-21 16:34:36,554 - logger - INFO - ------
+2024-03-21 16:34:36,554 - logger - INFO - retrieve station status
+2024-03-21 16:34:37,049 - logger - INFO - request status: Successful
+2024-03-21 16:34:37,052 - logger - INFO - Successful dumping
+2024-03-21 16:34:37,052 - logger - INFO - retrieve station information
+2024-03-21 16:34:38,352 - logger - INFO - request status: Successful
+2024-03-21 16:34:38,371 - logger - INFO - Successful dumping
+2024-03-21 16:34:38,372 - logger - INFO - ------
