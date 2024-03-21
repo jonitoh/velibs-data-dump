@@ -3704,3 +3704,11 @@
 2024-03-21 21:25:30,646 - logger - INFO - request status: Successful
 2024-03-21 21:25:30,664 - logger - INFO - Successful dumping
 2024-03-21 21:25:30,665 - logger - INFO - ------
+2024-03-21 22:28:34,096 - logger - INFO - ------
+2024-03-21 22:28:34,096 - logger - INFO - retrieve station status
+2024-03-21 22:28:34,493 - logger - INFO - request status: Successful
+2024-03-21 22:28:34,496 - logger - INFO - Successful dumping
+2024-03-21 22:28:34,497 - logger - INFO - retrieve station information
+2024-03-21 22:28:35,464 - logger - INFO - request status: Successful
+2024-03-21 22:28:35,482 - logger - INFO - Successful dumping
+2024-03-21 22:28:35,483 - logger - INFO - ------
