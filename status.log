@@ -3616,3 +3616,11 @@
 2024-03-21 10:29:11,962 - logger - INFO - request status: Successful
 2024-03-21 10:29:11,981 - logger - INFO - Successful dumping
 2024-03-21 10:29:11,982 - logger - INFO - ------
+2024-03-21 11:25:45,193 - logger - INFO - ------
+2024-03-21 11:25:45,193 - logger - INFO - retrieve station status
+2024-03-21 11:25:45,733 - logger - INFO - request status: Successful
+2024-03-21 11:25:45,736 - logger - INFO - Successful dumping
+2024-03-21 11:25:45,736 - logger - INFO - retrieve station information
+2024-03-21 11:25:47,044 - logger - INFO - request status: Successful
+2024-03-21 11:25:47,062 - logger - INFO - Successful dumping
+2024-03-21 11:25:47,063 - logger - INFO - ------
