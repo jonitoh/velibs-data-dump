@@ -3584,3 +3584,11 @@
 2024-03-21 06:29:54,103 - logger - INFO - request status: Successful
 2024-03-21 06:29:54,121 - logger - INFO - Successful dumping
 2024-03-21 06:29:54,122 - logger - INFO - ------
+2024-03-21 07:25:34,683 - logger - INFO - ------
+2024-03-21 07:25:34,683 - logger - INFO - retrieve station status
+2024-03-21 07:25:35,272 - logger - INFO - request status: Successful
+2024-03-21 07:25:35,275 - logger - INFO - Successful dumping
+2024-03-21 07:25:35,275 - logger - INFO - retrieve station information
+2024-03-21 07:25:36,552 - logger - INFO - request status: Successful
+2024-03-21 07:25:36,570 - logger - INFO - Successful dumping
+2024-03-21 07:25:36,571 - logger - INFO - ------
