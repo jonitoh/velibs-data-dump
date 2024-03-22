@@ -3728,3 +3728,11 @@
 2024-03-22 01:27:44,444 - logger - INFO - request status: Successful
 2024-03-22 01:27:44,463 - logger - INFO - Successful dumping
 2024-03-22 01:27:44,464 - logger - INFO - ------
+2024-03-22 02:29:39,437 - logger - INFO - ------
+2024-03-22 02:29:39,437 - logger - INFO - retrieve station status
+2024-03-22 02:29:39,917 - logger - INFO - request status: Successful
+2024-03-22 02:29:39,920 - logger - INFO - Successful dumping
+2024-03-22 02:29:39,921 - logger - INFO - retrieve station information
+2024-03-22 02:29:41,225 - logger - INFO - request status: Successful
+2024-03-22 02:29:41,243 - logger - INFO - Successful dumping
+2024-03-22 02:29:41,244 - logger - INFO - ------
