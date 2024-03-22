@@ -3760,3 +3760,11 @@
 2024-03-22 05:30:53,575 - logger - INFO - request status: Successful
 2024-03-22 05:30:53,593 - logger - INFO - Successful dumping
 2024-03-22 05:30:53,593 - logger - INFO - ------
+2024-03-22 06:29:35,660 - logger - INFO - ------
+2024-03-22 06:29:35,660 - logger - INFO - retrieve station status
+2024-03-22 06:29:36,103 - logger - INFO - request status: Successful
+2024-03-22 06:29:36,105 - logger - INFO - Successful dumping
+2024-03-22 06:29:36,106 - logger - INFO - retrieve station information
+2024-03-22 06:29:37,048 - logger - INFO - request status: Successful
+2024-03-22 06:29:37,066 - logger - INFO - Successful dumping
+2024-03-22 06:29:37,068 - logger - INFO - ------
