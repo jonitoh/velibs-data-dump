@@ -3856,3 +3856,11 @@
 2024-03-22 17:26:04,855 - logger - INFO - request status: Successful
 2024-03-22 17:26:04,874 - logger - INFO - Successful dumping
 2024-03-22 17:26:04,875 - logger - INFO - ------
+2024-03-22 18:28:07,454 - logger - INFO - ------
+2024-03-22 18:28:07,454 - logger - INFO - retrieve station status
+2024-03-22 18:28:07,886 - logger - INFO - request status: Successful
+2024-03-22 18:28:07,889 - logger - INFO - Successful dumping
+2024-03-22 18:28:07,889 - logger - INFO - retrieve station information
+2024-03-22 18:28:09,196 - logger - INFO - request status: Successful
+2024-03-22 18:28:09,214 - logger - INFO - Successful dumping
+2024-03-22 18:28:09,215 - logger - INFO - ------
