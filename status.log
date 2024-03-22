@@ -3792,3 +3792,11 @@
 2024-03-22 09:26:35,053 - logger - INFO - request status: Successful
 2024-03-22 09:26:35,071 - logger - INFO - Successful dumping
 2024-03-22 09:26:35,073 - logger - INFO - ------
+2024-03-22 10:30:32,685 - logger - INFO - ------
+2024-03-22 10:30:32,685 - logger - INFO - retrieve station status
+2024-03-22 10:30:33,027 - logger - INFO - request status: Successful
+2024-03-22 10:30:33,030 - logger - INFO - Successful dumping
+2024-03-22 10:30:33,031 - logger - INFO - retrieve station information
+2024-03-22 10:30:33,969 - logger - INFO - request status: Successful
+2024-03-22 10:30:33,988 - logger - INFO - Successful dumping
+2024-03-22 10:30:33,989 - logger - INFO - ------
