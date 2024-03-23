@@ -4080,3 +4080,11 @@
 2024-03-23 22:27:28,765 - logger - INFO - request status: Successful
 2024-03-23 22:27:28,783 - logger - INFO - Successful dumping
 2024-03-23 22:27:28,784 - logger - INFO - ------
+2024-03-23 23:25:42,911 - logger - INFO - ------
+2024-03-23 23:25:42,911 - logger - INFO - retrieve station status
+2024-03-23 23:25:43,338 - logger - INFO - request status: Successful
+2024-03-23 23:25:43,340 - logger - INFO - Successful dumping
+2024-03-23 23:25:43,341 - logger - INFO - retrieve station information
+2024-03-23 23:25:44,276 - logger - INFO - request status: Successful
+2024-03-23 23:25:44,294 - logger - INFO - Successful dumping
+2024-03-23 23:25:44,295 - logger - INFO - ------
