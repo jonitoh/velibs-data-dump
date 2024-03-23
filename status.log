@@ -4008,3 +4008,11 @@
 2024-03-23 13:25:25,267 - logger - INFO - request status: Successful
 2024-03-23 13:25:25,287 - logger - INFO - Successful dumping
 2024-03-23 13:25:25,288 - logger - INFO - ------
+2024-03-23 14:26:00,042 - logger - INFO - ------
+2024-03-23 14:26:00,042 - logger - INFO - retrieve station status
+2024-03-23 14:26:00,443 - logger - INFO - request status: Successful
+2024-03-23 14:26:00,448 - logger - INFO - Successful dumping
+2024-03-23 14:26:00,449 - logger - INFO - retrieve station information
+2024-03-23 14:26:01,402 - logger - INFO - request status: Successful
+2024-03-23 14:26:01,421 - logger - INFO - Successful dumping
+2024-03-23 14:26:01,421 - logger - INFO - ------
