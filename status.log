@@ -3936,3 +3936,11 @@
 2024-03-23 04:29:17,460 - logger - INFO - request status: Successful
 2024-03-23 04:29:17,479 - logger - INFO - Successful dumping
 2024-03-23 04:29:17,481 - logger - INFO - ------
+2024-03-23 05:28:44,831 - logger - INFO - ------
+2024-03-23 05:28:44,831 - logger - INFO - retrieve station status
+2024-03-23 05:28:45,341 - logger - INFO - request status: Successful
+2024-03-23 05:28:45,344 - logger - INFO - Successful dumping
+2024-03-23 05:28:45,345 - logger - INFO - retrieve station information
+2024-03-23 05:28:46,297 - logger - INFO - request status: Successful
+2024-03-23 05:28:46,315 - logger - INFO - Successful dumping
+2024-03-23 05:28:46,316 - logger - INFO - ------
