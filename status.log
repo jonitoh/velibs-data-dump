@@ -3984,3 +3984,11 @@
 2024-03-23 10:28:31,350 - logger - INFO - request status: Successful
 2024-03-23 10:28:31,368 - logger - INFO - Successful dumping
 2024-03-23 10:28:31,369 - logger - INFO - ------
+2024-03-23 11:25:47,732 - logger - INFO - ------
+2024-03-23 11:25:47,732 - logger - INFO - retrieve station status
+2024-03-23 11:25:48,248 - logger - INFO - request status: Successful
+2024-03-23 11:25:48,251 - logger - INFO - Successful dumping
+2024-03-23 11:25:48,251 - logger - INFO - retrieve station information
+2024-03-23 11:25:49,597 - logger - INFO - request status: Successful
+2024-03-23 11:25:49,615 - logger - INFO - Successful dumping
+2024-03-23 11:25:49,616 - logger - INFO - ------
