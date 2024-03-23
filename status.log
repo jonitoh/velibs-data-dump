@@ -3920,3 +3920,11 @@
 2024-03-23 02:29:13,495 - logger - INFO - request status: Successful
 2024-03-23 02:29:13,513 - logger - INFO - Successful dumping
 2024-03-23 02:29:13,514 - logger - INFO - ------
+2024-03-23 03:26:09,810 - logger - INFO - ------
+2024-03-23 03:26:09,810 - logger - INFO - retrieve station status
+2024-03-23 03:26:10,233 - logger - INFO - request status: Successful
+2024-03-23 03:26:10,236 - logger - INFO - Successful dumping
+2024-03-23 03:26:10,237 - logger - INFO - retrieve station information
+2024-03-23 03:26:11,212 - logger - INFO - request status: Successful
+2024-03-23 03:26:11,230 - logger - INFO - Successful dumping
+2024-03-23 03:26:11,231 - logger - INFO - ------
