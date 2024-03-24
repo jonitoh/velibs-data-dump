@@ -4216,3 +4216,11 @@
 2024-03-24 16:29:37,150 - logger - INFO - request status: Successful
 2024-03-24 16:29:37,168 - logger - INFO - Successful dumping
 2024-03-24 16:29:37,170 - logger - INFO - ------
+2024-03-24 17:26:53,266 - logger - INFO - ------
+2024-03-24 17:26:53,267 - logger - INFO - retrieve station status
+2024-03-24 17:26:53,801 - logger - INFO - request status: Successful
+2024-03-24 17:26:53,806 - logger - INFO - Successful dumping
+2024-03-24 17:26:53,807 - logger - INFO - retrieve station information
+2024-03-24 17:26:55,108 - logger - INFO - request status: Successful
+2024-03-24 17:26:55,127 - logger - INFO - Successful dumping
+2024-03-24 17:26:55,128 - logger - INFO - ------
