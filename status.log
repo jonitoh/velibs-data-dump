@@ -4432,3 +4432,11 @@
 2024-03-25 20:25:43,348 - logger - INFO - request status: Successful
 2024-03-25 20:25:43,366 - logger - INFO - Successful dumping
 2024-03-25 20:25:43,367 - logger - INFO - ------
+2024-03-25 21:25:53,831 - logger - INFO - ------
+2024-03-25 21:25:53,831 - logger - INFO - retrieve station status
+2024-03-25 21:25:54,311 - logger - INFO - request status: Successful
+2024-03-25 21:25:54,314 - logger - INFO - Successful dumping
+2024-03-25 21:25:54,315 - logger - INFO - retrieve station information
+2024-03-25 21:25:55,660 - logger - INFO - request status: Successful
+2024-03-25 21:25:55,678 - logger - INFO - Successful dumping
+2024-03-25 21:25:55,679 - logger - INFO - ------
