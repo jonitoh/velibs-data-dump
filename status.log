@@ -4312,3 +4312,11 @@
 2024-03-25 05:29:18,277 - logger - INFO - request status: Successful
 2024-03-25 05:29:18,295 - logger - INFO - Successful dumping
 2024-03-25 05:29:18,296 - logger - INFO - ------
+2024-03-25 06:31:11,381 - logger - INFO - ------
+2024-03-25 06:31:11,381 - logger - INFO - retrieve station status
+2024-03-25 06:31:11,751 - logger - INFO - request status: Successful
+2024-03-25 06:31:11,754 - logger - INFO - Successful dumping
+2024-03-25 06:31:11,755 - logger - INFO - retrieve station information
+2024-03-25 06:31:12,536 - logger - INFO - request status: Successful
+2024-03-25 06:31:12,554 - logger - INFO - Successful dumping
+2024-03-25 06:31:12,555 - logger - INFO - ------
