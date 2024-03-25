@@ -4424,3 +4424,11 @@
 2024-03-25 19:25:29,209 - logger - INFO - request status: Successful
 2024-03-25 19:25:29,227 - logger - INFO - Successful dumping
 2024-03-25 19:25:29,228 - logger - INFO - ------
+2024-03-25 20:25:42,014 - logger - INFO - ------
+2024-03-25 20:25:42,014 - logger - INFO - retrieve station status
+2024-03-25 20:25:42,388 - logger - INFO - request status: Successful
+2024-03-25 20:25:42,390 - logger - INFO - Successful dumping
+2024-03-25 20:25:42,391 - logger - INFO - retrieve station information
+2024-03-25 20:25:43,348 - logger - INFO - request status: Successful
+2024-03-25 20:25:43,366 - logger - INFO - Successful dumping
+2024-03-25 20:25:43,367 - logger - INFO - ------
