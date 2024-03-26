@@ -4616,3 +4616,11 @@
 2024-03-26 20:26:21,359 - logger - INFO - request status: Successful
 2024-03-26 20:26:21,378 - logger - INFO - Successful dumping
 2024-03-26 20:26:21,379 - logger - INFO - ------
+2024-03-26 21:25:40,358 - logger - INFO - ------
+2024-03-26 21:25:40,358 - logger - INFO - retrieve station status
+2024-03-26 21:25:40,880 - logger - INFO - request status: Successful
+2024-03-26 21:25:40,883 - logger - INFO - Successful dumping
+2024-03-26 21:25:40,883 - logger - INFO - retrieve station information
+2024-03-26 21:25:42,182 - logger - INFO - request status: Successful
+2024-03-26 21:25:42,200 - logger - INFO - Successful dumping
+2024-03-26 21:25:42,201 - logger - INFO - ------
