@@ -4560,3 +4560,11 @@
 2024-03-26 13:25:41,130 - logger - INFO - request status: Successful
 2024-03-26 13:25:41,148 - logger - INFO - Successful dumping
 2024-03-26 13:25:41,149 - logger - INFO - ------
+2024-03-26 14:29:30,751 - logger - INFO - ------
+2024-03-26 14:29:30,751 - logger - INFO - retrieve station status
+2024-03-26 14:29:31,097 - logger - INFO - request status: Successful
+2024-03-26 14:29:31,100 - logger - INFO - Successful dumping
+2024-03-26 14:29:31,101 - logger - INFO - retrieve station information
+2024-03-26 14:29:31,905 - logger - INFO - request status: Successful
+2024-03-26 14:29:31,924 - logger - INFO - Successful dumping
+2024-03-26 14:29:31,925 - logger - INFO - ------
