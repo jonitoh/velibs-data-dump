@@ -4512,3 +4512,11 @@
 2024-03-26 07:25:33,900 - logger - INFO - request status: Successful
 2024-03-26 07:25:33,918 - logger - INFO - Successful dumping
 2024-03-26 07:25:33,920 - logger - INFO - ------
+2024-03-26 08:30:30,245 - logger - INFO - ------
+2024-03-26 08:30:30,245 - logger - INFO - retrieve station status
+2024-03-26 08:30:30,640 - logger - INFO - request status: Successful
+2024-03-26 08:30:30,643 - logger - INFO - Successful dumping
+2024-03-26 08:30:30,643 - logger - INFO - retrieve station information
+2024-03-26 08:30:31,618 - logger - INFO - request status: Successful
+2024-03-26 08:30:31,636 - logger - INFO - Successful dumping
+2024-03-26 08:30:31,637 - logger - INFO - ------
