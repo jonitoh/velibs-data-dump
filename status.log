@@ -4528,3 +4528,11 @@
 2024-03-26 09:25:28,951 - logger - INFO - request status: Successful
 2024-03-26 09:25:28,970 - logger - INFO - Successful dumping
 2024-03-26 09:25:28,971 - logger - INFO - ------
+2024-03-26 10:32:53,011 - logger - INFO - ------
+2024-03-26 10:32:53,011 - logger - INFO - retrieve station status
+2024-03-26 10:32:53,461 - logger - INFO - request status: Successful
+2024-03-26 10:32:53,464 - logger - INFO - Successful dumping
+2024-03-26 10:32:53,464 - logger - INFO - retrieve station information
+2024-03-26 10:32:54,700 - logger - INFO - request status: Successful
+2024-03-26 10:32:54,718 - logger - INFO - Successful dumping
+2024-03-26 10:32:54,719 - logger - INFO - ------
