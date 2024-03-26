@@ -4584,3 +4584,11 @@
 2024-03-26 16:32:07,049 - logger - INFO - request status: Successful
 2024-03-26 16:32:07,068 - logger - INFO - Successful dumping
 2024-03-26 16:32:07,069 - logger - INFO - ------
+2024-03-26 17:26:33,313 - logger - INFO - ------
+2024-03-26 17:26:33,313 - logger - INFO - retrieve station status
+2024-03-26 17:26:33,628 - logger - INFO - request status: Successful
+2024-03-26 17:26:33,630 - logger - INFO - Successful dumping
+2024-03-26 17:26:33,631 - logger - INFO - retrieve station information
+2024-03-26 17:26:34,425 - logger - INFO - request status: Successful
+2024-03-26 17:26:34,443 - logger - INFO - Successful dumping
+2024-03-26 17:26:34,444 - logger - INFO - ------
