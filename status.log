@@ -4816,3 +4816,11 @@
 2024-03-27 22:29:56,869 - logger - INFO - request status: Successful
 2024-03-27 22:29:56,887 - logger - INFO - Successful dumping
 2024-03-27 22:29:56,889 - logger - INFO - ------
+2024-03-27 23:25:30,616 - logger - INFO - ------
+2024-03-27 23:25:30,616 - logger - INFO - retrieve station status
+2024-03-27 23:25:31,105 - logger - INFO - request status: Successful
+2024-03-27 23:25:31,108 - logger - INFO - Successful dumping
+2024-03-27 23:25:31,109 - logger - INFO - retrieve station information
+2024-03-27 23:25:32,396 - logger - INFO - request status: Successful
+2024-03-27 23:25:32,415 - logger - INFO - Successful dumping
+2024-03-27 23:25:32,416 - logger - INFO - ------
