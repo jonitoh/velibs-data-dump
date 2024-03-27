@@ -4640,3 +4640,11 @@
 2024-03-26 23:26:54,868 - logger - INFO - request status: Successful
 2024-03-26 23:26:54,887 - logger - INFO - Successful dumping
 2024-03-26 23:26:54,888 - logger - INFO - ------
+2024-03-27 01:28:49,654 - logger - INFO - ------
+2024-03-27 01:28:49,654 - logger - INFO - retrieve station status
+2024-03-27 01:28:50,073 - logger - INFO - request status: Successful
+2024-03-27 01:28:50,076 - logger - INFO - Successful dumping
+2024-03-27 01:28:50,077 - logger - INFO - retrieve station information
+2024-03-27 01:28:50,849 - logger - INFO - request status: Successful
+2024-03-27 01:28:50,867 - logger - INFO - Successful dumping
+2024-03-27 01:28:50,869 - logger - INFO - ------
