@@ -4856,3 +4856,11 @@
 2024-03-28 04:28:34,291 - logger - INFO - request status: Successful
 2024-03-28 04:28:34,310 - logger - INFO - Successful dumping
 2024-03-28 04:28:34,310 - logger - INFO - ------
+2024-03-28 05:30:12,511 - logger - INFO - ------
+2024-03-28 05:30:12,511 - logger - INFO - retrieve station status
+2024-03-28 05:30:13,035 - logger - INFO - request status: Successful
+2024-03-28 05:30:13,038 - logger - INFO - Successful dumping
+2024-03-28 05:30:13,039 - logger - INFO - retrieve station information
+2024-03-28 05:30:17,728 - logger - INFO - request status: Successful
+2024-03-28 05:30:17,746 - logger - INFO - Successful dumping
+2024-03-28 05:30:17,747 - logger - INFO - ------
