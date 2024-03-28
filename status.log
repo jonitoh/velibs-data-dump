@@ -4952,3 +4952,11 @@
 2024-03-28 16:30:47,581 - logger - INFO - request status: Successful
 2024-03-28 16:30:47,599 - logger - INFO - Successful dumping
 2024-03-28 16:30:47,600 - logger - INFO - ------
+2024-03-28 17:28:39,453 - logger - INFO - ------
+2024-03-28 17:28:39,453 - logger - INFO - retrieve station status
+2024-03-28 17:28:39,786 - logger - INFO - request status: Successful
+2024-03-28 17:28:39,789 - logger - INFO - Successful dumping
+2024-03-28 17:28:39,790 - logger - INFO - retrieve station information
+2024-03-28 17:28:40,548 - logger - INFO - request status: Successful
+2024-03-28 17:28:40,567 - logger - INFO - Successful dumping
+2024-03-28 17:28:40,568 - logger - INFO - ------
