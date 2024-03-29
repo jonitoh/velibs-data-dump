@@ -5032,3 +5032,11 @@
 2024-03-29 03:25:27,155 - logger - INFO - request status: Successful
 2024-03-29 03:25:27,173 - logger - INFO - Successful dumping
 2024-03-29 03:25:27,174 - logger - INFO - ------
+2024-03-29 04:30:24,160 - logger - INFO - ------
+2024-03-29 04:30:24,160 - logger - INFO - retrieve station status
+2024-03-29 04:30:24,502 - logger - INFO - request status: Successful
+2024-03-29 04:30:24,505 - logger - INFO - Successful dumping
+2024-03-29 04:30:24,506 - logger - INFO - retrieve station information
+2024-03-29 04:30:25,284 - logger - INFO - request status: Successful
+2024-03-29 04:30:25,302 - logger - INFO - Successful dumping
+2024-03-29 04:30:25,303 - logger - INFO - ------
