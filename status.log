@@ -5088,3 +5088,11 @@
 2024-03-29 10:30:02,351 - logger - INFO - request status: Successful
 2024-03-29 10:30:02,369 - logger - INFO - Successful dumping
 2024-03-29 10:30:02,370 - logger - INFO - ------
+2024-03-29 11:25:34,500 - logger - INFO - ------
+2024-03-29 11:25:34,500 - logger - INFO - retrieve station status
+2024-03-29 11:25:34,874 - logger - INFO - request status: Successful
+2024-03-29 11:25:34,877 - logger - INFO - Successful dumping
+2024-03-29 11:25:34,877 - logger - INFO - retrieve station information
+2024-03-29 11:25:35,832 - logger - INFO - request status: Successful
+2024-03-29 11:25:35,850 - logger - INFO - Successful dumping
+2024-03-29 11:25:35,851 - logger - INFO - ------
