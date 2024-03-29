@@ -5096,3 +5096,11 @@
 2024-03-29 11:25:35,832 - logger - INFO - request status: Successful
 2024-03-29 11:25:35,850 - logger - INFO - Successful dumping
 2024-03-29 11:25:35,851 - logger - INFO - ------
+2024-03-29 12:42:55,828 - logger - INFO - ------
+2024-03-29 12:42:55,828 - logger - INFO - retrieve station status
+2024-03-29 12:42:56,353 - logger - INFO - request status: Successful
+2024-03-29 12:42:56,356 - logger - INFO - Successful dumping
+2024-03-29 12:42:56,356 - logger - INFO - retrieve station information
+2024-03-29 12:42:57,642 - logger - INFO - request status: Successful
+2024-03-29 12:42:57,661 - logger - INFO - Successful dumping
+2024-03-29 12:42:57,662 - logger - INFO - ------
