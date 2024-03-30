@@ -5296,3 +5296,11 @@
 2024-03-30 13:26:15,500 - logger - INFO - request status: Successful
 2024-03-30 13:26:15,519 - logger - INFO - Successful dumping
 2024-03-30 13:26:15,520 - logger - INFO - ------
+2024-03-30 14:26:01,412 - logger - INFO - ------
+2024-03-30 14:26:01,412 - logger - INFO - retrieve station status
+2024-03-30 14:26:01,895 - logger - INFO - request status: Successful
+2024-03-30 14:26:01,897 - logger - INFO - Successful dumping
+2024-03-30 14:26:01,898 - logger - INFO - retrieve station information
+2024-03-30 14:26:03,130 - logger - INFO - request status: Successful
+2024-03-30 14:26:03,148 - logger - INFO - Successful dumping
+2024-03-30 14:26:03,149 - logger - INFO - ------
