@@ -5224,3 +5224,11 @@
 2024-03-30 04:28:14,895 - logger - INFO - request status: Successful
 2024-03-30 04:28:14,914 - logger - INFO - Successful dumping
 2024-03-30 04:28:14,915 - logger - INFO - ------
+2024-03-30 05:30:10,369 - logger - INFO - ------
+2024-03-30 05:30:10,369 - logger - INFO - retrieve station status
+2024-03-30 05:30:10,711 - logger - INFO - request status: Successful
+2024-03-30 05:30:10,714 - logger - INFO - Successful dumping
+2024-03-30 05:30:10,715 - logger - INFO - retrieve station information
+2024-03-30 05:30:11,487 - logger - INFO - request status: Successful
+2024-03-30 05:30:11,505 - logger - INFO - Successful dumping
+2024-03-30 05:30:11,506 - logger - INFO - ------
