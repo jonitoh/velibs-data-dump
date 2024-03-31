@@ -5416,3 +5416,11 @@
 2024-03-31 05:27:20,824 - logger - INFO - request status: Successful
 2024-03-31 05:27:20,843 - logger - INFO - Successful dumping
 2024-03-31 05:27:20,844 - logger - INFO - ------
+2024-03-31 06:29:34,002 - logger - INFO - ------
+2024-03-31 06:29:34,002 - logger - INFO - retrieve station status
+2024-03-31 06:29:34,326 - logger - INFO - request status: Successful
+2024-03-31 06:29:34,329 - logger - INFO - Successful dumping
+2024-03-31 06:29:34,329 - logger - INFO - retrieve station information
+2024-03-31 06:29:35,091 - logger - INFO - request status: Successful
+2024-03-31 06:29:35,109 - logger - INFO - Successful dumping
+2024-03-31 06:29:35,110 - logger - INFO - ------
