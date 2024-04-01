@@ -5704,3 +5704,11 @@
 2024-04-01 18:29:38,208 - logger - INFO - request status: Successful
 2024-04-01 18:29:38,226 - logger - INFO - Successful dumping
 2024-04-01 18:29:38,227 - logger - INFO - ------
+2024-04-01 19:25:45,719 - logger - INFO - ------
+2024-04-01 19:25:45,719 - logger - INFO - retrieve station status
+2024-04-01 19:25:46,281 - logger - INFO - request status: Successful
+2024-04-01 19:25:46,284 - logger - INFO - Successful dumping
+2024-04-01 19:25:46,284 - logger - INFO - retrieve station information
+2024-04-01 19:25:47,599 - logger - INFO - request status: Successful
+2024-04-01 19:25:47,617 - logger - INFO - Successful dumping
+2024-04-01 19:25:47,618 - logger - INFO - ------
