@@ -5640,3 +5640,11 @@
 2024-04-01 10:31:21,586 - logger - INFO - request status: Successful
 2024-04-01 10:31:21,604 - logger - INFO - Successful dumping
 2024-04-01 10:31:21,605 - logger - INFO - ------
+2024-04-01 11:25:42,048 - logger - INFO - ------
+2024-04-01 11:25:42,049 - logger - INFO - retrieve station status
+2024-04-01 11:25:42,473 - logger - INFO - request status: Successful
+2024-04-01 11:25:42,476 - logger - INFO - Successful dumping
+2024-04-01 11:25:42,477 - logger - INFO - retrieve station information
+2024-04-01 11:25:43,293 - logger - INFO - request status: Successful
+2024-04-01 11:25:43,311 - logger - INFO - Successful dumping
+2024-04-01 11:25:43,313 - logger - INFO - ------
