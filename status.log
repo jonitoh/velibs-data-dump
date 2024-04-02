@@ -5816,3 +5816,11 @@
 2024-04-02 09:25:34,107 - logger - INFO - request status: Successful
 2024-04-02 09:25:34,125 - logger - INFO - Successful dumping
 2024-04-02 09:25:34,126 - logger - INFO - ------
+2024-04-02 10:30:50,686 - logger - INFO - ------
+2024-04-02 10:30:50,686 - logger - INFO - retrieve station status
+2024-04-02 10:30:51,103 - logger - INFO - request status: Successful
+2024-04-02 10:30:51,106 - logger - INFO - Successful dumping
+2024-04-02 10:30:51,107 - logger - INFO - retrieve station information
+2024-04-02 10:30:52,047 - logger - INFO - request status: Successful
+2024-04-02 10:30:52,065 - logger - INFO - Successful dumping
+2024-04-02 10:30:52,066 - logger - INFO - ------
