@@ -5920,3 +5920,11 @@
 2024-04-02 22:30:44,973 - logger - INFO - request status: Successful
 2024-04-02 22:30:44,992 - logger - INFO - Successful dumping
 2024-04-02 22:30:44,993 - logger - INFO - ------
+2024-04-02 23:25:36,845 - logger - INFO - ------
+2024-04-02 23:25:36,845 - logger - INFO - retrieve station status
+2024-04-02 23:25:37,167 - logger - INFO - request status: Successful
+2024-04-02 23:25:37,170 - logger - INFO - Successful dumping
+2024-04-02 23:25:37,171 - logger - INFO - retrieve station information
+2024-04-02 23:25:37,939 - logger - INFO - request status: Successful
+2024-04-02 23:25:37,957 - logger - INFO - Successful dumping
+2024-04-02 23:25:37,959 - logger - INFO - ------
