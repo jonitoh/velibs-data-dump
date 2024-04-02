@@ -5840,3 +5840,11 @@
 2024-04-02 12:43:32,097 - logger - INFO - request status: Successful
 2024-04-02 12:43:32,115 - logger - INFO - Successful dumping
 2024-04-02 12:43:32,116 - logger - INFO - ------
+2024-04-02 13:25:50,166 - logger - INFO - ------
+2024-04-02 13:25:50,166 - logger - INFO - retrieve station status
+2024-04-02 13:25:50,530 - logger - INFO - request status: Successful
+2024-04-02 13:25:50,532 - logger - INFO - Successful dumping
+2024-04-02 13:25:50,533 - logger - INFO - retrieve station information
+2024-04-02 13:25:51,476 - logger - INFO - request status: Successful
+2024-04-02 13:25:51,495 - logger - INFO - Successful dumping
+2024-04-02 13:25:51,496 - logger - INFO - ------
