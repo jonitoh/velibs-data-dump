@@ -5784,3 +5784,11 @@
 2024-04-02 05:27:24,305 - logger - INFO - request status: Successful
 2024-04-02 05:27:24,323 - logger - INFO - Successful dumping
 2024-04-02 05:27:24,324 - logger - INFO - ------
+2024-04-02 06:30:40,727 - logger - INFO - ------
+2024-04-02 06:30:40,727 - logger - INFO - retrieve station status
+2024-04-02 06:30:41,057 - logger - INFO - request status: Successful
+2024-04-02 06:30:41,060 - logger - INFO - Successful dumping
+2024-04-02 06:30:41,060 - logger - INFO - retrieve station information
+2024-04-02 06:30:41,851 - logger - INFO - request status: Successful
+2024-04-02 06:30:41,870 - logger - INFO - Successful dumping
+2024-04-02 06:30:41,871 - logger - INFO - ------
