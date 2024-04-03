@@ -5960,3 +5960,11 @@
 2024-04-03 04:30:08,219 - logger - INFO - request status: Successful
 2024-04-03 04:30:08,237 - logger - INFO - Successful dumping
 2024-04-03 04:30:08,238 - logger - INFO - ------
+2024-04-03 05:28:45,461 - logger - INFO - ------
+2024-04-03 05:28:45,461 - logger - INFO - retrieve station status
+2024-04-03 05:28:45,806 - logger - INFO - request status: Successful
+2024-04-03 05:28:45,809 - logger - INFO - Successful dumping
+2024-04-03 05:28:45,810 - logger - INFO - retrieve station information
+2024-04-03 05:28:46,572 - logger - INFO - request status: Successful
+2024-04-03 05:28:46,590 - logger - INFO - Successful dumping
+2024-04-03 05:28:46,591 - logger - INFO - ------
