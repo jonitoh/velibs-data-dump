@@ -6072,3 +6072,11 @@
 2024-04-03 18:30:34,148 - logger - INFO - request status: Successful
 2024-04-03 18:30:34,166 - logger - INFO - Successful dumping
 2024-04-03 18:30:34,167 - logger - INFO - ------
+2024-04-03 19:25:26,021 - logger - INFO - ------
+2024-04-03 19:25:26,021 - logger - INFO - retrieve station status
+2024-04-03 19:25:26,441 - logger - INFO - request status: Successful
+2024-04-03 19:25:26,444 - logger - INFO - Successful dumping
+2024-04-03 19:25:26,445 - logger - INFO - retrieve station information
+2024-04-03 19:25:27,244 - logger - INFO - request status: Successful
+2024-04-03 19:25:27,262 - logger - INFO - Successful dumping
+2024-04-03 19:25:27,263 - logger - INFO - ------
