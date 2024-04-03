@@ -6048,3 +6048,11 @@
 2024-04-03 15:25:32,318 - logger - INFO - request status: Successful
 2024-04-03 15:25:32,337 - logger - INFO - Successful dumping
 2024-04-03 15:25:32,337 - logger - INFO - ------
+2024-04-03 16:32:58,100 - logger - INFO - ------
+2024-04-03 16:32:58,100 - logger - INFO - retrieve station status
+2024-04-03 16:32:58,499 - logger - INFO - request status: Successful
+2024-04-03 16:32:58,502 - logger - INFO - Successful dumping
+2024-04-03 16:32:58,503 - logger - INFO - retrieve station information
+2024-04-03 16:32:59,397 - logger - INFO - request status: Successful
+2024-04-03 16:32:59,416 - logger - INFO - Successful dumping
+2024-04-03 16:32:59,417 - logger - INFO - ------
