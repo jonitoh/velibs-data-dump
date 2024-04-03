@@ -5984,3 +5984,11 @@
 2024-04-03 07:25:49,109 - logger - INFO - request status: Successful
 2024-04-03 07:25:49,127 - logger - INFO - Successful dumping
 2024-04-03 07:25:49,128 - logger - INFO - ------
+2024-04-03 08:29:17,367 - logger - INFO - ------
+2024-04-03 08:29:17,367 - logger - INFO - retrieve station status
+2024-04-03 08:29:17,717 - logger - INFO - request status: Successful
+2024-04-03 08:29:17,720 - logger - INFO - Successful dumping
+2024-04-03 08:29:17,720 - logger - INFO - retrieve station information
+2024-04-03 08:29:18,627 - logger - INFO - request status: Successful
+2024-04-03 08:29:18,645 - logger - INFO - Successful dumping
+2024-04-03 08:29:18,646 - logger - INFO - ------
