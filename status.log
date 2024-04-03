@@ -6016,3 +6016,11 @@
 2024-04-03 11:25:33,873 - logger - INFO - request status: Successful
 2024-04-03 11:25:33,891 - logger - INFO - Successful dumping
 2024-04-03 11:25:33,892 - logger - INFO - ------
+2024-04-03 12:42:00,635 - logger - INFO - ------
+2024-04-03 12:42:00,636 - logger - INFO - retrieve station status
+2024-04-03 12:42:00,987 - logger - INFO - request status: Successful
+2024-04-03 12:42:00,989 - logger - INFO - Successful dumping
+2024-04-03 12:42:00,990 - logger - INFO - retrieve station information
+2024-04-03 12:42:01,929 - logger - INFO - request status: Successful
+2024-04-03 12:42:01,947 - logger - INFO - Successful dumping
+2024-04-03 12:42:01,948 - logger - INFO - ------
