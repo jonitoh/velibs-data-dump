@@ -6224,3 +6224,11 @@
 2024-04-04 14:29:24,762 - logger - INFO - request status: Successful
 2024-04-04 14:29:24,780 - logger - INFO - Successful dumping
 2024-04-04 14:29:24,781 - logger - INFO - ------
+2024-04-04 15:25:35,715 - logger - INFO - ------
+2024-04-04 15:25:35,715 - logger - INFO - retrieve station status
+2024-04-04 15:25:36,100 - logger - INFO - request status: Successful
+2024-04-04 15:25:36,103 - logger - INFO - Successful dumping
+2024-04-04 15:25:36,103 - logger - INFO - retrieve station information
+2024-04-04 15:25:36,903 - logger - INFO - request status: Successful
+2024-04-04 15:25:36,921 - logger - INFO - Successful dumping
+2024-04-04 15:25:36,922 - logger - INFO - ------
