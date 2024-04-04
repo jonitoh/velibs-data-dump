@@ -6280,3 +6280,11 @@
 2024-04-04 21:25:39,632 - logger - INFO - request status: Successful
 2024-04-04 21:25:39,651 - logger - INFO - Successful dumping
 2024-04-04 21:25:39,652 - logger - INFO - ------
+2024-04-04 22:27:30,115 - logger - INFO - ------
+2024-04-04 22:27:30,115 - logger - INFO - retrieve station status
+2024-04-04 22:27:30,633 - logger - INFO - request status: Successful
+2024-04-04 22:27:30,635 - logger - INFO - Successful dumping
+2024-04-04 22:27:30,636 - logger - INFO - retrieve station information
+2024-04-04 22:27:31,939 - logger - INFO - request status: Successful
+2024-04-04 22:27:31,958 - logger - INFO - Successful dumping
+2024-04-04 22:27:31,959 - logger - INFO - ------
