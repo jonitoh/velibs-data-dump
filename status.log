@@ -6248,3 +6248,11 @@
 2024-04-04 17:26:58,325 - logger - INFO - request status: Successful
 2024-04-04 17:26:58,343 - logger - INFO - Successful dumping
 2024-04-04 17:26:58,344 - logger - INFO - ------
+2024-04-04 18:30:05,223 - logger - INFO - ------
+2024-04-04 18:30:05,224 - logger - INFO - retrieve station status
+2024-04-04 18:30:05,591 - logger - INFO - request status: Successful
+2024-04-04 18:30:05,594 - logger - INFO - Successful dumping
+2024-04-04 18:30:05,595 - logger - INFO - retrieve station information
+2024-04-04 18:30:06,562 - logger - INFO - request status: Successful
+2024-04-04 18:30:06,580 - logger - INFO - Successful dumping
+2024-04-04 18:30:06,582 - logger - INFO - ------
