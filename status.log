@@ -6120,3 +6120,11 @@
 2024-04-04 01:30:20,611 - logger - INFO - request status: Successful
 2024-04-04 01:30:20,629 - logger - INFO - Successful dumping
 2024-04-04 01:30:20,630 - logger - INFO - ------
+2024-04-04 02:33:02,157 - logger - INFO - ------
+2024-04-04 02:33:02,157 - logger - INFO - retrieve station status
+2024-04-04 02:33:02,498 - logger - INFO - request status: Successful
+2024-04-04 02:33:02,500 - logger - INFO - Successful dumping
+2024-04-04 02:33:02,501 - logger - INFO - retrieve station information
+2024-04-04 02:33:03,259 - logger - INFO - request status: Successful
+2024-04-04 02:33:03,277 - logger - INFO - Successful dumping
+2024-04-04 02:33:03,278 - logger - INFO - ------
