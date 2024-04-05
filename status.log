@@ -6472,3 +6472,11 @@
 2024-04-05 22:28:23,259 - logger - INFO - request status: Successful
 2024-04-05 22:28:23,277 - logger - INFO - Successful dumping
 2024-04-05 22:28:23,278 - logger - INFO - ------
+2024-04-05 23:25:41,640 - logger - INFO - ------
+2024-04-05 23:25:41,640 - logger - INFO - retrieve station status
+2024-04-05 23:25:42,086 - logger - INFO - request status: Successful
+2024-04-05 23:25:42,089 - logger - INFO - Successful dumping
+2024-04-05 23:25:42,089 - logger - INFO - retrieve station information
+2024-04-05 23:25:42,854 - logger - INFO - request status: Successful
+2024-04-05 23:25:42,872 - logger - INFO - Successful dumping
+2024-04-05 23:25:42,873 - logger - INFO - ------
