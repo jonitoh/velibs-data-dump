@@ -6304,3 +6304,11 @@
 2024-04-05 01:29:18,522 - logger - INFO - request status: Successful
 2024-04-05 01:29:18,540 - logger - INFO - Successful dumping
 2024-04-05 01:29:18,541 - logger - INFO - ------
+2024-04-05 02:30:50,976 - logger - INFO - ------
+2024-04-05 02:30:50,976 - logger - INFO - retrieve station status
+2024-04-05 02:30:51,379 - logger - INFO - request status: Successful
+2024-04-05 02:30:51,382 - logger - INFO - Successful dumping
+2024-04-05 02:30:51,382 - logger - INFO - retrieve station information
+2024-04-05 02:30:52,149 - logger - INFO - request status: Successful
+2024-04-05 02:30:52,167 - logger - INFO - Successful dumping
+2024-04-05 02:30:52,168 - logger - INFO - ------
