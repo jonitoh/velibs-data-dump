@@ -6464,3 +6464,11 @@
 2024-04-05 21:25:47,194 - logger - INFO - request status: Successful
 2024-04-05 21:25:47,212 - logger - INFO - Successful dumping
 2024-04-05 21:25:47,214 - logger - INFO - ------
+2024-04-05 22:28:21,501 - logger - INFO - ------
+2024-04-05 22:28:21,501 - logger - INFO - retrieve station status
+2024-04-05 22:28:21,985 - logger - INFO - request status: Successful
+2024-04-05 22:28:21,987 - logger - INFO - Successful dumping
+2024-04-05 22:28:21,988 - logger - INFO - retrieve station information
+2024-04-05 22:28:23,259 - logger - INFO - request status: Successful
+2024-04-05 22:28:23,277 - logger - INFO - Successful dumping
+2024-04-05 22:28:23,278 - logger - INFO - ------
