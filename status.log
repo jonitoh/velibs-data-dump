@@ -6392,3 +6392,11 @@
 2024-04-05 12:41:11,426 - logger - INFO - request status: Successful
 2024-04-05 12:41:11,444 - logger - INFO - Successful dumping
 2024-04-05 12:41:11,445 - logger - INFO - ------
+2024-04-05 13:26:02,414 - logger - INFO - ------
+2024-04-05 13:26:02,414 - logger - INFO - retrieve station status
+2024-04-05 13:26:02,872 - logger - INFO - request status: Successful
+2024-04-05 13:26:02,875 - logger - INFO - Successful dumping
+2024-04-05 13:26:02,876 - logger - INFO - retrieve station information
+2024-04-05 13:26:04,153 - logger - INFO - request status: Successful
+2024-04-05 13:26:04,172 - logger - INFO - Successful dumping
+2024-04-05 13:26:04,173 - logger - INFO - ------
