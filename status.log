@@ -6520,3 +6520,11 @@
 2024-04-06 05:27:35,107 - logger - INFO - request status: Successful
 2024-04-06 05:27:35,125 - logger - INFO - Successful dumping
 2024-04-06 05:27:35,126 - logger - INFO - ------
+2024-04-06 06:29:13,875 - logger - INFO - ------
+2024-04-06 06:29:13,875 - logger - INFO - retrieve station status
+2024-04-06 06:29:14,407 - logger - INFO - request status: Successful
+2024-04-06 06:29:14,412 - logger - INFO - Successful dumping
+2024-04-06 06:29:14,413 - logger - INFO - retrieve station information
+2024-04-06 06:29:15,718 - logger - INFO - request status: Successful
+2024-04-06 06:29:15,736 - logger - INFO - Successful dumping
+2024-04-06 06:29:15,737 - logger - INFO - ------
