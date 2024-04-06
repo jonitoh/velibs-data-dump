@@ -6656,3 +6656,11 @@
 2024-04-06 22:27:30,892 - logger - INFO - request status: Successful
 2024-04-06 22:27:30,910 - logger - INFO - Successful dumping
 2024-04-06 22:27:30,911 - logger - INFO - ------
+2024-04-06 23:25:49,608 - logger - INFO - ------
+2024-04-06 23:25:49,608 - logger - INFO - retrieve station status
+2024-04-06 23:25:50,012 - logger - INFO - request status: Successful
+2024-04-06 23:25:50,014 - logger - INFO - Successful dumping
+2024-04-06 23:25:50,015 - logger - INFO - retrieve station information
+2024-04-06 23:25:50,980 - logger - INFO - request status: Successful
+2024-04-06 23:25:50,998 - logger - INFO - Successful dumping
+2024-04-06 23:25:50,999 - logger - INFO - ------
