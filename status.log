@@ -6592,3 +6592,11 @@
 2024-04-06 14:25:52,262 - logger - INFO - request status: Successful
 2024-04-06 14:25:52,280 - logger - INFO - Successful dumping
 2024-04-06 14:25:52,282 - logger - INFO - ------
+2024-04-06 15:25:50,094 - logger - INFO - ------
+2024-04-06 15:25:50,094 - logger - INFO - retrieve station status
+2024-04-06 15:25:50,630 - logger - INFO - request status: Successful
+2024-04-06 15:25:50,633 - logger - INFO - Successful dumping
+2024-04-06 15:25:50,634 - logger - INFO - retrieve station information
+2024-04-06 15:25:51,879 - logger - INFO - request status: Successful
+2024-04-06 15:25:51,897 - logger - INFO - Successful dumping
+2024-04-06 15:25:51,898 - logger - INFO - ------
