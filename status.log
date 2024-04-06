@@ -6608,3 +6608,11 @@
 2024-04-06 16:31:10,229 - logger - INFO - request status: Successful
 2024-04-06 16:31:10,251 - logger - INFO - Successful dumping
 2024-04-06 16:31:10,252 - logger - INFO - ------
+2024-04-06 17:27:21,995 - logger - INFO - ------
+2024-04-06 17:27:21,995 - logger - INFO - retrieve station status
+2024-04-06 17:27:22,454 - logger - INFO - request status: Successful
+2024-04-06 17:27:22,456 - logger - INFO - Successful dumping
+2024-04-06 17:27:22,457 - logger - INFO - retrieve station information
+2024-04-06 17:27:23,756 - logger - INFO - request status: Successful
+2024-04-06 17:27:23,774 - logger - INFO - Successful dumping
+2024-04-06 17:27:23,775 - logger - INFO - ------
