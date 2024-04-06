@@ -6568,3 +6568,11 @@
 2024-04-06 11:25:39,912 - logger - INFO - request status: Successful
 2024-04-06 11:25:39,930 - logger - INFO - Successful dumping
 2024-04-06 11:25:39,931 - logger - INFO - ------
+2024-04-06 12:39:45,160 - logger - INFO - ------
+2024-04-06 12:39:45,160 - logger - INFO - retrieve station status
+2024-04-06 12:39:45,555 - logger - INFO - request status: Successful
+2024-04-06 12:39:45,558 - logger - INFO - Successful dumping
+2024-04-06 12:39:45,559 - logger - INFO - retrieve station information
+2024-04-06 12:39:46,460 - logger - INFO - request status: Successful
+2024-04-06 12:39:46,478 - logger - INFO - Successful dumping
+2024-04-06 12:39:46,479 - logger - INFO - ------
