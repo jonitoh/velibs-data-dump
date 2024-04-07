@@ -6744,3 +6744,11 @@
 2024-04-07 10:28:13,610 - logger - INFO - request status: Successful
 2024-04-07 10:28:13,629 - logger - INFO - Successful dumping
 2024-04-07 10:28:13,630 - logger - INFO - ------
+2024-04-07 11:25:46,399 - logger - INFO - ------
+2024-04-07 11:25:46,400 - logger - INFO - retrieve station status
+2024-04-07 11:25:46,706 - logger - INFO - request status: Successful
+2024-04-07 11:25:46,709 - logger - INFO - Successful dumping
+2024-04-07 11:25:46,709 - logger - INFO - retrieve station information
+2024-04-07 11:25:47,490 - logger - INFO - request status: Successful
+2024-04-07 11:25:47,508 - logger - INFO - Successful dumping
+2024-04-07 11:25:47,510 - logger - INFO - ------
