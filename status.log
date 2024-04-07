@@ -6776,3 +6776,11 @@
 2024-04-07 14:28:09,429 - logger - INFO - request status: Successful
 2024-04-07 14:28:09,447 - logger - INFO - Successful dumping
 2024-04-07 14:28:09,448 - logger - INFO - ------
+2024-04-07 15:25:28,505 - logger - INFO - ------
+2024-04-07 15:25:28,505 - logger - INFO - retrieve station status
+2024-04-07 15:25:28,970 - logger - INFO - request status: Successful
+2024-04-07 15:25:28,972 - logger - INFO - Successful dumping
+2024-04-07 15:25:28,973 - logger - INFO - retrieve station information
+2024-04-07 15:25:30,286 - logger - INFO - request status: Successful
+2024-04-07 15:25:30,303 - logger - INFO - Successful dumping
+2024-04-07 15:25:30,304 - logger - INFO - ------
