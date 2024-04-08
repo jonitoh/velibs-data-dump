@@ -6936,3 +6936,11 @@
 2024-04-08 11:25:42,534 - logger - INFO - request status: Successful
 2024-04-08 11:25:42,552 - logger - INFO - Successful dumping
 2024-04-08 11:25:42,553 - logger - INFO - ------
+2024-04-08 12:42:21,557 - logger - INFO - ------
+2024-04-08 12:42:21,557 - logger - INFO - retrieve station status
+2024-04-08 12:42:21,872 - logger - INFO - request status: Successful
+2024-04-08 12:42:21,875 - logger - INFO - Successful dumping
+2024-04-08 12:42:21,875 - logger - INFO - retrieve station information
+2024-04-08 12:42:22,672 - logger - INFO - request status: Successful
+2024-04-08 12:42:22,689 - logger - INFO - Successful dumping
+2024-04-08 12:42:22,690 - logger - INFO - ------
