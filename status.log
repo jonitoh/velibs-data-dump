@@ -6856,3 +6856,11 @@
 2024-04-08 01:31:09,016 - logger - INFO - request status: Successful
 2024-04-08 01:31:09,034 - logger - INFO - Successful dumping
 2024-04-08 01:31:09,035 - logger - INFO - ------
+2024-04-08 02:33:53,282 - logger - INFO - ------
+2024-04-08 02:33:53,282 - logger - INFO - retrieve station status
+2024-04-08 02:33:53,719 - logger - INFO - request status: Successful
+2024-04-08 02:33:53,721 - logger - INFO - Successful dumping
+2024-04-08 02:33:53,722 - logger - INFO - retrieve station information
+2024-04-08 02:33:54,677 - logger - INFO - request status: Successful
+2024-04-08 02:33:54,695 - logger - INFO - Successful dumping
+2024-04-08 02:33:54,696 - logger - INFO - ------
