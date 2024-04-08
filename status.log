@@ -6952,3 +6952,11 @@
 2024-04-08 13:25:54,436 - logger - INFO - request status: Successful
 2024-04-08 13:25:54,454 - logger - INFO - Successful dumping
 2024-04-08 13:25:54,456 - logger - INFO - ------
+2024-04-08 14:29:58,781 - logger - INFO - ------
+2024-04-08 14:29:58,781 - logger - INFO - retrieve station status
+2024-04-08 14:29:59,114 - logger - INFO - request status: Successful
+2024-04-08 14:29:59,116 - logger - INFO - Successful dumping
+2024-04-08 14:29:59,117 - logger - INFO - retrieve station information
+2024-04-08 14:29:59,935 - logger - INFO - request status: Successful
+2024-04-08 14:29:59,954 - logger - INFO - Successful dumping
+2024-04-08 14:29:59,955 - logger - INFO - ------
