@@ -7064,3 +7064,11 @@
 2024-04-09 04:29:56,407 - logger - INFO - request status: Successful
 2024-04-09 04:29:56,425 - logger - INFO - Successful dumping
 2024-04-09 04:29:56,426 - logger - INFO - ------
+2024-04-09 05:27:53,404 - logger - INFO - ------
+2024-04-09 05:27:53,404 - logger - INFO - retrieve station status
+2024-04-09 05:27:53,748 - logger - INFO - request status: Successful
+2024-04-09 05:27:53,753 - logger - INFO - Successful dumping
+2024-04-09 05:27:53,754 - logger - INFO - retrieve station information
+2024-04-09 05:27:54,726 - logger - INFO - request status: Successful
+2024-04-09 05:27:54,743 - logger - INFO - Successful dumping
+2024-04-09 05:27:54,744 - logger - INFO - ------
