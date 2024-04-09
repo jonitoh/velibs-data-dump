@@ -7040,3 +7040,11 @@
 2024-04-09 01:29:48,021 - logger - INFO - request status: Successful
 2024-04-09 01:29:48,039 - logger - INFO - Successful dumping
 2024-04-09 01:29:48,040 - logger - INFO - ------
+2024-04-09 02:31:07,844 - logger - INFO - ------
+2024-04-09 02:31:07,844 - logger - INFO - retrieve station status
+2024-04-09 02:31:08,159 - logger - INFO - request status: Successful
+2024-04-09 02:31:08,161 - logger - INFO - Successful dumping
+2024-04-09 02:31:08,162 - logger - INFO - retrieve station information
+2024-04-09 02:31:08,941 - logger - INFO - request status: Successful
+2024-04-09 02:31:08,959 - logger - INFO - Successful dumping
+2024-04-09 02:31:08,960 - logger - INFO - ------
