@@ -7296,3 +7296,11 @@
 2024-04-10 10:32:20,806 - logger - INFO - request status: Successful
 2024-04-10 10:32:20,824 - logger - INFO - Successful dumping
 2024-04-10 10:32:20,825 - logger - INFO - ------
+2024-04-10 11:25:36,315 - logger - INFO - ------
+2024-04-10 11:25:36,315 - logger - INFO - retrieve station status
+2024-04-10 11:25:36,680 - logger - INFO - request status: Successful
+2024-04-10 11:25:36,683 - logger - INFO - Successful dumping
+2024-04-10 11:25:36,684 - logger - INFO - retrieve station information
+2024-04-10 11:25:37,641 - logger - INFO - request status: Successful
+2024-04-10 11:25:37,660 - logger - INFO - Successful dumping
+2024-04-10 11:25:37,661 - logger - INFO - ------
