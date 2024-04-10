@@ -7328,3 +7328,11 @@
 2024-04-10 14:28:12,028 - logger - INFO - request status: Successful
 2024-04-10 14:28:12,046 - logger - INFO - Successful dumping
 2024-04-10 14:28:12,047 - logger - INFO - ------
+2024-04-10 15:26:25,135 - logger - INFO - ------
+2024-04-10 15:26:25,135 - logger - INFO - retrieve station status
+2024-04-10 15:26:25,522 - logger - INFO - request status: Successful
+2024-04-10 15:26:25,525 - logger - INFO - Successful dumping
+2024-04-10 15:26:25,526 - logger - INFO - retrieve station information
+2024-04-10 15:26:26,312 - logger - INFO - request status: Successful
+2024-04-10 15:26:26,330 - logger - INFO - Successful dumping
+2024-04-10 15:26:26,331 - logger - INFO - ------
