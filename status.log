@@ -7416,3 +7416,11 @@
 2024-04-11 02:33:08,136 - logger - INFO - request status: Successful
 2024-04-11 02:33:08,154 - logger - INFO - Successful dumping
 2024-04-11 02:33:08,155 - logger - INFO - ------
+2024-04-11 03:26:12,585 - logger - INFO - ------
+2024-04-11 03:26:12,585 - logger - INFO - retrieve station status
+2024-04-11 03:26:12,993 - logger - INFO - request status: Successful
+2024-04-11 03:26:12,996 - logger - INFO - Successful dumping
+2024-04-11 03:26:12,996 - logger - INFO - retrieve station information
+2024-04-11 03:26:13,947 - logger - INFO - request status: Successful
+2024-04-11 03:26:13,965 - logger - INFO - Successful dumping
+2024-04-11 03:26:13,966 - logger - INFO - ------
