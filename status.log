@@ -7456,3 +7456,11 @@
 2024-04-11 07:25:36,556 - logger - INFO - request status: Successful
 2024-04-11 07:25:36,574 - logger - INFO - Successful dumping
 2024-04-11 07:25:36,575 - logger - INFO - ------
+2024-04-11 08:32:51,007 - logger - INFO - ------
+2024-04-11 08:32:51,008 - logger - INFO - retrieve station status
+2024-04-11 08:32:51,354 - logger - INFO - request status: Successful
+2024-04-11 08:32:51,356 - logger - INFO - Successful dumping
+2024-04-11 08:32:51,357 - logger - INFO - retrieve station information
+2024-04-11 08:32:52,279 - logger - INFO - request status: Successful
+2024-04-11 08:32:52,298 - logger - INFO - Successful dumping
+2024-04-11 08:32:52,299 - logger - INFO - ------
