@@ -7568,3 +7568,11 @@
 2024-04-11 21:25:31,184 - logger - INFO - request status: Successful
 2024-04-11 21:25:31,202 - logger - INFO - Successful dumping
 2024-04-11 21:25:31,203 - logger - INFO - ------
+2024-04-11 22:30:19,559 - logger - INFO - ------
+2024-04-11 22:30:19,559 - logger - INFO - retrieve station status
+2024-04-11 22:30:20,030 - logger - INFO - request status: Successful
+2024-04-11 22:30:20,033 - logger - INFO - Successful dumping
+2024-04-11 22:30:20,033 - logger - INFO - retrieve station information
+2024-04-11 22:30:21,351 - logger - INFO - request status: Successful
+2024-04-11 22:30:21,369 - logger - INFO - Successful dumping
+2024-04-11 22:30:21,370 - logger - INFO - ------
