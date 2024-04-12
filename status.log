@@ -7616,3 +7616,11 @@
 2024-04-12 04:31:29,757 - logger - INFO - request status: Successful
 2024-04-12 04:31:29,775 - logger - INFO - Successful dumping
 2024-04-12 04:31:29,776 - logger - INFO - ------
+2024-04-12 05:31:06,500 - logger - INFO - ------
+2024-04-12 05:31:06,500 - logger - INFO - retrieve station status
+2024-04-12 05:31:06,938 - logger - INFO - request status: Successful
+2024-04-12 05:31:06,940 - logger - INFO - Successful dumping
+2024-04-12 05:31:06,941 - logger - INFO - retrieve station information
+2024-04-12 05:31:07,736 - logger - INFO - request status: Successful
+2024-04-12 05:31:07,754 - logger - INFO - Successful dumping
+2024-04-12 05:31:07,755 - logger - INFO - ------
