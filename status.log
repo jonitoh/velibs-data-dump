@@ -7896,3 +7896,11 @@
 2024-04-13 15:25:27,867 - logger - INFO - request status: Successful
 2024-04-13 15:25:27,885 - logger - INFO - Successful dumping
 2024-04-13 15:25:27,886 - logger - INFO - ------
+2024-04-13 16:29:11,353 - logger - INFO - ------
+2024-04-13 16:29:11,353 - logger - INFO - retrieve station status
+2024-04-13 16:29:11,726 - logger - INFO - request status: Successful
+2024-04-13 16:29:11,729 - logger - INFO - Successful dumping
+2024-04-13 16:29:11,730 - logger - INFO - retrieve station information
+2024-04-13 16:29:12,465 - logger - INFO - request status: Successful
+2024-04-13 16:29:12,484 - logger - INFO - Successful dumping
+2024-04-13 16:29:12,485 - logger - INFO - ------
