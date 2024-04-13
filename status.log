@@ -7816,3 +7816,11 @@
 2024-04-13 05:28:20,748 - logger - INFO - request status: Successful
 2024-04-13 05:28:20,766 - logger - INFO - Successful dumping
 2024-04-13 05:28:20,767 - logger - INFO - ------
+2024-04-13 06:25:36,385 - logger - INFO - ------
+2024-04-13 06:25:36,385 - logger - INFO - retrieve station status
+2024-04-13 06:25:36,832 - logger - INFO - request status: Successful
+2024-04-13 06:25:36,835 - logger - INFO - Successful dumping
+2024-04-13 06:25:36,835 - logger - INFO - retrieve station information
+2024-04-13 06:25:38,149 - logger - INFO - request status: Successful
+2024-04-13 06:25:38,167 - logger - INFO - Successful dumping
+2024-04-13 06:25:38,168 - logger - INFO - ------
