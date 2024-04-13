@@ -7840,3 +7840,11 @@
 2024-04-13 08:25:28,989 - logger - INFO - request status: Successful
 2024-04-13 08:25:29,007 - logger - INFO - Successful dumping
 2024-04-13 08:25:29,008 - logger - INFO - ------
+2024-04-13 09:25:42,425 - logger - INFO - ------
+2024-04-13 09:25:42,425 - logger - INFO - retrieve station status
+2024-04-13 09:25:42,769 - logger - INFO - request status: Successful
+2024-04-13 09:25:42,772 - logger - INFO - Successful dumping
+2024-04-13 09:25:42,773 - logger - INFO - retrieve station information
+2024-04-13 09:25:43,512 - logger - INFO - request status: Successful
+2024-04-13 09:25:43,530 - logger - INFO - Successful dumping
+2024-04-13 09:25:43,531 - logger - INFO - ------
