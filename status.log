@@ -7928,3 +7928,11 @@
 2024-04-13 19:25:44,985 - logger - INFO - request status: Successful
 2024-04-13 19:25:45,003 - logger - INFO - Successful dumping
 2024-04-13 19:25:45,004 - logger - INFO - ------
+2024-04-13 20:25:41,611 - logger - INFO - ------
+2024-04-13 20:25:41,611 - logger - INFO - retrieve station status
+2024-04-13 20:25:41,985 - logger - INFO - request status: Successful
+2024-04-13 20:25:41,987 - logger - INFO - Successful dumping
+2024-04-13 20:25:41,988 - logger - INFO - retrieve station information
+2024-04-13 20:25:42,919 - logger - INFO - request status: Successful
+2024-04-13 20:25:42,937 - logger - INFO - Successful dumping
+2024-04-13 20:25:42,938 - logger - INFO - ------
