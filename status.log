@@ -7984,3 +7984,11 @@
 2024-04-14 04:57:26,702 - logger - INFO - request status: Successful
 2024-04-14 04:57:26,720 - logger - INFO - Successful dumping
 2024-04-14 04:57:26,721 - logger - INFO - ------
+2024-04-14 06:18:18,171 - logger - INFO - ------
+2024-04-14 06:18:18,171 - logger - INFO - retrieve station status
+2024-04-14 06:18:18,517 - logger - INFO - request status: Successful
+2024-04-14 06:18:18,520 - logger - INFO - Successful dumping
+2024-04-14 06:18:18,520 - logger - INFO - retrieve station information
+2024-04-14 06:18:19,247 - logger - INFO - request status: Successful
+2024-04-14 06:18:19,265 - logger - INFO - Successful dumping
+2024-04-14 06:18:19,266 - logger - INFO - ------
