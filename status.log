@@ -8152,3 +8152,11 @@
 2024-04-15 16:29:51,120 - logger - INFO - request status: Successful
 2024-04-15 16:29:51,138 - logger - INFO - Successful dumping
 2024-04-15 16:29:51,139 - logger - INFO - ------
+2024-04-15 17:25:29,458 - logger - INFO - ------
+2024-04-15 17:25:29,459 - logger - INFO - retrieve station status
+2024-04-15 17:25:29,885 - logger - INFO - request status: Successful
+2024-04-15 17:25:29,887 - logger - INFO - Successful dumping
+2024-04-15 17:25:29,888 - logger - INFO - retrieve station information
+2024-04-15 17:25:31,212 - logger - INFO - request status: Successful
+2024-04-15 17:25:31,231 - logger - INFO - Successful dumping
+2024-04-15 17:25:31,232 - logger - INFO - ------
