@@ -8176,3 +8176,11 @@
 2024-04-15 19:25:37,757 - logger - INFO - request status: Successful
 2024-04-15 19:25:37,776 - logger - INFO - Successful dumping
 2024-04-15 19:25:37,777 - logger - INFO - ------
+2024-04-15 20:25:30,465 - logger - INFO - ------
+2024-04-15 20:25:30,465 - logger - INFO - retrieve station status
+2024-04-15 20:25:30,966 - logger - INFO - request status: Successful
+2024-04-15 20:25:30,969 - logger - INFO - Successful dumping
+2024-04-15 20:25:30,970 - logger - INFO - retrieve station information
+2024-04-15 20:25:32,229 - logger - INFO - request status: Successful
+2024-04-15 20:25:32,248 - logger - INFO - Successful dumping
+2024-04-15 20:25:32,249 - logger - INFO - ------
