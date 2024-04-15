@@ -8168,3 +8168,11 @@
 2024-04-15 18:29:47,146 - logger - INFO - request status: Successful
 2024-04-15 18:29:47,164 - logger - INFO - Successful dumping
 2024-04-15 18:29:47,165 - logger - INFO - ------
+2024-04-15 19:25:36,647 - logger - INFO - ------
+2024-04-15 19:25:36,647 - logger - INFO - retrieve station status
+2024-04-15 19:25:36,997 - logger - INFO - request status: Successful
+2024-04-15 19:25:36,999 - logger - INFO - Successful dumping
+2024-04-15 19:25:37,000 - logger - INFO - retrieve station information
+2024-04-15 19:25:37,757 - logger - INFO - request status: Successful
+2024-04-15 19:25:37,776 - logger - INFO - Successful dumping
+2024-04-15 19:25:37,777 - logger - INFO - ------
