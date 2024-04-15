@@ -8144,3 +8144,11 @@
 2024-04-15 15:25:32,015 - logger - INFO - request status: Successful
 2024-04-15 15:25:32,034 - logger - INFO - Successful dumping
 2024-04-15 15:25:32,035 - logger - INFO - ------
+2024-04-15 16:29:49,676 - logger - INFO - ------
+2024-04-15 16:29:49,676 - logger - INFO - retrieve station status
+2024-04-15 16:29:50,120 - logger - INFO - request status: Successful
+2024-04-15 16:29:50,122 - logger - INFO - Successful dumping
+2024-04-15 16:29:50,123 - logger - INFO - retrieve station information
+2024-04-15 16:29:51,120 - logger - INFO - request status: Successful
+2024-04-15 16:29:51,138 - logger - INFO - Successful dumping
+2024-04-15 16:29:51,139 - logger - INFO - ------
