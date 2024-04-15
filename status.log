@@ -8064,3 +8064,11 @@
 2024-04-15 05:25:33,185 - logger - INFO - request status: Successful
 2024-04-15 05:25:33,203 - logger - INFO - Successful dumping
 2024-04-15 05:25:33,204 - logger - INFO - ------
+2024-04-15 06:27:56,237 - logger - INFO - ------
+2024-04-15 06:27:56,237 - logger - INFO - retrieve station status
+2024-04-15 06:27:56,673 - logger - INFO - request status: Successful
+2024-04-15 06:27:56,676 - logger - INFO - Successful dumping
+2024-04-15 06:27:56,676 - logger - INFO - retrieve station information
+2024-04-15 06:27:57,463 - logger - INFO - request status: Successful
+2024-04-15 06:27:57,487 - logger - INFO - Successful dumping
+2024-04-15 06:27:57,488 - logger - INFO - ------
