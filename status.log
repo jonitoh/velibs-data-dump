@@ -8056,3 +8056,11 @@
 2024-04-15 04:37:50,292 - logger - INFO - request status: Successful
 2024-04-15 04:37:50,311 - logger - INFO - Successful dumping
 2024-04-15 04:37:50,312 - logger - INFO - ------
+2024-04-15 05:25:31,369 - logger - INFO - ------
+2024-04-15 05:25:31,369 - logger - INFO - retrieve station status
+2024-04-15 05:25:31,832 - logger - INFO - request status: Successful
+2024-04-15 05:25:31,834 - logger - INFO - Successful dumping
+2024-04-15 05:25:31,835 - logger - INFO - retrieve station information
+2024-04-15 05:25:33,185 - logger - INFO - request status: Successful
+2024-04-15 05:25:33,203 - logger - INFO - Successful dumping
+2024-04-15 05:25:33,204 - logger - INFO - ------
