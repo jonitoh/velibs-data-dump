@@ -8368,3 +8368,11 @@
 2024-04-16 20:26:01,713 - logger - INFO - request status: Successful
 2024-04-16 20:26:01,731 - logger - INFO - Successful dumping
 2024-04-16 20:26:01,732 - logger - INFO - ------
+2024-04-16 21:25:31,506 - logger - INFO - ------
+2024-04-16 21:25:31,506 - logger - INFO - retrieve station status
+2024-04-16 21:25:31,863 - logger - INFO - request status: Successful
+2024-04-16 21:25:31,866 - logger - INFO - Successful dumping
+2024-04-16 21:25:31,866 - logger - INFO - retrieve station information
+2024-04-16 21:25:32,634 - logger - INFO - request status: Successful
+2024-04-16 21:25:32,652 - logger - INFO - Successful dumping
+2024-04-16 21:25:32,653 - logger - INFO - ------
