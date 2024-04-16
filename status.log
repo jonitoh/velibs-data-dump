@@ -8304,3 +8304,11 @@
 2024-04-16 12:43:11,237 - logger - INFO - request status: Successful
 2024-04-16 12:43:11,255 - logger - INFO - Successful dumping
 2024-04-16 12:43:11,256 - logger - INFO - ------
+2024-04-16 13:26:22,425 - logger - INFO - ------
+2024-04-16 13:26:22,425 - logger - INFO - retrieve station status
+2024-04-16 13:26:23,018 - logger - INFO - request status: Successful
+2024-04-16 13:26:23,020 - logger - INFO - Successful dumping
+2024-04-16 13:26:23,021 - logger - INFO - retrieve station information
+2024-04-16 13:26:24,336 - logger - INFO - request status: Successful
+2024-04-16 13:26:24,354 - logger - INFO - Successful dumping
+2024-04-16 13:26:24,355 - logger - INFO - ------
