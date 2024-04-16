@@ -8288,3 +8288,11 @@
 2024-04-16 10:30:19,123 - logger - INFO - request status: Successful
 2024-04-16 10:30:19,141 - logger - INFO - Successful dumping
 2024-04-16 10:30:19,142 - logger - INFO - ------
+2024-04-16 11:25:42,721 - logger - INFO - ------
+2024-04-16 11:25:42,721 - logger - INFO - retrieve station status
+2024-04-16 11:25:43,123 - logger - INFO - request status: Successful
+2024-04-16 11:25:43,125 - logger - INFO - Successful dumping
+2024-04-16 11:25:43,126 - logger - INFO - retrieve station information
+2024-04-16 11:25:44,100 - logger - INFO - request status: Successful
+2024-04-16 11:25:44,119 - logger - INFO - Successful dumping
+2024-04-16 11:25:44,120 - logger - INFO - ------
