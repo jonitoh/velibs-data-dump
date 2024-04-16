@@ -8360,3 +8360,11 @@
 2024-04-16 19:25:37,582 - logger - INFO - request status: Successful
 2024-04-16 19:25:37,600 - logger - INFO - Successful dumping
 2024-04-16 19:25:37,601 - logger - INFO - ------
+2024-04-16 20:25:59,867 - logger - INFO - ------
+2024-04-16 20:25:59,867 - logger - INFO - retrieve station status
+2024-04-16 20:26:00,404 - logger - INFO - request status: Successful
+2024-04-16 20:26:00,407 - logger - INFO - Successful dumping
+2024-04-16 20:26:00,407 - logger - INFO - retrieve station information
+2024-04-16 20:26:01,713 - logger - INFO - request status: Successful
+2024-04-16 20:26:01,731 - logger - INFO - Successful dumping
+2024-04-16 20:26:01,732 - logger - INFO - ------
