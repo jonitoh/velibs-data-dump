@@ -8328,3 +8328,11 @@
 2024-04-16 15:25:54,547 - logger - INFO - request status: Successful
 2024-04-16 15:25:54,565 - logger - INFO - Successful dumping
 2024-04-16 15:25:54,566 - logger - INFO - ------
+2024-04-16 16:30:51,185 - logger - INFO - ------
+2024-04-16 16:30:51,185 - logger - INFO - retrieve station status
+2024-04-16 16:30:51,588 - logger - INFO - request status: Successful
+2024-04-16 16:30:51,591 - logger - INFO - Successful dumping
+2024-04-16 16:30:51,591 - logger - INFO - retrieve station information
+2024-04-16 16:30:52,538 - logger - INFO - request status: Successful
+2024-04-16 16:30:52,556 - logger - INFO - Successful dumping
+2024-04-16 16:30:52,557 - logger - INFO - ------
