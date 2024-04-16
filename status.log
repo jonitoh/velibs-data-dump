@@ -8320,3 +8320,11 @@
 2024-04-16 14:29:16,496 - logger - INFO - request status: Successful
 2024-04-16 14:29:16,514 - logger - INFO - Successful dumping
 2024-04-16 14:29:16,515 - logger - INFO - ------
+2024-04-16 15:25:52,723 - logger - INFO - ------
+2024-04-16 15:25:52,723 - logger - INFO - retrieve station status
+2024-04-16 15:25:53,244 - logger - INFO - request status: Successful
+2024-04-16 15:25:53,247 - logger - INFO - Successful dumping
+2024-04-16 15:25:53,248 - logger - INFO - retrieve station information
+2024-04-16 15:25:54,547 - logger - INFO - request status: Successful
+2024-04-16 15:25:54,565 - logger - INFO - Successful dumping
+2024-04-16 15:25:54,566 - logger - INFO - ------
