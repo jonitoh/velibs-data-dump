@@ -8544,3 +8544,11 @@
 2024-04-17 19:25:35,546 - logger - INFO - request status: Successful
 2024-04-17 19:25:35,565 - logger - INFO - Successful dumping
 2024-04-17 19:25:35,566 - logger - INFO - ------
+2024-04-17 20:25:59,593 - logger - INFO - ------
+2024-04-17 20:25:59,593 - logger - INFO - retrieve station status
+2024-04-17 20:26:00,002 - logger - INFO - request status: Successful
+2024-04-17 20:26:00,005 - logger - INFO - Successful dumping
+2024-04-17 20:26:00,006 - logger - INFO - retrieve station information
+2024-04-17 20:26:00,962 - logger - INFO - request status: Successful
+2024-04-17 20:26:00,981 - logger - INFO - Successful dumping
+2024-04-17 20:26:00,982 - logger - INFO - ------
