@@ -8512,3 +8512,11 @@
 2024-04-17 15:28:06,999 - logger - INFO - request status: Successful
 2024-04-17 15:28:07,018 - logger - INFO - Successful dumping
 2024-04-17 15:28:07,019 - logger - INFO - ------
+2024-04-17 16:34:04,613 - logger - INFO - ------
+2024-04-17 16:34:04,613 - logger - INFO - retrieve station status
+2024-04-17 16:34:04,955 - logger - INFO - request status: Successful
+2024-04-17 16:34:04,957 - logger - INFO - Successful dumping
+2024-04-17 16:34:04,958 - logger - INFO - retrieve station information
+2024-04-17 16:34:05,788 - logger - INFO - request status: Successful
+2024-04-17 16:34:05,806 - logger - INFO - Successful dumping
+2024-04-17 16:34:05,807 - logger - INFO - ------
