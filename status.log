@@ -8440,3 +8440,11 @@
 2024-04-17 06:32:19,117 - logger - INFO - request status: Successful
 2024-04-17 06:32:19,136 - logger - INFO - Successful dumping
 2024-04-17 06:32:19,137 - logger - INFO - ------
+2024-04-17 07:25:25,924 - logger - INFO - ------
+2024-04-17 07:25:25,924 - logger - INFO - retrieve station status
+2024-04-17 07:25:26,230 - logger - INFO - request status: Successful
+2024-04-17 07:25:26,233 - logger - INFO - Successful dumping
+2024-04-17 07:25:26,234 - logger - INFO - retrieve station information
+2024-04-17 07:25:27,001 - logger - INFO - request status: Successful
+2024-04-17 07:25:27,019 - logger - INFO - Successful dumping
+2024-04-17 07:25:27,020 - logger - INFO - ------
