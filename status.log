@@ -8504,3 +8504,11 @@
 2024-04-17 14:28:50,738 - logger - INFO - request status: Successful
 2024-04-17 14:28:50,756 - logger - INFO - Successful dumping
 2024-04-17 14:28:50,758 - logger - INFO - ------
+2024-04-17 15:28:05,126 - logger - INFO - ------
+2024-04-17 15:28:05,126 - logger - INFO - retrieve station status
+2024-04-17 15:28:05,681 - logger - INFO - request status: Successful
+2024-04-17 15:28:05,683 - logger - INFO - Successful dumping
+2024-04-17 15:28:05,684 - logger - INFO - retrieve station information
+2024-04-17 15:28:06,999 - logger - INFO - request status: Successful
+2024-04-17 15:28:07,018 - logger - INFO - Successful dumping
+2024-04-17 15:28:07,019 - logger - INFO - ------
