@@ -8552,3 +8552,11 @@
 2024-04-17 20:26:00,962 - logger - INFO - request status: Successful
 2024-04-17 20:26:00,981 - logger - INFO - Successful dumping
 2024-04-17 20:26:00,982 - logger - INFO - ------
+2024-04-17 21:25:30,546 - logger - INFO - ------
+2024-04-17 21:25:30,546 - logger - INFO - retrieve station status
+2024-04-17 21:25:30,925 - logger - INFO - request status: Successful
+2024-04-17 21:25:30,928 - logger - INFO - Successful dumping
+2024-04-17 21:25:30,928 - logger - INFO - retrieve station information
+2024-04-17 21:25:31,875 - logger - INFO - request status: Successful
+2024-04-17 21:25:31,895 - logger - INFO - Successful dumping
+2024-04-17 21:25:31,896 - logger - INFO - ------
