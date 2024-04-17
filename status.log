@@ -8488,3 +8488,11 @@
 2024-04-17 12:43:20,634 - logger - INFO - request status: Successful
 2024-04-17 12:43:20,652 - logger - INFO - Successful dumping
 2024-04-17 12:43:20,653 - logger - INFO - ------
+2024-04-17 13:26:31,343 - logger - INFO - ------
+2024-04-17 13:26:31,343 - logger - INFO - retrieve station status
+2024-04-17 13:26:32,202 - logger - INFO - request status: Successful
+2024-04-17 13:26:32,205 - logger - INFO - Successful dumping
+2024-04-17 13:26:32,206 - logger - INFO - retrieve station information
+2024-04-17 13:26:33,499 - logger - INFO - request status: Successful
+2024-04-17 13:26:33,517 - logger - INFO - Successful dumping
+2024-04-17 13:26:33,519 - logger - INFO - ------
