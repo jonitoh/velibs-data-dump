@@ -8416,3 +8416,11 @@
 2024-04-17 03:25:56,947 - logger - INFO - request status: Successful
 2024-04-17 03:25:56,965 - logger - INFO - Successful dumping
 2024-04-17 03:25:56,966 - logger - INFO - ------
+2024-04-17 04:30:02,030 - logger - INFO - ------
+2024-04-17 04:30:02,030 - logger - INFO - retrieve station status
+2024-04-17 04:30:02,568 - logger - INFO - request status: Successful
+2024-04-17 04:30:02,570 - logger - INFO - Successful dumping
+2024-04-17 04:30:02,571 - logger - INFO - retrieve station information
+2024-04-17 04:30:03,869 - logger - INFO - request status: Successful
+2024-04-17 04:30:03,887 - logger - INFO - Successful dumping
+2024-04-17 04:30:03,888 - logger - INFO - ------
