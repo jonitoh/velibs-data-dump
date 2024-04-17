@@ -8432,3 +8432,11 @@
 2024-04-17 05:28:21,945 - logger - INFO - request status: Successful
 2024-04-17 05:28:21,964 - logger - INFO - Successful dumping
 2024-04-17 05:28:21,965 - logger - INFO - ------
+2024-04-17 06:32:17,744 - logger - INFO - ------
+2024-04-17 06:32:17,744 - logger - INFO - retrieve station status
+2024-04-17 06:32:18,143 - logger - INFO - request status: Successful
+2024-04-17 06:32:18,146 - logger - INFO - Successful dumping
+2024-04-17 06:32:18,147 - logger - INFO - retrieve station information
+2024-04-17 06:32:19,117 - logger - INFO - request status: Successful
+2024-04-17 06:32:19,136 - logger - INFO - Successful dumping
+2024-04-17 06:32:19,137 - logger - INFO - ------
