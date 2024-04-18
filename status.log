@@ -8728,3 +8728,11 @@
 2024-04-18 19:25:32,640 - logger - INFO - request status: Successful
 2024-04-18 19:25:32,659 - logger - INFO - Successful dumping
 2024-04-18 19:25:32,660 - logger - INFO - ------
+2024-04-18 20:25:39,781 - logger - INFO - ------
+2024-04-18 20:25:39,781 - logger - INFO - retrieve station status
+2024-04-18 20:25:40,329 - logger - INFO - request status: Successful
+2024-04-18 20:25:40,332 - logger - INFO - Successful dumping
+2024-04-18 20:25:40,332 - logger - INFO - retrieve station information
+2024-04-18 20:25:41,291 - logger - INFO - request status: Successful
+2024-04-18 20:25:41,309 - logger - INFO - Successful dumping
+2024-04-18 20:25:41,310 - logger - INFO - ------
