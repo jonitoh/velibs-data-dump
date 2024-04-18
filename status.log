@@ -8600,3 +8600,11 @@
 2024-04-18 03:25:32,886 - logger - INFO - request status: Successful
 2024-04-18 03:25:32,904 - logger - INFO - Successful dumping
 2024-04-18 03:25:32,905 - logger - INFO - ------
+2024-04-18 04:29:02,023 - logger - INFO - ------
+2024-04-18 04:29:02,023 - logger - INFO - retrieve station status
+2024-04-18 04:29:02,397 - logger - INFO - request status: Successful
+2024-04-18 04:29:02,400 - logger - INFO - Successful dumping
+2024-04-18 04:29:02,400 - logger - INFO - retrieve station information
+2024-04-18 04:29:03,278 - logger - INFO - request status: Successful
+2024-04-18 04:29:03,296 - logger - INFO - Successful dumping
+2024-04-18 04:29:03,297 - logger - INFO - ------
