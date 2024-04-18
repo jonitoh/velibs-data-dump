@@ -8664,3 +8664,11 @@
 2024-04-18 11:25:38,440 - logger - INFO - request status: Successful
 2024-04-18 11:25:38,458 - logger - INFO - Successful dumping
 2024-04-18 11:25:38,459 - logger - INFO - ------
+2024-04-18 12:42:11,397 - logger - INFO - ------
+2024-04-18 12:42:11,397 - logger - INFO - retrieve station status
+2024-04-18 12:42:12,257 - logger - INFO - request status: Successful
+2024-04-18 12:42:12,261 - logger - INFO - Successful dumping
+2024-04-18 12:42:12,262 - logger - INFO - retrieve station information
+2024-04-18 12:42:13,574 - logger - INFO - request status: Successful
+2024-04-18 12:42:13,593 - logger - INFO - Successful dumping
+2024-04-18 12:42:13,594 - logger - INFO - ------
