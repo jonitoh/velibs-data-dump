@@ -8712,3 +8712,11 @@
 2024-04-18 17:27:27,630 - logger - INFO - request status: Successful
 2024-04-18 17:27:27,648 - logger - INFO - Successful dumping
 2024-04-18 17:27:27,649 - logger - INFO - ------
+2024-04-18 18:29:53,744 - logger - INFO - ------
+2024-04-18 18:29:53,744 - logger - INFO - retrieve station status
+2024-04-18 18:29:54,160 - logger - INFO - request status: Successful
+2024-04-18 18:29:54,162 - logger - INFO - Successful dumping
+2024-04-18 18:29:54,163 - logger - INFO - retrieve station information
+2024-04-18 18:29:54,956 - logger - INFO - request status: Successful
+2024-04-18 18:29:54,974 - logger - INFO - Successful dumping
+2024-04-18 18:29:54,975 - logger - INFO - ------
