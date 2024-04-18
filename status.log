@@ -8592,3 +8592,11 @@
 2024-04-18 02:35:23,043 - logger - INFO - request status: Successful
 2024-04-18 02:35:23,061 - logger - INFO - Successful dumping
 2024-04-18 02:35:23,062 - logger - INFO - ------
+2024-04-18 03:25:31,783 - logger - INFO - ------
+2024-04-18 03:25:31,784 - logger - INFO - retrieve station status
+2024-04-18 03:25:32,151 - logger - INFO - request status: Successful
+2024-04-18 03:25:32,154 - logger - INFO - Successful dumping
+2024-04-18 03:25:32,154 - logger - INFO - retrieve station information
+2024-04-18 03:25:32,886 - logger - INFO - request status: Successful
+2024-04-18 03:25:32,904 - logger - INFO - Successful dumping
+2024-04-18 03:25:32,905 - logger - INFO - ------
