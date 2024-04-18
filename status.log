@@ -8608,3 +8608,11 @@
 2024-04-18 04:29:03,278 - logger - INFO - request status: Successful
 2024-04-18 04:29:03,296 - logger - INFO - Successful dumping
 2024-04-18 04:29:03,297 - logger - INFO - ------
+2024-04-18 05:29:03,768 - logger - INFO - ------
+2024-04-18 05:29:03,768 - logger - INFO - retrieve station status
+2024-04-18 05:29:04,173 - logger - INFO - request status: Successful
+2024-04-18 05:29:04,176 - logger - INFO - Successful dumping
+2024-04-18 05:29:04,176 - logger - INFO - retrieve station information
+2024-04-18 05:29:04,982 - logger - INFO - request status: Successful
+2024-04-18 05:29:05,000 - logger - INFO - Successful dumping
+2024-04-18 05:29:05,001 - logger - INFO - ------
