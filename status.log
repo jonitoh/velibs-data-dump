@@ -8816,3 +8816,11 @@
 2024-04-19 07:25:50,416 - logger - INFO - request status: Successful
 2024-04-19 07:25:50,435 - logger - INFO - Successful dumping
 2024-04-19 07:25:50,436 - logger - INFO - ------
+2024-04-19 08:29:41,191 - logger - INFO - ------
+2024-04-19 08:29:41,191 - logger - INFO - retrieve station status
+2024-04-19 08:29:41,701 - logger - INFO - request status: Successful
+2024-04-19 08:29:41,703 - logger - INFO - Successful dumping
+2024-04-19 08:29:41,704 - logger - INFO - retrieve station information
+2024-04-19 08:29:43,054 - logger - INFO - request status: Successful
+2024-04-19 08:29:43,073 - logger - INFO - Successful dumping
+2024-04-19 08:29:43,073 - logger - INFO - ------
