@@ -8832,3 +8832,11 @@
 2024-04-19 09:26:23,673 - logger - INFO - request status: Successful
 2024-04-19 09:26:23,691 - logger - INFO - Successful dumping
 2024-04-19 09:26:23,692 - logger - INFO - ------
+2024-04-19 10:30:52,643 - logger - INFO - ------
+2024-04-19 10:30:52,643 - logger - INFO - retrieve station status
+2024-04-19 10:30:52,973 - logger - INFO - request status: Successful
+2024-04-19 10:30:52,975 - logger - INFO - Successful dumping
+2024-04-19 10:30:52,976 - logger - INFO - retrieve station information
+2024-04-19 10:30:53,758 - logger - INFO - request status: Successful
+2024-04-19 10:30:53,776 - logger - INFO - Successful dumping
+2024-04-19 10:30:53,778 - logger - INFO - ------
