@@ -8920,3 +8920,11 @@
 2024-04-19 20:25:37,125 - logger - INFO - request status: Successful
 2024-04-19 20:25:37,143 - logger - INFO - Successful dumping
 2024-04-19 20:25:37,144 - logger - INFO - ------
+2024-04-19 21:25:51,169 - logger - INFO - ------
+2024-04-19 21:25:51,169 - logger - INFO - retrieve station status
+2024-04-19 21:25:51,536 - logger - INFO - request status: Successful
+2024-04-19 21:25:51,538 - logger - INFO - Successful dumping
+2024-04-19 21:25:51,539 - logger - INFO - retrieve station information
+2024-04-19 21:25:52,515 - logger - INFO - request status: Successful
+2024-04-19 21:25:52,534 - logger - INFO - Successful dumping
+2024-04-19 21:25:52,536 - logger - INFO - ------
