@@ -8888,3 +8888,11 @@
 2024-04-19 16:32:59,104 - logger - INFO - request status: Successful
 2024-04-19 16:32:59,122 - logger - INFO - Successful dumping
 2024-04-19 16:32:59,123 - logger - INFO - ------
+2024-04-19 17:28:16,630 - logger - INFO - ------
+2024-04-19 17:28:16,630 - logger - INFO - retrieve station status
+2024-04-19 17:28:16,986 - logger - INFO - request status: Successful
+2024-04-19 17:28:16,988 - logger - INFO - Successful dumping
+2024-04-19 17:28:16,989 - logger - INFO - retrieve station information
+2024-04-19 17:28:18,074 - logger - INFO - request status: Successful
+2024-04-19 17:28:18,093 - logger - INFO - Successful dumping
+2024-04-19 17:28:18,094 - logger - INFO - ------
