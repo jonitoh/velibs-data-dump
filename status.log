@@ -8792,3 +8792,11 @@
 2024-04-19 04:29:02,934 - logger - INFO - request status: Successful
 2024-04-19 04:29:02,952 - logger - INFO - Successful dumping
 2024-04-19 04:29:02,953 - logger - INFO - ------
+2024-04-19 05:28:25,180 - logger - INFO - ------
+2024-04-19 05:28:25,180 - logger - INFO - retrieve station status
+2024-04-19 05:28:25,494 - logger - INFO - request status: Successful
+2024-04-19 05:28:25,497 - logger - INFO - Successful dumping
+2024-04-19 05:28:25,498 - logger - INFO - retrieve station information
+2024-04-19 05:28:26,242 - logger - INFO - request status: Successful
+2024-04-19 05:28:26,260 - logger - INFO - Successful dumping
+2024-04-19 05:28:26,261 - logger - INFO - ------
