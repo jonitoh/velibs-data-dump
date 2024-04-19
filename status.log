@@ -8880,3 +8880,11 @@
 2024-04-19 15:26:35,755 - logger - INFO - request status: Successful
 2024-04-19 15:26:35,773 - logger - INFO - Successful dumping
 2024-04-19 15:26:35,774 - logger - INFO - ------
+2024-04-19 16:32:57,986 - logger - INFO - ------
+2024-04-19 16:32:57,986 - logger - INFO - retrieve station status
+2024-04-19 16:32:58,308 - logger - INFO - request status: Successful
+2024-04-19 16:32:58,311 - logger - INFO - Successful dumping
+2024-04-19 16:32:58,311 - logger - INFO - retrieve station information
+2024-04-19 16:32:59,104 - logger - INFO - request status: Successful
+2024-04-19 16:32:59,122 - logger - INFO - Successful dumping
+2024-04-19 16:32:59,123 - logger - INFO - ------
