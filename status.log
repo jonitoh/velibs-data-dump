@@ -8928,3 +8928,11 @@
 2024-04-19 21:25:52,515 - logger - INFO - request status: Successful
 2024-04-19 21:25:52,534 - logger - INFO - Successful dumping
 2024-04-19 21:25:52,536 - logger - INFO - ------
+2024-04-19 22:28:29,495 - logger - INFO - ------
+2024-04-19 22:28:29,495 - logger - INFO - retrieve station status
+2024-04-19 22:28:30,001 - logger - INFO - request status: Successful
+2024-04-19 22:28:30,004 - logger - INFO - Successful dumping
+2024-04-19 22:28:30,004 - logger - INFO - retrieve station information
+2024-04-19 22:28:31,262 - logger - INFO - request status: Successful
+2024-04-19 22:28:31,280 - logger - INFO - Successful dumping
+2024-04-19 22:28:31,281 - logger - INFO - ------
