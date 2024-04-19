@@ -8800,3 +8800,11 @@
 2024-04-19 05:28:26,242 - logger - INFO - request status: Successful
 2024-04-19 05:28:26,260 - logger - INFO - Successful dumping
 2024-04-19 05:28:26,261 - logger - INFO - ------
+2024-04-19 06:30:54,444 - logger - INFO - ------
+2024-04-19 06:30:54,444 - logger - INFO - retrieve station status
+2024-04-19 06:30:54,817 - logger - INFO - request status: Successful
+2024-04-19 06:30:54,820 - logger - INFO - Successful dumping
+2024-04-19 06:30:54,820 - logger - INFO - retrieve station information
+2024-04-19 06:30:55,731 - logger - INFO - request status: Successful
+2024-04-19 06:30:55,750 - logger - INFO - Successful dumping
+2024-04-19 06:30:55,751 - logger - INFO - ------
