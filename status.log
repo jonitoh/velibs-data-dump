@@ -8784,3 +8784,11 @@
 2024-04-19 03:27:17,908 - logger - INFO - request status: Successful
 2024-04-19 03:27:17,926 - logger - INFO - Successful dumping
 2024-04-19 03:27:17,928 - logger - INFO - ------
+2024-04-19 04:29:01,802 - logger - INFO - ------
+2024-04-19 04:29:01,802 - logger - INFO - retrieve station status
+2024-04-19 04:29:02,119 - logger - INFO - request status: Successful
+2024-04-19 04:29:02,122 - logger - INFO - Successful dumping
+2024-04-19 04:29:02,123 - logger - INFO - retrieve station information
+2024-04-19 04:29:02,934 - logger - INFO - request status: Successful
+2024-04-19 04:29:02,952 - logger - INFO - Successful dumping
+2024-04-19 04:29:02,953 - logger - INFO - ------
