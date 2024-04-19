@@ -8936,3 +8936,11 @@
 2024-04-19 22:28:31,262 - logger - INFO - request status: Successful
 2024-04-19 22:28:31,280 - logger - INFO - Successful dumping
 2024-04-19 22:28:31,281 - logger - INFO - ------
+2024-04-19 23:26:55,234 - logger - INFO - ------
+2024-04-19 23:26:55,234 - logger - INFO - retrieve station status
+2024-04-19 23:26:55,739 - logger - INFO - request status: Successful
+2024-04-19 23:26:55,741 - logger - INFO - Successful dumping
+2024-04-19 23:26:55,742 - logger - INFO - retrieve station information
+2024-04-19 23:26:56,982 - logger - INFO - request status: Successful
+2024-04-19 23:26:57,000 - logger - INFO - Successful dumping
+2024-04-19 23:26:57,002 - logger - INFO - ------
