@@ -8960,3 +8960,11 @@
 2024-04-20 02:30:48,860 - logger - INFO - request status: Successful
 2024-04-20 02:30:48,879 - logger - INFO - Successful dumping
 2024-04-20 02:30:48,880 - logger - INFO - ------
+2024-04-20 03:26:09,975 - logger - INFO - ------
+2024-04-20 03:26:09,975 - logger - INFO - retrieve station status
+2024-04-20 03:26:10,401 - logger - INFO - request status: Successful
+2024-04-20 03:26:10,403 - logger - INFO - Successful dumping
+2024-04-20 03:26:10,404 - logger - INFO - retrieve station information
+2024-04-20 03:26:11,354 - logger - INFO - request status: Successful
+2024-04-20 03:26:11,372 - logger - INFO - Successful dumping
+2024-04-20 03:26:11,373 - logger - INFO - ------
