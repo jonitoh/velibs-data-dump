@@ -8952,3 +8952,11 @@
 2024-04-20 01:30:06,350 - logger - INFO - request status: Successful
 2024-04-20 01:30:06,368 - logger - INFO - Successful dumping
 2024-04-20 01:30:06,369 - logger - INFO - ------
+2024-04-20 02:30:47,512 - logger - INFO - ------
+2024-04-20 02:30:47,513 - logger - INFO - retrieve station status
+2024-04-20 02:30:47,877 - logger - INFO - request status: Successful
+2024-04-20 02:30:47,880 - logger - INFO - Successful dumping
+2024-04-20 02:30:47,881 - logger - INFO - retrieve station information
+2024-04-20 02:30:48,860 - logger - INFO - request status: Successful
+2024-04-20 02:30:48,879 - logger - INFO - Successful dumping
+2024-04-20 02:30:48,880 - logger - INFO - ------
