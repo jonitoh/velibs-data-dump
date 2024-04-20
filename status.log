@@ -9104,3 +9104,11 @@
 2024-04-20 20:25:39,399 - logger - INFO - request status: Successful
 2024-04-20 20:25:39,417 - logger - INFO - Successful dumping
 2024-04-20 20:25:39,418 - logger - INFO - ------
+2024-04-20 21:25:30,561 - logger - INFO - ------
+2024-04-20 21:25:30,561 - logger - INFO - retrieve station status
+2024-04-20 21:25:30,956 - logger - INFO - request status: Successful
+2024-04-20 21:25:30,958 - logger - INFO - Successful dumping
+2024-04-20 21:25:30,959 - logger - INFO - retrieve station information
+2024-04-20 21:25:31,921 - logger - INFO - request status: Successful
+2024-04-20 21:25:31,939 - logger - INFO - Successful dumping
+2024-04-20 21:25:31,940 - logger - INFO - ------
