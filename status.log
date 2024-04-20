@@ -8976,3 +8976,11 @@
 2024-04-20 04:30:00,273 - logger - INFO - request status: Successful
 2024-04-20 04:30:00,291 - logger - INFO - Successful dumping
 2024-04-20 04:30:00,292 - logger - INFO - ------
+2024-04-20 05:27:47,476 - logger - INFO - ------
+2024-04-20 05:27:47,476 - logger - INFO - retrieve station status
+2024-04-20 05:27:47,826 - logger - INFO - request status: Successful
+2024-04-20 05:27:47,828 - logger - INFO - Successful dumping
+2024-04-20 05:27:47,829 - logger - INFO - retrieve station information
+2024-04-20 05:27:48,577 - logger - INFO - request status: Successful
+2024-04-20 05:27:48,595 - logger - INFO - Successful dumping
+2024-04-20 05:27:48,596 - logger - INFO - ------
