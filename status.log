@@ -9256,3 +9256,11 @@
 2024-04-21 16:31:14,288 - logger - INFO - request status: Successful
 2024-04-21 16:31:14,306 - logger - INFO - Successful dumping
 2024-04-21 16:31:14,307 - logger - INFO - ------
+2024-04-21 17:28:09,653 - logger - INFO - ------
+2024-04-21 17:28:09,653 - logger - INFO - retrieve station status
+2024-04-21 17:28:10,049 - logger - INFO - request status: Successful
+2024-04-21 17:28:10,052 - logger - INFO - Successful dumping
+2024-04-21 17:28:10,053 - logger - INFO - retrieve station information
+2024-04-21 17:28:10,859 - logger - INFO - request status: Successful
+2024-04-21 17:28:10,877 - logger - INFO - Successful dumping
+2024-04-21 17:28:10,878 - logger - INFO - ------
