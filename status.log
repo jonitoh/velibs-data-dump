@@ -9168,3 +9168,11 @@
 2024-04-21 05:29:14,142 - logger - INFO - request status: Successful
 2024-04-21 05:29:14,164 - logger - INFO - Successful dumping
 2024-04-21 05:29:14,165 - logger - INFO - ------
+2024-04-21 06:30:40,923 - logger - INFO - ------
+2024-04-21 06:30:40,923 - logger - INFO - retrieve station status
+2024-04-21 06:30:41,283 - logger - INFO - request status: Successful
+2024-04-21 06:30:41,286 - logger - INFO - Successful dumping
+2024-04-21 06:30:41,286 - logger - INFO - retrieve station information
+2024-04-21 06:30:42,085 - logger - INFO - request status: Successful
+2024-04-21 06:30:42,103 - logger - INFO - Successful dumping
+2024-04-21 06:30:42,104 - logger - INFO - ------
