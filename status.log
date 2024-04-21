@@ -9264,3 +9264,11 @@
 2024-04-21 17:28:10,859 - logger - INFO - request status: Successful
 2024-04-21 17:28:10,877 - logger - INFO - Successful dumping
 2024-04-21 17:28:10,878 - logger - INFO - ------
+2024-04-21 18:29:04,601 - logger - INFO - ------
+2024-04-21 18:29:04,601 - logger - INFO - retrieve station status
+2024-04-21 18:29:05,059 - logger - INFO - request status: Successful
+2024-04-21 18:29:05,061 - logger - INFO - Successful dumping
+2024-04-21 18:29:05,062 - logger - INFO - retrieve station information
+2024-04-21 18:29:06,285 - logger - INFO - request status: Successful
+2024-04-21 18:29:06,303 - logger - INFO - Successful dumping
+2024-04-21 18:29:06,304 - logger - INFO - ------
