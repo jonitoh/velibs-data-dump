@@ -9184,3 +9184,11 @@
 2024-04-21 07:25:42,846 - logger - INFO - request status: Successful
 2024-04-21 07:25:42,864 - logger - INFO - Successful dumping
 2024-04-21 07:25:42,865 - logger - INFO - ------
+2024-04-21 08:28:01,207 - logger - INFO - ------
+2024-04-21 08:28:01,207 - logger - INFO - retrieve station status
+2024-04-21 08:28:01,775 - logger - INFO - request status: Successful
+2024-04-21 08:28:01,778 - logger - INFO - Successful dumping
+2024-04-21 08:28:01,779 - logger - INFO - retrieve station information
+2024-04-21 08:28:03,146 - logger - INFO - request status: Successful
+2024-04-21 08:28:03,164 - logger - INFO - Successful dumping
+2024-04-21 08:28:03,165 - logger - INFO - ------
