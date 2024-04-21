@@ -9296,3 +9296,11 @@
 2024-04-21 21:25:39,530 - logger - INFO - request status: Successful
 2024-04-21 21:25:39,548 - logger - INFO - Successful dumping
 2024-04-21 21:25:39,549 - logger - INFO - ------
+2024-04-21 22:29:18,990 - logger - INFO - ------
+2024-04-21 22:29:18,990 - logger - INFO - retrieve station status
+2024-04-21 22:29:19,349 - logger - INFO - request status: Successful
+2024-04-21 22:29:19,352 - logger - INFO - Successful dumping
+2024-04-21 22:29:19,353 - logger - INFO - retrieve station information
+2024-04-21 22:29:20,299 - logger - INFO - request status: Successful
+2024-04-21 22:29:20,317 - logger - INFO - Successful dumping
+2024-04-21 22:29:20,318 - logger - INFO - ------
