@@ -9216,3 +9216,11 @@
 2024-04-21 11:25:41,627 - logger - INFO - request status: Successful
 2024-04-21 11:25:41,645 - logger - INFO - Successful dumping
 2024-04-21 11:25:41,646 - logger - INFO - ------
+2024-04-21 12:41:20,343 - logger - INFO - ------
+2024-04-21 12:41:20,343 - logger - INFO - retrieve station status
+2024-04-21 12:41:20,706 - logger - INFO - request status: Successful
+2024-04-21 12:41:20,708 - logger - INFO - Successful dumping
+2024-04-21 12:41:20,709 - logger - INFO - retrieve station information
+2024-04-21 12:41:21,499 - logger - INFO - request status: Successful
+2024-04-21 12:41:21,517 - logger - INFO - Successful dumping
+2024-04-21 12:41:21,518 - logger - INFO - ------
