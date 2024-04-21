@@ -9272,3 +9272,11 @@
 2024-04-21 18:29:06,285 - logger - INFO - request status: Successful
 2024-04-21 18:29:06,303 - logger - INFO - Successful dumping
 2024-04-21 18:29:06,304 - logger - INFO - ------
+2024-04-21 19:25:47,871 - logger - INFO - ------
+2024-04-21 19:25:47,871 - logger - INFO - retrieve station status
+2024-04-21 19:25:48,241 - logger - INFO - request status: Successful
+2024-04-21 19:25:48,243 - logger - INFO - Successful dumping
+2024-04-21 19:25:48,244 - logger - INFO - retrieve station information
+2024-04-21 19:25:49,039 - logger - INFO - request status: Successful
+2024-04-21 19:25:49,057 - logger - INFO - Successful dumping
+2024-04-21 19:25:49,058 - logger - INFO - ------
