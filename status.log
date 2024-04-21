@@ -9304,3 +9304,11 @@
 2024-04-21 22:29:20,299 - logger - INFO - request status: Successful
 2024-04-21 22:29:20,317 - logger - INFO - Successful dumping
 2024-04-21 22:29:20,318 - logger - INFO - ------
+2024-04-21 23:25:42,072 - logger - INFO - ------
+2024-04-21 23:25:42,072 - logger - INFO - retrieve station status
+2024-04-21 23:25:42,585 - logger - INFO - request status: Successful
+2024-04-21 23:25:42,587 - logger - INFO - Successful dumping
+2024-04-21 23:25:42,588 - logger - INFO - retrieve station information
+2024-04-21 23:25:43,890 - logger - INFO - request status: Successful
+2024-04-21 23:25:43,909 - logger - INFO - Successful dumping
+2024-04-21 23:25:43,910 - logger - INFO - ------
