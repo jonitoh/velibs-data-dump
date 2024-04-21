@@ -9240,3 +9240,11 @@
 2024-04-21 14:26:55,327 - logger - INFO - request status: Successful
 2024-04-21 14:26:55,345 - logger - INFO - Successful dumping
 2024-04-21 14:26:55,346 - logger - INFO - ------
+2024-04-21 15:25:33,347 - logger - INFO - ------
+2024-04-21 15:25:33,348 - logger - INFO - retrieve station status
+2024-04-21 15:25:33,955 - logger - INFO - request status: Successful
+2024-04-21 15:25:33,958 - logger - INFO - Successful dumping
+2024-04-21 15:25:33,959 - logger - INFO - retrieve station information
+2024-04-21 15:25:35,261 - logger - INFO - request status: Successful
+2024-04-21 15:25:35,281 - logger - INFO - Successful dumping
+2024-04-21 15:25:35,282 - logger - INFO - ------
