@@ -9480,3 +9480,11 @@
 2024-04-22 21:25:35,331 - logger - INFO - request status: Successful
 2024-04-22 21:25:35,350 - logger - INFO - Successful dumping
 2024-04-22 21:25:35,351 - logger - INFO - ------
+2024-04-22 22:31:04,629 - logger - INFO - ------
+2024-04-22 22:31:04,629 - logger - INFO - retrieve station status
+2024-04-22 22:31:04,944 - logger - INFO - request status: Successful
+2024-04-22 22:31:04,947 - logger - INFO - Successful dumping
+2024-04-22 22:31:04,948 - logger - INFO - retrieve station information
+2024-04-22 22:31:05,733 - logger - INFO - request status: Successful
+2024-04-22 22:31:05,751 - logger - INFO - Successful dumping
+2024-04-22 22:31:05,753 - logger - INFO - ------
