@@ -9408,3 +9408,11 @@
 2024-04-22 12:44:11,365 - logger - INFO - request status: Successful
 2024-04-22 12:44:11,385 - logger - INFO - Successful dumping
 2024-04-22 12:44:11,386 - logger - INFO - ------
+2024-04-22 13:26:45,855 - logger - INFO - ------
+2024-04-22 13:26:45,855 - logger - INFO - retrieve station status
+2024-04-22 13:26:46,237 - logger - INFO - request status: Successful
+2024-04-22 13:26:46,240 - logger - INFO - Successful dumping
+2024-04-22 13:26:46,241 - logger - INFO - retrieve station information
+2024-04-22 13:26:47,082 - logger - INFO - request status: Successful
+2024-04-22 13:26:47,100 - logger - INFO - Successful dumping
+2024-04-22 13:26:47,101 - logger - INFO - ------
