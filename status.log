@@ -9344,3 +9344,11 @@
 2024-04-22 04:29:44,286 - logger - INFO - request status: Successful
 2024-04-22 04:29:44,304 - logger - INFO - Successful dumping
 2024-04-22 04:29:44,305 - logger - INFO - ------
+2024-04-22 05:29:00,349 - logger - INFO - ------
+2024-04-22 05:29:00,349 - logger - INFO - retrieve station status
+2024-04-22 05:29:00,756 - logger - INFO - request status: Successful
+2024-04-22 05:29:00,758 - logger - INFO - Successful dumping
+2024-04-22 05:29:00,759 - logger - INFO - retrieve station information
+2024-04-22 05:29:01,538 - logger - INFO - request status: Successful
+2024-04-22 05:29:01,556 - logger - INFO - Successful dumping
+2024-04-22 05:29:01,557 - logger - INFO - ------
