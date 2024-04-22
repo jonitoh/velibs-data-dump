@@ -9384,3 +9384,11 @@
 2024-04-22 09:26:33,167 - logger - INFO - request status: Successful
 2024-04-22 09:26:33,185 - logger - INFO - Successful dumping
 2024-04-22 09:26:33,186 - logger - INFO - ------
+2024-04-22 10:32:13,177 - logger - INFO - ------
+2024-04-22 10:32:13,177 - logger - INFO - retrieve station status
+2024-04-22 10:32:13,543 - logger - INFO - request status: Successful
+2024-04-22 10:32:13,545 - logger - INFO - Successful dumping
+2024-04-22 10:32:13,546 - logger - INFO - retrieve station information
+2024-04-22 10:32:14,320 - logger - INFO - request status: Successful
+2024-04-22 10:32:14,338 - logger - INFO - Successful dumping
+2024-04-22 10:32:14,339 - logger - INFO - ------
