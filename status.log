@@ -9456,3 +9456,11 @@
 2024-04-22 18:27:55,272 - logger - INFO - request status: Successful
 2024-04-22 18:27:55,293 - logger - INFO - Successful dumping
 2024-04-22 18:27:55,294 - logger - INFO - ------
+2024-04-22 19:25:28,401 - logger - INFO - ------
+2024-04-22 19:25:28,401 - logger - INFO - retrieve station status
+2024-04-22 19:25:28,837 - logger - INFO - request status: Successful
+2024-04-22 19:25:28,840 - logger - INFO - Successful dumping
+2024-04-22 19:25:28,841 - logger - INFO - retrieve station information
+2024-04-22 19:25:29,667 - logger - INFO - request status: Successful
+2024-04-22 19:25:29,686 - logger - INFO - Successful dumping
+2024-04-22 19:25:29,687 - logger - INFO - ------
