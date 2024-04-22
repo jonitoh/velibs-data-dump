@@ -9312,3 +9312,11 @@
 2024-04-21 23:25:43,890 - logger - INFO - request status: Successful
 2024-04-21 23:25:43,909 - logger - INFO - Successful dumping
 2024-04-21 23:25:43,910 - logger - INFO - ------
+2024-04-22 01:34:01,746 - logger - INFO - ------
+2024-04-22 01:34:01,746 - logger - INFO - retrieve station status
+2024-04-22 01:34:02,077 - logger - INFO - request status: Successful
+2024-04-22 01:34:02,080 - logger - INFO - Successful dumping
+2024-04-22 01:34:02,080 - logger - INFO - retrieve station information
+2024-04-22 01:34:02,893 - logger - INFO - request status: Successful
+2024-04-22 01:34:02,912 - logger - INFO - Successful dumping
+2024-04-22 01:34:02,913 - logger - INFO - ------
