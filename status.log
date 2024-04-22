@@ -9400,3 +9400,11 @@
 2024-04-22 11:25:38,520 - logger - INFO - request status: Successful
 2024-04-22 11:25:38,538 - logger - INFO - Successful dumping
 2024-04-22 11:25:38,539 - logger - INFO - ------
+2024-04-22 12:44:10,229 - logger - INFO - ------
+2024-04-22 12:44:10,229 - logger - INFO - retrieve station status
+2024-04-22 12:44:10,526 - logger - INFO - request status: Successful
+2024-04-22 12:44:10,529 - logger - INFO - Successful dumping
+2024-04-22 12:44:10,530 - logger - INFO - retrieve station information
+2024-04-22 12:44:11,365 - logger - INFO - request status: Successful
+2024-04-22 12:44:11,385 - logger - INFO - Successful dumping
+2024-04-22 12:44:11,386 - logger - INFO - ------
