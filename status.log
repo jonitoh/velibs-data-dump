@@ -9592,3 +9592,11 @@
 2024-04-23 12:43:54,322 - logger - INFO - request status: Successful
 2024-04-23 12:43:54,341 - logger - INFO - Successful dumping
 2024-04-23 12:43:54,342 - logger - INFO - ------
+2024-04-23 13:25:56,363 - logger - INFO - ------
+2024-04-23 13:25:56,363 - logger - INFO - retrieve station status
+2024-04-23 13:25:56,846 - logger - INFO - request status: Successful
+2024-04-23 13:25:56,849 - logger - INFO - Successful dumping
+2024-04-23 13:25:56,850 - logger - INFO - retrieve station information
+2024-04-23 13:25:58,150 - logger - INFO - request status: Successful
+2024-04-23 13:25:58,168 - logger - INFO - Successful dumping
+2024-04-23 13:25:58,169 - logger - INFO - ------
