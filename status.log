@@ -9632,3 +9632,11 @@
 2024-04-23 17:29:17,616 - logger - INFO - request status: Successful
 2024-04-23 17:29:17,635 - logger - INFO - Successful dumping
 2024-04-23 17:29:17,636 - logger - INFO - ------
+2024-04-23 18:29:24,176 - logger - INFO - ------
+2024-04-23 18:29:24,176 - logger - INFO - retrieve station status
+2024-04-23 18:29:24,503 - logger - INFO - request status: Successful
+2024-04-23 18:29:24,506 - logger - INFO - Successful dumping
+2024-04-23 18:29:24,507 - logger - INFO - retrieve station information
+2024-04-23 18:29:25,300 - logger - INFO - request status: Successful
+2024-04-23 18:29:25,318 - logger - INFO - Successful dumping
+2024-04-23 18:29:25,320 - logger - INFO - ------
