@@ -9664,3 +9664,11 @@
 2024-04-23 21:25:43,052 - logger - INFO - request status: Successful
 2024-04-23 21:25:43,071 - logger - INFO - Successful dumping
 2024-04-23 21:25:43,072 - logger - INFO - ------
+2024-04-23 22:29:45,292 - logger - INFO - ------
+2024-04-23 22:29:45,292 - logger - INFO - retrieve station status
+2024-04-23 22:29:45,664 - logger - INFO - request status: Successful
+2024-04-23 22:29:45,666 - logger - INFO - Successful dumping
+2024-04-23 22:29:45,667 - logger - INFO - retrieve station information
+2024-04-23 22:29:46,460 - logger - INFO - request status: Successful
+2024-04-23 22:29:46,479 - logger - INFO - Successful dumping
+2024-04-23 22:29:46,480 - logger - INFO - ------
