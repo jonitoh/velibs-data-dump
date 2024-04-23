@@ -9568,3 +9568,11 @@
 2024-04-23 09:25:33,590 - logger - INFO - request status: Successful
 2024-04-23 09:25:33,609 - logger - INFO - Successful dumping
 2024-04-23 09:25:33,610 - logger - INFO - ------
+2024-04-23 10:30:06,355 - logger - INFO - ------
+2024-04-23 10:30:06,355 - logger - INFO - retrieve station status
+2024-04-23 10:30:06,645 - logger - INFO - request status: Successful
+2024-04-23 10:30:06,648 - logger - INFO - Successful dumping
+2024-04-23 10:30:06,649 - logger - INFO - retrieve station information
+2024-04-23 10:30:07,425 - logger - INFO - request status: Successful
+2024-04-23 10:30:07,444 - logger - INFO - Successful dumping
+2024-04-23 10:30:07,445 - logger - INFO - ------
