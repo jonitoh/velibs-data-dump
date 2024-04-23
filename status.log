@@ -9520,3 +9520,11 @@
 2024-04-23 03:26:08,773 - logger - INFO - request status: Successful
 2024-04-23 03:26:08,791 - logger - INFO - Successful dumping
 2024-04-23 03:26:08,792 - logger - INFO - ------
+2024-04-23 04:30:11,190 - logger - INFO - ------
+2024-04-23 04:30:11,190 - logger - INFO - retrieve station status
+2024-04-23 04:30:11,479 - logger - INFO - request status: Successful
+2024-04-23 04:30:11,481 - logger - INFO - Successful dumping
+2024-04-23 04:30:11,482 - logger - INFO - retrieve station information
+2024-04-23 04:30:12,255 - logger - INFO - request status: Successful
+2024-04-23 04:30:12,273 - logger - INFO - Successful dumping
+2024-04-23 04:30:12,274 - logger - INFO - ------
