@@ -9640,3 +9640,11 @@
 2024-04-23 18:29:25,300 - logger - INFO - request status: Successful
 2024-04-23 18:29:25,318 - logger - INFO - Successful dumping
 2024-04-23 18:29:25,320 - logger - INFO - ------
+2024-04-23 19:25:35,546 - logger - INFO - ------
+2024-04-23 19:25:35,546 - logger - INFO - retrieve station status
+2024-04-23 19:25:35,938 - logger - INFO - request status: Successful
+2024-04-23 19:25:35,941 - logger - INFO - Successful dumping
+2024-04-23 19:25:35,942 - logger - INFO - retrieve station information
+2024-04-23 19:25:37,049 - logger - INFO - request status: Successful
+2024-04-23 19:25:37,067 - logger - INFO - Successful dumping
+2024-04-23 19:25:37,068 - logger - INFO - ------
