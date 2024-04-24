@@ -9680,3 +9680,11 @@
 2024-04-23 23:25:37,789 - logger - INFO - request status: Successful
 2024-04-23 23:25:37,807 - logger - INFO - Successful dumping
 2024-04-23 23:25:37,808 - logger - INFO - ------
+2024-04-24 01:36:27,980 - logger - INFO - ------
+2024-04-24 01:36:27,981 - logger - INFO - retrieve station status
+2024-04-24 01:36:28,345 - logger - INFO - request status: Successful
+2024-04-24 01:36:28,348 - logger - INFO - Successful dumping
+2024-04-24 01:36:28,348 - logger - INFO - retrieve station information
+2024-04-24 01:36:29,142 - logger - INFO - request status: Successful
+2024-04-24 01:36:29,161 - logger - INFO - Successful dumping
+2024-04-24 01:36:29,162 - logger - INFO - ------
