@@ -9816,3 +9816,11 @@
 2024-04-24 18:29:28,052 - logger - INFO - request status: Successful
 2024-04-24 18:29:28,070 - logger - INFO - Successful dumping
 2024-04-24 18:29:28,071 - logger - INFO - ------
+2024-04-24 19:25:28,106 - logger - INFO - ------
+2024-04-24 19:25:28,106 - logger - INFO - retrieve station status
+2024-04-24 19:25:28,684 - logger - INFO - request status: Successful
+2024-04-24 19:25:28,687 - logger - INFO - Successful dumping
+2024-04-24 19:25:28,688 - logger - INFO - retrieve station information
+2024-04-24 19:25:30,004 - logger - INFO - request status: Successful
+2024-04-24 19:25:30,022 - logger - INFO - Successful dumping
+2024-04-24 19:25:30,024 - logger - INFO - ------
