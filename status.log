@@ -9768,3 +9768,11 @@
 2024-04-24 11:25:48,343 - logger - INFO - request status: Successful
 2024-04-24 11:25:48,361 - logger - INFO - Successful dumping
 2024-04-24 11:25:48,362 - logger - INFO - ------
+2024-04-24 13:30:55,398 - logger - INFO - ------
+2024-04-24 13:30:55,398 - logger - INFO - retrieve station status
+2024-04-24 13:30:55,769 - logger - INFO - request status: Successful
+2024-04-24 13:30:55,772 - logger - INFO - Successful dumping
+2024-04-24 13:30:55,773 - logger - INFO - retrieve station information
+2024-04-24 13:30:56,722 - logger - INFO - request status: Successful
+2024-04-24 13:30:56,741 - logger - INFO - Successful dumping
+2024-04-24 13:30:56,742 - logger - INFO - ------
