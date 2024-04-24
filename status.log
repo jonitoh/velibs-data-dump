@@ -9720,3 +9720,11 @@
 2024-04-24 05:29:13,469 - logger - INFO - request status: Successful
 2024-04-24 05:29:13,488 - logger - INFO - Successful dumping
 2024-04-24 05:29:13,489 - logger - INFO - ------
+2024-04-24 06:34:49,331 - logger - INFO - ------
+2024-04-24 06:34:49,331 - logger - INFO - retrieve station status
+2024-04-24 06:34:49,724 - logger - INFO - request status: Successful
+2024-04-24 06:34:49,727 - logger - INFO - Successful dumping
+2024-04-24 06:34:49,728 - logger - INFO - retrieve station information
+2024-04-24 06:34:50,572 - logger - INFO - request status: Successful
+2024-04-24 06:34:50,590 - logger - INFO - Successful dumping
+2024-04-24 06:34:50,591 - logger - INFO - ------
