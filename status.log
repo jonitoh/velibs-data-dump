@@ -9760,3 +9760,11 @@
 2024-04-24 10:32:27,291 - logger - INFO - request status: Successful
 2024-04-24 10:32:27,309 - logger - INFO - Successful dumping
 2024-04-24 10:32:27,310 - logger - INFO - ------
+2024-04-24 11:25:47,124 - logger - INFO - ------
+2024-04-24 11:25:47,124 - logger - INFO - retrieve station status
+2024-04-24 11:25:47,516 - logger - INFO - request status: Successful
+2024-04-24 11:25:47,519 - logger - INFO - Successful dumping
+2024-04-24 11:25:47,520 - logger - INFO - retrieve station information
+2024-04-24 11:25:48,343 - logger - INFO - request status: Successful
+2024-04-24 11:25:48,361 - logger - INFO - Successful dumping
+2024-04-24 11:25:48,362 - logger - INFO - ------
