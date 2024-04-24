@@ -9800,3 +9800,11 @@
 2024-04-24 16:31:51,234 - logger - INFO - request status: Successful
 2024-04-24 16:31:51,253 - logger - INFO - Successful dumping
 2024-04-24 16:31:51,254 - logger - INFO - ------
+2024-04-24 17:29:48,497 - logger - INFO - ------
+2024-04-24 17:29:48,497 - logger - INFO - retrieve station status
+2024-04-24 17:29:48,796 - logger - INFO - request status: Successful
+2024-04-24 17:29:48,801 - logger - INFO - Successful dumping
+2024-04-24 17:29:48,801 - logger - INFO - retrieve station information
+2024-04-24 17:29:49,602 - logger - INFO - request status: Successful
+2024-04-24 17:29:49,620 - logger - INFO - Successful dumping
+2024-04-24 17:29:49,621 - logger - INFO - ------
