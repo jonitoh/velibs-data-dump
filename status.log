@@ -9928,3 +9928,11 @@
 2024-04-25 09:26:04,829 - logger - INFO - request status: Successful
 2024-04-25 09:26:04,847 - logger - INFO - Successful dumping
 2024-04-25 09:26:04,848 - logger - INFO - ------
+2024-04-25 10:31:13,516 - logger - INFO - ------
+2024-04-25 10:31:13,516 - logger - INFO - retrieve station status
+2024-04-25 10:31:13,898 - logger - INFO - request status: Successful
+2024-04-25 10:31:13,901 - logger - INFO - Successful dumping
+2024-04-25 10:31:13,902 - logger - INFO - retrieve station information
+2024-04-25 10:31:14,683 - logger - INFO - request status: Successful
+2024-04-25 10:31:14,701 - logger - INFO - Successful dumping
+2024-04-25 10:31:14,702 - logger - INFO - ------
