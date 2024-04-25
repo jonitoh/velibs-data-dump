@@ -9912,3 +9912,11 @@
 2024-04-25 07:25:41,276 - logger - INFO - request status: Successful
 2024-04-25 07:25:41,294 - logger - INFO - Successful dumping
 2024-04-25 07:25:41,295 - logger - INFO - ------
+2024-04-25 08:31:12,860 - logger - INFO - ------
+2024-04-25 08:31:12,860 - logger - INFO - retrieve station status
+2024-04-25 08:31:13,182 - logger - INFO - request status: Successful
+2024-04-25 08:31:13,184 - logger - INFO - Successful dumping
+2024-04-25 08:31:13,185 - logger - INFO - retrieve station information
+2024-04-25 08:31:13,978 - logger - INFO - request status: Successful
+2024-04-25 08:31:13,996 - logger - INFO - Successful dumping
+2024-04-25 08:31:13,997 - logger - INFO - ------
