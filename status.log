@@ -10008,3 +10008,11 @@
 2024-04-25 19:25:32,633 - logger - INFO - request status: Successful
 2024-04-25 19:25:32,652 - logger - INFO - Successful dumping
 2024-04-25 19:25:32,653 - logger - INFO - ------
+2024-04-25 20:25:58,853 - logger - INFO - ------
+2024-04-25 20:25:58,853 - logger - INFO - retrieve station status
+2024-04-25 20:25:59,289 - logger - INFO - request status: Successful
+2024-04-25 20:25:59,292 - logger - INFO - Successful dumping
+2024-04-25 20:25:59,293 - logger - INFO - retrieve station information
+2024-04-25 20:26:00,262 - logger - INFO - request status: Successful
+2024-04-25 20:26:00,281 - logger - INFO - Successful dumping
+2024-04-25 20:26:00,282 - logger - INFO - ------
