@@ -9904,3 +9904,11 @@
 2024-04-25 06:31:20,708 - logger - INFO - request status: Successful
 2024-04-25 06:31:20,727 - logger - INFO - Successful dumping
 2024-04-25 06:31:20,728 - logger - INFO - ------
+2024-04-25 07:25:40,111 - logger - INFO - ------
+2024-04-25 07:25:40,111 - logger - INFO - retrieve station status
+2024-04-25 07:25:40,456 - logger - INFO - request status: Successful
+2024-04-25 07:25:40,459 - logger - INFO - Successful dumping
+2024-04-25 07:25:40,459 - logger - INFO - retrieve station information
+2024-04-25 07:25:41,276 - logger - INFO - request status: Successful
+2024-04-25 07:25:41,294 - logger - INFO - Successful dumping
+2024-04-25 07:25:41,295 - logger - INFO - ------
