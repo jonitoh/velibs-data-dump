@@ -9960,3 +9960,11 @@
 2024-04-25 13:25:38,971 - logger - INFO - request status: Successful
 2024-04-25 13:25:38,989 - logger - INFO - Successful dumping
 2024-04-25 13:25:38,990 - logger - INFO - ------
+2024-04-25 14:25:50,455 - logger - INFO - ------
+2024-04-25 14:25:50,455 - logger - INFO - retrieve station status
+2024-04-25 14:25:50,995 - logger - INFO - request status: Successful
+2024-04-25 14:25:50,997 - logger - INFO - Successful dumping
+2024-04-25 14:25:50,998 - logger - INFO - retrieve station information
+2024-04-25 14:25:52,316 - logger - INFO - request status: Successful
+2024-04-25 14:25:52,334 - logger - INFO - Successful dumping
+2024-04-25 14:25:52,335 - logger - INFO - ------
