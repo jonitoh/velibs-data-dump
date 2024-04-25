@@ -9856,3 +9856,11 @@
 2024-04-24 23:27:53,560 - logger - INFO - request status: Successful
 2024-04-24 23:27:53,579 - logger - INFO - Successful dumping
 2024-04-24 23:27:53,580 - logger - INFO - ------
+2024-04-25 01:33:46,448 - logger - INFO - ------
+2024-04-25 01:33:46,449 - logger - INFO - retrieve station status
+2024-04-25 01:33:46,929 - logger - INFO - request status: Successful
+2024-04-25 01:33:46,932 - logger - INFO - Successful dumping
+2024-04-25 01:33:46,932 - logger - INFO - retrieve station information
+2024-04-25 01:33:48,244 - logger - INFO - request status: Successful
+2024-04-25 01:33:48,262 - logger - INFO - Successful dumping
+2024-04-25 01:33:48,263 - logger - INFO - ------
