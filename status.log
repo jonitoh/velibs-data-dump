@@ -9936,3 +9936,11 @@
 2024-04-25 10:31:14,683 - logger - INFO - request status: Successful
 2024-04-25 10:31:14,701 - logger - INFO - Successful dumping
 2024-04-25 10:31:14,702 - logger - INFO - ------
+2024-04-25 11:25:41,703 - logger - INFO - ------
+2024-04-25 11:25:41,704 - logger - INFO - retrieve station status
+2024-04-25 11:25:41,997 - logger - INFO - request status: Successful
+2024-04-25 11:25:42,000 - logger - INFO - Successful dumping
+2024-04-25 11:25:42,001 - logger - INFO - retrieve station information
+2024-04-25 11:25:42,793 - logger - INFO - request status: Successful
+2024-04-25 11:25:42,811 - logger - INFO - Successful dumping
+2024-04-25 11:25:42,812 - logger - INFO - ------
