@@ -10216,3 +10216,11 @@
 2024-04-26 22:30:56,385 - logger - INFO - request status: Successful
 2024-04-26 22:30:56,403 - logger - INFO - Successful dumping
 2024-04-26 22:30:56,404 - logger - INFO - ------
+2024-04-26 23:26:40,555 - logger - INFO - ------
+2024-04-26 23:26:40,555 - logger - INFO - retrieve station status
+2024-04-26 23:26:40,926 - logger - INFO - request status: Successful
+2024-04-26 23:26:40,929 - logger - INFO - Successful dumping
+2024-04-26 23:26:40,929 - logger - INFO - retrieve station information
+2024-04-26 23:26:41,694 - logger - INFO - request status: Successful
+2024-04-26 23:26:41,712 - logger - INFO - Successful dumping
+2024-04-26 23:26:41,713 - logger - INFO - ------
