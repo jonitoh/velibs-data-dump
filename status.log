@@ -10296,3 +10296,11 @@
 2024-04-27 09:25:45,978 - logger - INFO - request status: Successful
 2024-04-27 09:25:45,996 - logger - INFO - Successful dumping
 2024-04-27 09:25:45,997 - logger - INFO - ------
+2024-04-27 10:31:20,063 - logger - INFO - ------
+2024-04-27 10:31:20,063 - logger - INFO - retrieve station status
+2024-04-27 10:31:20,431 - logger - INFO - request status: Successful
+2024-04-27 10:31:20,433 - logger - INFO - Successful dumping
+2024-04-27 10:31:20,434 - logger - INFO - retrieve station information
+2024-04-27 10:31:21,404 - logger - INFO - request status: Successful
+2024-04-27 10:31:21,422 - logger - INFO - Successful dumping
+2024-04-27 10:31:21,423 - logger - INFO - ------
