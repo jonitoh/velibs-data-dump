@@ -10544,3 +10544,11 @@
 2024-04-28 17:26:41,988 - logger - INFO - request status: Successful
 2024-04-28 17:26:42,006 - logger - INFO - Successful dumping
 2024-04-28 17:26:42,007 - logger - INFO - ------
+2024-04-28 18:28:59,666 - logger - INFO - ------
+2024-04-28 18:28:59,666 - logger - INFO - retrieve station status
+2024-04-28 18:29:00,138 - logger - INFO - request status: Successful
+2024-04-28 18:29:00,141 - logger - INFO - Successful dumping
+2024-04-28 18:29:00,141 - logger - INFO - retrieve station information
+2024-04-28 18:29:01,436 - logger - INFO - request status: Successful
+2024-04-28 18:29:01,454 - logger - INFO - Successful dumping
+2024-04-28 18:29:01,455 - logger - INFO - ------
