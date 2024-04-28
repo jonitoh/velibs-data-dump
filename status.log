@@ -10528,3 +10528,11 @@
 2024-04-28 15:25:47,812 - logger - INFO - request status: Successful
 2024-04-28 15:25:47,830 - logger - INFO - Successful dumping
 2024-04-28 15:25:47,831 - logger - INFO - ------
+2024-04-28 16:30:16,401 - logger - INFO - ------
+2024-04-28 16:30:16,401 - logger - INFO - retrieve station status
+2024-04-28 16:30:16,676 - logger - INFO - request status: Successful
+2024-04-28 16:30:16,679 - logger - INFO - Successful dumping
+2024-04-28 16:30:16,679 - logger - INFO - retrieve station information
+2024-04-28 16:30:17,464 - logger - INFO - request status: Successful
+2024-04-28 16:30:17,482 - logger - INFO - Successful dumping
+2024-04-28 16:30:17,483 - logger - INFO - ------
