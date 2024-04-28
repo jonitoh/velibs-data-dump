@@ -10480,3 +10480,11 @@
 2024-04-28 09:25:45,270 - logger - INFO - request status: Successful
 2024-04-28 09:25:45,288 - logger - INFO - Successful dumping
 2024-04-28 09:25:45,290 - logger - INFO - ------
+2024-04-28 10:30:11,643 - logger - INFO - ------
+2024-04-28 10:30:11,643 - logger - INFO - retrieve station status
+2024-04-28 10:30:12,158 - logger - INFO - request status: Successful
+2024-04-28 10:30:12,160 - logger - INFO - Successful dumping
+2024-04-28 10:30:12,161 - logger - INFO - retrieve station information
+2024-04-28 10:30:13,462 - logger - INFO - request status: Successful
+2024-04-28 10:30:13,481 - logger - INFO - Successful dumping
+2024-04-28 10:30:13,481 - logger - INFO - ------
