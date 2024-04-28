@@ -10584,3 +10584,11 @@
 2024-04-28 22:27:56,247 - logger - INFO - request status: Successful
 2024-04-28 22:27:56,266 - logger - INFO - Successful dumping
 2024-04-28 22:27:56,266 - logger - INFO - ------
+2024-04-28 23:25:54,141 - logger - INFO - ------
+2024-04-28 23:25:54,141 - logger - INFO - retrieve station status
+2024-04-28 23:25:54,554 - logger - INFO - request status: Successful
+2024-04-28 23:25:54,556 - logger - INFO - Successful dumping
+2024-04-28 23:25:54,557 - logger - INFO - retrieve station information
+2024-04-28 23:25:55,500 - logger - INFO - request status: Successful
+2024-04-28 23:25:55,519 - logger - INFO - Successful dumping
+2024-04-28 23:25:55,520 - logger - INFO - ------
