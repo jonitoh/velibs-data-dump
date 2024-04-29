@@ -10720,3 +10720,11 @@
 2024-04-29 16:32:06,861 - logger - INFO - request status: Successful
 2024-04-29 16:32:06,879 - logger - INFO - Successful dumping
 2024-04-29 16:32:06,881 - logger - INFO - ------
+2024-04-29 17:26:44,923 - logger - INFO - ------
+2024-04-29 17:26:44,923 - logger - INFO - retrieve station status
+2024-04-29 17:26:45,270 - logger - INFO - request status: Successful
+2024-04-29 17:26:45,272 - logger - INFO - Successful dumping
+2024-04-29 17:26:45,273 - logger - INFO - retrieve station information
+2024-04-29 17:26:46,072 - logger - INFO - request status: Successful
+2024-04-29 17:26:46,092 - logger - INFO - Successful dumping
+2024-04-29 17:26:46,093 - logger - INFO - ------
