@@ -10736,3 +10736,11 @@
 2024-04-29 18:30:55,691 - logger - INFO - request status: Successful
 2024-04-29 18:30:55,709 - logger - INFO - Successful dumping
 2024-04-29 18:30:55,710 - logger - INFO - ------
+2024-04-29 19:25:37,718 - logger - INFO - ------
+2024-04-29 19:25:37,718 - logger - INFO - retrieve station status
+2024-04-29 19:25:38,127 - logger - INFO - request status: Successful
+2024-04-29 19:25:38,130 - logger - INFO - Successful dumping
+2024-04-29 19:25:38,130 - logger - INFO - retrieve station information
+2024-04-29 19:25:38,935 - logger - INFO - request status: Successful
+2024-04-29 19:25:38,953 - logger - INFO - Successful dumping
+2024-04-29 19:25:38,954 - logger - INFO - ------
