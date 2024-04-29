@@ -10608,3 +10608,11 @@
 2024-04-29 02:34:38,312 - logger - INFO - request status: Successful
 2024-04-29 02:34:38,330 - logger - INFO - Successful dumping
 2024-04-29 02:34:38,331 - logger - INFO - ------
+2024-04-29 03:27:49,001 - logger - INFO - ------
+2024-04-29 03:27:49,001 - logger - INFO - retrieve station status
+2024-04-29 03:27:49,437 - logger - INFO - request status: Successful
+2024-04-29 03:27:49,439 - logger - INFO - Successful dumping
+2024-04-29 03:27:49,440 - logger - INFO - retrieve station information
+2024-04-29 03:27:50,376 - logger - INFO - request status: Successful
+2024-04-29 03:27:50,395 - logger - INFO - Successful dumping
+2024-04-29 03:27:50,396 - logger - INFO - ------
