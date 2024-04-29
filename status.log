@@ -10616,3 +10616,11 @@
 2024-04-29 03:27:50,376 - logger - INFO - request status: Successful
 2024-04-29 03:27:50,395 - logger - INFO - Successful dumping
 2024-04-29 03:27:50,396 - logger - INFO - ------
+2024-04-29 04:29:59,327 - logger - INFO - ------
+2024-04-29 04:29:59,327 - logger - INFO - retrieve station status
+2024-04-29 04:29:59,661 - logger - INFO - request status: Successful
+2024-04-29 04:29:59,664 - logger - INFO - Successful dumping
+2024-04-29 04:29:59,665 - logger - INFO - retrieve station information
+2024-04-29 04:30:00,428 - logger - INFO - request status: Successful
+2024-04-29 04:30:00,446 - logger - INFO - Successful dumping
+2024-04-29 04:30:00,447 - logger - INFO - ------
