@@ -10920,3 +10920,11 @@
 2024-04-30 18:32:32,388 - logger - INFO - request status: Successful
 2024-04-30 18:32:32,409 - logger - INFO - Successful dumping
 2024-04-30 18:32:32,410 - logger - INFO - ------
+2024-04-30 19:25:41,697 - logger - INFO - ------
+2024-04-30 19:25:41,697 - logger - INFO - retrieve station status
+2024-04-30 19:25:42,090 - logger - INFO - request status: Successful
+2024-04-30 19:25:42,093 - logger - INFO - Successful dumping
+2024-04-30 19:25:42,093 - logger - INFO - retrieve station information
+2024-04-30 19:25:42,886 - logger - INFO - request status: Successful
+2024-04-30 19:25:42,904 - logger - INFO - Successful dumping
+2024-04-30 19:25:42,905 - logger - INFO - ------
