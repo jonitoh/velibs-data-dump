@@ -10968,3 +10968,11 @@
 2024-05-01 01:38:19,540 - logger - INFO - request status: Successful
 2024-05-01 01:38:19,563 - logger - INFO - Successful dumping
 2024-05-01 01:38:19,564 - logger - INFO - ------
+2024-05-01 02:38:05,621 - logger - INFO - ------
+2024-05-01 02:38:05,621 - logger - INFO - retrieve station status
+2024-05-01 02:38:06,001 - logger - INFO - request status: Successful
+2024-05-01 02:38:06,003 - logger - INFO - Successful dumping
+2024-05-01 02:38:06,004 - logger - INFO - retrieve station information
+2024-05-01 02:38:07,025 - logger - INFO - request status: Successful
+2024-05-01 02:38:07,043 - logger - INFO - Successful dumping
+2024-05-01 02:38:07,044 - logger - INFO - ------
