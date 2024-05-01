@@ -10984,3 +10984,11 @@
 2024-05-01 03:30:04,511 - logger - INFO - request status: Successful
 2024-05-01 03:30:04,531 - logger - INFO - Successful dumping
 2024-05-01 03:30:04,532 - logger - INFO - ------
+2024-05-01 04:30:28,262 - logger - INFO - ------
+2024-05-01 04:30:28,262 - logger - INFO - retrieve station status
+2024-05-01 04:30:28,742 - logger - INFO - request status: Successful
+2024-05-01 04:30:28,745 - logger - INFO - Successful dumping
+2024-05-01 04:30:28,746 - logger - INFO - retrieve station information
+2024-05-01 04:30:30,057 - logger - INFO - request status: Successful
+2024-05-01 04:30:30,075 - logger - INFO - Successful dumping
+2024-05-01 04:30:30,076 - logger - INFO - ------
