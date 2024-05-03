@@ -11360,3 +11360,11 @@
 2024-05-03 04:31:06,281 - logger - INFO - request status: Successful
 2024-05-03 04:31:06,300 - logger - INFO - Successful dumping
 2024-05-03 04:31:06,301 - logger - INFO - ------
+2024-05-03 05:29:19,168 - logger - INFO - ------
+2024-05-03 05:29:19,169 - logger - INFO - retrieve station status
+2024-05-03 05:29:19,560 - logger - INFO - request status: Successful
+2024-05-03 05:29:19,563 - logger - INFO - Successful dumping
+2024-05-03 05:29:19,563 - logger - INFO - retrieve station information
+2024-05-03 05:29:20,324 - logger - INFO - request status: Successful
+2024-05-03 05:29:20,342 - logger - INFO - Successful dumping
+2024-05-03 05:29:20,343 - logger - INFO - ------
