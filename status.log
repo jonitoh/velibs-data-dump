@@ -11440,3 +11440,11 @@
 2024-05-03 14:29:19,171 - logger - INFO - request status: Successful
 2024-05-03 14:29:19,189 - logger - INFO - Successful dumping
 2024-05-03 14:29:19,190 - logger - INFO - ------
+2024-05-03 15:28:08,182 - logger - INFO - ------
+2024-05-03 15:28:08,182 - logger - INFO - retrieve station status
+2024-05-03 15:28:08,673 - logger - INFO - request status: Successful
+2024-05-03 15:28:08,676 - logger - INFO - Successful dumping
+2024-05-03 15:28:08,677 - logger - INFO - retrieve station information
+2024-05-03 15:28:09,973 - logger - INFO - request status: Successful
+2024-05-03 15:28:09,992 - logger - INFO - Successful dumping
+2024-05-03 15:28:09,993 - logger - INFO - ------
