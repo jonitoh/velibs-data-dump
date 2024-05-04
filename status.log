@@ -11616,3 +11616,11 @@
 2024-05-04 13:25:42,756 - logger - INFO - request status: Successful
 2024-05-04 13:25:42,774 - logger - INFO - Successful dumping
 2024-05-04 13:25:42,775 - logger - INFO - ------
+2024-05-04 14:28:56,157 - logger - INFO - ------
+2024-05-04 14:28:56,157 - logger - INFO - retrieve station status
+2024-05-04 14:28:56,512 - logger - INFO - request status: Successful
+2024-05-04 14:28:56,515 - logger - INFO - Successful dumping
+2024-05-04 14:28:56,516 - logger - INFO - retrieve station information
+2024-05-04 14:28:57,316 - logger - INFO - request status: Successful
+2024-05-04 14:28:57,335 - logger - INFO - Successful dumping
+2024-05-04 14:28:57,336 - logger - INFO - ------
