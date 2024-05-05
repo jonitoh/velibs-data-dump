@@ -11736,3 +11736,11 @@
 2024-05-05 05:28:05,725 - logger - INFO - request status: Successful
 2024-05-05 05:28:05,744 - logger - INFO - Successful dumping
 2024-05-05 05:28:05,744 - logger - INFO - ------
+2024-05-05 06:32:41,736 - logger - INFO - ------
+2024-05-05 06:32:41,736 - logger - INFO - retrieve station status
+2024-05-05 06:32:42,197 - logger - INFO - request status: Successful
+2024-05-05 06:32:42,200 - logger - INFO - Successful dumping
+2024-05-05 06:32:42,201 - logger - INFO - retrieve station information
+2024-05-05 06:32:42,950 - logger - INFO - request status: Successful
+2024-05-05 06:32:42,969 - logger - INFO - Successful dumping
+2024-05-05 06:32:42,970 - logger - INFO - ------
