@@ -11848,3 +11848,11 @@
 2024-05-05 19:25:31,885 - logger - INFO - request status: Successful
 2024-05-05 19:25:31,903 - logger - INFO - Successful dumping
 2024-05-05 19:25:31,904 - logger - INFO - ------
+2024-05-05 20:25:49,956 - logger - INFO - ------
+2024-05-05 20:25:49,956 - logger - INFO - retrieve station status
+2024-05-05 20:25:50,577 - logger - INFO - request status: Successful
+2024-05-05 20:25:50,579 - logger - INFO - Successful dumping
+2024-05-05 20:25:50,580 - logger - INFO - retrieve station information
+2024-05-05 20:25:51,850 - logger - INFO - request status: Successful
+2024-05-05 20:25:51,870 - logger - INFO - Successful dumping
+2024-05-05 20:25:51,871 - logger - INFO - ------
