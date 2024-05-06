@@ -12040,3 +12040,11 @@
 2024-05-06 20:26:59,099 - logger - INFO - request status: Successful
 2024-05-06 20:26:59,118 - logger - INFO - Successful dumping
 2024-05-06 20:26:59,119 - logger - INFO - ------
+2024-05-06 21:25:37,128 - logger - INFO - ------
+2024-05-06 21:25:37,128 - logger - INFO - retrieve station status
+2024-05-06 21:25:37,512 - logger - INFO - request status: Successful
+2024-05-06 21:25:37,514 - logger - INFO - Successful dumping
+2024-05-06 21:25:37,515 - logger - INFO - retrieve station information
+2024-05-06 21:25:38,313 - logger - INFO - request status: Successful
+2024-05-06 21:25:38,331 - logger - INFO - Successful dumping
+2024-05-06 21:25:38,332 - logger - INFO - ------
