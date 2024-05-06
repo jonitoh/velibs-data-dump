@@ -12048,3 +12048,11 @@
 2024-05-06 21:25:38,313 - logger - INFO - request status: Successful
 2024-05-06 21:25:38,331 - logger - INFO - Successful dumping
 2024-05-06 21:25:38,332 - logger - INFO - ------
+2024-05-06 22:29:50,886 - logger - INFO - ------
+2024-05-06 22:29:50,886 - logger - INFO - retrieve station status
+2024-05-06 22:29:51,256 - logger - INFO - request status: Successful
+2024-05-06 22:29:51,258 - logger - INFO - Successful dumping
+2024-05-06 22:29:51,259 - logger - INFO - retrieve station information
+2024-05-06 22:29:52,173 - logger - INFO - request status: Successful
+2024-05-06 22:29:52,191 - logger - INFO - Successful dumping
+2024-05-06 22:29:52,192 - logger - INFO - ------
