@@ -12184,3 +12184,11 @@
 2024-05-07 15:27:55,653 - logger - INFO - request status: Successful
 2024-05-07 15:27:55,671 - logger - INFO - Successful dumping
 2024-05-07 15:27:55,672 - logger - INFO - ------
+2024-05-07 16:31:16,729 - logger - INFO - ------
+2024-05-07 16:31:16,729 - logger - INFO - retrieve station status
+2024-05-07 16:31:17,139 - logger - INFO - request status: Successful
+2024-05-07 16:31:17,141 - logger - INFO - Successful dumping
+2024-05-07 16:31:17,142 - logger - INFO - retrieve station information
+2024-05-07 16:31:17,959 - logger - INFO - request status: Successful
+2024-05-07 16:31:17,977 - logger - INFO - Successful dumping
+2024-05-07 16:31:17,978 - logger - INFO - ------
