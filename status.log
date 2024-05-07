@@ -12112,3 +12112,11 @@
 2024-05-07 06:32:49,096 - logger - INFO - request status: Successful
 2024-05-07 06:32:49,115 - logger - INFO - Successful dumping
 2024-05-07 06:32:49,116 - logger - INFO - ------
+2024-05-07 07:30:00,535 - logger - INFO - ------
+2024-05-07 07:30:00,535 - logger - INFO - retrieve station status
+2024-05-07 07:30:01,096 - logger - INFO - request status: Successful
+2024-05-07 07:30:01,099 - logger - INFO - Successful dumping
+2024-05-07 07:30:01,100 - logger - INFO - retrieve station information
+2024-05-07 07:30:02,360 - logger - INFO - request status: Successful
+2024-05-07 07:30:02,378 - logger - INFO - Successful dumping
+2024-05-07 07:30:02,379 - logger - INFO - ------
