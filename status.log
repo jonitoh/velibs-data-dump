@@ -12136,3 +12136,11 @@
 2024-05-07 09:28:19,746 - logger - INFO - request status: Successful
 2024-05-07 09:28:19,764 - logger - INFO - Successful dumping
 2024-05-07 09:28:19,766 - logger - INFO - ------
+2024-05-07 10:31:48,100 - logger - INFO - ------
+2024-05-07 10:31:48,100 - logger - INFO - retrieve station status
+2024-05-07 10:31:48,501 - logger - INFO - request status: Successful
+2024-05-07 10:31:48,504 - logger - INFO - Successful dumping
+2024-05-07 10:31:48,505 - logger - INFO - retrieve station information
+2024-05-07 10:31:49,559 - logger - INFO - request status: Successful
+2024-05-07 10:31:49,577 - logger - INFO - Successful dumping
+2024-05-07 10:31:49,578 - logger - INFO - ------
