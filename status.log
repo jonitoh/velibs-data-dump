@@ -12104,3 +12104,11 @@
 2024-05-07 05:30:33,607 - logger - INFO - request status: Successful
 2024-05-07 05:30:33,626 - logger - INFO - Successful dumping
 2024-05-07 05:30:33,627 - logger - INFO - ------
+2024-05-07 06:32:47,720 - logger - INFO - ------
+2024-05-07 06:32:47,720 - logger - INFO - retrieve station status
+2024-05-07 06:32:48,130 - logger - INFO - request status: Successful
+2024-05-07 06:32:48,133 - logger - INFO - Successful dumping
+2024-05-07 06:32:48,133 - logger - INFO - retrieve station information
+2024-05-07 06:32:49,096 - logger - INFO - request status: Successful
+2024-05-07 06:32:49,115 - logger - INFO - Successful dumping
+2024-05-07 06:32:49,116 - logger - INFO - ------
