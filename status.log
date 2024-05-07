@@ -12088,3 +12088,11 @@
 2024-05-07 03:29:49,285 - logger - INFO - request status: Successful
 2024-05-07 03:29:49,303 - logger - INFO - Successful dumping
 2024-05-07 03:29:49,305 - logger - INFO - ------
+2024-05-07 04:30:49,841 - logger - INFO - ------
+2024-05-07 04:30:49,841 - logger - INFO - retrieve station status
+2024-05-07 04:30:50,388 - logger - INFO - request status: Successful
+2024-05-07 04:30:50,391 - logger - INFO - Successful dumping
+2024-05-07 04:30:50,392 - logger - INFO - retrieve station information
+2024-05-07 04:30:51,684 - logger - INFO - request status: Successful
+2024-05-07 04:30:51,702 - logger - INFO - Successful dumping
+2024-05-07 04:30:51,703 - logger - INFO - ------
