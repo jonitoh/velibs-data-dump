@@ -12336,3 +12336,11 @@
 2024-05-08 10:31:42,252 - logger - INFO - request status: Successful
 2024-05-08 10:31:42,270 - logger - INFO - Successful dumping
 2024-05-08 10:31:42,272 - logger - INFO - ------
+2024-05-08 11:25:29,377 - logger - INFO - ------
+2024-05-08 11:25:29,377 - logger - INFO - retrieve station status
+2024-05-08 11:25:29,754 - logger - INFO - request status: Successful
+2024-05-08 11:25:29,757 - logger - INFO - Successful dumping
+2024-05-08 11:25:29,758 - logger - INFO - retrieve station information
+2024-05-08 11:25:30,540 - logger - INFO - request status: Successful
+2024-05-08 11:25:30,558 - logger - INFO - Successful dumping
+2024-05-08 11:25:30,559 - logger - INFO - ------
