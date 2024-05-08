@@ -12432,3 +12432,11 @@
 2024-05-08 22:29:05,396 - logger - INFO - request status: Successful
 2024-05-08 22:29:05,414 - logger - INFO - Successful dumping
 2024-05-08 22:29:05,415 - logger - INFO - ------
+2024-05-08 23:27:01,325 - logger - INFO - ------
+2024-05-08 23:27:01,325 - logger - INFO - retrieve station status
+2024-05-08 23:27:01,720 - logger - INFO - request status: Successful
+2024-05-08 23:27:01,723 - logger - INFO - Successful dumping
+2024-05-08 23:27:01,724 - logger - INFO - retrieve station information
+2024-05-08 23:27:02,687 - logger - INFO - request status: Successful
+2024-05-08 23:27:02,705 - logger - INFO - Successful dumping
+2024-05-08 23:27:02,706 - logger - INFO - ------
