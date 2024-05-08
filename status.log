@@ -12408,3 +12408,11 @@
 2024-05-08 19:25:32,412 - logger - INFO - request status: Successful
 2024-05-08 19:25:32,430 - logger - INFO - Successful dumping
 2024-05-08 19:25:32,431 - logger - INFO - ------
+2024-05-08 20:26:31,390 - logger - INFO - ------
+2024-05-08 20:26:31,390 - logger - INFO - retrieve station status
+2024-05-08 20:26:31,778 - logger - INFO - request status: Successful
+2024-05-08 20:26:31,780 - logger - INFO - Successful dumping
+2024-05-08 20:26:31,781 - logger - INFO - retrieve station information
+2024-05-08 20:26:32,722 - logger - INFO - request status: Successful
+2024-05-08 20:26:32,740 - logger - INFO - Successful dumping
+2024-05-08 20:26:32,740 - logger - INFO - ------
