@@ -12592,3 +12592,11 @@
 2024-05-09 19:25:45,257 - logger - INFO - request status: Successful
 2024-05-09 19:25:45,277 - logger - INFO - Successful dumping
 2024-05-09 19:25:45,278 - logger - INFO - ------
+2024-05-09 20:26:23,039 - logger - INFO - ------
+2024-05-09 20:26:23,039 - logger - INFO - retrieve station status
+2024-05-09 20:26:23,430 - logger - INFO - request status: Successful
+2024-05-09 20:26:23,433 - logger - INFO - Successful dumping
+2024-05-09 20:26:23,433 - logger - INFO - retrieve station information
+2024-05-09 20:26:24,272 - logger - INFO - request status: Successful
+2024-05-09 20:26:24,291 - logger - INFO - Successful dumping
+2024-05-09 20:26:24,292 - logger - INFO - ------
