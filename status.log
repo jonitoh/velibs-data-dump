@@ -12600,3 +12600,11 @@
 2024-05-09 20:26:24,272 - logger - INFO - request status: Successful
 2024-05-09 20:26:24,291 - logger - INFO - Successful dumping
 2024-05-09 20:26:24,292 - logger - INFO - ------
+2024-05-09 21:26:53,645 - logger - INFO - ------
+2024-05-09 21:26:53,645 - logger - INFO - retrieve station status
+2024-05-09 21:26:54,144 - logger - INFO - request status: Successful
+2024-05-09 21:26:54,147 - logger - INFO - Successful dumping
+2024-05-09 21:26:54,148 - logger - INFO - retrieve station information
+2024-05-09 21:26:55,434 - logger - INFO - request status: Successful
+2024-05-09 21:26:55,453 - logger - INFO - Successful dumping
+2024-05-09 21:26:55,454 - logger - INFO - ------
