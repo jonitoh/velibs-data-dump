@@ -12480,3 +12480,11 @@
 2024-05-09 05:30:07,517 - logger - INFO - request status: Successful
 2024-05-09 05:30:07,535 - logger - INFO - Successful dumping
 2024-05-09 05:30:07,536 - logger - INFO - ------
+2024-05-09 06:32:09,137 - logger - INFO - ------
+2024-05-09 06:32:09,137 - logger - INFO - retrieve station status
+2024-05-09 06:32:09,580 - logger - INFO - request status: Successful
+2024-05-09 06:32:09,582 - logger - INFO - Successful dumping
+2024-05-09 06:32:09,583 - logger - INFO - retrieve station information
+2024-05-09 06:32:10,878 - logger - INFO - request status: Successful
+2024-05-09 06:32:10,896 - logger - INFO - Successful dumping
+2024-05-09 06:32:10,898 - logger - INFO - ------
