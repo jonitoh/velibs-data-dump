@@ -12608,3 +12608,11 @@
 2024-05-09 21:26:55,434 - logger - INFO - request status: Successful
 2024-05-09 21:26:55,453 - logger - INFO - Successful dumping
 2024-05-09 21:26:55,454 - logger - INFO - ------
+2024-05-09 22:29:00,851 - logger - INFO - ------
+2024-05-09 22:29:00,851 - logger - INFO - retrieve station status
+2024-05-09 22:29:01,302 - logger - INFO - request status: Successful
+2024-05-09 22:29:01,304 - logger - INFO - Successful dumping
+2024-05-09 22:29:01,305 - logger - INFO - retrieve station information
+2024-05-09 22:29:02,251 - logger - INFO - request status: Successful
+2024-05-09 22:29:02,269 - logger - INFO - Successful dumping
+2024-05-09 22:29:02,270 - logger - INFO - ------
