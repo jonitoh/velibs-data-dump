@@ -12576,3 +12576,11 @@
 2024-05-09 17:27:23,433 - logger - INFO - request status: Successful
 2024-05-09 17:27:23,452 - logger - INFO - Successful dumping
 2024-05-09 17:27:23,453 - logger - INFO - ------
+2024-05-09 18:29:55,809 - logger - INFO - ------
+2024-05-09 18:29:55,809 - logger - INFO - retrieve station status
+2024-05-09 18:29:56,122 - logger - INFO - request status: Successful
+2024-05-09 18:29:56,125 - logger - INFO - Successful dumping
+2024-05-09 18:29:56,125 - logger - INFO - retrieve station information
+2024-05-09 18:29:56,957 - logger - INFO - request status: Successful
+2024-05-09 18:29:56,976 - logger - INFO - Successful dumping
+2024-05-09 18:29:56,977 - logger - INFO - ------
