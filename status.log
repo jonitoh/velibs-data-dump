@@ -12728,3 +12728,11 @@
 2024-05-10 13:26:37,433 - logger - INFO - request status: Successful
 2024-05-10 13:26:37,451 - logger - INFO - Successful dumping
 2024-05-10 13:26:37,452 - logger - INFO - ------
+2024-05-10 14:28:51,506 - logger - INFO - ------
+2024-05-10 14:28:51,506 - logger - INFO - retrieve station status
+2024-05-10 14:28:51,870 - logger - INFO - request status: Successful
+2024-05-10 14:28:51,873 - logger - INFO - Successful dumping
+2024-05-10 14:28:51,873 - logger - INFO - retrieve station information
+2024-05-10 14:28:52,656 - logger - INFO - request status: Successful
+2024-05-10 14:28:52,674 - logger - INFO - Successful dumping
+2024-05-10 14:28:52,675 - logger - INFO - ------
