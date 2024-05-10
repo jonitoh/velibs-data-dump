@@ -12656,3 +12656,11 @@
 2024-05-10 04:29:43,184 - logger - INFO - request status: Successful
 2024-05-10 04:29:43,202 - logger - INFO - Successful dumping
 2024-05-10 04:29:43,203 - logger - INFO - ------
+2024-05-10 05:28:43,895 - logger - INFO - ------
+2024-05-10 05:28:43,895 - logger - INFO - retrieve station status
+2024-05-10 05:28:44,424 - logger - INFO - request status: Successful
+2024-05-10 05:28:44,426 - logger - INFO - Successful dumping
+2024-05-10 05:28:44,427 - logger - INFO - retrieve station information
+2024-05-10 05:28:45,723 - logger - INFO - request status: Successful
+2024-05-10 05:28:45,741 - logger - INFO - Successful dumping
+2024-05-10 05:28:45,742 - logger - INFO - ------
