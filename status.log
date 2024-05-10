@@ -12704,3 +12704,11 @@
 2024-05-10 10:32:00,999 - logger - INFO - request status: Successful
 2024-05-10 10:32:01,017 - logger - INFO - Successful dumping
 2024-05-10 10:32:01,018 - logger - INFO - ------
+2024-05-10 11:25:40,133 - logger - INFO - ------
+2024-05-10 11:25:40,133 - logger - INFO - retrieve station status
+2024-05-10 11:25:40,498 - logger - INFO - request status: Successful
+2024-05-10 11:25:40,500 - logger - INFO - Successful dumping
+2024-05-10 11:25:40,501 - logger - INFO - retrieve station information
+2024-05-10 11:25:41,424 - logger - INFO - request status: Successful
+2024-05-10 11:25:41,443 - logger - INFO - Successful dumping
+2024-05-10 11:25:41,444 - logger - INFO - ------
