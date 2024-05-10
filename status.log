@@ -12688,3 +12688,11 @@
 2024-05-10 08:30:09,715 - logger - INFO - request status: Successful
 2024-05-10 08:30:09,733 - logger - INFO - Successful dumping
 2024-05-10 08:30:09,734 - logger - INFO - ------
+2024-05-10 09:26:39,354 - logger - INFO - ------
+2024-05-10 09:26:39,354 - logger - INFO - retrieve station status
+2024-05-10 09:26:39,886 - logger - INFO - request status: Successful
+2024-05-10 09:26:39,888 - logger - INFO - Successful dumping
+2024-05-10 09:26:39,889 - logger - INFO - retrieve station information
+2024-05-10 09:26:41,181 - logger - INFO - request status: Successful
+2024-05-10 09:26:41,199 - logger - INFO - Successful dumping
+2024-05-10 09:26:41,200 - logger - INFO - ------
