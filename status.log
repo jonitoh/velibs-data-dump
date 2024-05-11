@@ -12896,3 +12896,11 @@
 2024-05-11 11:25:43,089 - logger - INFO - request status: Successful
 2024-05-11 11:25:43,108 - logger - INFO - Successful dumping
 2024-05-11 11:25:43,109 - logger - INFO - ------
+2024-05-11 12:42:17,851 - logger - INFO - ------
+2024-05-11 12:42:17,851 - logger - INFO - retrieve station status
+2024-05-11 12:42:18,334 - logger - INFO - request status: Successful
+2024-05-11 12:42:18,337 - logger - INFO - Successful dumping
+2024-05-11 12:42:18,337 - logger - INFO - retrieve station information
+2024-05-11 12:42:19,632 - logger - INFO - request status: Successful
+2024-05-11 12:42:19,651 - logger - INFO - Successful dumping
+2024-05-11 12:42:19,653 - logger - INFO - ------
