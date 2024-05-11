@@ -12864,3 +12864,11 @@
 2024-05-11 07:25:53,385 - logger - INFO - request status: Successful
 2024-05-11 07:25:53,404 - logger - INFO - Successful dumping
 2024-05-11 07:25:53,405 - logger - INFO - ------
+2024-05-11 08:29:18,100 - logger - INFO - ------
+2024-05-11 08:29:18,100 - logger - INFO - retrieve station status
+2024-05-11 08:29:18,423 - logger - INFO - request status: Successful
+2024-05-11 08:29:18,426 - logger - INFO - Successful dumping
+2024-05-11 08:29:18,426 - logger - INFO - retrieve station information
+2024-05-11 08:29:19,215 - logger - INFO - request status: Successful
+2024-05-11 08:29:19,233 - logger - INFO - Successful dumping
+2024-05-11 08:29:19,234 - logger - INFO - ------
