@@ -12840,3 +12840,11 @@
 2024-05-11 04:30:27,657 - logger - INFO - request status: Successful
 2024-05-11 04:30:27,675 - logger - INFO - Successful dumping
 2024-05-11 04:30:27,675 - logger - INFO - ------
+2024-05-11 05:28:27,982 - logger - INFO - ------
+2024-05-11 05:28:27,982 - logger - INFO - retrieve station status
+2024-05-11 05:28:28,486 - logger - INFO - request status: Successful
+2024-05-11 05:28:28,489 - logger - INFO - Successful dumping
+2024-05-11 05:28:28,489 - logger - INFO - retrieve station information
+2024-05-11 05:28:29,807 - logger - INFO - request status: Successful
+2024-05-11 05:28:29,825 - logger - INFO - Successful dumping
+2024-05-11 05:28:29,826 - logger - INFO - ------
