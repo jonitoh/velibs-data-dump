@@ -12928,3 +12928,11 @@
 2024-05-11 15:25:44,454 - logger - INFO - request status: Successful
 2024-05-11 15:25:44,472 - logger - INFO - Successful dumping
 2024-05-11 15:25:44,473 - logger - INFO - ------
+2024-05-11 16:30:59,686 - logger - INFO - ------
+2024-05-11 16:30:59,686 - logger - INFO - retrieve station status
+2024-05-11 16:31:00,196 - logger - INFO - request status: Successful
+2024-05-11 16:31:00,199 - logger - INFO - Successful dumping
+2024-05-11 16:31:00,199 - logger - INFO - retrieve station information
+2024-05-11 16:31:01,493 - logger - INFO - request status: Successful
+2024-05-11 16:31:01,511 - logger - INFO - Successful dumping
+2024-05-11 16:31:01,512 - logger - INFO - ------
