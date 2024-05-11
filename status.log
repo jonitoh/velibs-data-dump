@@ -12880,3 +12880,11 @@
 2024-05-11 09:25:45,577 - logger - INFO - request status: Successful
 2024-05-11 09:25:45,595 - logger - INFO - Successful dumping
 2024-05-11 09:25:45,596 - logger - INFO - ------
+2024-05-11 10:31:15,268 - logger - INFO - ------
+2024-05-11 10:31:15,268 - logger - INFO - retrieve station status
+2024-05-11 10:31:15,693 - logger - INFO - request status: Successful
+2024-05-11 10:31:15,696 - logger - INFO - Successful dumping
+2024-05-11 10:31:15,696 - logger - INFO - retrieve station information
+2024-05-11 10:31:16,617 - logger - INFO - request status: Successful
+2024-05-11 10:31:16,635 - logger - INFO - Successful dumping
+2024-05-11 10:31:16,637 - logger - INFO - ------
