@@ -12944,3 +12944,11 @@
 2024-05-11 17:27:57,532 - logger - INFO - request status: Successful
 2024-05-11 17:27:57,550 - logger - INFO - Successful dumping
 2024-05-11 17:27:57,552 - logger - INFO - ------
+2024-05-11 18:29:47,602 - logger - INFO - ------
+2024-05-11 18:29:47,602 - logger - INFO - retrieve station status
+2024-05-11 18:29:48,110 - logger - INFO - request status: Successful
+2024-05-11 18:29:48,113 - logger - INFO - Successful dumping
+2024-05-11 18:29:48,113 - logger - INFO - retrieve station information
+2024-05-11 18:29:49,408 - logger - INFO - request status: Successful
+2024-05-11 18:29:49,426 - logger - INFO - Successful dumping
+2024-05-11 18:29:49,427 - logger - INFO - ------
