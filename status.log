@@ -12920,3 +12920,11 @@
 2024-05-11 14:27:31,034 - logger - INFO - request status: Successful
 2024-05-11 14:27:31,052 - logger - INFO - Successful dumping
 2024-05-11 14:27:31,053 - logger - INFO - ------
+2024-05-11 15:25:43,357 - logger - INFO - ------
+2024-05-11 15:25:43,357 - logger - INFO - retrieve station status
+2024-05-11 15:25:43,684 - logger - INFO - request status: Successful
+2024-05-11 15:25:43,687 - logger - INFO - Successful dumping
+2024-05-11 15:25:43,687 - logger - INFO - retrieve station information
+2024-05-11 15:25:44,454 - logger - INFO - request status: Successful
+2024-05-11 15:25:44,472 - logger - INFO - Successful dumping
+2024-05-11 15:25:44,473 - logger - INFO - ------
