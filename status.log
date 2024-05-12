@@ -13160,3 +13160,11 @@
 2024-05-12 21:25:29,088 - logger - INFO - request status: Successful
 2024-05-12 21:25:29,107 - logger - INFO - Successful dumping
 2024-05-12 21:25:29,108 - logger - INFO - ------
+2024-05-12 22:27:40,942 - logger - INFO - ------
+2024-05-12 22:27:40,942 - logger - INFO - retrieve station status
+2024-05-12 22:27:41,371 - logger - INFO - request status: Successful
+2024-05-12 22:27:41,374 - logger - INFO - Successful dumping
+2024-05-12 22:27:41,375 - logger - INFO - retrieve station information
+2024-05-12 22:27:42,153 - logger - INFO - request status: Successful
+2024-05-12 22:27:42,171 - logger - INFO - Successful dumping
+2024-05-12 22:27:42,173 - logger - INFO - ------
