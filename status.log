@@ -13056,3 +13056,11 @@
 2024-05-12 08:29:25,830 - logger - INFO - request status: Successful
 2024-05-12 08:29:25,849 - logger - INFO - Successful dumping
 2024-05-12 08:29:25,850 - logger - INFO - ------
+2024-05-12 09:25:30,845 - logger - INFO - ------
+2024-05-12 09:25:30,845 - logger - INFO - retrieve station status
+2024-05-12 09:25:31,218 - logger - INFO - request status: Successful
+2024-05-12 09:25:31,221 - logger - INFO - Successful dumping
+2024-05-12 09:25:31,222 - logger - INFO - retrieve station information
+2024-05-12 09:25:32,155 - logger - INFO - request status: Successful
+2024-05-12 09:25:32,173 - logger - INFO - Successful dumping
+2024-05-12 09:25:32,174 - logger - INFO - ------
