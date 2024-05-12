@@ -13040,3 +13040,11 @@
 2024-05-12 06:31:16,809 - logger - INFO - request status: Successful
 2024-05-12 06:31:16,827 - logger - INFO - Successful dumping
 2024-05-12 06:31:16,829 - logger - INFO - ------
+2024-05-12 07:25:49,935 - logger - INFO - ------
+2024-05-12 07:25:49,935 - logger - INFO - retrieve station status
+2024-05-12 07:25:50,331 - logger - INFO - request status: Successful
+2024-05-12 07:25:50,333 - logger - INFO - Successful dumping
+2024-05-12 07:25:50,334 - logger - INFO - retrieve station information
+2024-05-12 07:25:51,299 - logger - INFO - request status: Successful
+2024-05-12 07:25:51,317 - logger - INFO - Successful dumping
+2024-05-12 07:25:51,318 - logger - INFO - ------
