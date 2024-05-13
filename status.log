@@ -13184,3 +13184,11 @@
 2024-05-13 01:36:33,658 - logger - INFO - request status: Successful
 2024-05-13 01:36:33,678 - logger - INFO - Successful dumping
 2024-05-13 01:36:33,679 - logger - INFO - ------
+2024-05-13 02:39:00,373 - logger - INFO - ------
+2024-05-13 02:39:00,373 - logger - INFO - retrieve station status
+2024-05-13 02:39:00,722 - logger - INFO - request status: Successful
+2024-05-13 02:39:00,724 - logger - INFO - Successful dumping
+2024-05-13 02:39:00,725 - logger - INFO - retrieve station information
+2024-05-13 02:39:01,522 - logger - INFO - request status: Successful
+2024-05-13 02:39:01,540 - logger - INFO - Successful dumping
+2024-05-13 02:39:01,541 - logger - INFO - ------
