@@ -13216,3 +13216,11 @@
 2024-05-13 05:31:28,689 - logger - INFO - request status: Successful
 2024-05-13 05:31:28,707 - logger - INFO - Successful dumping
 2024-05-13 05:31:28,708 - logger - INFO - ------
+2024-05-13 06:33:16,346 - logger - INFO - ------
+2024-05-13 06:33:16,347 - logger - INFO - retrieve station status
+2024-05-13 06:33:17,177 - logger - INFO - request status: Successful
+2024-05-13 06:33:17,180 - logger - INFO - Successful dumping
+2024-05-13 06:33:17,181 - logger - INFO - retrieve station information
+2024-05-13 06:33:18,475 - logger - INFO - request status: Successful
+2024-05-13 06:33:18,501 - logger - INFO - Successful dumping
+2024-05-13 06:33:18,503 - logger - INFO - ------
