@@ -13256,3 +13256,11 @@
 2024-05-13 10:31:32,091 - logger - INFO - request status: Successful
 2024-05-13 10:31:32,109 - logger - INFO - Successful dumping
 2024-05-13 10:31:32,111 - logger - INFO - ------
+2024-05-13 11:25:29,127 - logger - INFO - ------
+2024-05-13 11:25:29,127 - logger - INFO - retrieve station status
+2024-05-13 11:25:29,496 - logger - INFO - request status: Successful
+2024-05-13 11:25:29,499 - logger - INFO - Successful dumping
+2024-05-13 11:25:29,500 - logger - INFO - retrieve station information
+2024-05-13 11:25:30,285 - logger - INFO - request status: Successful
+2024-05-13 11:25:30,303 - logger - INFO - Successful dumping
+2024-05-13 11:25:30,304 - logger - INFO - ------
