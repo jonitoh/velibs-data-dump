@@ -13208,3 +13208,11 @@
 2024-05-13 04:31:16,708 - logger - INFO - request status: Successful
 2024-05-13 04:31:16,726 - logger - INFO - Successful dumping
 2024-05-13 04:31:16,727 - logger - INFO - ------
+2024-05-13 05:31:27,503 - logger - INFO - ------
+2024-05-13 05:31:27,503 - logger - INFO - retrieve station status
+2024-05-13 05:31:27,901 - logger - INFO - request status: Successful
+2024-05-13 05:31:27,904 - logger - INFO - Successful dumping
+2024-05-13 05:31:27,904 - logger - INFO - retrieve station information
+2024-05-13 05:31:28,689 - logger - INFO - request status: Successful
+2024-05-13 05:31:28,707 - logger - INFO - Successful dumping
+2024-05-13 05:31:28,708 - logger - INFO - ------
