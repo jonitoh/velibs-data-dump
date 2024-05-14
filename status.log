@@ -13504,3 +13504,11 @@
 2024-05-14 18:31:44,095 - logger - INFO - request status: Successful
 2024-05-14 18:31:44,113 - logger - INFO - Successful dumping
 2024-05-14 18:31:44,114 - logger - INFO - ------
+2024-05-14 19:25:28,356 - logger - INFO - ------
+2024-05-14 19:25:28,356 - logger - INFO - retrieve station status
+2024-05-14 19:25:28,681 - logger - INFO - request status: Successful
+2024-05-14 19:25:28,683 - logger - INFO - Successful dumping
+2024-05-14 19:25:28,684 - logger - INFO - retrieve station information
+2024-05-14 19:25:29,510 - logger - INFO - request status: Successful
+2024-05-14 19:25:29,528 - logger - INFO - Successful dumping
+2024-05-14 19:25:29,529 - logger - INFO - ------
