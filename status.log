@@ -13528,3 +13528,11 @@
 2024-05-14 21:25:51,924 - logger - INFO - request status: Successful
 2024-05-14 21:25:51,942 - logger - INFO - Successful dumping
 2024-05-14 21:25:51,943 - logger - INFO - ------
+2024-05-14 22:30:38,932 - logger - INFO - ------
+2024-05-14 22:30:38,932 - logger - INFO - retrieve station status
+2024-05-14 22:30:39,258 - logger - INFO - request status: Successful
+2024-05-14 22:30:39,260 - logger - INFO - Successful dumping
+2024-05-14 22:30:39,261 - logger - INFO - retrieve station information
+2024-05-14 22:30:40,049 - logger - INFO - request status: Successful
+2024-05-14 22:30:40,067 - logger - INFO - Successful dumping
+2024-05-14 22:30:40,069 - logger - INFO - ------
