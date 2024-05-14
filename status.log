@@ -13360,3 +13360,11 @@
 2024-05-13 23:25:47,253 - logger - INFO - request status: Successful
 2024-05-13 23:25:47,271 - logger - INFO - Successful dumping
 2024-05-13 23:25:47,272 - logger - INFO - ------
+2024-05-14 01:34:04,363 - logger - INFO - ------
+2024-05-14 01:34:04,363 - logger - INFO - retrieve station status
+2024-05-14 01:34:04,689 - logger - INFO - request status: Successful
+2024-05-14 01:34:04,692 - logger - INFO - Successful dumping
+2024-05-14 01:34:04,693 - logger - INFO - retrieve station information
+2024-05-14 01:34:05,473 - logger - INFO - request status: Successful
+2024-05-14 01:34:05,491 - logger - INFO - Successful dumping
+2024-05-14 01:34:05,492 - logger - INFO - ------
