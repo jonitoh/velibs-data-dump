@@ -13624,3 +13624,11 @@
 2024-05-15 10:31:24,446 - logger - INFO - request status: Successful
 2024-05-15 10:31:24,464 - logger - INFO - Successful dumping
 2024-05-15 10:31:24,465 - logger - INFO - ------
+2024-05-15 11:25:35,713 - logger - INFO - ------
+2024-05-15 11:25:35,713 - logger - INFO - retrieve station status
+2024-05-15 11:25:36,265 - logger - INFO - request status: Successful
+2024-05-15 11:25:36,267 - logger - INFO - Successful dumping
+2024-05-15 11:25:36,268 - logger - INFO - retrieve station information
+2024-05-15 11:25:37,578 - logger - INFO - request status: Successful
+2024-05-15 11:25:37,597 - logger - INFO - Successful dumping
+2024-05-15 11:25:37,598 - logger - INFO - ------
