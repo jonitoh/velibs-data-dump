@@ -13656,3 +13656,11 @@
 2024-05-15 14:30:17,335 - logger - INFO - request status: Successful
 2024-05-15 14:30:17,352 - logger - INFO - Successful dumping
 2024-05-15 14:30:17,354 - logger - INFO - ------
+2024-05-15 15:26:43,267 - logger - INFO - ------
+2024-05-15 15:26:43,267 - logger - INFO - retrieve station status
+2024-05-15 15:26:43,640 - logger - INFO - request status: Successful
+2024-05-15 15:26:43,642 - logger - INFO - Successful dumping
+2024-05-15 15:26:43,643 - logger - INFO - retrieve station information
+2024-05-15 15:26:44,576 - logger - INFO - request status: Successful
+2024-05-15 15:26:44,594 - logger - INFO - Successful dumping
+2024-05-15 15:26:44,595 - logger - INFO - ------
