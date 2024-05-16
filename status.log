@@ -13727,3 +13727,10 @@
 2024-05-15 23:27:04,547 - logger - INFO - request status: Successful
 2024-05-15 23:27:04,565 - logger - INFO - Successful dumping
 2024-05-15 23:27:04,565 - logger - INFO - ------
+2024-05-16 01:34:57,718 - logger - INFO - ------
+2024-05-16 01:34:57,718 - logger - INFO - retrieve station status
+2024-05-16 01:34:58,143 - logger - INFO - request status: Unsuccessful 429
+2024-05-16 01:34:58,144 - logger - INFO - retrieve station information
+2024-05-16 01:34:58,939 - logger - INFO - request status: Successful
+2024-05-16 01:34:58,957 - logger - INFO - Successful dumping
+2024-05-16 01:34:58,958 - logger - INFO - ------
