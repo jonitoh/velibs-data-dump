@@ -13813,3 +13813,11 @@
 2024-05-16 11:25:46,846 - logger - INFO - request status: Successful
 2024-05-16 11:25:46,864 - logger - INFO - Successful dumping
 2024-05-16 11:25:46,865 - logger - INFO - ------
+2024-05-16 12:45:52,840 - logger - INFO - ------
+2024-05-16 12:45:52,840 - logger - INFO - retrieve station status
+2024-05-16 12:45:53,224 - logger - INFO - request status: Successful
+2024-05-16 12:45:53,226 - logger - INFO - Successful dumping
+2024-05-16 12:45:53,227 - logger - INFO - retrieve station information
+2024-05-16 12:45:54,035 - logger - INFO - request status: Successful
+2024-05-16 12:45:54,053 - logger - INFO - Successful dumping
+2024-05-16 12:45:54,054 - logger - INFO - ------
