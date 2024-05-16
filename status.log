@@ -13877,3 +13877,11 @@
 2024-05-16 19:25:50,807 - logger - INFO - request status: Successful
 2024-05-16 19:25:50,825 - logger - INFO - Successful dumping
 2024-05-16 19:25:50,827 - logger - INFO - ------
+2024-05-16 20:27:51,346 - logger - INFO - ------
+2024-05-16 20:27:51,346 - logger - INFO - retrieve station status
+2024-05-16 20:27:51,854 - logger - INFO - request status: Successful
+2024-05-16 20:27:51,856 - logger - INFO - Successful dumping
+2024-05-16 20:27:51,857 - logger - INFO - retrieve station information
+2024-05-16 20:27:53,180 - logger - INFO - request status: Successful
+2024-05-16 20:27:53,198 - logger - INFO - Successful dumping
+2024-05-16 20:27:53,199 - logger - INFO - ------
