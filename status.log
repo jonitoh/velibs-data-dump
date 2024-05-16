@@ -13901,3 +13901,11 @@
 2024-05-16 22:30:42,248 - logger - INFO - request status: Successful
 2024-05-16 22:30:42,266 - logger - INFO - Successful dumping
 2024-05-16 22:30:42,267 - logger - INFO - ------
+2024-05-16 23:26:09,275 - logger - INFO - ------
+2024-05-16 23:26:09,275 - logger - INFO - retrieve station status
+2024-05-16 23:26:09,636 - logger - INFO - request status: Successful
+2024-05-16 23:26:09,638 - logger - INFO - Successful dumping
+2024-05-16 23:26:09,639 - logger - INFO - retrieve station information
+2024-05-16 23:26:10,429 - logger - INFO - request status: Successful
+2024-05-16 23:26:10,447 - logger - INFO - Successful dumping
+2024-05-16 23:26:10,449 - logger - INFO - ------
