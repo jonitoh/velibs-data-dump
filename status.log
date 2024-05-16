@@ -13742,3 +13742,10 @@
 2024-05-16 02:37:36,230 - logger - INFO - request status: Successful
 2024-05-16 02:37:36,248 - logger - INFO - Successful dumping
 2024-05-16 02:37:36,249 - logger - INFO - ------
+2024-05-16 03:30:44,796 - logger - INFO - ------
+2024-05-16 03:30:44,796 - logger - INFO - retrieve station status
+2024-05-16 03:30:45,135 - logger - INFO - request status: Unsuccessful 429
+2024-05-16 03:30:45,136 - logger - INFO - retrieve station information
+2024-05-16 03:30:45,934 - logger - INFO - request status: Successful
+2024-05-16 03:30:45,954 - logger - INFO - Successful dumping
+2024-05-16 03:30:45,955 - logger - INFO - ------
