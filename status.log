@@ -13805,3 +13805,11 @@
 2024-05-16 10:31:17,693 - logger - INFO - request status: Successful
 2024-05-16 10:31:17,711 - logger - INFO - Successful dumping
 2024-05-16 10:31:17,712 - logger - INFO - ------
+2024-05-16 11:25:44,968 - logger - INFO - ------
+2024-05-16 11:25:44,968 - logger - INFO - retrieve station status
+2024-05-16 11:25:45,585 - logger - INFO - request status: Successful
+2024-05-16 11:25:45,588 - logger - INFO - Successful dumping
+2024-05-16 11:25:45,588 - logger - INFO - retrieve station information
+2024-05-16 11:25:46,846 - logger - INFO - request status: Successful
+2024-05-16 11:25:46,864 - logger - INFO - Successful dumping
+2024-05-16 11:25:46,865 - logger - INFO - ------
