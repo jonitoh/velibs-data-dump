@@ -13861,3 +13861,11 @@
 2024-05-16 17:31:50,318 - logger - INFO - request status: Successful
 2024-05-16 17:31:50,336 - logger - INFO - Successful dumping
 2024-05-16 17:31:50,337 - logger - INFO - ------
+2024-05-16 18:31:20,426 - logger - INFO - ------
+2024-05-16 18:31:20,427 - logger - INFO - retrieve station status
+2024-05-16 18:31:20,896 - logger - INFO - request status: Successful
+2024-05-16 18:31:20,898 - logger - INFO - Successful dumping
+2024-05-16 18:31:20,899 - logger - INFO - retrieve station information
+2024-05-16 18:31:22,204 - logger - INFO - request status: Successful
+2024-05-16 18:31:22,222 - logger - INFO - Successful dumping
+2024-05-16 18:31:22,223 - logger - INFO - ------
