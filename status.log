@@ -13845,3 +13845,11 @@
 2024-05-16 15:27:15,795 - logger - INFO - request status: Successful
 2024-05-16 15:27:15,814 - logger - INFO - Successful dumping
 2024-05-16 15:27:15,815 - logger - INFO - ------
+2024-05-16 16:32:43,609 - logger - INFO - ------
+2024-05-16 16:32:43,609 - logger - INFO - retrieve station status
+2024-05-16 16:32:44,083 - logger - INFO - request status: Successful
+2024-05-16 16:32:44,086 - logger - INFO - Successful dumping
+2024-05-16 16:32:44,087 - logger - INFO - retrieve station information
+2024-05-16 16:32:45,418 - logger - INFO - request status: Successful
+2024-05-16 16:32:45,436 - logger - INFO - Successful dumping
+2024-05-16 16:32:45,437 - logger - INFO - ------
