@@ -13941,3 +13941,11 @@
 2024-05-17 04:30:36,549 - logger - INFO - request status: Successful
 2024-05-17 04:30:36,567 - logger - INFO - Successful dumping
 2024-05-17 04:30:36,568 - logger - INFO - ------
+2024-05-17 05:33:05,392 - logger - INFO - ------
+2024-05-17 05:33:05,392 - logger - INFO - retrieve station status
+2024-05-17 05:33:05,959 - logger - INFO - request status: Successful
+2024-05-17 05:33:05,961 - logger - INFO - Successful dumping
+2024-05-17 05:33:05,962 - logger - INFO - retrieve station information
+2024-05-17 05:33:07,205 - logger - INFO - request status: Successful
+2024-05-17 05:33:07,223 - logger - INFO - Successful dumping
+2024-05-17 05:33:07,224 - logger - INFO - ------
