@@ -13957,3 +13957,11 @@
 2024-05-17 06:32:33,493 - logger - INFO - request status: Successful
 2024-05-17 06:32:33,511 - logger - INFO - Successful dumping
 2024-05-17 06:32:33,512 - logger - INFO - ------
+2024-05-17 07:25:34,563 - logger - INFO - ------
+2024-05-17 07:25:34,563 - logger - INFO - retrieve station status
+2024-05-17 07:25:34,950 - logger - INFO - request status: Successful
+2024-05-17 07:25:34,953 - logger - INFO - Successful dumping
+2024-05-17 07:25:34,953 - logger - INFO - retrieve station information
+2024-05-17 07:25:35,741 - logger - INFO - request status: Successful
+2024-05-17 07:25:35,759 - logger - INFO - Successful dumping
+2024-05-17 07:25:35,760 - logger - INFO - ------
