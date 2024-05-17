@@ -14029,3 +14029,11 @@
 2024-05-17 15:27:38,416 - logger - INFO - request status: Successful
 2024-05-17 15:27:38,434 - logger - INFO - Successful dumping
 2024-05-17 15:27:38,435 - logger - INFO - ------
+2024-05-17 16:33:04,124 - logger - INFO - ------
+2024-05-17 16:33:04,124 - logger - INFO - retrieve station status
+2024-05-17 16:33:04,440 - logger - INFO - request status: Successful
+2024-05-17 16:33:04,442 - logger - INFO - Successful dumping
+2024-05-17 16:33:04,443 - logger - INFO - retrieve station information
+2024-05-17 16:33:05,274 - logger - INFO - request status: Successful
+2024-05-17 16:33:05,292 - logger - INFO - Successful dumping
+2024-05-17 16:33:05,294 - logger - INFO - ------
