@@ -13909,3 +13909,11 @@
 2024-05-16 23:26:10,429 - logger - INFO - request status: Successful
 2024-05-16 23:26:10,447 - logger - INFO - Successful dumping
 2024-05-16 23:26:10,449 - logger - INFO - ------
+2024-05-17 01:34:56,316 - logger - INFO - ------
+2024-05-17 01:34:56,316 - logger - INFO - retrieve station status
+2024-05-17 01:34:56,691 - logger - INFO - request status: Successful
+2024-05-17 01:34:56,693 - logger - INFO - Successful dumping
+2024-05-17 01:34:56,694 - logger - INFO - retrieve station information
+2024-05-17 01:34:57,489 - logger - INFO - request status: Successful
+2024-05-17 01:34:57,507 - logger - INFO - Successful dumping
+2024-05-17 01:34:57,508 - logger - INFO - ------
