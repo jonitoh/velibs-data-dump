@@ -14077,3 +14077,11 @@
 2024-05-17 21:25:38,848 - logger - INFO - request status: Successful
 2024-05-17 21:25:38,866 - logger - INFO - Successful dumping
 2024-05-17 21:25:38,867 - logger - INFO - ------
+2024-05-17 22:30:05,604 - logger - INFO - ------
+2024-05-17 22:30:05,604 - logger - INFO - retrieve station status
+2024-05-17 22:30:06,026 - logger - INFO - request status: Successful
+2024-05-17 22:30:06,029 - logger - INFO - Successful dumping
+2024-05-17 22:30:06,030 - logger - INFO - retrieve station information
+2024-05-17 22:30:06,836 - logger - INFO - request status: Successful
+2024-05-17 22:30:06,854 - logger - INFO - Successful dumping
+2024-05-17 22:30:06,855 - logger - INFO - ------
