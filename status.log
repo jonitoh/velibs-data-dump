@@ -14053,3 +14053,11 @@
 2024-05-17 18:32:22,008 - logger - INFO - request status: Successful
 2024-05-17 18:32:22,027 - logger - INFO - Successful dumping
 2024-05-17 18:32:22,028 - logger - INFO - ------
+2024-05-17 19:25:53,154 - logger - INFO - ------
+2024-05-17 19:25:53,154 - logger - INFO - retrieve station status
+2024-05-17 19:25:53,509 - logger - INFO - request status: Successful
+2024-05-17 19:25:53,512 - logger - INFO - Successful dumping
+2024-05-17 19:25:53,512 - logger - INFO - retrieve station information
+2024-05-17 19:25:54,424 - logger - INFO - request status: Successful
+2024-05-17 19:25:54,442 - logger - INFO - Successful dumping
+2024-05-17 19:25:54,443 - logger - INFO - ------
