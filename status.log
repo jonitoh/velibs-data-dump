@@ -14173,3 +14173,11 @@
 2024-05-18 10:29:39,264 - logger - INFO - request status: Successful
 2024-05-18 10:29:39,282 - logger - INFO - Successful dumping
 2024-05-18 10:29:39,283 - logger - INFO - ------
+2024-05-18 11:25:45,711 - logger - INFO - ------
+2024-05-18 11:25:45,711 - logger - INFO - retrieve station status
+2024-05-18 11:25:46,162 - logger - INFO - request status: Successful
+2024-05-18 11:25:46,165 - logger - INFO - Successful dumping
+2024-05-18 11:25:46,165 - logger - INFO - retrieve station information
+2024-05-18 11:25:47,047 - logger - INFO - request status: Successful
+2024-05-18 11:25:47,066 - logger - INFO - Successful dumping
+2024-05-18 11:25:47,067 - logger - INFO - ------
