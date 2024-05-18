@@ -14101,3 +14101,11 @@
 2024-05-18 01:33:47,755 - logger - INFO - request status: Successful
 2024-05-18 01:33:47,774 - logger - INFO - Successful dumping
 2024-05-18 01:33:47,775 - logger - INFO - ------
+2024-05-18 02:36:11,985 - logger - INFO - ------
+2024-05-18 02:36:11,985 - logger - INFO - retrieve station status
+2024-05-18 02:36:12,293 - logger - INFO - request status: Successful
+2024-05-18 02:36:12,295 - logger - INFO - Successful dumping
+2024-05-18 02:36:12,296 - logger - INFO - retrieve station information
+2024-05-18 02:36:13,074 - logger - INFO - request status: Successful
+2024-05-18 02:36:13,092 - logger - INFO - Successful dumping
+2024-05-18 02:36:13,093 - logger - INFO - ------
