@@ -14245,3 +14245,11 @@
 2024-05-18 19:25:38,466 - logger - INFO - request status: Successful
 2024-05-18 19:25:38,485 - logger - INFO - Successful dumping
 2024-05-18 19:25:38,486 - logger - INFO - ------
+2024-05-18 20:27:12,218 - logger - INFO - ------
+2024-05-18 20:27:12,218 - logger - INFO - retrieve station status
+2024-05-18 20:27:12,567 - logger - INFO - request status: Successful
+2024-05-18 20:27:12,570 - logger - INFO - Successful dumping
+2024-05-18 20:27:12,570 - logger - INFO - retrieve station information
+2024-05-18 20:27:13,455 - logger - INFO - request status: Successful
+2024-05-18 20:27:13,476 - logger - INFO - Successful dumping
+2024-05-18 20:27:13,478 - logger - INFO - ------
