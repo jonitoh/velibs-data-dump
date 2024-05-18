@@ -14197,3 +14197,11 @@
 2024-05-18 13:25:39,861 - logger - INFO - request status: Successful
 2024-05-18 13:25:39,880 - logger - INFO - Successful dumping
 2024-05-18 13:25:39,881 - logger - INFO - ------
+2024-05-18 14:27:53,121 - logger - INFO - ------
+2024-05-18 14:27:53,121 - logger - INFO - retrieve station status
+2024-05-18 14:27:53,522 - logger - INFO - request status: Successful
+2024-05-18 14:27:53,525 - logger - INFO - Successful dumping
+2024-05-18 14:27:53,526 - logger - INFO - retrieve station information
+2024-05-18 14:27:54,431 - logger - INFO - request status: Successful
+2024-05-18 14:27:54,449 - logger - INFO - Successful dumping
+2024-05-18 14:27:54,450 - logger - INFO - ------
