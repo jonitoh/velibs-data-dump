@@ -14205,3 +14205,11 @@
 2024-05-18 14:27:54,431 - logger - INFO - request status: Successful
 2024-05-18 14:27:54,449 - logger - INFO - Successful dumping
 2024-05-18 14:27:54,450 - logger - INFO - ------
+2024-05-18 15:27:34,550 - logger - INFO - ------
+2024-05-18 15:27:34,550 - logger - INFO - retrieve station status
+2024-05-18 15:27:34,998 - logger - INFO - request status: Successful
+2024-05-18 15:27:35,000 - logger - INFO - Successful dumping
+2024-05-18 15:27:35,001 - logger - INFO - retrieve station information
+2024-05-18 15:27:35,810 - logger - INFO - request status: Successful
+2024-05-18 15:27:35,828 - logger - INFO - Successful dumping
+2024-05-18 15:27:35,829 - logger - INFO - ------
