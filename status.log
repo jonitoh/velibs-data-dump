@@ -14213,3 +14213,11 @@
 2024-05-18 15:27:35,810 - logger - INFO - request status: Successful
 2024-05-18 15:27:35,828 - logger - INFO - Successful dumping
 2024-05-18 15:27:35,829 - logger - INFO - ------
+2024-05-18 16:31:23,650 - logger - INFO - ------
+2024-05-18 16:31:23,650 - logger - INFO - retrieve station status
+2024-05-18 16:31:24,103 - logger - INFO - request status: Successful
+2024-05-18 16:31:24,106 - logger - INFO - Successful dumping
+2024-05-18 16:31:24,107 - logger - INFO - retrieve station information
+2024-05-18 16:31:25,461 - logger - INFO - request status: Successful
+2024-05-18 16:31:25,479 - logger - INFO - Successful dumping
+2024-05-18 16:31:25,481 - logger - INFO - ------
