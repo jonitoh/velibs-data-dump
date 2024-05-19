@@ -14421,3 +14421,11 @@
 2024-05-19 18:30:18,023 - logger - INFO - request status: Successful
 2024-05-19 18:30:18,042 - logger - INFO - Successful dumping
 2024-05-19 18:30:18,043 - logger - INFO - ------
+2024-05-19 19:25:32,767 - logger - INFO - ------
+2024-05-19 19:25:32,767 - logger - INFO - retrieve station status
+2024-05-19 19:25:33,245 - logger - INFO - request status: Successful
+2024-05-19 19:25:33,248 - logger - INFO - Successful dumping
+2024-05-19 19:25:33,248 - logger - INFO - retrieve station information
+2024-05-19 19:25:34,503 - logger - INFO - request status: Successful
+2024-05-19 19:25:34,521 - logger - INFO - Successful dumping
+2024-05-19 19:25:34,521 - logger - INFO - ------
