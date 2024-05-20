@@ -14621,3 +14621,11 @@
 2024-05-20 20:26:58,297 - logger - INFO - request status: Successful
 2024-05-20 20:26:58,315 - logger - INFO - Successful dumping
 2024-05-20 20:26:58,315 - logger - INFO - ------
+2024-05-20 21:25:50,445 - logger - INFO - ------
+2024-05-20 21:25:50,445 - logger - INFO - retrieve station status
+2024-05-20 21:25:50,815 - logger - INFO - request status: Successful
+2024-05-20 21:25:50,817 - logger - INFO - Successful dumping
+2024-05-20 21:25:50,818 - logger - INFO - retrieve station information
+2024-05-20 21:25:51,579 - logger - INFO - request status: Successful
+2024-05-20 21:25:51,597 - logger - INFO - Successful dumping
+2024-05-20 21:25:51,597 - logger - INFO - ------
