@@ -14517,3 +14517,11 @@
 2024-05-20 07:25:52,129 - logger - INFO - request status: Successful
 2024-05-20 07:25:52,147 - logger - INFO - Successful dumping
 2024-05-20 07:25:52,148 - logger - INFO - ------
+2024-05-20 08:31:03,829 - logger - INFO - ------
+2024-05-20 08:31:03,829 - logger - INFO - retrieve station status
+2024-05-20 08:31:04,395 - logger - INFO - request status: Successful
+2024-05-20 08:31:04,398 - logger - INFO - Successful dumping
+2024-05-20 08:31:04,398 - logger - INFO - retrieve station information
+2024-05-20 08:31:05,666 - logger - INFO - request status: Successful
+2024-05-20 08:31:05,684 - logger - INFO - Successful dumping
+2024-05-20 08:31:05,685 - logger - INFO - ------
