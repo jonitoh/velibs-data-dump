@@ -14589,3 +14589,11 @@
 2024-05-20 16:34:10,069 - logger - INFO - request status: Successful
 2024-05-20 16:34:10,087 - logger - INFO - Successful dumping
 2024-05-20 16:34:10,088 - logger - INFO - ------
+2024-05-20 17:30:01,481 - logger - INFO - ------
+2024-05-20 17:30:01,481 - logger - INFO - retrieve station status
+2024-05-20 17:30:01,799 - logger - INFO - request status: Successful
+2024-05-20 17:30:01,801 - logger - INFO - Successful dumping
+2024-05-20 17:30:01,802 - logger - INFO - retrieve station information
+2024-05-20 17:30:02,657 - logger - INFO - request status: Successful
+2024-05-20 17:30:02,675 - logger - INFO - Successful dumping
+2024-05-20 17:30:02,675 - logger - INFO - ------
