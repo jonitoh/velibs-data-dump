@@ -14469,3 +14469,11 @@
 2024-05-20 01:35:51,585 - logger - INFO - request status: Successful
 2024-05-20 01:35:51,603 - logger - INFO - Successful dumping
 2024-05-20 01:35:51,604 - logger - INFO - ------
+2024-05-20 02:40:34,334 - logger - INFO - ------
+2024-05-20 02:40:34,334 - logger - INFO - retrieve station status
+2024-05-20 02:40:34,692 - logger - INFO - request status: Successful
+2024-05-20 02:40:34,695 - logger - INFO - Successful dumping
+2024-05-20 02:40:34,696 - logger - INFO - retrieve station information
+2024-05-20 02:40:35,478 - logger - INFO - request status: Successful
+2024-05-20 02:40:35,497 - logger - INFO - Successful dumping
+2024-05-20 02:40:35,498 - logger - INFO - ------
