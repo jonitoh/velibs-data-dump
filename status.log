@@ -14717,3 +14717,11 @@
 2024-05-21 09:28:15,032 - logger - INFO - request status: Successful
 2024-05-21 09:28:15,051 - logger - INFO - Successful dumping
 2024-05-21 09:28:15,051 - logger - INFO - ------
+2024-05-21 10:31:27,341 - logger - INFO - ------
+2024-05-21 10:31:27,341 - logger - INFO - retrieve station status
+2024-05-21 10:31:27,735 - logger - INFO - request status: Successful
+2024-05-21 10:31:27,738 - logger - INFO - Successful dumping
+2024-05-21 10:31:27,738 - logger - INFO - retrieve station information
+2024-05-21 10:31:28,681 - logger - INFO - request status: Successful
+2024-05-21 10:31:28,699 - logger - INFO - Successful dumping
+2024-05-21 10:31:28,700 - logger - INFO - ------
