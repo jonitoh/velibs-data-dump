@@ -15117,3 +15117,11 @@
 2024-05-23 13:27:25,061 - logger - INFO - request status: Successful
 2024-05-23 13:27:25,080 - logger - INFO - Successful dumping
 2024-05-23 13:27:25,080 - logger - INFO - ------
+2024-05-23 14:29:49,723 - logger - INFO - ------
+2024-05-23 14:29:49,723 - logger - INFO - retrieve station status
+2024-05-23 14:29:50,067 - logger - INFO - request status: Successful
+2024-05-23 14:29:50,069 - logger - INFO - Successful dumping
+2024-05-23 14:29:50,069 - logger - INFO - retrieve station information
+2024-05-23 14:29:51,026 - logger - INFO - request status: Successful
+2024-05-23 14:29:51,045 - logger - INFO - Successful dumping
+2024-05-23 14:29:51,045 - logger - INFO - ------
