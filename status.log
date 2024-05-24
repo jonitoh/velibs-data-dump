@@ -15309,3 +15309,11 @@
 2024-05-24 14:29:43,506 - logger - INFO - request status: Successful
 2024-05-24 14:29:43,524 - logger - INFO - Successful dumping
 2024-05-24 14:29:43,524 - logger - INFO - ------
+2024-05-24 15:28:22,941 - logger - INFO - ------
+2024-05-24 15:28:22,941 - logger - INFO - retrieve station status
+2024-05-24 15:28:23,475 - logger - INFO - request status: Successful
+2024-05-24 15:28:23,477 - logger - INFO - Successful dumping
+2024-05-24 15:28:23,478 - logger - INFO - retrieve station information
+2024-05-24 15:28:25,051 - logger - INFO - request status: Successful
+2024-05-24 15:28:25,069 - logger - INFO - Successful dumping
+2024-05-24 15:28:25,070 - logger - INFO - ------
