@@ -15261,3 +15261,11 @@
 2024-05-24 08:31:00,051 - logger - INFO - request status: Successful
 2024-05-24 08:31:00,069 - logger - INFO - Successful dumping
 2024-05-24 08:31:00,070 - logger - INFO - ------
+2024-05-24 09:27:31,849 - logger - INFO - ------
+2024-05-24 09:27:31,849 - logger - INFO - retrieve station status
+2024-05-24 09:27:32,177 - logger - INFO - request status: Successful
+2024-05-24 09:27:32,180 - logger - INFO - Successful dumping
+2024-05-24 09:27:32,180 - logger - INFO - retrieve station information
+2024-05-24 09:27:32,925 - logger - INFO - request status: Successful
+2024-05-24 09:27:32,943 - logger - INFO - Successful dumping
+2024-05-24 09:27:32,944 - logger - INFO - ------
