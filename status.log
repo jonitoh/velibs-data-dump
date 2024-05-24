@@ -15317,3 +15317,11 @@
 2024-05-24 15:28:25,051 - logger - INFO - request status: Successful
 2024-05-24 15:28:25,069 - logger - INFO - Successful dumping
 2024-05-24 15:28:25,070 - logger - INFO - ------
+2024-05-24 16:32:00,238 - logger - INFO - ------
+2024-05-24 16:32:00,238 - logger - INFO - retrieve station status
+2024-05-24 16:32:00,735 - logger - INFO - request status: Successful
+2024-05-24 16:32:00,737 - logger - INFO - Successful dumping
+2024-05-24 16:32:00,738 - logger - INFO - retrieve station information
+2024-05-24 16:32:02,028 - logger - INFO - request status: Successful
+2024-05-24 16:32:02,047 - logger - INFO - Successful dumping
+2024-05-24 16:32:02,047 - logger - INFO - ------
