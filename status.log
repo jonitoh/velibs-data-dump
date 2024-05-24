@@ -15373,3 +15373,11 @@
 2024-05-24 22:29:40,377 - logger - INFO - request status: Successful
 2024-05-24 22:29:40,395 - logger - INFO - Successful dumping
 2024-05-24 22:29:40,395 - logger - INFO - ------
+2024-05-24 23:25:41,691 - logger - INFO - ------
+2024-05-24 23:25:41,691 - logger - INFO - retrieve station status
+2024-05-24 23:25:42,201 - logger - INFO - request status: Successful
+2024-05-24 23:25:42,204 - logger - INFO - Successful dumping
+2024-05-24 23:25:42,204 - logger - INFO - retrieve station information
+2024-05-24 23:25:43,096 - logger - INFO - request status: Successful
+2024-05-24 23:25:43,115 - logger - INFO - Successful dumping
+2024-05-24 23:25:43,115 - logger - INFO - ------
