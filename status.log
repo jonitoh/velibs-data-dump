@@ -15381,3 +15381,11 @@
 2024-05-24 23:25:43,096 - logger - INFO - request status: Successful
 2024-05-24 23:25:43,115 - logger - INFO - Successful dumping
 2024-05-24 23:25:43,115 - logger - INFO - ------
+2024-05-25 01:34:23,263 - logger - INFO - ------
+2024-05-25 01:34:23,263 - logger - INFO - retrieve station status
+2024-05-25 01:34:23,657 - logger - INFO - request status: Successful
+2024-05-25 01:34:23,660 - logger - INFO - Successful dumping
+2024-05-25 01:34:23,660 - logger - INFO - retrieve station information
+2024-05-25 01:34:24,624 - logger - INFO - request status: Successful
+2024-05-25 01:34:24,643 - logger - INFO - Successful dumping
+2024-05-25 01:34:24,643 - logger - INFO - ------
