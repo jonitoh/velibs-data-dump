@@ -15525,3 +15525,11 @@
 2024-05-25 18:30:44,601 - logger - INFO - request status: Successful
 2024-05-25 18:30:44,619 - logger - INFO - Successful dumping
 2024-05-25 18:30:44,620 - logger - INFO - ------
+2024-05-25 19:25:52,432 - logger - INFO - ------
+2024-05-25 19:25:52,432 - logger - INFO - retrieve station status
+2024-05-25 19:25:52,800 - logger - INFO - request status: Successful
+2024-05-25 19:25:52,803 - logger - INFO - Successful dumping
+2024-05-25 19:25:52,803 - logger - INFO - retrieve station information
+2024-05-25 19:25:53,546 - logger - INFO - request status: Successful
+2024-05-25 19:25:53,564 - logger - INFO - Successful dumping
+2024-05-25 19:25:53,564 - logger - INFO - ------
