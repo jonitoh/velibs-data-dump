@@ -15397,3 +15397,11 @@
 2024-05-25 02:36:48,794 - logger - INFO - request status: Successful
 2024-05-25 02:36:48,812 - logger - INFO - Successful dumping
 2024-05-25 02:36:48,812 - logger - INFO - ------
+2024-05-25 03:31:13,443 - logger - INFO - ------
+2024-05-25 03:31:13,443 - logger - INFO - retrieve station status
+2024-05-25 03:31:13,794 - logger - INFO - request status: Successful
+2024-05-25 03:31:13,797 - logger - INFO - Successful dumping
+2024-05-25 03:31:13,797 - logger - INFO - retrieve station information
+2024-05-25 03:31:14,625 - logger - INFO - request status: Successful
+2024-05-25 03:31:14,644 - logger - INFO - Successful dumping
+2024-05-25 03:31:14,644 - logger - INFO - ------
