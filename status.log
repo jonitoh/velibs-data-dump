@@ -15717,3 +15717,11 @@
 2024-05-26 19:25:30,382 - logger - INFO - request status: Successful
 2024-05-26 19:25:30,400 - logger - INFO - Successful dumping
 2024-05-26 19:25:30,400 - logger - INFO - ------
+2024-05-26 20:25:39,768 - logger - INFO - ------
+2024-05-26 20:25:39,768 - logger - INFO - retrieve station status
+2024-05-26 20:25:40,069 - logger - INFO - request status: Successful
+2024-05-26 20:25:40,071 - logger - INFO - Successful dumping
+2024-05-26 20:25:40,072 - logger - INFO - retrieve station information
+2024-05-26 20:25:40,901 - logger - INFO - request status: Successful
+2024-05-26 20:25:40,919 - logger - INFO - Successful dumping
+2024-05-26 20:25:40,919 - logger - INFO - ------
