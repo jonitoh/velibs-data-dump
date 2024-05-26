@@ -15653,3 +15653,11 @@
 2024-05-26 11:25:49,109 - logger - INFO - request status: Successful
 2024-05-26 11:25:49,127 - logger - INFO - Successful dumping
 2024-05-26 11:25:49,128 - logger - INFO - ------
+2024-05-26 12:43:01,798 - logger - INFO - ------
+2024-05-26 12:43:01,798 - logger - INFO - retrieve station status
+2024-05-26 12:43:02,247 - logger - INFO - request status: Successful
+2024-05-26 12:43:02,250 - logger - INFO - Successful dumping
+2024-05-26 12:43:02,250 - logger - INFO - retrieve station information
+2024-05-26 12:43:03,521 - logger - INFO - request status: Successful
+2024-05-26 12:43:03,540 - logger - INFO - Successful dumping
+2024-05-26 12:43:03,540 - logger - INFO - ------
