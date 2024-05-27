@@ -15925,3 +15925,11 @@
 2024-05-27 22:28:43,580 - logger - INFO - request status: Successful
 2024-05-27 22:28:43,598 - logger - INFO - Successful dumping
 2024-05-27 22:28:43,599 - logger - INFO - ------
+2024-05-27 23:27:45,674 - logger - INFO - ------
+2024-05-27 23:27:45,674 - logger - INFO - retrieve station status
+2024-05-27 23:27:46,010 - logger - INFO - request status: Successful
+2024-05-27 23:27:46,013 - logger - INFO - Successful dumping
+2024-05-27 23:27:46,013 - logger - INFO - retrieve station information
+2024-05-27 23:27:46,746 - logger - INFO - request status: Successful
+2024-05-27 23:27:46,764 - logger - INFO - Successful dumping
+2024-05-27 23:27:46,764 - logger - INFO - ------
