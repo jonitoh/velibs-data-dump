@@ -15917,3 +15917,11 @@
 2024-05-27 21:28:20,357 - logger - INFO - request status: Successful
 2024-05-27 21:28:20,375 - logger - INFO - Successful dumping
 2024-05-27 21:28:20,375 - logger - INFO - ------
+2024-05-27 22:28:42,401 - logger - INFO - ------
+2024-05-27 22:28:42,401 - logger - INFO - retrieve station status
+2024-05-27 22:28:42,811 - logger - INFO - request status: Successful
+2024-05-27 22:28:42,813 - logger - INFO - Successful dumping
+2024-05-27 22:28:42,814 - logger - INFO - retrieve station information
+2024-05-27 22:28:43,580 - logger - INFO - request status: Successful
+2024-05-27 22:28:43,598 - logger - INFO - Successful dumping
+2024-05-27 22:28:43,599 - logger - INFO - ------
