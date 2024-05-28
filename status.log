@@ -16021,3 +16021,11 @@
 2024-05-28 11:25:42,867 - logger - INFO - request status: Successful
 2024-05-28 11:25:42,886 - logger - INFO - Successful dumping
 2024-05-28 11:25:42,886 - logger - INFO - ------
+2024-05-28 12:45:48,037 - logger - INFO - ------
+2024-05-28 12:45:48,037 - logger - INFO - retrieve station status
+2024-05-28 12:45:48,309 - logger - INFO - request status: Successful
+2024-05-28 12:45:48,312 - logger - INFO - Successful dumping
+2024-05-28 12:45:48,312 - logger - INFO - retrieve station information
+2024-05-28 12:45:49,084 - logger - INFO - request status: Successful
+2024-05-28 12:45:49,102 - logger - INFO - Successful dumping
+2024-05-28 12:45:49,103 - logger - INFO - ------
