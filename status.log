@@ -16045,3 +16045,11 @@
 2024-05-28 14:29:49,430 - logger - INFO - request status: Successful
 2024-05-28 14:29:49,448 - logger - INFO - Successful dumping
 2024-05-28 14:29:49,449 - logger - INFO - ------
+2024-05-28 15:27:56,318 - logger - INFO - ------
+2024-05-28 15:27:56,318 - logger - INFO - retrieve station status
+2024-05-28 15:27:56,834 - logger - INFO - request status: Successful
+2024-05-28 15:27:56,837 - logger - INFO - Successful dumping
+2024-05-28 15:27:56,837 - logger - INFO - retrieve station information
+2024-05-28 15:27:58,118 - logger - INFO - request status: Successful
+2024-05-28 15:27:58,136 - logger - INFO - Successful dumping
+2024-05-28 15:27:58,137 - logger - INFO - ------
