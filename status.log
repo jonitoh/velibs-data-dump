@@ -15941,3 +15941,11 @@
 2024-05-28 01:37:03,479 - logger - INFO - request status: Successful
 2024-05-28 01:37:03,497 - logger - INFO - Successful dumping
 2024-05-28 01:37:03,498 - logger - INFO - ------
+2024-05-28 02:39:41,028 - logger - INFO - ------
+2024-05-28 02:39:41,028 - logger - INFO - retrieve station status
+2024-05-28 02:39:41,452 - logger - INFO - request status: Successful
+2024-05-28 02:39:41,455 - logger - INFO - Successful dumping
+2024-05-28 02:39:41,455 - logger - INFO - retrieve station information
+2024-05-28 02:39:42,175 - logger - INFO - request status: Successful
+2024-05-28 02:39:42,193 - logger - INFO - Successful dumping
+2024-05-28 02:39:42,194 - logger - INFO - ------
