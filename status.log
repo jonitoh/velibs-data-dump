@@ -15949,3 +15949,11 @@
 2024-05-28 02:39:42,175 - logger - INFO - request status: Successful
 2024-05-28 02:39:42,193 - logger - INFO - Successful dumping
 2024-05-28 02:39:42,194 - logger - INFO - ------
+2024-05-28 03:31:21,818 - logger - INFO - ------
+2024-05-28 03:31:21,818 - logger - INFO - retrieve station status
+2024-05-28 03:31:22,183 - logger - INFO - request status: Successful
+2024-05-28 03:31:22,186 - logger - INFO - Successful dumping
+2024-05-28 03:31:22,186 - logger - INFO - retrieve station information
+2024-05-28 03:31:23,089 - logger - INFO - request status: Successful
+2024-05-28 03:31:23,107 - logger - INFO - Successful dumping
+2024-05-28 03:31:23,107 - logger - INFO - ------
