@@ -16125,3 +16125,11 @@
 2024-05-29 01:40:00,423 - logger - INFO - request status: Successful
 2024-05-29 01:40:00,441 - logger - INFO - Successful dumping
 2024-05-29 01:40:00,442 - logger - INFO - ------
+2024-05-29 02:41:32,149 - logger - INFO - ------
+2024-05-29 02:41:32,149 - logger - INFO - retrieve station status
+2024-05-29 02:41:32,661 - logger - INFO - request status: Successful
+2024-05-29 02:41:32,664 - logger - INFO - Successful dumping
+2024-05-29 02:41:32,664 - logger - INFO - retrieve station information
+2024-05-29 02:41:33,927 - logger - INFO - request status: Successful
+2024-05-29 02:41:33,946 - logger - INFO - Successful dumping
+2024-05-29 02:41:33,946 - logger - INFO - ------
