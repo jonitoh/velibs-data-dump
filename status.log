@@ -16477,3 +16477,11 @@
 2024-05-30 22:29:54,721 - logger - INFO - request status: Successful
 2024-05-30 22:29:54,740 - logger - INFO - Successful dumping
 2024-05-30 22:29:54,741 - logger - INFO - ------
+2024-05-30 23:26:54,658 - logger - INFO - ------
+2024-05-30 23:26:54,658 - logger - INFO - retrieve station status
+2024-05-30 23:26:55,216 - logger - INFO - request status: Successful
+2024-05-30 23:26:55,219 - logger - INFO - Successful dumping
+2024-05-30 23:26:55,219 - logger - INFO - retrieve station information
+2024-05-30 23:26:56,499 - logger - INFO - request status: Successful
+2024-05-30 23:26:56,518 - logger - INFO - Successful dumping
+2024-05-30 23:26:56,518 - logger - INFO - ------
