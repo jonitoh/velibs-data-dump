@@ -16373,3 +16373,11 @@
 2024-05-30 09:27:50,307 - logger - INFO - request status: Successful
 2024-05-30 09:27:50,325 - logger - INFO - Successful dumping
 2024-05-30 09:27:50,326 - logger - INFO - ------
+2024-05-30 10:32:23,993 - logger - INFO - ------
+2024-05-30 10:32:23,994 - logger - INFO - retrieve station status
+2024-05-30 10:32:24,531 - logger - INFO - request status: Successful
+2024-05-30 10:32:24,534 - logger - INFO - Successful dumping
+2024-05-30 10:32:24,535 - logger - INFO - retrieve station information
+2024-05-30 10:32:25,821 - logger - INFO - request status: Successful
+2024-05-30 10:32:25,840 - logger - INFO - Successful dumping
+2024-05-30 10:32:25,840 - logger - INFO - ------
