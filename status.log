@@ -16365,3 +16365,11 @@
 2024-05-30 08:31:38,476 - logger - INFO - request status: Successful
 2024-05-30 08:31:38,494 - logger - INFO - Successful dumping
 2024-05-30 08:31:38,495 - logger - INFO - ------
+2024-05-30 09:27:49,214 - logger - INFO - ------
+2024-05-30 09:27:49,214 - logger - INFO - retrieve station status
+2024-05-30 09:27:49,553 - logger - INFO - request status: Successful
+2024-05-30 09:27:49,556 - logger - INFO - Successful dumping
+2024-05-30 09:27:49,556 - logger - INFO - retrieve station information
+2024-05-30 09:27:50,307 - logger - INFO - request status: Successful
+2024-05-30 09:27:50,325 - logger - INFO - Successful dumping
+2024-05-30 09:27:50,326 - logger - INFO - ------
