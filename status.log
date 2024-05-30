@@ -16325,3 +16325,11 @@
 2024-05-30 03:29:52,114 - logger - INFO - request status: Successful
 2024-05-30 03:29:52,133 - logger - INFO - Successful dumping
 2024-05-30 03:29:52,133 - logger - INFO - ------
+2024-05-30 04:34:06,500 - logger - INFO - ------
+2024-05-30 04:34:06,500 - logger - INFO - retrieve station status
+2024-05-30 04:34:06,876 - logger - INFO - request status: Successful
+2024-05-30 04:34:06,879 - logger - INFO - Successful dumping
+2024-05-30 04:34:06,879 - logger - INFO - retrieve station information
+2024-05-30 04:34:07,918 - logger - INFO - request status: Successful
+2024-05-30 04:34:07,937 - logger - INFO - Successful dumping
+2024-05-30 04:34:07,937 - logger - INFO - ------
