@@ -16637,3 +16637,11 @@
 2024-05-31 19:25:44,908 - logger - INFO - request status: Successful
 2024-05-31 19:25:44,926 - logger - INFO - Successful dumping
 2024-05-31 19:25:44,927 - logger - INFO - ------
+2024-05-31 20:26:47,348 - logger - INFO - ------
+2024-05-31 20:26:47,348 - logger - INFO - retrieve station status
+2024-05-31 20:26:47,829 - logger - INFO - request status: Successful
+2024-05-31 20:26:47,832 - logger - INFO - Successful dumping
+2024-05-31 20:26:47,832 - logger - INFO - retrieve station information
+2024-05-31 20:26:49,148 - logger - INFO - request status: Successful
+2024-05-31 20:26:49,167 - logger - INFO - Successful dumping
+2024-05-31 20:26:49,167 - logger - INFO - ------
