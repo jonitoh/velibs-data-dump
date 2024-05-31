@@ -16605,3 +16605,11 @@
 2024-05-31 15:29:10,579 - logger - INFO - request status: Successful
 2024-05-31 15:29:10,597 - logger - INFO - Successful dumping
 2024-05-31 15:29:10,598 - logger - INFO - ------
+2024-05-31 16:34:02,334 - logger - INFO - ------
+2024-05-31 16:34:02,334 - logger - INFO - retrieve station status
+2024-05-31 16:34:02,680 - logger - INFO - request status: Successful
+2024-05-31 16:34:02,682 - logger - INFO - Successful dumping
+2024-05-31 16:34:02,683 - logger - INFO - retrieve station information
+2024-05-31 16:34:03,492 - logger - INFO - request status: Successful
+2024-05-31 16:34:03,510 - logger - INFO - Successful dumping
+2024-05-31 16:34:03,510 - logger - INFO - ------
