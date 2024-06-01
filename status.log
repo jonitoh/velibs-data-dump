@@ -16813,3 +16813,11 @@
 2024-06-01 18:31:23,316 - logger - INFO - request status: Successful
 2024-06-01 18:31:23,334 - logger - INFO - Successful dumping
 2024-06-01 18:31:23,335 - logger - INFO - ------
+2024-06-01 19:25:40,327 - logger - INFO - ------
+2024-06-01 19:25:40,327 - logger - INFO - retrieve station status
+2024-06-01 19:25:40,645 - logger - INFO - request status: Successful
+2024-06-01 19:25:40,648 - logger - INFO - Successful dumping
+2024-06-01 19:25:40,648 - logger - INFO - retrieve station information
+2024-06-01 19:25:41,548 - logger - INFO - request status: Successful
+2024-06-01 19:25:41,566 - logger - INFO - Successful dumping
+2024-06-01 19:25:41,566 - logger - INFO - ------
