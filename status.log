@@ -16701,3 +16701,11 @@
 2024-06-01 04:30:56,321 - logger - INFO - request status: Successful
 2024-06-01 04:30:56,340 - logger - INFO - Successful dumping
 2024-06-01 04:30:56,341 - logger - INFO - ------
+2024-06-01 05:31:21,535 - logger - INFO - ------
+2024-06-01 05:31:21,535 - logger - INFO - retrieve station status
+2024-06-01 05:31:21,836 - logger - INFO - request status: Successful
+2024-06-01 05:31:21,839 - logger - INFO - Successful dumping
+2024-06-01 05:31:21,839 - logger - INFO - retrieve station information
+2024-06-01 05:31:22,565 - logger - INFO - request status: Successful
+2024-06-01 05:31:22,583 - logger - INFO - Successful dumping
+2024-06-01 05:31:22,583 - logger - INFO - ------
