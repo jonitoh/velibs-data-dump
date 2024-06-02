@@ -16861,3 +16861,11 @@
 2024-06-02 01:41:41,789 - logger - INFO - request status: Successful
 2024-06-02 01:41:41,807 - logger - INFO - Successful dumping
 2024-06-02 01:41:41,807 - logger - INFO - ------
+2024-06-02 02:42:46,000 - logger - INFO - ------
+2024-06-02 02:42:46,000 - logger - INFO - retrieve station status
+2024-06-02 02:42:46,345 - logger - INFO - request status: Successful
+2024-06-02 02:42:46,348 - logger - INFO - Successful dumping
+2024-06-02 02:42:46,348 - logger - INFO - retrieve station information
+2024-06-02 02:42:47,277 - logger - INFO - request status: Successful
+2024-06-02 02:42:47,295 - logger - INFO - Successful dumping
+2024-06-02 02:42:47,295 - logger - INFO - ------
