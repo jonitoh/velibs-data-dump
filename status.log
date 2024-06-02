@@ -16853,3 +16853,11 @@
 2024-06-01 23:27:20,720 - logger - INFO - request status: Successful
 2024-06-01 23:27:20,738 - logger - INFO - Successful dumping
 2024-06-01 23:27:20,739 - logger - INFO - ------
+2024-06-02 01:41:40,457 - logger - INFO - ------
+2024-06-02 01:41:40,457 - logger - INFO - retrieve station status
+2024-06-02 01:41:40,849 - logger - INFO - request status: Successful
+2024-06-02 01:41:40,852 - logger - INFO - Successful dumping
+2024-06-02 01:41:40,852 - logger - INFO - retrieve station information
+2024-06-02 01:41:41,789 - logger - INFO - request status: Successful
+2024-06-02 01:41:41,807 - logger - INFO - Successful dumping
+2024-06-02 01:41:41,807 - logger - INFO - ------
