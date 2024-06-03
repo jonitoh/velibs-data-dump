@@ -123,3 +123,11 @@
 2024-06-03 04:32:33,187 - logger - INFO - request status: Successful
 2024-06-03 04:32:33,206 - logger - INFO - Successful dumping
 2024-06-03 04:32:33,206 - logger - INFO - ------
+2024-06-03 05:31:15,172 - logger - INFO - ------
+2024-06-03 05:31:15,172 - logger - INFO - retrieve station status
+2024-06-03 05:31:15,433 - logger - INFO - request status: Successful
+2024-06-03 05:31:15,435 - logger - INFO - Successful dumping
+2024-06-03 05:31:15,436 - logger - INFO - retrieve station information
+2024-06-03 05:31:16,185 - logger - INFO - request status: Successful
+2024-06-03 05:31:16,206 - logger - INFO - Successful dumping
+2024-06-03 05:31:16,207 - logger - INFO - ------
