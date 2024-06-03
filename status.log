@@ -179,3 +179,11 @@
 2024-06-03 11:25:38,599 - logger - INFO - request status: Successful
 2024-06-03 11:25:38,617 - logger - INFO - Successful dumping
 2024-06-03 11:25:38,618 - logger - INFO - ------
+2024-06-03 12:47:03,357 - logger - INFO - ------
+2024-06-03 12:47:03,357 - logger - INFO - retrieve station status
+2024-06-03 12:47:03,835 - logger - INFO - request status: Successful
+2024-06-03 12:47:03,838 - logger - INFO - Successful dumping
+2024-06-03 12:47:03,838 - logger - INFO - retrieve station information
+2024-06-03 12:47:05,103 - logger - INFO - request status: Successful
+2024-06-03 12:47:05,121 - logger - INFO - Successful dumping
+2024-06-03 12:47:05,122 - logger - INFO - ------
