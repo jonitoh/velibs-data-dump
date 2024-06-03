@@ -195,3 +195,11 @@
 2024-06-03 13:29:36,159 - logger - INFO - request status: Successful
 2024-06-03 13:29:36,178 - logger - INFO - Successful dumping
 2024-06-03 13:29:36,178 - logger - INFO - ------
+2024-06-03 14:30:50,495 - logger - INFO - ------
+2024-06-03 14:30:50,496 - logger - INFO - retrieve station status
+2024-06-03 14:30:50,793 - logger - INFO - request status: Successful
+2024-06-03 14:30:50,796 - logger - INFO - Successful dumping
+2024-06-03 14:30:50,796 - logger - INFO - retrieve station information
+2024-06-03 14:30:51,552 - logger - INFO - request status: Successful
+2024-06-03 14:30:51,572 - logger - INFO - Successful dumping
+2024-06-03 14:30:51,573 - logger - INFO - ------
