@@ -435,3 +435,11 @@
 2024-06-04 20:27:30,059 - logger - INFO - request status: Successful
 2024-06-04 20:27:30,079 - logger - INFO - Successful dumping
 2024-06-04 20:27:30,079 - logger - INFO - ------
+2024-06-04 21:25:31,201 - logger - INFO - ------
+2024-06-04 21:25:31,201 - logger - INFO - retrieve station status
+2024-06-04 21:25:31,552 - logger - INFO - request status: Successful
+2024-06-04 21:25:31,554 - logger - INFO - Successful dumping
+2024-06-04 21:25:31,554 - logger - INFO - retrieve station information
+2024-06-04 21:25:32,329 - logger - INFO - request status: Successful
+2024-06-04 21:25:32,347 - logger - INFO - Successful dumping
+2024-06-04 21:25:32,348 - logger - INFO - ------
