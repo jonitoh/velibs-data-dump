@@ -371,3 +371,11 @@
 2024-06-04 12:46:28,530 - logger - INFO - request status: Successful
 2024-06-04 12:46:28,548 - logger - INFO - Successful dumping
 2024-06-04 12:46:28,548 - logger - INFO - ------
+2024-06-04 13:29:00,355 - logger - INFO - ------
+2024-06-04 13:29:00,355 - logger - INFO - retrieve station status
+2024-06-04 13:29:00,692 - logger - INFO - request status: Successful
+2024-06-04 13:29:00,695 - logger - INFO - Successful dumping
+2024-06-04 13:29:00,695 - logger - INFO - retrieve station information
+2024-06-04 13:29:01,619 - logger - INFO - request status: Successful
+2024-06-04 13:29:01,638 - logger - INFO - Successful dumping
+2024-06-04 13:29:01,639 - logger - INFO - ------
