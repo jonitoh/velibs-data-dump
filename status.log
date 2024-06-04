@@ -443,3 +443,11 @@
 2024-06-04 21:25:32,329 - logger - INFO - request status: Successful
 2024-06-04 21:25:32,347 - logger - INFO - Successful dumping
 2024-06-04 21:25:32,348 - logger - INFO - ------
+2024-06-04 22:31:59,912 - logger - INFO - ------
+2024-06-04 22:31:59,912 - logger - INFO - retrieve station status
+2024-06-04 22:32:00,431 - logger - INFO - request status: Successful
+2024-06-04 22:32:00,434 - logger - INFO - Successful dumping
+2024-06-04 22:32:00,434 - logger - INFO - retrieve station information
+2024-06-04 22:32:01,255 - logger - INFO - request status: Successful
+2024-06-04 22:32:01,274 - logger - INFO - Successful dumping
+2024-06-04 22:32:01,274 - logger - INFO - ------
