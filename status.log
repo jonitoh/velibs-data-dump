@@ -451,3 +451,11 @@
 2024-06-04 22:32:01,255 - logger - INFO - request status: Successful
 2024-06-04 22:32:01,274 - logger - INFO - Successful dumping
 2024-06-04 22:32:01,274 - logger - INFO - ------
+2024-06-04 23:27:35,675 - logger - INFO - ------
+2024-06-04 23:27:35,675 - logger - INFO - retrieve station status
+2024-06-04 23:27:36,002 - logger - INFO - request status: Successful
+2024-06-04 23:27:36,005 - logger - INFO - Successful dumping
+2024-06-04 23:27:36,005 - logger - INFO - retrieve station information
+2024-06-04 23:27:36,900 - logger - INFO - request status: Successful
+2024-06-04 23:27:36,918 - logger - INFO - Successful dumping
+2024-06-04 23:27:36,919 - logger - INFO - ------
