@@ -627,3 +627,11 @@
 2024-06-05 21:27:29,109 - logger - INFO - request status: Successful
 2024-06-05 21:27:29,127 - logger - INFO - Successful dumping
 2024-06-05 21:27:29,128 - logger - INFO - ------
+2024-06-05 22:30:36,753 - logger - INFO - ------
+2024-06-05 22:30:36,753 - logger - INFO - retrieve station status
+2024-06-05 22:30:37,179 - logger - INFO - request status: Successful
+2024-06-05 22:30:37,181 - logger - INFO - Successful dumping
+2024-06-05 22:30:37,181 - logger - INFO - retrieve station information
+2024-06-05 22:30:37,923 - logger - INFO - request status: Successful
+2024-06-05 22:30:37,941 - logger - INFO - Successful dumping
+2024-06-05 22:30:37,942 - logger - INFO - ------
