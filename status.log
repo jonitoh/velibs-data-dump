@@ -491,3 +491,11 @@
 2024-06-05 04:33:24,759 - logger - INFO - request status: Successful
 2024-06-05 04:33:24,778 - logger - INFO - Successful dumping
 2024-06-05 04:33:24,778 - logger - INFO - ------
+2024-06-05 05:30:26,778 - logger - INFO - ------
+2024-06-05 05:30:26,778 - logger - INFO - retrieve station status
+2024-06-05 05:30:27,107 - logger - INFO - request status: Successful
+2024-06-05 05:30:27,110 - logger - INFO - Successful dumping
+2024-06-05 05:30:27,110 - logger - INFO - retrieve station information
+2024-06-05 05:30:27,871 - logger - INFO - request status: Successful
+2024-06-05 05:30:27,889 - logger - INFO - Successful dumping
+2024-06-05 05:30:27,889 - logger - INFO - ------
