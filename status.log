@@ -667,3 +667,11 @@
 2024-06-06 03:30:53,200 - logger - INFO - request status: Successful
 2024-06-06 03:30:53,218 - logger - INFO - Successful dumping
 2024-06-06 03:30:53,218 - logger - INFO - ------
+2024-06-06 04:31:10,391 - logger - INFO - ------
+2024-06-06 04:31:10,391 - logger - INFO - retrieve station status
+2024-06-06 04:31:10,814 - logger - INFO - request status: Successful
+2024-06-06 04:31:10,816 - logger - INFO - Successful dumping
+2024-06-06 04:31:10,817 - logger - INFO - retrieve station information
+2024-06-06 04:31:11,718 - logger - INFO - request status: Successful
+2024-06-06 04:31:11,736 - logger - INFO - Successful dumping
+2024-06-06 04:31:11,737 - logger - INFO - ------
