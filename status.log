@@ -739,3 +739,11 @@
 2024-06-06 12:46:48,415 - logger - INFO - request status: Successful
 2024-06-06 12:46:48,434 - logger - INFO - Successful dumping
 2024-06-06 12:46:48,434 - logger - INFO - ------
+2024-06-06 13:28:58,576 - logger - INFO - ------
+2024-06-06 13:28:58,576 - logger - INFO - retrieve station status
+2024-06-06 13:28:59,014 - logger - INFO - request status: Successful
+2024-06-06 13:28:59,017 - logger - INFO - Successful dumping
+2024-06-06 13:28:59,017 - logger - INFO - retrieve station information
+2024-06-06 13:28:59,919 - logger - INFO - request status: Successful
+2024-06-06 13:28:59,937 - logger - INFO - Successful dumping
+2024-06-06 13:28:59,938 - logger - INFO - ------
