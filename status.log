@@ -707,3 +707,11 @@
 2024-06-06 08:31:55,914 - logger - INFO - request status: Successful
 2024-06-06 08:31:55,932 - logger - INFO - Successful dumping
 2024-06-06 08:31:55,933 - logger - INFO - ------
+2024-06-06 09:28:59,988 - logger - INFO - ------
+2024-06-06 09:28:59,988 - logger - INFO - retrieve station status
+2024-06-06 09:29:00,546 - logger - INFO - request status: Successful
+2024-06-06 09:29:00,549 - logger - INFO - Successful dumping
+2024-06-06 09:29:00,549 - logger - INFO - retrieve station information
+2024-06-06 09:29:01,813 - logger - INFO - request status: Successful
+2024-06-06 09:29:01,832 - logger - INFO - Successful dumping
+2024-06-06 09:29:01,832 - logger - INFO - ------
