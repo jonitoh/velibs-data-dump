@@ -811,3 +811,11 @@
 2024-06-06 21:27:22,067 - logger - INFO - request status: Successful
 2024-06-06 21:27:22,085 - logger - INFO - Successful dumping
 2024-06-06 21:27:22,086 - logger - INFO - ------
+2024-06-06 22:29:55,279 - logger - INFO - ------
+2024-06-06 22:29:55,279 - logger - INFO - retrieve station status
+2024-06-06 22:29:55,662 - logger - INFO - request status: Successful
+2024-06-06 22:29:55,666 - logger - INFO - Successful dumping
+2024-06-06 22:29:55,666 - logger - INFO - retrieve station information
+2024-06-06 22:29:56,417 - logger - INFO - request status: Successful
+2024-06-06 22:29:56,437 - logger - INFO - Successful dumping
+2024-06-06 22:29:56,437 - logger - INFO - ------
