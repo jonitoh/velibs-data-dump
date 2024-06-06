@@ -779,3 +779,11 @@
 2024-06-06 17:30:30,643 - logger - INFO - request status: Successful
 2024-06-06 17:30:30,661 - logger - INFO - Successful dumping
 2024-06-06 17:30:30,661 - logger - INFO - ------
+2024-06-06 18:32:26,110 - logger - INFO - ------
+2024-06-06 18:32:26,110 - logger - INFO - retrieve station status
+2024-06-06 18:32:26,430 - logger - INFO - request status: Successful
+2024-06-06 18:32:26,433 - logger - INFO - Successful dumping
+2024-06-06 18:32:26,433 - logger - INFO - retrieve station information
+2024-06-06 18:32:27,240 - logger - INFO - request status: Successful
+2024-06-06 18:32:27,259 - logger - INFO - Successful dumping
+2024-06-06 18:32:27,259 - logger - INFO - ------
