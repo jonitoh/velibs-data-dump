@@ -651,3 +651,11 @@
 2024-06-06 01:37:14,397 - logger - INFO - request status: Successful
 2024-06-06 01:37:14,416 - logger - INFO - Successful dumping
 2024-06-06 01:37:14,416 - logger - INFO - ------
+2024-06-06 02:40:20,213 - logger - INFO - ------
+2024-06-06 02:40:20,213 - logger - INFO - retrieve station status
+2024-06-06 02:40:20,618 - logger - INFO - request status: Successful
+2024-06-06 02:40:20,621 - logger - INFO - Successful dumping
+2024-06-06 02:40:20,621 - logger - INFO - retrieve station information
+2024-06-06 02:40:21,526 - logger - INFO - request status: Successful
+2024-06-06 02:40:21,544 - logger - INFO - Successful dumping
+2024-06-06 02:40:21,545 - logger - INFO - ------
