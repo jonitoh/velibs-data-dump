@@ -795,3 +795,11 @@
 2024-06-06 19:25:49,401 - logger - INFO - request status: Successful
 2024-06-06 19:25:49,420 - logger - INFO - Successful dumping
 2024-06-06 19:25:49,421 - logger - INFO - ------
+2024-06-06 20:30:22,944 - logger - INFO - ------
+2024-06-06 20:30:22,944 - logger - INFO - retrieve station status
+2024-06-06 20:30:23,487 - logger - INFO - request status: Successful
+2024-06-06 20:30:23,490 - logger - INFO - Successful dumping
+2024-06-06 20:30:23,490 - logger - INFO - retrieve station information
+2024-06-06 20:30:24,770 - logger - INFO - request status: Successful
+2024-06-06 20:30:24,788 - logger - INFO - Successful dumping
+2024-06-06 20:30:24,788 - logger - INFO - ------
