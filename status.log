@@ -683,3 +683,11 @@
 2024-06-06 05:30:57,488 - logger - INFO - request status: Successful
 2024-06-06 05:30:57,507 - logger - INFO - Successful dumping
 2024-06-06 05:30:57,507 - logger - INFO - ------
+2024-06-06 06:33:46,659 - logger - INFO - ------
+2024-06-06 06:33:46,659 - logger - INFO - retrieve station status
+2024-06-06 06:33:47,092 - logger - INFO - request status: Successful
+2024-06-06 06:33:47,095 - logger - INFO - Successful dumping
+2024-06-06 06:33:47,095 - logger - INFO - retrieve station information
+2024-06-06 06:33:47,888 - logger - INFO - request status: Successful
+2024-06-06 06:33:47,906 - logger - INFO - Successful dumping
+2024-06-06 06:33:47,906 - logger - INFO - ------
