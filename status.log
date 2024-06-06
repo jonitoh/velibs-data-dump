@@ -643,3 +643,11 @@
 2024-06-05 23:27:57,678 - logger - INFO - request status: Successful
 2024-06-05 23:27:57,696 - logger - INFO - Successful dumping
 2024-06-05 23:27:57,697 - logger - INFO - ------
+2024-06-06 01:37:13,226 - logger - INFO - ------
+2024-06-06 01:37:13,226 - logger - INFO - retrieve station status
+2024-06-06 01:37:13,627 - logger - INFO - request status: Successful
+2024-06-06 01:37:13,630 - logger - INFO - Successful dumping
+2024-06-06 01:37:13,630 - logger - INFO - retrieve station information
+2024-06-06 01:37:14,397 - logger - INFO - request status: Successful
+2024-06-06 01:37:14,416 - logger - INFO - Successful dumping
+2024-06-06 01:37:14,416 - logger - INFO - ------
