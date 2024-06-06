@@ -771,3 +771,11 @@
 2024-06-06 16:32:53,523 - logger - INFO - request status: Successful
 2024-06-06 16:32:53,541 - logger - INFO - Successful dumping
 2024-06-06 16:32:53,542 - logger - INFO - ------
+2024-06-06 17:30:29,491 - logger - INFO - ------
+2024-06-06 17:30:29,491 - logger - INFO - retrieve station status
+2024-06-06 17:30:29,910 - logger - INFO - request status: Successful
+2024-06-06 17:30:29,913 - logger - INFO - Successful dumping
+2024-06-06 17:30:29,913 - logger - INFO - retrieve station information
+2024-06-06 17:30:30,643 - logger - INFO - request status: Successful
+2024-06-06 17:30:30,661 - logger - INFO - Successful dumping
+2024-06-06 17:30:30,661 - logger - INFO - ------
