@@ -659,3 +659,11 @@
 2024-06-06 02:40:21,526 - logger - INFO - request status: Successful
 2024-06-06 02:40:21,544 - logger - INFO - Successful dumping
 2024-06-06 02:40:21,545 - logger - INFO - ------
+2024-06-06 03:30:52,015 - logger - INFO - ------
+2024-06-06 03:30:52,015 - logger - INFO - retrieve station status
+2024-06-06 03:30:52,438 - logger - INFO - request status: Successful
+2024-06-06 03:30:52,441 - logger - INFO - Successful dumping
+2024-06-06 03:30:52,441 - logger - INFO - retrieve station information
+2024-06-06 03:30:53,200 - logger - INFO - request status: Successful
+2024-06-06 03:30:53,218 - logger - INFO - Successful dumping
+2024-06-06 03:30:53,218 - logger - INFO - ------
