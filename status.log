@@ -691,3 +691,11 @@
 2024-06-06 06:33:47,888 - logger - INFO - request status: Successful
 2024-06-06 06:33:47,906 - logger - INFO - Successful dumping
 2024-06-06 06:33:47,906 - logger - INFO - ------
+2024-06-06 07:26:11,731 - logger - INFO - ------
+2024-06-06 07:26:11,731 - logger - INFO - retrieve station status
+2024-06-06 07:26:12,284 - logger - INFO - request status: Successful
+2024-06-06 07:26:12,287 - logger - INFO - Successful dumping
+2024-06-06 07:26:12,287 - logger - INFO - retrieve station information
+2024-06-06 07:26:13,580 - logger - INFO - request status: Successful
+2024-06-06 07:26:13,598 - logger - INFO - Successful dumping
+2024-06-06 07:26:13,599 - logger - INFO - ------
