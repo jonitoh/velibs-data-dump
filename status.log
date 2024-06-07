@@ -995,3 +995,11 @@
 2024-06-07 21:27:22,626 - logger - INFO - request status: Successful
 2024-06-07 21:27:22,644 - logger - INFO - Successful dumping
 2024-06-07 21:27:22,645 - logger - INFO - ------
+2024-06-07 22:30:54,127 - logger - INFO - ------
+2024-06-07 22:30:54,127 - logger - INFO - retrieve station status
+2024-06-07 22:30:54,479 - logger - INFO - request status: Successful
+2024-06-07 22:30:54,482 - logger - INFO - Successful dumping
+2024-06-07 22:30:54,482 - logger - INFO - retrieve station information
+2024-06-07 22:30:55,445 - logger - INFO - request status: Successful
+2024-06-07 22:30:55,463 - logger - INFO - Successful dumping
+2024-06-07 22:30:55,463 - logger - INFO - ------
