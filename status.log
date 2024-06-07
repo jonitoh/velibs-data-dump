@@ -891,3 +891,11 @@
 2024-06-07 08:31:39,154 - logger - INFO - request status: Successful
 2024-06-07 08:31:39,172 - logger - INFO - Successful dumping
 2024-06-07 08:31:39,172 - logger - INFO - ------
+2024-06-07 09:28:01,593 - logger - INFO - ------
+2024-06-07 09:28:01,594 - logger - INFO - retrieve station status
+2024-06-07 09:28:02,079 - logger - INFO - request status: Successful
+2024-06-07 09:28:02,082 - logger - INFO - Successful dumping
+2024-06-07 09:28:02,082 - logger - INFO - retrieve station information
+2024-06-07 09:28:02,875 - logger - INFO - request status: Successful
+2024-06-07 09:28:02,893 - logger - INFO - Successful dumping
+2024-06-07 09:28:02,894 - logger - INFO - ------
