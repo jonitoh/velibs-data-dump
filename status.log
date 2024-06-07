@@ -899,3 +899,11 @@
 2024-06-07 09:28:02,875 - logger - INFO - request status: Successful
 2024-06-07 09:28:02,893 - logger - INFO - Successful dumping
 2024-06-07 09:28:02,894 - logger - INFO - ------
+2024-06-07 10:32:21,803 - logger - INFO - ------
+2024-06-07 10:32:21,803 - logger - INFO - retrieve station status
+2024-06-07 10:32:22,194 - logger - INFO - request status: Successful
+2024-06-07 10:32:22,196 - logger - INFO - Successful dumping
+2024-06-07 10:32:22,197 - logger - INFO - retrieve station information
+2024-06-07 10:32:22,970 - logger - INFO - request status: Successful
+2024-06-07 10:32:22,988 - logger - INFO - Successful dumping
+2024-06-07 10:32:22,989 - logger - INFO - ------
