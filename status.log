@@ -939,3 +939,11 @@
 2024-06-07 14:30:49,400 - logger - INFO - request status: Successful
 2024-06-07 14:30:49,418 - logger - INFO - Successful dumping
 2024-06-07 14:30:49,419 - logger - INFO - ------
+2024-06-07 15:29:34,971 - logger - INFO - ------
+2024-06-07 15:29:34,971 - logger - INFO - retrieve station status
+2024-06-07 15:29:35,347 - logger - INFO - request status: Successful
+2024-06-07 15:29:35,350 - logger - INFO - Successful dumping
+2024-06-07 15:29:35,350 - logger - INFO - retrieve station information
+2024-06-07 15:29:36,316 - logger - INFO - request status: Successful
+2024-06-07 15:29:36,334 - logger - INFO - Successful dumping
+2024-06-07 15:29:36,335 - logger - INFO - ------
