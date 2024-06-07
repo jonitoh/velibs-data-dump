@@ -851,3 +851,11 @@
 2024-06-07 03:30:59,200 - logger - INFO - request status: Successful
 2024-06-07 03:30:59,219 - logger - INFO - Successful dumping
 2024-06-07 03:30:59,219 - logger - INFO - ------
+2024-06-07 04:32:29,342 - logger - INFO - ------
+2024-06-07 04:32:29,342 - logger - INFO - retrieve station status
+2024-06-07 04:32:29,741 - logger - INFO - request status: Successful
+2024-06-07 04:32:29,744 - logger - INFO - Successful dumping
+2024-06-07 04:32:29,744 - logger - INFO - retrieve station information
+2024-06-07 04:32:30,638 - logger - INFO - request status: Successful
+2024-06-07 04:32:30,656 - logger - INFO - Successful dumping
+2024-06-07 04:32:30,657 - logger - INFO - ------
