@@ -827,3 +827,11 @@
 2024-06-06 23:30:11,217 - logger - INFO - request status: Successful
 2024-06-06 23:30:11,236 - logger - INFO - Successful dumping
 2024-06-06 23:30:11,236 - logger - INFO - ------
+2024-06-07 01:39:52,221 - logger - INFO - ------
+2024-06-07 01:39:52,221 - logger - INFO - retrieve station status
+2024-06-07 01:39:52,629 - logger - INFO - request status: Successful
+2024-06-07 01:39:52,631 - logger - INFO - Successful dumping
+2024-06-07 01:39:52,632 - logger - INFO - retrieve station information
+2024-06-07 01:39:53,437 - logger - INFO - request status: Successful
+2024-06-07 01:39:53,455 - logger - INFO - Successful dumping
+2024-06-07 01:39:53,456 - logger - INFO - ------
