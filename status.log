@@ -859,3 +859,11 @@
 2024-06-07 04:32:30,638 - logger - INFO - request status: Successful
 2024-06-07 04:32:30,656 - logger - INFO - Successful dumping
 2024-06-07 04:32:30,657 - logger - INFO - ------
+2024-06-07 05:31:01,376 - logger - INFO - ------
+2024-06-07 05:31:01,376 - logger - INFO - retrieve station status
+2024-06-07 05:31:01,931 - logger - INFO - request status: Successful
+2024-06-07 05:31:01,934 - logger - INFO - Successful dumping
+2024-06-07 05:31:01,934 - logger - INFO - retrieve station information
+2024-06-07 05:31:03,214 - logger - INFO - request status: Successful
+2024-06-07 05:31:03,232 - logger - INFO - Successful dumping
+2024-06-07 05:31:03,233 - logger - INFO - ------
