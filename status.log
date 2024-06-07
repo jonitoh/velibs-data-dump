@@ -867,3 +867,11 @@
 2024-06-07 05:31:03,214 - logger - INFO - request status: Successful
 2024-06-07 05:31:03,232 - logger - INFO - Successful dumping
 2024-06-07 05:31:03,233 - logger - INFO - ------
+2024-06-07 06:35:17,464 - logger - INFO - ------
+2024-06-07 06:35:17,464 - logger - INFO - retrieve station status
+2024-06-07 06:35:17,823 - logger - INFO - request status: Successful
+2024-06-07 06:35:17,826 - logger - INFO - Successful dumping
+2024-06-07 06:35:17,826 - logger - INFO - retrieve station information
+2024-06-07 06:35:18,571 - logger - INFO - request status: Successful
+2024-06-07 06:35:18,589 - logger - INFO - Successful dumping
+2024-06-07 06:35:18,590 - logger - INFO - ------
