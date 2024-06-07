@@ -835,3 +835,11 @@
 2024-06-07 01:39:53,437 - logger - INFO - request status: Successful
 2024-06-07 01:39:53,455 - logger - INFO - Successful dumping
 2024-06-07 01:39:53,456 - logger - INFO - ------
+2024-06-07 02:43:29,148 - logger - INFO - ------
+2024-06-07 02:43:29,149 - logger - INFO - retrieve station status
+2024-06-07 02:43:29,537 - logger - INFO - request status: Successful
+2024-06-07 02:43:29,540 - logger - INFO - Successful dumping
+2024-06-07 02:43:29,540 - logger - INFO - retrieve station information
+2024-06-07 02:43:30,302 - logger - INFO - request status: Successful
+2024-06-07 02:43:30,321 - logger - INFO - Successful dumping
+2024-06-07 02:43:30,321 - logger - INFO - ------
