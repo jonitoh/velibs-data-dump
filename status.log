@@ -1091,3 +1091,11 @@
 2024-06-08 10:31:19,173 - logger - INFO - request status: Successful
 2024-06-08 10:31:19,191 - logger - INFO - Successful dumping
 2024-06-08 10:31:19,192 - logger - INFO - ------
+2024-06-08 11:25:34,278 - logger - INFO - ------
+2024-06-08 11:25:34,278 - logger - INFO - retrieve station status
+2024-06-08 11:25:34,923 - logger - INFO - request status: Successful
+2024-06-08 11:25:34,925 - logger - INFO - Successful dumping
+2024-06-08 11:25:34,926 - logger - INFO - retrieve station information
+2024-06-08 11:25:36,182 - logger - INFO - request status: Successful
+2024-06-08 11:25:36,200 - logger - INFO - Successful dumping
+2024-06-08 11:25:36,201 - logger - INFO - ------
