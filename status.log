@@ -1019,3 +1019,11 @@
 2024-06-08 01:37:45,952 - logger - INFO - request status: Successful
 2024-06-08 01:37:45,971 - logger - INFO - Successful dumping
 2024-06-08 01:37:45,971 - logger - INFO - ------
+2024-06-08 02:40:18,410 - logger - INFO - ------
+2024-06-08 02:40:18,411 - logger - INFO - retrieve station status
+2024-06-08 02:40:18,849 - logger - INFO - request status: Successful
+2024-06-08 02:40:18,851 - logger - INFO - Successful dumping
+2024-06-08 02:40:18,852 - logger - INFO - retrieve station information
+2024-06-08 02:40:19,583 - logger - INFO - request status: Successful
+2024-06-08 02:40:19,601 - logger - INFO - Successful dumping
+2024-06-08 02:40:19,602 - logger - INFO - ------
