@@ -1035,3 +1035,11 @@
 2024-06-08 03:29:19,900 - logger - INFO - request status: Successful
 2024-06-08 03:29:19,918 - logger - INFO - Successful dumping
 2024-06-08 03:29:19,919 - logger - INFO - ------
+2024-06-08 04:31:19,935 - logger - INFO - ------
+2024-06-08 04:31:19,935 - logger - INFO - retrieve station status
+2024-06-08 04:31:20,345 - logger - INFO - request status: Successful
+2024-06-08 04:31:20,348 - logger - INFO - Successful dumping
+2024-06-08 04:31:20,348 - logger - INFO - retrieve station information
+2024-06-08 04:31:21,259 - logger - INFO - request status: Successful
+2024-06-08 04:31:21,277 - logger - INFO - Successful dumping
+2024-06-08 04:31:21,278 - logger - INFO - ------
