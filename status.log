@@ -1051,3 +1051,11 @@
 2024-06-08 05:29:43,933 - logger - INFO - request status: Successful
 2024-06-08 05:29:43,953 - logger - INFO - Successful dumping
 2024-06-08 05:29:43,953 - logger - INFO - ------
+2024-06-08 06:32:25,094 - logger - INFO - ------
+2024-06-08 06:32:25,094 - logger - INFO - retrieve station status
+2024-06-08 06:32:25,486 - logger - INFO - request status: Successful
+2024-06-08 06:32:25,491 - logger - INFO - Successful dumping
+2024-06-08 06:32:25,491 - logger - INFO - retrieve station information
+2024-06-08 06:32:26,238 - logger - INFO - request status: Successful
+2024-06-08 06:32:26,256 - logger - INFO - Successful dumping
+2024-06-08 06:32:26,257 - logger - INFO - ------
