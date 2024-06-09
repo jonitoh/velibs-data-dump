@@ -1291,3 +1291,11 @@
 2024-06-09 12:44:29,188 - logger - INFO - request status: Successful
 2024-06-09 12:44:29,207 - logger - INFO - Successful dumping
 2024-06-09 12:44:29,207 - logger - INFO - ------
+2024-06-09 13:28:33,091 - logger - INFO - ------
+2024-06-09 13:28:33,091 - logger - INFO - retrieve station status
+2024-06-09 13:28:33,499 - logger - INFO - request status: Successful
+2024-06-09 13:28:33,502 - logger - INFO - Successful dumping
+2024-06-09 13:28:33,502 - logger - INFO - retrieve station information
+2024-06-09 13:28:34,258 - logger - INFO - request status: Successful
+2024-06-09 13:28:34,277 - logger - INFO - Successful dumping
+2024-06-09 13:28:34,278 - logger - INFO - ------
