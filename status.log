@@ -1243,3 +1243,11 @@
 2024-06-09 06:32:58,183 - logger - INFO - request status: Successful
 2024-06-09 06:32:58,201 - logger - INFO - Successful dumping
 2024-06-09 06:32:58,202 - logger - INFO - ------
+2024-06-09 07:25:42,954 - logger - INFO - ------
+2024-06-09 07:25:42,954 - logger - INFO - retrieve station status
+2024-06-09 07:25:43,519 - logger - INFO - request status: Successful
+2024-06-09 07:25:43,522 - logger - INFO - Successful dumping
+2024-06-09 07:25:43,522 - logger - INFO - retrieve station information
+2024-06-09 07:25:44,740 - logger - INFO - request status: Successful
+2024-06-09 07:25:44,759 - logger - INFO - Successful dumping
+2024-06-09 07:25:44,759 - logger - INFO - ------
