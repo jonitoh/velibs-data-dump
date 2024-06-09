@@ -1315,3 +1315,11 @@
 2024-06-09 15:28:43,143 - logger - INFO - request status: Successful
 2024-06-09 15:28:43,161 - logger - INFO - Successful dumping
 2024-06-09 15:28:43,162 - logger - INFO - ------
+2024-06-09 16:32:20,011 - logger - INFO - ------
+2024-06-09 16:32:20,011 - logger - INFO - retrieve station status
+2024-06-09 16:32:20,410 - logger - INFO - request status: Successful
+2024-06-09 16:32:20,413 - logger - INFO - Successful dumping
+2024-06-09 16:32:20,413 - logger - INFO - retrieve station information
+2024-06-09 16:32:21,314 - logger - INFO - request status: Successful
+2024-06-09 16:32:21,332 - logger - INFO - Successful dumping
+2024-06-09 16:32:21,333 - logger - INFO - ------
