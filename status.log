@@ -1419,3 +1419,11 @@
 2024-06-10 05:30:47,396 - logger - INFO - request status: Successful
 2024-06-10 05:30:47,414 - logger - INFO - Successful dumping
 2024-06-10 05:30:47,415 - logger - INFO - ------
+2024-06-10 06:35:45,873 - logger - INFO - ------
+2024-06-10 06:35:45,873 - logger - INFO - retrieve station status
+2024-06-10 06:35:46,302 - logger - INFO - request status: Successful
+2024-06-10 06:35:46,305 - logger - INFO - Successful dumping
+2024-06-10 06:35:46,305 - logger - INFO - retrieve station information
+2024-06-10 06:35:47,061 - logger - INFO - request status: Successful
+2024-06-10 06:35:47,080 - logger - INFO - Successful dumping
+2024-06-10 06:35:47,081 - logger - INFO - ------
