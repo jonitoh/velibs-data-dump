@@ -1531,3 +1531,11 @@
 2024-06-10 19:25:38,696 - logger - INFO - request status: Successful
 2024-06-10 19:25:38,714 - logger - INFO - Successful dumping
 2024-06-10 19:25:38,714 - logger - INFO - ------
+2024-06-10 20:27:56,642 - logger - INFO - ------
+2024-06-10 20:27:56,642 - logger - INFO - retrieve station status
+2024-06-10 20:27:57,015 - logger - INFO - request status: Successful
+2024-06-10 20:27:57,017 - logger - INFO - Successful dumping
+2024-06-10 20:27:57,017 - logger - INFO - retrieve station information
+2024-06-10 20:27:57,784 - logger - INFO - request status: Successful
+2024-06-10 20:27:57,802 - logger - INFO - Successful dumping
+2024-06-10 20:27:57,803 - logger - INFO - ------
