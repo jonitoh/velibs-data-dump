@@ -1427,3 +1427,11 @@
 2024-06-10 06:35:47,061 - logger - INFO - request status: Successful
 2024-06-10 06:35:47,080 - logger - INFO - Successful dumping
 2024-06-10 06:35:47,081 - logger - INFO - ------
+2024-06-10 07:25:33,871 - logger - INFO - ------
+2024-06-10 07:25:33,871 - logger - INFO - retrieve station status
+2024-06-10 07:25:34,221 - logger - INFO - request status: Successful
+2024-06-10 07:25:34,224 - logger - INFO - Successful dumping
+2024-06-10 07:25:34,224 - logger - INFO - retrieve station information
+2024-06-10 07:25:34,991 - logger - INFO - request status: Successful
+2024-06-10 07:25:35,010 - logger - INFO - Successful dumping
+2024-06-10 07:25:35,010 - logger - INFO - ------
