@@ -1706,3 +1706,11 @@
 2024-06-11 18:34:10,195 - logger - INFO - request status: Successful
 2024-06-11 18:34:10,213 - logger - INFO - Successful dumping
 2024-06-11 18:34:10,213 - logger - INFO - ------
+2024-06-11 19:25:30,939 - logger - INFO - ------
+2024-06-11 19:25:30,939 - logger - INFO - retrieve station status
+2024-06-11 19:25:31,315 - logger - INFO - request status: Successful
+2024-06-11 19:25:31,317 - logger - INFO - Successful dumping
+2024-06-11 19:25:31,317 - logger - INFO - retrieve station information
+2024-06-11 19:25:32,100 - logger - INFO - request status: Successful
+2024-06-11 19:25:32,118 - logger - INFO - Successful dumping
+2024-06-11 19:25:32,118 - logger - INFO - ------
