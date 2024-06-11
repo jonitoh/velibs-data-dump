@@ -1730,3 +1730,11 @@
 2024-06-11 21:31:29,876 - logger - INFO - request status: Successful
 2024-06-11 21:31:29,896 - logger - INFO - Successful dumping
 2024-06-11 21:31:29,896 - logger - INFO - ------
+2024-06-11 22:28:49,925 - logger - INFO - ------
+2024-06-11 22:28:49,925 - logger - INFO - retrieve station status
+2024-06-11 22:28:50,271 - logger - INFO - request status: Successful
+2024-06-11 22:28:50,274 - logger - INFO - Successful dumping
+2024-06-11 22:28:50,274 - logger - INFO - retrieve station information
+2024-06-11 22:28:51,040 - logger - INFO - request status: Successful
+2024-06-11 22:28:51,058 - logger - INFO - Successful dumping
+2024-06-11 22:28:51,059 - logger - INFO - ------
