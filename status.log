@@ -1674,3 +1674,11 @@
 2024-06-11 14:30:26,094 - logger - INFO - request status: Successful
 2024-06-11 14:30:26,112 - logger - INFO - Successful dumping
 2024-06-11 14:30:26,113 - logger - INFO - ------
+2024-06-11 15:29:15,786 - logger - INFO - ------
+2024-06-11 15:29:15,786 - logger - INFO - retrieve station status
+2024-06-11 15:29:16,211 - logger - INFO - request status: Successful
+2024-06-11 15:29:16,214 - logger - INFO - Successful dumping
+2024-06-11 15:29:16,214 - logger - INFO - retrieve station information
+2024-06-11 15:29:17,135 - logger - INFO - request status: Successful
+2024-06-11 15:29:17,154 - logger - INFO - Successful dumping
+2024-06-11 15:29:17,154 - logger - INFO - ------
