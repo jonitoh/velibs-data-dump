@@ -1682,3 +1682,11 @@
 2024-06-11 15:29:17,135 - logger - INFO - request status: Successful
 2024-06-11 15:29:17,154 - logger - INFO - Successful dumping
 2024-06-11 15:29:17,154 - logger - INFO - ------
+2024-06-11 16:35:27,075 - logger - INFO - ------
+2024-06-11 16:35:27,075 - logger - INFO - retrieve station status
+2024-06-11 16:35:27,605 - logger - INFO - request status: Successful
+2024-06-11 16:35:27,608 - logger - INFO - Successful dumping
+2024-06-11 16:35:27,608 - logger - INFO - retrieve station information
+2024-06-11 16:35:28,895 - logger - INFO - request status: Successful
+2024-06-11 16:35:28,913 - logger - INFO - Successful dumping
+2024-06-11 16:35:28,914 - logger - INFO - ------
