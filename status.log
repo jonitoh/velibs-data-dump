@@ -1714,3 +1714,11 @@
 2024-06-11 19:25:32,100 - logger - INFO - request status: Successful
 2024-06-11 19:25:32,118 - logger - INFO - Successful dumping
 2024-06-11 19:25:32,118 - logger - INFO - ------
+2024-06-11 20:27:37,448 - logger - INFO - ------
+2024-06-11 20:27:37,449 - logger - INFO - retrieve station status
+2024-06-11 20:27:37,801 - logger - INFO - request status: Successful
+2024-06-11 20:27:37,803 - logger - INFO - Successful dumping
+2024-06-11 20:27:37,804 - logger - INFO - retrieve station information
+2024-06-11 20:27:38,606 - logger - INFO - request status: Successful
+2024-06-11 20:27:38,625 - logger - INFO - Successful dumping
+2024-06-11 20:27:38,625 - logger - INFO - ------
