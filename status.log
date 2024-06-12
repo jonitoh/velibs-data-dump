@@ -1914,3 +1914,11 @@
 2024-06-12 21:26:17,627 - logger - INFO - request status: Successful
 2024-06-12 21:26:17,646 - logger - INFO - Successful dumping
 2024-06-12 21:26:17,646 - logger - INFO - ------
+2024-06-12 22:30:24,471 - logger - INFO - ------
+2024-06-12 22:30:24,472 - logger - INFO - retrieve station status
+2024-06-12 22:30:24,835 - logger - INFO - request status: Successful
+2024-06-12 22:30:24,837 - logger - INFO - Successful dumping
+2024-06-12 22:30:24,837 - logger - INFO - retrieve station information
+2024-06-12 22:30:25,629 - logger - INFO - request status: Successful
+2024-06-12 22:30:25,647 - logger - INFO - Successful dumping
+2024-06-12 22:30:25,648 - logger - INFO - ------
