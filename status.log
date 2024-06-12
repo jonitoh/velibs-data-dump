@@ -1746,3 +1746,11 @@
 2024-06-11 23:26:22,093 - logger - INFO - request status: Successful
 2024-06-11 23:26:22,112 - logger - INFO - Successful dumping
 2024-06-11 23:26:22,112 - logger - INFO - ------
+2024-06-12 01:39:30,148 - logger - INFO - ------
+2024-06-12 01:39:30,148 - logger - INFO - retrieve station status
+2024-06-12 01:39:30,565 - logger - INFO - request status: Successful
+2024-06-12 01:39:30,567 - logger - INFO - Successful dumping
+2024-06-12 01:39:30,568 - logger - INFO - retrieve station information
+2024-06-12 01:39:31,470 - logger - INFO - request status: Successful
+2024-06-12 01:39:31,489 - logger - INFO - Successful dumping
+2024-06-12 01:39:31,489 - logger - INFO - ------
