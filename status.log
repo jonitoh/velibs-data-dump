@@ -1826,3 +1826,11 @@
 2024-06-12 10:32:12,376 - logger - INFO - request status: Successful
 2024-06-12 10:32:12,395 - logger - INFO - Successful dumping
 2024-06-12 10:32:12,395 - logger - INFO - ------
+2024-06-12 11:25:40,175 - logger - INFO - ------
+2024-06-12 11:25:40,175 - logger - INFO - retrieve station status
+2024-06-12 11:25:40,619 - logger - INFO - request status: Successful
+2024-06-12 11:25:40,622 - logger - INFO - Successful dumping
+2024-06-12 11:25:40,622 - logger - INFO - retrieve station information
+2024-06-12 11:25:41,475 - logger - INFO - request status: Successful
+2024-06-12 11:25:41,493 - logger - INFO - Successful dumping
+2024-06-12 11:25:41,494 - logger - INFO - ------
