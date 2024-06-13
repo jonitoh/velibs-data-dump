@@ -1962,3 +1962,11 @@
 2024-06-13 04:32:20,529 - logger - INFO - request status: Successful
 2024-06-13 04:32:20,550 - logger - INFO - Successful dumping
 2024-06-13 04:32:20,550 - logger - INFO - ------
+2024-06-13 05:31:06,304 - logger - INFO - ------
+2024-06-13 05:31:06,304 - logger - INFO - retrieve station status
+2024-06-13 05:31:06,839 - logger - INFO - request status: Successful
+2024-06-13 05:31:06,841 - logger - INFO - Successful dumping
+2024-06-13 05:31:06,841 - logger - INFO - retrieve station information
+2024-06-13 05:31:08,123 - logger - INFO - request status: Successful
+2024-06-13 05:31:08,141 - logger - INFO - Successful dumping
+2024-06-13 05:31:08,142 - logger - INFO - ------
