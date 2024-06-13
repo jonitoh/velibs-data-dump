@@ -1938,3 +1938,11 @@
 2024-06-13 01:38:41,077 - logger - INFO - request status: Successful
 2024-06-13 01:38:41,095 - logger - INFO - Successful dumping
 2024-06-13 01:38:41,096 - logger - INFO - ------
+2024-06-13 02:41:50,824 - logger - INFO - ------
+2024-06-13 02:41:50,824 - logger - INFO - retrieve station status
+2024-06-13 02:41:51,296 - logger - INFO - request status: Successful
+2024-06-13 02:41:51,299 - logger - INFO - Successful dumping
+2024-06-13 02:41:51,299 - logger - INFO - retrieve station information
+2024-06-13 02:41:52,025 - logger - INFO - request status: Successful
+2024-06-13 02:41:52,044 - logger - INFO - Successful dumping
+2024-06-13 02:41:52,044 - logger - INFO - ------
