@@ -2002,3 +2002,11 @@
 2024-06-13 09:28:50,176 - logger - INFO - request status: Successful
 2024-06-13 09:28:50,194 - logger - INFO - Successful dumping
 2024-06-13 09:28:50,195 - logger - INFO - ------
+2024-06-13 10:32:01,255 - logger - INFO - ------
+2024-06-13 10:32:01,255 - logger - INFO - retrieve station status
+2024-06-13 10:32:01,602 - logger - INFO - request status: Successful
+2024-06-13 10:32:01,604 - logger - INFO - Successful dumping
+2024-06-13 10:32:01,605 - logger - INFO - retrieve station information
+2024-06-13 10:32:02,380 - logger - INFO - request status: Successful
+2024-06-13 10:32:02,398 - logger - INFO - Successful dumping
+2024-06-13 10:32:02,398 - logger - INFO - ------
