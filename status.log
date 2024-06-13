@@ -2058,3 +2058,11 @@
 2024-06-13 16:35:18,135 - logger - INFO - request status: Successful
 2024-06-13 16:35:18,153 - logger - INFO - Successful dumping
 2024-06-13 16:35:18,153 - logger - INFO - ------
+2024-06-13 17:29:05,824 - logger - INFO - ------
+2024-06-13 17:29:05,824 - logger - INFO - retrieve station status
+2024-06-13 17:29:06,206 - logger - INFO - request status: Successful
+2024-06-13 17:29:06,209 - logger - INFO - Successful dumping
+2024-06-13 17:29:06,209 - logger - INFO - retrieve station information
+2024-06-13 17:29:06,984 - logger - INFO - request status: Successful
+2024-06-13 17:29:07,002 - logger - INFO - Successful dumping
+2024-06-13 17:29:07,003 - logger - INFO - ------
