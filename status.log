@@ -2082,3 +2082,11 @@
 2024-06-13 19:25:35,416 - logger - INFO - request status: Successful
 2024-06-13 19:25:35,435 - logger - INFO - Successful dumping
 2024-06-13 19:25:35,435 - logger - INFO - ------
+2024-06-13 20:29:51,791 - logger - INFO - ------
+2024-06-13 20:29:51,791 - logger - INFO - retrieve station status
+2024-06-13 20:29:52,160 - logger - INFO - request status: Successful
+2024-06-13 20:29:52,162 - logger - INFO - Successful dumping
+2024-06-13 20:29:52,163 - logger - INFO - retrieve station information
+2024-06-13 20:29:52,893 - logger - INFO - request status: Successful
+2024-06-13 20:29:52,911 - logger - INFO - Successful dumping
+2024-06-13 20:29:52,912 - logger - INFO - ------
