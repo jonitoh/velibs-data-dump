@@ -1970,3 +1970,11 @@
 2024-06-13 05:31:08,123 - logger - INFO - request status: Successful
 2024-06-13 05:31:08,141 - logger - INFO - Successful dumping
 2024-06-13 05:31:08,142 - logger - INFO - ------
+2024-06-13 06:33:43,737 - logger - INFO - ------
+2024-06-13 06:33:43,737 - logger - INFO - retrieve station status
+2024-06-13 06:33:44,125 - logger - INFO - request status: Successful
+2024-06-13 06:33:44,127 - logger - INFO - Successful dumping
+2024-06-13 06:33:44,128 - logger - INFO - retrieve station information
+2024-06-13 06:33:44,838 - logger - INFO - request status: Successful
+2024-06-13 06:33:44,856 - logger - INFO - Successful dumping
+2024-06-13 06:33:44,856 - logger - INFO - ------
