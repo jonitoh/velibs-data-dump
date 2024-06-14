@@ -2193,3 +2193,11 @@
 2024-06-14 10:31:59,053 - logger - INFO - request status: Successful
 2024-06-14 10:31:59,072 - logger - INFO - Successful dumping
 2024-06-14 10:31:59,072 - logger - INFO - ------
+2024-06-14 11:25:45,048 - logger - INFO - ------
+2024-06-14 11:25:45,049 - logger - INFO - retrieve station status
+2024-06-14 11:25:45,406 - logger - INFO - request status: Successful
+2024-06-14 11:25:45,408 - logger - INFO - Successful dumping
+2024-06-14 11:25:45,408 - logger - INFO - retrieve station information
+2024-06-14 11:25:46,283 - logger - INFO - request status: Successful
+2024-06-14 11:25:46,301 - logger - INFO - Successful dumping
+2024-06-14 11:25:46,302 - logger - INFO - ------
