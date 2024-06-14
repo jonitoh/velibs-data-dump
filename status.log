@@ -2217,3 +2217,11 @@
 2024-06-14 13:29:24,385 - logger - INFO - request status: Successful
 2024-06-14 13:29:24,403 - logger - INFO - Successful dumping
 2024-06-14 13:29:24,403 - logger - INFO - ------
+2024-06-14 14:31:13,621 - logger - INFO - ------
+2024-06-14 14:31:13,621 - logger - INFO - retrieve station status
+2024-06-14 14:31:14,192 - logger - INFO - request status: Successful
+2024-06-14 14:31:14,195 - logger - INFO - Successful dumping
+2024-06-14 14:31:14,195 - logger - INFO - retrieve station information
+2024-06-14 14:31:15,632 - logger - INFO - request status: Successful
+2024-06-14 14:31:15,650 - logger - INFO - Successful dumping
+2024-06-14 14:31:15,651 - logger - INFO - ------
