@@ -2201,3 +2201,11 @@
 2024-06-14 11:25:46,283 - logger - INFO - request status: Successful
 2024-06-14 11:25:46,301 - logger - INFO - Successful dumping
 2024-06-14 11:25:46,302 - logger - INFO - ------
+2024-06-14 12:46:58,247 - logger - INFO - ------
+2024-06-14 12:46:58,248 - logger - INFO - retrieve station status
+2024-06-14 12:46:58,776 - logger - INFO - request status: Successful
+2024-06-14 12:46:58,779 - logger - INFO - Successful dumping
+2024-06-14 12:46:58,779 - logger - INFO - retrieve station information
+2024-06-14 12:47:00,089 - logger - INFO - request status: Successful
+2024-06-14 12:47:00,107 - logger - INFO - Successful dumping
+2024-06-14 12:47:00,108 - logger - INFO - ------
