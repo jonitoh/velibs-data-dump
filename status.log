@@ -2178,3 +2178,10 @@
 2024-06-14 08:31:14,684 - logger - INFO - request status: Successful
 2024-06-14 08:31:14,703 - logger - INFO - Successful dumping
 2024-06-14 08:31:14,703 - logger - INFO - ------
+2024-06-14 09:28:30,092 - logger - INFO - ------
+2024-06-14 09:28:30,092 - logger - INFO - retrieve station status
+2024-06-14 09:28:30,554 - logger - INFO - request status: Successful
+2024-06-14 09:28:30,557 - logger - INFO - Successful dumping
+2024-06-14 09:28:30,557 - logger - INFO - retrieve station information
+2024-06-14 09:28:31,016 - logger - INFO - request status: Unsuccessful 502
+2024-06-14 09:28:31,016 - logger - INFO - ------
