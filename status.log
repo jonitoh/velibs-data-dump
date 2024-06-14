@@ -2225,3 +2225,11 @@
 2024-06-14 14:31:15,632 - logger - INFO - request status: Successful
 2024-06-14 14:31:15,650 - logger - INFO - Successful dumping
 2024-06-14 14:31:15,651 - logger - INFO - ------
+2024-06-14 15:30:11,793 - logger - INFO - ------
+2024-06-14 15:30:11,793 - logger - INFO - retrieve station status
+2024-06-14 15:30:12,266 - logger - INFO - request status: Successful
+2024-06-14 15:30:12,269 - logger - INFO - Successful dumping
+2024-06-14 15:30:12,269 - logger - INFO - retrieve station information
+2024-06-14 15:30:13,280 - logger - INFO - request status: Successful
+2024-06-14 15:30:13,298 - logger - INFO - Successful dumping
+2024-06-14 15:30:13,299 - logger - INFO - ------
