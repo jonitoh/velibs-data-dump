@@ -2409,3 +2409,11 @@
 2024-06-15 14:29:11,312 - logger - INFO - request status: Successful
 2024-06-15 14:29:11,330 - logger - INFO - Successful dumping
 2024-06-15 14:29:11,331 - logger - INFO - ------
+2024-06-15 15:28:16,290 - logger - INFO - ------
+2024-06-15 15:28:16,291 - logger - INFO - retrieve station status
+2024-06-15 15:28:16,824 - logger - INFO - request status: Successful
+2024-06-15 15:28:16,826 - logger - INFO - Successful dumping
+2024-06-15 15:28:16,826 - logger - INFO - retrieve station information
+2024-06-15 15:28:18,094 - logger - INFO - request status: Successful
+2024-06-15 15:28:18,112 - logger - INFO - Successful dumping
+2024-06-15 15:28:18,113 - logger - INFO - ------
