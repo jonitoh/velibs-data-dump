@@ -2313,3 +2313,11 @@
 2024-06-15 02:40:23,239 - logger - INFO - request status: Successful
 2024-06-15 02:40:23,257 - logger - INFO - Successful dumping
 2024-06-15 02:40:23,258 - logger - INFO - ------
+2024-06-15 03:29:56,004 - logger - INFO - ------
+2024-06-15 03:29:56,004 - logger - INFO - retrieve station status
+2024-06-15 03:29:56,484 - logger - INFO - request status: Successful
+2024-06-15 03:29:56,487 - logger - INFO - Successful dumping
+2024-06-15 03:29:56,487 - logger - INFO - retrieve station information
+2024-06-15 03:29:57,468 - logger - INFO - request status: Successful
+2024-06-15 03:29:57,486 - logger - INFO - Successful dumping
+2024-06-15 03:29:57,487 - logger - INFO - ------
