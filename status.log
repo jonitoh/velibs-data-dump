@@ -2353,3 +2353,11 @@
 2024-06-15 07:26:06,575 - logger - INFO - request status: Successful
 2024-06-15 07:26:06,593 - logger - INFO - Successful dumping
 2024-06-15 07:26:06,594 - logger - INFO - ------
+2024-06-15 08:30:32,608 - logger - INFO - ------
+2024-06-15 08:30:32,608 - logger - INFO - retrieve station status
+2024-06-15 08:30:32,943 - logger - INFO - request status: Successful
+2024-06-15 08:30:32,945 - logger - INFO - Successful dumping
+2024-06-15 08:30:32,945 - logger - INFO - retrieve station information
+2024-06-15 08:30:33,641 - logger - INFO - request status: Successful
+2024-06-15 08:30:33,660 - logger - INFO - Successful dumping
+2024-06-15 08:30:33,660 - logger - INFO - ------
