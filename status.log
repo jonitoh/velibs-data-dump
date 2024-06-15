@@ -2305,3 +2305,11 @@
 2024-06-15 01:38:25,135 - logger - INFO - request status: Successful
 2024-06-15 01:38:25,153 - logger - INFO - Successful dumping
 2024-06-15 01:38:25,154 - logger - INFO - ------
+2024-06-15 02:40:21,856 - logger - INFO - ------
+2024-06-15 02:40:21,856 - logger - INFO - retrieve station status
+2024-06-15 02:40:22,369 - logger - INFO - request status: Successful
+2024-06-15 02:40:22,371 - logger - INFO - Successful dumping
+2024-06-15 02:40:22,372 - logger - INFO - retrieve station information
+2024-06-15 02:40:23,239 - logger - INFO - request status: Successful
+2024-06-15 02:40:23,257 - logger - INFO - Successful dumping
+2024-06-15 02:40:23,258 - logger - INFO - ------
