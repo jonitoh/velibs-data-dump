@@ -2385,3 +2385,11 @@
 2024-06-15 11:25:29,975 - logger - INFO - request status: Successful
 2024-06-15 11:25:29,993 - logger - INFO - Successful dumping
 2024-06-15 11:25:29,994 - logger - INFO - ------
+2024-06-15 12:45:14,665 - logger - INFO - ------
+2024-06-15 12:45:14,665 - logger - INFO - retrieve station status
+2024-06-15 12:45:15,319 - logger - INFO - request status: Successful
+2024-06-15 12:45:15,322 - logger - INFO - Successful dumping
+2024-06-15 12:45:15,322 - logger - INFO - retrieve station information
+2024-06-15 12:45:16,539 - logger - INFO - request status: Successful
+2024-06-15 12:45:16,557 - logger - INFO - Successful dumping
+2024-06-15 12:45:16,557 - logger - INFO - ------
