@@ -2513,3 +2513,11 @@
 2024-06-16 04:30:52,131 - logger - INFO - request status: Successful
 2024-06-16 04:30:52,149 - logger - INFO - Successful dumping
 2024-06-16 04:30:52,149 - logger - INFO - ------
+2024-06-16 05:31:22,394 - logger - INFO - ------
+2024-06-16 05:31:22,394 - logger - INFO - retrieve station status
+2024-06-16 05:31:22,766 - logger - INFO - request status: Successful
+2024-06-16 05:31:22,769 - logger - INFO - Successful dumping
+2024-06-16 05:31:22,769 - logger - INFO - retrieve station information
+2024-06-16 05:31:23,521 - logger - INFO - request status: Successful
+2024-06-16 05:31:23,539 - logger - INFO - Successful dumping
+2024-06-16 05:31:23,540 - logger - INFO - ------
