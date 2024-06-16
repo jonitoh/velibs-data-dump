@@ -2601,3 +2601,11 @@
 2024-06-16 15:28:50,102 - logger - INFO - request status: Successful
 2024-06-16 15:28:50,121 - logger - INFO - Successful dumping
 2024-06-16 15:28:50,121 - logger - INFO - ------
+2024-06-16 16:32:56,431 - logger - INFO - ------
+2024-06-16 16:32:56,431 - logger - INFO - retrieve station status
+2024-06-16 16:32:56,797 - logger - INFO - request status: Successful
+2024-06-16 16:32:56,800 - logger - INFO - Successful dumping
+2024-06-16 16:32:56,800 - logger - INFO - retrieve station information
+2024-06-16 16:32:57,562 - logger - INFO - request status: Successful
+2024-06-16 16:32:57,581 - logger - INFO - Successful dumping
+2024-06-16 16:32:57,582 - logger - INFO - ------
