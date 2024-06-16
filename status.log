@@ -2521,3 +2521,11 @@
 2024-06-16 05:31:23,521 - logger - INFO - request status: Successful
 2024-06-16 05:31:23,539 - logger - INFO - Successful dumping
 2024-06-16 05:31:23,540 - logger - INFO - ------
+2024-06-16 06:33:23,495 - logger - INFO - ------
+2024-06-16 06:33:23,496 - logger - INFO - retrieve station status
+2024-06-16 06:33:24,071 - logger - INFO - request status: Successful
+2024-06-16 06:33:24,074 - logger - INFO - Successful dumping
+2024-06-16 06:33:24,074 - logger - INFO - retrieve station information
+2024-06-16 06:33:25,331 - logger - INFO - request status: Successful
+2024-06-16 06:33:25,350 - logger - INFO - Successful dumping
+2024-06-16 06:33:25,350 - logger - INFO - ------
