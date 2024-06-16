@@ -2505,3 +2505,11 @@
 2024-06-16 03:30:27,459 - logger - INFO - request status: Successful
 2024-06-16 03:30:27,478 - logger - INFO - Successful dumping
 2024-06-16 03:30:27,478 - logger - INFO - ------
+2024-06-16 04:30:50,254 - logger - INFO - ------
+2024-06-16 04:30:50,255 - logger - INFO - retrieve station status
+2024-06-16 04:30:50,800 - logger - INFO - request status: Successful
+2024-06-16 04:30:50,802 - logger - INFO - Successful dumping
+2024-06-16 04:30:50,802 - logger - INFO - retrieve station information
+2024-06-16 04:30:52,131 - logger - INFO - request status: Successful
+2024-06-16 04:30:52,149 - logger - INFO - Successful dumping
+2024-06-16 04:30:52,149 - logger - INFO - ------
