@@ -2585,3 +2585,11 @@
 2024-06-16 13:26:58,693 - logger - INFO - request status: Successful
 2024-06-16 13:26:58,711 - logger - INFO - Successful dumping
 2024-06-16 13:26:58,712 - logger - INFO - ------
+2024-06-16 14:28:40,719 - logger - INFO - ------
+2024-06-16 14:28:40,719 - logger - INFO - retrieve station status
+2024-06-16 14:28:41,133 - logger - INFO - request status: Successful
+2024-06-16 14:28:41,136 - logger - INFO - Successful dumping
+2024-06-16 14:28:41,136 - logger - INFO - retrieve station information
+2024-06-16 14:28:42,029 - logger - INFO - request status: Successful
+2024-06-16 14:28:42,048 - logger - INFO - Successful dumping
+2024-06-16 14:28:42,048 - logger - INFO - ------
