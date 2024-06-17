@@ -2761,3 +2761,11 @@
 2024-06-17 12:47:52,202 - logger - INFO - request status: Successful
 2024-06-17 12:47:52,220 - logger - INFO - Successful dumping
 2024-06-17 12:47:52,220 - logger - INFO - ------
+2024-06-17 13:28:58,438 - logger - INFO - ------
+2024-06-17 13:28:58,439 - logger - INFO - retrieve station status
+2024-06-17 13:28:58,837 - logger - INFO - request status: Successful
+2024-06-17 13:28:58,840 - logger - INFO - Successful dumping
+2024-06-17 13:28:58,840 - logger - INFO - retrieve station information
+2024-06-17 13:28:59,705 - logger - INFO - request status: Successful
+2024-06-17 13:28:59,724 - logger - INFO - Successful dumping
+2024-06-17 13:28:59,724 - logger - INFO - ------
