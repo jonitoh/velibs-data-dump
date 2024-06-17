@@ -2697,3 +2697,11 @@
 2024-06-17 04:33:29,127 - logger - INFO - request status: Successful
 2024-06-17 04:33:29,146 - logger - INFO - Successful dumping
 2024-06-17 04:33:29,146 - logger - INFO - ------
+2024-06-17 05:33:03,107 - logger - INFO - ------
+2024-06-17 05:33:03,107 - logger - INFO - retrieve station status
+2024-06-17 05:33:03,703 - logger - INFO - request status: Successful
+2024-06-17 05:33:03,705 - logger - INFO - Successful dumping
+2024-06-17 05:33:03,705 - logger - INFO - retrieve station information
+2024-06-17 05:33:04,982 - logger - INFO - request status: Successful
+2024-06-17 05:33:05,000 - logger - INFO - Successful dumping
+2024-06-17 05:33:05,001 - logger - INFO - ------
