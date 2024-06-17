@@ -2737,3 +2737,11 @@
 2024-06-17 09:29:18,074 - logger - INFO - request status: Successful
 2024-06-17 09:29:18,092 - logger - INFO - Successful dumping
 2024-06-17 09:29:18,092 - logger - INFO - ------
+2024-06-17 10:33:49,039 - logger - INFO - ------
+2024-06-17 10:33:49,039 - logger - INFO - retrieve station status
+2024-06-17 10:33:49,412 - logger - INFO - request status: Successful
+2024-06-17 10:33:49,415 - logger - INFO - Successful dumping
+2024-06-17 10:33:49,416 - logger - INFO - retrieve station information
+2024-06-17 10:33:50,126 - logger - INFO - request status: Successful
+2024-06-17 10:33:50,144 - logger - INFO - Successful dumping
+2024-06-17 10:33:50,145 - logger - INFO - ------
