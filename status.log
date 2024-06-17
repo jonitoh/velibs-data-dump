@@ -2777,3 +2777,11 @@
 2024-06-17 14:31:16,146 - logger - INFO - request status: Successful
 2024-06-17 14:31:16,165 - logger - INFO - Successful dumping
 2024-06-17 14:31:16,165 - logger - INFO - ------
+2024-06-17 15:30:05,364 - logger - INFO - ------
+2024-06-17 15:30:05,364 - logger - INFO - retrieve station status
+2024-06-17 15:30:05,987 - logger - INFO - request status: Successful
+2024-06-17 15:30:05,991 - logger - INFO - Successful dumping
+2024-06-17 15:30:05,991 - logger - INFO - retrieve station information
+2024-06-17 15:30:07,289 - logger - INFO - request status: Successful
+2024-06-17 15:30:07,308 - logger - INFO - Successful dumping
+2024-06-17 15:30:07,309 - logger - INFO - ------
