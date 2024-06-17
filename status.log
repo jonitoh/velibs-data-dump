@@ -2753,3 +2753,11 @@
 2024-06-17 11:25:50,345 - logger - INFO - request status: Successful
 2024-06-17 11:25:50,363 - logger - INFO - Successful dumping
 2024-06-17 11:25:50,364 - logger - INFO - ------
+2024-06-17 12:47:50,814 - logger - INFO - ------
+2024-06-17 12:47:50,814 - logger - INFO - retrieve station status
+2024-06-17 12:47:51,303 - logger - INFO - request status: Successful
+2024-06-17 12:47:51,306 - logger - INFO - Successful dumping
+2024-06-17 12:47:51,306 - logger - INFO - retrieve station information
+2024-06-17 12:47:52,202 - logger - INFO - request status: Successful
+2024-06-17 12:47:52,220 - logger - INFO - Successful dumping
+2024-06-17 12:47:52,220 - logger - INFO - ------
