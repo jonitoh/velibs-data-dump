@@ -2945,3 +2945,11 @@
 2024-06-18 12:47:30,271 - logger - INFO - request status: Successful
 2024-06-18 12:47:30,289 - logger - INFO - Successful dumping
 2024-06-18 12:47:30,289 - logger - INFO - ------
+2024-06-18 13:29:32,055 - logger - INFO - ------
+2024-06-18 13:29:32,055 - logger - INFO - retrieve station status
+2024-06-18 13:29:32,492 - logger - INFO - request status: Successful
+2024-06-18 13:29:32,495 - logger - INFO - Successful dumping
+2024-06-18 13:29:32,495 - logger - INFO - retrieve station information
+2024-06-18 13:29:33,283 - logger - INFO - request status: Successful
+2024-06-18 13:29:33,302 - logger - INFO - Successful dumping
+2024-06-18 13:29:33,302 - logger - INFO - ------
