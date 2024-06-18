@@ -2881,3 +2881,11 @@
 2024-06-18 04:31:17,633 - logger - INFO - request status: Successful
 2024-06-18 04:31:17,651 - logger - INFO - Successful dumping
 2024-06-18 04:31:17,652 - logger - INFO - ------
+2024-06-18 05:31:10,439 - logger - INFO - ------
+2024-06-18 05:31:10,439 - logger - INFO - retrieve station status
+2024-06-18 05:31:10,832 - logger - INFO - request status: Successful
+2024-06-18 05:31:10,835 - logger - INFO - Successful dumping
+2024-06-18 05:31:10,835 - logger - INFO - retrieve station information
+2024-06-18 05:31:11,590 - logger - INFO - request status: Successful
+2024-06-18 05:31:11,609 - logger - INFO - Successful dumping
+2024-06-18 05:31:11,609 - logger - INFO - ------
