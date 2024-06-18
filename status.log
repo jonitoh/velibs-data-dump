@@ -3025,3 +3025,11 @@
 2024-06-18 22:30:45,175 - logger - INFO - request status: Successful
 2024-06-18 22:30:45,194 - logger - INFO - Successful dumping
 2024-06-18 22:30:45,194 - logger - INFO - ------
+2024-06-18 23:27:10,238 - logger - INFO - ------
+2024-06-18 23:27:10,239 - logger - INFO - retrieve station status
+2024-06-18 23:27:10,767 - logger - INFO - request status: Successful
+2024-06-18 23:27:10,770 - logger - INFO - Successful dumping
+2024-06-18 23:27:10,770 - logger - INFO - retrieve station information
+2024-06-18 23:27:12,049 - logger - INFO - request status: Successful
+2024-06-18 23:27:12,067 - logger - INFO - Successful dumping
+2024-06-18 23:27:12,068 - logger - INFO - ------
