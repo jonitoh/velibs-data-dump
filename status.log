@@ -2953,3 +2953,11 @@
 2024-06-18 13:29:33,283 - logger - INFO - request status: Successful
 2024-06-18 13:29:33,302 - logger - INFO - Successful dumping
 2024-06-18 13:29:33,302 - logger - INFO - ------
+2024-06-18 14:30:35,717 - logger - INFO - ------
+2024-06-18 14:30:35,717 - logger - INFO - retrieve station status
+2024-06-18 14:30:36,151 - logger - INFO - request status: Successful
+2024-06-18 14:30:36,154 - logger - INFO - Successful dumping
+2024-06-18 14:30:36,154 - logger - INFO - retrieve station information
+2024-06-18 14:30:36,996 - logger - INFO - request status: Successful
+2024-06-18 14:30:37,015 - logger - INFO - Successful dumping
+2024-06-18 14:30:37,016 - logger - INFO - ------
