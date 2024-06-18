@@ -2921,3 +2921,11 @@
 2024-06-18 09:28:56,873 - logger - INFO - request status: Successful
 2024-06-18 09:28:56,891 - logger - INFO - Successful dumping
 2024-06-18 09:28:56,892 - logger - INFO - ------
+2024-06-18 10:32:41,854 - logger - INFO - ------
+2024-06-18 10:32:41,854 - logger - INFO - retrieve station status
+2024-06-18 10:32:42,244 - logger - INFO - request status: Successful
+2024-06-18 10:32:42,248 - logger - INFO - Successful dumping
+2024-06-18 10:32:42,248 - logger - INFO - retrieve station information
+2024-06-18 10:32:43,022 - logger - INFO - request status: Successful
+2024-06-18 10:32:43,040 - logger - INFO - Successful dumping
+2024-06-18 10:32:43,041 - logger - INFO - ------
