@@ -3041,3 +3041,11 @@
 2024-06-19 01:39:57,023 - logger - INFO - request status: Successful
 2024-06-19 01:39:57,042 - logger - INFO - Successful dumping
 2024-06-19 01:39:57,042 - logger - INFO - ------
+2024-06-19 02:43:00,043 - logger - INFO - ------
+2024-06-19 02:43:00,044 - logger - INFO - retrieve station status
+2024-06-19 02:43:00,503 - logger - INFO - request status: Successful
+2024-06-19 02:43:00,507 - logger - INFO - Successful dumping
+2024-06-19 02:43:00,507 - logger - INFO - retrieve station information
+2024-06-19 02:43:01,274 - logger - INFO - request status: Successful
+2024-06-19 02:43:01,292 - logger - INFO - Successful dumping
+2024-06-19 02:43:01,293 - logger - INFO - ------
