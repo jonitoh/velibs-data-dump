@@ -3073,3 +3073,11 @@
 2024-06-19 05:33:05,014 - logger - INFO - request status: Successful
 2024-06-19 05:33:05,033 - logger - INFO - Successful dumping
 2024-06-19 05:33:05,033 - logger - INFO - ------
+2024-06-19 06:34:18,793 - logger - INFO - ------
+2024-06-19 06:34:18,793 - logger - INFO - retrieve station status
+2024-06-19 06:34:19,378 - logger - INFO - request status: Successful
+2024-06-19 06:34:19,380 - logger - INFO - Successful dumping
+2024-06-19 06:34:19,380 - logger - INFO - retrieve station information
+2024-06-19 06:34:20,623 - logger - INFO - request status: Successful
+2024-06-19 06:34:20,641 - logger - INFO - Successful dumping
+2024-06-19 06:34:20,642 - logger - INFO - ------
