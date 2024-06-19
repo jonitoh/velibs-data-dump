@@ -3105,3 +3105,11 @@
 2024-06-19 09:31:15,921 - logger - INFO - request status: Successful
 2024-06-19 09:31:15,940 - logger - INFO - Successful dumping
 2024-06-19 09:31:15,940 - logger - INFO - ------
+2024-06-19 10:32:50,930 - logger - INFO - ------
+2024-06-19 10:32:50,930 - logger - INFO - retrieve station status
+2024-06-19 10:32:51,302 - logger - INFO - request status: Successful
+2024-06-19 10:32:51,305 - logger - INFO - Successful dumping
+2024-06-19 10:32:51,305 - logger - INFO - retrieve station information
+2024-06-19 10:32:52,372 - logger - INFO - request status: Successful
+2024-06-19 10:32:52,390 - logger - INFO - Successful dumping
+2024-06-19 10:32:52,390 - logger - INFO - ------
