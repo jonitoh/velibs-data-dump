@@ -3153,3 +3153,11 @@
 2024-06-19 15:29:11,327 - logger - INFO - request status: Successful
 2024-06-19 15:29:11,345 - logger - INFO - Successful dumping
 2024-06-19 15:29:11,346 - logger - INFO - ------
+2024-06-19 16:34:14,849 - logger - INFO - ------
+2024-06-19 16:34:14,849 - logger - INFO - retrieve station status
+2024-06-19 16:34:15,275 - logger - INFO - request status: Successful
+2024-06-19 16:34:15,278 - logger - INFO - Successful dumping
+2024-06-19 16:34:15,278 - logger - INFO - retrieve station information
+2024-06-19 16:34:15,997 - logger - INFO - request status: Successful
+2024-06-19 16:34:16,015 - logger - INFO - Successful dumping
+2024-06-19 16:34:16,015 - logger - INFO - ------
