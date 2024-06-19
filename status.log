@@ -3089,3 +3089,11 @@
 2024-06-19 07:25:34,704 - logger - INFO - request status: Successful
 2024-06-19 07:25:34,722 - logger - INFO - Successful dumping
 2024-06-19 07:25:34,723 - logger - INFO - ------
+2024-06-19 08:32:12,555 - logger - INFO - ------
+2024-06-19 08:32:12,556 - logger - INFO - retrieve station status
+2024-06-19 08:32:13,019 - logger - INFO - request status: Successful
+2024-06-19 08:32:13,021 - logger - INFO - Successful dumping
+2024-06-19 08:32:13,021 - logger - INFO - retrieve station information
+2024-06-19 08:32:13,911 - logger - INFO - request status: Successful
+2024-06-19 08:32:13,930 - logger - INFO - Successful dumping
+2024-06-19 08:32:13,931 - logger - INFO - ------
