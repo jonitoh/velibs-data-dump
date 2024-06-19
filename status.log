@@ -3169,3 +3169,11 @@
 2024-06-19 17:30:48,853 - logger - INFO - request status: Successful
 2024-06-19 17:30:48,871 - logger - INFO - Successful dumping
 2024-06-19 17:30:48,871 - logger - INFO - ------
+2024-06-19 18:33:50,853 - logger - INFO - ------
+2024-06-19 18:33:50,853 - logger - INFO - retrieve station status
+2024-06-19 18:33:51,263 - logger - INFO - request status: Successful
+2024-06-19 18:33:51,266 - logger - INFO - Successful dumping
+2024-06-19 18:33:51,266 - logger - INFO - retrieve station information
+2024-06-19 18:33:52,144 - logger - INFO - request status: Successful
+2024-06-19 18:33:52,162 - logger - INFO - Successful dumping
+2024-06-19 18:33:52,162 - logger - INFO - ------
