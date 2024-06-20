@@ -3328,3 +3328,11 @@
 2024-06-20 14:29:59,115 - logger - INFO - request status: Successful
 2024-06-20 14:29:59,133 - logger - INFO - Successful dumping
 2024-06-20 14:29:59,134 - logger - INFO - ------
+2024-06-20 15:29:51,912 - logger - INFO - ------
+2024-06-20 15:29:51,912 - logger - INFO - retrieve station status
+2024-06-20 15:29:52,301 - logger - INFO - request status: Successful
+2024-06-20 15:29:52,304 - logger - INFO - Successful dumping
+2024-06-20 15:29:52,304 - logger - INFO - retrieve station information
+2024-06-20 15:29:53,110 - logger - INFO - request status: Successful
+2024-06-20 15:29:53,129 - logger - INFO - Successful dumping
+2024-06-20 15:29:53,129 - logger - INFO - ------
