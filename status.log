@@ -3280,3 +3280,11 @@
 2024-06-20 08:31:53,821 - logger - INFO - request status: Successful
 2024-06-20 08:31:53,840 - logger - INFO - Successful dumping
 2024-06-20 08:31:53,840 - logger - INFO - ------
+2024-06-20 09:29:42,149 - logger - INFO - ------
+2024-06-20 09:29:42,149 - logger - INFO - retrieve station status
+2024-06-20 09:29:42,736 - logger - INFO - request status: Successful
+2024-06-20 09:29:42,739 - logger - INFO - Successful dumping
+2024-06-20 09:29:42,739 - logger - INFO - retrieve station information
+2024-06-20 09:29:44,007 - logger - INFO - request status: Successful
+2024-06-20 09:29:44,025 - logger - INFO - Successful dumping
+2024-06-20 09:29:44,026 - logger - INFO - ------
