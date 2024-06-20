@@ -3224,3 +3224,11 @@
 2024-06-20 01:37:30,977 - logger - INFO - request status: Successful
 2024-06-20 01:37:30,996 - logger - INFO - Successful dumping
 2024-06-20 01:37:30,996 - logger - INFO - ------
+2024-06-20 02:41:02,002 - logger - INFO - ------
+2024-06-20 02:41:02,003 - logger - INFO - retrieve station status
+2024-06-20 02:41:02,440 - logger - INFO - request status: Successful
+2024-06-20 02:41:02,442 - logger - INFO - Successful dumping
+2024-06-20 02:41:02,443 - logger - INFO - retrieve station information
+2024-06-20 02:41:03,219 - logger - INFO - request status: Successful
+2024-06-20 02:41:03,237 - logger - INFO - Successful dumping
+2024-06-20 02:41:03,238 - logger - INFO - ------
