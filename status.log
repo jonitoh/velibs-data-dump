@@ -3336,3 +3336,11 @@
 2024-06-20 15:29:53,110 - logger - INFO - request status: Successful
 2024-06-20 15:29:53,129 - logger - INFO - Successful dumping
 2024-06-20 15:29:53,129 - logger - INFO - ------
+2024-06-20 16:35:58,263 - logger - INFO - ------
+2024-06-20 16:35:58,263 - logger - INFO - retrieve station status
+2024-06-20 16:35:58,570 - logger - INFO - request status: Successful
+2024-06-20 16:35:58,572 - logger - INFO - Successful dumping
+2024-06-20 16:35:58,573 - logger - INFO - retrieve station information
+2024-06-20 16:35:59,458 - logger - INFO - request status: Successful
+2024-06-20 16:35:59,476 - logger - INFO - Successful dumping
+2024-06-20 16:35:59,477 - logger - INFO - ------
