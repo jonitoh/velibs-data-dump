@@ -3376,3 +3376,11 @@
 2024-06-20 20:26:52,250 - logger - INFO - request status: Successful
 2024-06-20 20:26:52,268 - logger - INFO - Successful dumping
 2024-06-20 20:26:52,269 - logger - INFO - ------
+2024-06-20 21:26:41,810 - logger - INFO - ------
+2024-06-20 21:26:41,810 - logger - INFO - retrieve station status
+2024-06-20 21:26:42,340 - logger - INFO - request status: Successful
+2024-06-20 21:26:42,343 - logger - INFO - Successful dumping
+2024-06-20 21:26:42,343 - logger - INFO - retrieve station information
+2024-06-20 21:26:43,574 - logger - INFO - request status: Successful
+2024-06-20 21:26:43,592 - logger - INFO - Successful dumping
+2024-06-20 21:26:43,593 - logger - INFO - ------
