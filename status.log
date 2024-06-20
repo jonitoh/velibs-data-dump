@@ -3216,3 +3216,11 @@
 2024-06-19 23:27:21,052 - logger - INFO - request status: Successful
 2024-06-19 23:27:21,070 - logger - INFO - Successful dumping
 2024-06-19 23:27:21,070 - logger - INFO - ------
+2024-06-20 01:37:29,850 - logger - INFO - ------
+2024-06-20 01:37:29,850 - logger - INFO - retrieve station status
+2024-06-20 01:37:30,200 - logger - INFO - request status: Successful
+2024-06-20 01:37:30,202 - logger - INFO - Successful dumping
+2024-06-20 01:37:30,202 - logger - INFO - retrieve station information
+2024-06-20 01:37:30,977 - logger - INFO - request status: Successful
+2024-06-20 01:37:30,996 - logger - INFO - Successful dumping
+2024-06-20 01:37:30,996 - logger - INFO - ------
