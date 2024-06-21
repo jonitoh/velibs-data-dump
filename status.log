@@ -3432,3 +3432,11 @@
 2024-06-21 04:31:40,318 - logger - INFO - request status: Successful
 2024-06-21 04:31:40,336 - logger - INFO - Successful dumping
 2024-06-21 04:31:40,336 - logger - INFO - ------
+2024-06-21 05:30:49,445 - logger - INFO - ------
+2024-06-21 05:30:49,445 - logger - INFO - retrieve station status
+2024-06-21 05:30:49,776 - logger - INFO - request status: Successful
+2024-06-21 05:30:49,779 - logger - INFO - Successful dumping
+2024-06-21 05:30:49,779 - logger - INFO - retrieve station information
+2024-06-21 05:30:50,551 - logger - INFO - request status: Successful
+2024-06-21 05:30:50,569 - logger - INFO - Successful dumping
+2024-06-21 05:30:50,569 - logger - INFO - ------
