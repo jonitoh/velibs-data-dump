@@ -3400,3 +3400,11 @@
 2024-06-20 23:28:14,283 - logger - INFO - request status: Successful
 2024-06-20 23:28:14,301 - logger - INFO - Successful dumping
 2024-06-20 23:28:14,302 - logger - INFO - ------
+2024-06-21 01:37:53,292 - logger - INFO - ------
+2024-06-21 01:37:53,292 - logger - INFO - retrieve station status
+2024-06-21 01:37:53,653 - logger - INFO - request status: Successful
+2024-06-21 01:37:53,655 - logger - INFO - Successful dumping
+2024-06-21 01:37:53,655 - logger - INFO - retrieve station information
+2024-06-21 01:37:54,419 - logger - INFO - request status: Successful
+2024-06-21 01:37:54,437 - logger - INFO - Successful dumping
+2024-06-21 01:37:54,437 - logger - INFO - ------
