@@ -3624,3 +3624,11 @@
 2024-06-22 05:30:35,621 - logger - INFO - request status: Successful
 2024-06-22 05:30:35,640 - logger - INFO - Successful dumping
 2024-06-22 05:30:35,640 - logger - INFO - ------
+2024-06-22 06:32:57,219 - logger - INFO - ------
+2024-06-22 06:32:57,219 - logger - INFO - retrieve station status
+2024-06-22 06:32:57,586 - logger - INFO - request status: Successful
+2024-06-22 06:32:57,589 - logger - INFO - Successful dumping
+2024-06-22 06:32:57,589 - logger - INFO - retrieve station information
+2024-06-22 06:32:58,372 - logger - INFO - request status: Successful
+2024-06-22 06:32:58,390 - logger - INFO - Successful dumping
+2024-06-22 06:32:58,391 - logger - INFO - ------
