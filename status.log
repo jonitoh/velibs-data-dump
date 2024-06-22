@@ -3592,3 +3592,11 @@
 2024-06-22 01:37:05,589 - logger - INFO - request status: Successful
 2024-06-22 01:37:05,608 - logger - INFO - Successful dumping
 2024-06-22 01:37:05,608 - logger - INFO - ------
+2024-06-22 02:38:49,190 - logger - INFO - ------
+2024-06-22 02:38:49,190 - logger - INFO - retrieve station status
+2024-06-22 02:38:49,699 - logger - INFO - request status: Successful
+2024-06-22 02:38:49,702 - logger - INFO - Successful dumping
+2024-06-22 02:38:49,702 - logger - INFO - retrieve station information
+2024-06-22 02:38:51,373 - logger - INFO - request status: Successful
+2024-06-22 02:38:51,392 - logger - INFO - Successful dumping
+2024-06-22 02:38:51,392 - logger - INFO - ------
