@@ -3872,3 +3872,11 @@
 2024-06-23 13:25:54,723 - logger - INFO - request status: Successful
 2024-06-23 13:25:54,741 - logger - INFO - Successful dumping
 2024-06-23 13:25:54,741 - logger - INFO - ------
+2024-06-23 14:28:11,547 - logger - INFO - ------
+2024-06-23 14:28:11,547 - logger - INFO - retrieve station status
+2024-06-23 14:28:11,913 - logger - INFO - request status: Successful
+2024-06-23 14:28:11,915 - logger - INFO - Successful dumping
+2024-06-23 14:28:11,915 - logger - INFO - retrieve station information
+2024-06-23 14:28:12,780 - logger - INFO - request status: Successful
+2024-06-23 14:28:12,798 - logger - INFO - Successful dumping
+2024-06-23 14:28:12,798 - logger - INFO - ------
