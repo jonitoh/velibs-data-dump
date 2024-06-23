@@ -3864,3 +3864,11 @@
 2024-06-23 12:44:30,903 - logger - INFO - request status: Successful
 2024-06-23 12:44:30,921 - logger - INFO - Successful dumping
 2024-06-23 12:44:30,922 - logger - INFO - ------
+2024-06-23 13:25:53,520 - logger - INFO - ------
+2024-06-23 13:25:53,520 - logger - INFO - retrieve station status
+2024-06-23 13:25:53,844 - logger - INFO - request status: Successful
+2024-06-23 13:25:53,847 - logger - INFO - Successful dumping
+2024-06-23 13:25:53,847 - logger - INFO - retrieve station information
+2024-06-23 13:25:54,723 - logger - INFO - request status: Successful
+2024-06-23 13:25:54,741 - logger - INFO - Successful dumping
+2024-06-23 13:25:54,741 - logger - INFO - ------
