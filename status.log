@@ -3904,3 +3904,11 @@
 2024-06-23 17:27:40,098 - logger - INFO - request status: Successful
 2024-06-23 17:27:40,116 - logger - INFO - Successful dumping
 2024-06-23 17:27:40,116 - logger - INFO - ------
+2024-06-23 18:31:18,490 - logger - INFO - ------
+2024-06-23 18:31:18,490 - logger - INFO - retrieve station status
+2024-06-23 18:31:18,867 - logger - INFO - request status: Successful
+2024-06-23 18:31:18,869 - logger - INFO - Successful dumping
+2024-06-23 18:31:18,869 - logger - INFO - retrieve station information
+2024-06-23 18:31:19,674 - logger - INFO - request status: Successful
+2024-06-23 18:31:19,692 - logger - INFO - Successful dumping
+2024-06-23 18:31:19,693 - logger - INFO - ------
