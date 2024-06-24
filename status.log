@@ -4048,3 +4048,11 @@
 2024-06-24 12:47:41,356 - logger - INFO - request status: Successful
 2024-06-24 12:47:41,375 - logger - INFO - Successful dumping
 2024-06-24 12:47:41,375 - logger - INFO - ------
+2024-06-24 13:28:32,128 - logger - INFO - ------
+2024-06-24 13:28:32,128 - logger - INFO - retrieve station status
+2024-06-24 13:28:32,585 - logger - INFO - request status: Successful
+2024-06-24 13:28:32,588 - logger - INFO - Successful dumping
+2024-06-24 13:28:32,588 - logger - INFO - retrieve station information
+2024-06-24 13:28:33,870 - logger - INFO - request status: Successful
+2024-06-24 13:28:33,888 - logger - INFO - Successful dumping
+2024-06-24 13:28:33,889 - logger - INFO - ------
