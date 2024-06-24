@@ -4072,3 +4072,11 @@
 2024-06-24 15:29:14,055 - logger - INFO - request status: Successful
 2024-06-24 15:29:14,074 - logger - INFO - Successful dumping
 2024-06-24 15:29:14,074 - logger - INFO - ------
+2024-06-24 16:33:29,124 - logger - INFO - ------
+2024-06-24 16:33:29,124 - logger - INFO - retrieve station status
+2024-06-24 16:33:29,412 - logger - INFO - request status: Successful
+2024-06-24 16:33:29,415 - logger - INFO - Successful dumping
+2024-06-24 16:33:29,415 - logger - INFO - retrieve station information
+2024-06-24 16:33:30,212 - logger - INFO - request status: Successful
+2024-06-24 16:33:30,230 - logger - INFO - Successful dumping
+2024-06-24 16:33:30,231 - logger - INFO - ------
