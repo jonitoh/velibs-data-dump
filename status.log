@@ -4336,3 +4336,11 @@
 2024-06-26 02:41:43,618 - logger - INFO - request status: Successful
 2024-06-26 02:41:43,636 - logger - INFO - Successful dumping
 2024-06-26 02:41:43,636 - logger - INFO - ------
+2024-06-26 03:32:23,117 - logger - INFO - ------
+2024-06-26 03:32:23,117 - logger - INFO - retrieve station status
+2024-06-26 03:32:23,471 - logger - INFO - request status: Successful
+2024-06-26 03:32:23,474 - logger - INFO - Successful dumping
+2024-06-26 03:32:23,474 - logger - INFO - retrieve station information
+2024-06-26 03:32:24,355 - logger - INFO - request status: Successful
+2024-06-26 03:32:24,373 - logger - INFO - Successful dumping
+2024-06-26 03:32:24,374 - logger - INFO - ------
