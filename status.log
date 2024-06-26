@@ -4416,3 +4416,11 @@
 2024-06-26 12:48:17,328 - logger - INFO - request status: Successful
 2024-06-26 12:48:17,347 - logger - INFO - Successful dumping
 2024-06-26 12:48:17,348 - logger - INFO - ------
+2024-06-26 13:29:01,784 - logger - INFO - ------
+2024-06-26 13:29:01,784 - logger - INFO - retrieve station status
+2024-06-26 13:29:02,032 - logger - INFO - request status: Successful
+2024-06-26 13:29:02,035 - logger - INFO - Successful dumping
+2024-06-26 13:29:02,035 - logger - INFO - retrieve station information
+2024-06-26 13:29:02,825 - logger - INFO - request status: Successful
+2024-06-26 13:29:02,843 - logger - INFO - Successful dumping
+2024-06-26 13:29:02,843 - logger - INFO - ------
