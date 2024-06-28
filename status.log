@@ -4832,3 +4832,11 @@
 2024-06-28 18:32:50,350 - logger - INFO - request status: Successful
 2024-06-28 18:32:50,368 - logger - INFO - Successful dumping
 2024-06-28 18:32:50,369 - logger - INFO - ------
+2024-06-28 19:25:48,387 - logger - INFO - ------
+2024-06-28 19:25:48,387 - logger - INFO - retrieve station status
+2024-06-28 19:25:48,721 - logger - INFO - request status: Successful
+2024-06-28 19:25:48,724 - logger - INFO - Successful dumping
+2024-06-28 19:25:48,724 - logger - INFO - retrieve station information
+2024-06-28 19:25:49,821 - logger - INFO - request status: Successful
+2024-06-28 19:25:49,840 - logger - INFO - Successful dumping
+2024-06-28 19:25:49,840 - logger - INFO - ------
