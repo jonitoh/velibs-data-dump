@@ -4808,3 +4808,11 @@
 2024-06-28 15:28:24,872 - logger - INFO - request status: Successful
 2024-06-28 15:28:24,891 - logger - INFO - Successful dumping
 2024-06-28 15:28:24,891 - logger - INFO - ------
+2024-06-28 16:33:03,159 - logger - INFO - ------
+2024-06-28 16:33:03,159 - logger - INFO - retrieve station status
+2024-06-28 16:33:03,503 - logger - INFO - request status: Successful
+2024-06-28 16:33:03,506 - logger - INFO - Successful dumping
+2024-06-28 16:33:03,506 - logger - INFO - retrieve station information
+2024-06-28 16:33:04,284 - logger - INFO - request status: Successful
+2024-06-28 16:33:04,303 - logger - INFO - Successful dumping
+2024-06-28 16:33:04,303 - logger - INFO - ------
