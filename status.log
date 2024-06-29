@@ -5016,3 +5016,11 @@
 2024-06-29 18:31:47,587 - logger - INFO - request status: Successful
 2024-06-29 18:31:47,605 - logger - INFO - Successful dumping
 2024-06-29 18:31:47,606 - logger - INFO - ------
+2024-06-29 19:25:33,661 - logger - INFO - ------
+2024-06-29 19:25:33,661 - logger - INFO - retrieve station status
+2024-06-29 19:25:34,224 - logger - INFO - request status: Successful
+2024-06-29 19:25:34,227 - logger - INFO - Successful dumping
+2024-06-29 19:25:34,227 - logger - INFO - retrieve station information
+2024-06-29 19:25:35,483 - logger - INFO - request status: Successful
+2024-06-29 19:25:35,501 - logger - INFO - Successful dumping
+2024-06-29 19:25:35,502 - logger - INFO - ------
