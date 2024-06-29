@@ -4984,3 +4984,11 @@
 2024-06-29 14:30:06,566 - logger - INFO - request status: Successful
 2024-06-29 14:30:06,584 - logger - INFO - Successful dumping
 2024-06-29 14:30:06,585 - logger - INFO - ------
+2024-06-29 15:26:52,253 - logger - INFO - ------
+2024-06-29 15:26:52,253 - logger - INFO - retrieve station status
+2024-06-29 15:26:52,598 - logger - INFO - request status: Successful
+2024-06-29 15:26:52,600 - logger - INFO - Successful dumping
+2024-06-29 15:26:52,600 - logger - INFO - retrieve station information
+2024-06-29 15:26:53,507 - logger - INFO - request status: Successful
+2024-06-29 15:26:53,525 - logger - INFO - Successful dumping
+2024-06-29 15:26:53,526 - logger - INFO - ------
