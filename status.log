@@ -4872,3 +4872,11 @@
 2024-06-28 23:29:12,420 - logger - INFO - request status: Successful
 2024-06-28 23:29:12,438 - logger - INFO - Successful dumping
 2024-06-28 23:29:12,439 - logger - INFO - ------
+2024-06-29 01:37:50,263 - logger - INFO - ------
+2024-06-29 01:37:50,263 - logger - INFO - retrieve station status
+2024-06-29 01:37:50,825 - logger - INFO - request status: Successful
+2024-06-29 01:37:50,827 - logger - INFO - Successful dumping
+2024-06-29 01:37:50,827 - logger - INFO - retrieve station information
+2024-06-29 01:37:52,112 - logger - INFO - request status: Successful
+2024-06-29 01:37:52,130 - logger - INFO - Successful dumping
+2024-06-29 01:37:52,131 - logger - INFO - ------
