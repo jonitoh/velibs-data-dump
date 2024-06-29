@@ -4912,3 +4912,11 @@
 2024-06-29 05:33:32,184 - logger - INFO - request status: Successful
 2024-06-29 05:33:32,203 - logger - INFO - Successful dumping
 2024-06-29 05:33:32,204 - logger - INFO - ------
+2024-06-29 06:32:59,462 - logger - INFO - ------
+2024-06-29 06:32:59,463 - logger - INFO - retrieve station status
+2024-06-29 06:32:59,708 - logger - INFO - request status: Successful
+2024-06-29 06:32:59,711 - logger - INFO - Successful dumping
+2024-06-29 06:32:59,711 - logger - INFO - retrieve station information
+2024-06-29 06:33:00,479 - logger - INFO - request status: Successful
+2024-06-29 06:33:00,498 - logger - INFO - Successful dumping
+2024-06-29 06:33:00,498 - logger - INFO - ------
