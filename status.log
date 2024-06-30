@@ -5208,3 +5208,11 @@
 2024-06-30 19:25:42,938 - logger - INFO - request status: Successful
 2024-06-30 19:25:42,957 - logger - INFO - Successful dumping
 2024-06-30 19:25:42,957 - logger - INFO - ------
+2024-06-30 20:27:09,253 - logger - INFO - ------
+2024-06-30 20:27:09,253 - logger - INFO - retrieve station status
+2024-06-30 20:27:09,838 - logger - INFO - request status: Successful
+2024-06-30 20:27:09,840 - logger - INFO - Successful dumping
+2024-06-30 20:27:09,841 - logger - INFO - retrieve station information
+2024-06-30 20:27:11,110 - logger - INFO - request status: Successful
+2024-06-30 20:27:11,130 - logger - INFO - Successful dumping
+2024-06-30 20:27:11,130 - logger - INFO - ------
