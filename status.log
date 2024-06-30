@@ -5216,3 +5216,11 @@
 2024-06-30 20:27:11,110 - logger - INFO - request status: Successful
 2024-06-30 20:27:11,130 - logger - INFO - Successful dumping
 2024-06-30 20:27:11,130 - logger - INFO - ------
+2024-06-30 21:27:03,843 - logger - INFO - ------
+2024-06-30 21:27:03,843 - logger - INFO - retrieve station status
+2024-06-30 21:27:04,246 - logger - INFO - request status: Successful
+2024-06-30 21:27:04,249 - logger - INFO - Successful dumping
+2024-06-30 21:27:04,249 - logger - INFO - retrieve station information
+2024-06-30 21:27:05,187 - logger - INFO - request status: Successful
+2024-06-30 21:27:05,206 - logger - INFO - Successful dumping
+2024-06-30 21:27:05,206 - logger - INFO - ------
