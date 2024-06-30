@@ -5064,3 +5064,11 @@
 2024-06-30 01:46:18,205 - logger - INFO - request status: Successful
 2024-06-30 01:46:18,223 - logger - INFO - Successful dumping
 2024-06-30 01:46:18,224 - logger - INFO - ------
+2024-06-30 02:46:00,153 - logger - INFO - ------
+2024-06-30 02:46:00,154 - logger - INFO - retrieve station status
+2024-06-30 02:46:00,704 - logger - INFO - request status: Successful
+2024-06-30 02:46:00,707 - logger - INFO - Successful dumping
+2024-06-30 02:46:00,707 - logger - INFO - retrieve station information
+2024-06-30 02:46:01,995 - logger - INFO - request status: Successful
+2024-06-30 02:46:02,014 - logger - INFO - Successful dumping
+2024-06-30 02:46:02,015 - logger - INFO - ------
