@@ -5368,3 +5368,11 @@
 2024-07-01 16:34:27,813 - logger - INFO - request status: Successful
 2024-07-01 16:34:27,831 - logger - INFO - Successful dumping
 2024-07-01 16:34:27,832 - logger - INFO - ------
+2024-07-01 17:30:21,312 - logger - INFO - ------
+2024-07-01 17:30:21,312 - logger - INFO - retrieve station status
+2024-07-01 17:30:21,641 - logger - INFO - request status: Successful
+2024-07-01 17:30:21,643 - logger - INFO - Successful dumping
+2024-07-01 17:30:21,643 - logger - INFO - retrieve station information
+2024-07-01 17:30:22,560 - logger - INFO - request status: Successful
+2024-07-01 17:30:22,579 - logger - INFO - Successful dumping
+2024-07-01 17:30:22,579 - logger - INFO - ------
