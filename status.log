@@ -5528,3 +5528,11 @@
 2024-07-02 13:28:41,551 - logger - INFO - request status: Successful
 2024-07-02 13:28:41,569 - logger - INFO - Successful dumping
 2024-07-02 13:28:41,569 - logger - INFO - ------
+2024-07-02 14:29:17,199 - logger - INFO - ------
+2024-07-02 14:29:17,199 - logger - INFO - retrieve station status
+2024-07-02 14:29:17,773 - logger - INFO - request status: Successful
+2024-07-02 14:29:17,775 - logger - INFO - Successful dumping
+2024-07-02 14:29:17,776 - logger - INFO - retrieve station information
+2024-07-02 14:29:19,101 - logger - INFO - request status: Successful
+2024-07-02 14:29:19,119 - logger - INFO - Successful dumping
+2024-07-02 14:29:19,120 - logger - INFO - ------
