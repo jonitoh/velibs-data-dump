@@ -5552,3 +5552,11 @@
 2024-07-02 16:36:12,230 - logger - INFO - request status: Successful
 2024-07-02 16:36:12,248 - logger - INFO - Successful dumping
 2024-07-02 16:36:12,249 - logger - INFO - ------
+2024-07-02 17:30:02,121 - logger - INFO - ------
+2024-07-02 17:30:02,121 - logger - INFO - retrieve station status
+2024-07-02 17:30:02,412 - logger - INFO - request status: Successful
+2024-07-02 17:30:02,415 - logger - INFO - Successful dumping
+2024-07-02 17:30:02,415 - logger - INFO - retrieve station information
+2024-07-02 17:30:03,225 - logger - INFO - request status: Successful
+2024-07-02 17:30:03,243 - logger - INFO - Successful dumping
+2024-07-02 17:30:03,243 - logger - INFO - ------
