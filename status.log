@@ -5736,3 +5736,11 @@
 2024-07-03 16:34:43,630 - logger - INFO - request status: Successful
 2024-07-03 16:34:43,648 - logger - INFO - Successful dumping
 2024-07-03 16:34:43,649 - logger - INFO - ------
+2024-07-03 17:28:33,431 - logger - INFO - ------
+2024-07-03 17:28:33,431 - logger - INFO - retrieve station status
+2024-07-03 17:28:33,782 - logger - INFO - request status: Successful
+2024-07-03 17:28:33,785 - logger - INFO - Successful dumping
+2024-07-03 17:28:33,785 - logger - INFO - retrieve station information
+2024-07-03 17:28:34,602 - logger - INFO - request status: Successful
+2024-07-03 17:28:34,620 - logger - INFO - Successful dumping
+2024-07-03 17:28:34,621 - logger - INFO - ------
