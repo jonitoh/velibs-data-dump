@@ -5912,3 +5912,11 @@
 2024-07-04 15:28:22,729 - logger - INFO - request status: Successful
 2024-07-04 15:28:22,747 - logger - INFO - Successful dumping
 2024-07-04 15:28:22,748 - logger - INFO - ------
+2024-07-04 16:33:32,294 - logger - INFO - ------
+2024-07-04 16:33:32,294 - logger - INFO - retrieve station status
+2024-07-04 16:33:32,817 - logger - INFO - request status: Successful
+2024-07-04 16:33:32,820 - logger - INFO - Successful dumping
+2024-07-04 16:33:32,820 - logger - INFO - retrieve station information
+2024-07-04 16:33:34,128 - logger - INFO - request status: Successful
+2024-07-04 16:33:34,146 - logger - INFO - Successful dumping
+2024-07-04 16:33:34,146 - logger - INFO - ------
