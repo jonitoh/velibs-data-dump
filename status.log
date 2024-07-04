@@ -5872,3 +5872,11 @@
 2024-07-04 10:31:20,267 - logger - INFO - request status: Successful
 2024-07-04 10:31:20,295 - logger - INFO - Successful dumping
 2024-07-04 10:31:20,295 - logger - INFO - ------
+2024-07-04 11:27:31,920 - logger - INFO - ------
+2024-07-04 11:27:31,920 - logger - INFO - retrieve station status
+2024-07-04 11:27:32,257 - logger - INFO - request status: Successful
+2024-07-04 11:27:32,259 - logger - INFO - Successful dumping
+2024-07-04 11:27:32,259 - logger - INFO - retrieve station information
+2024-07-04 11:27:33,042 - logger - INFO - request status: Successful
+2024-07-04 11:27:33,060 - logger - INFO - Successful dumping
+2024-07-04 11:27:33,061 - logger - INFO - ------
