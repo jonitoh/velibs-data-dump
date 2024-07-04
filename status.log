@@ -5856,3 +5856,11 @@
 2024-07-04 08:32:11,046 - logger - INFO - request status: Successful
 2024-07-04 08:32:11,065 - logger - INFO - Successful dumping
 2024-07-04 08:32:11,065 - logger - INFO - ------
+2024-07-04 09:30:30,502 - logger - INFO - ------
+2024-07-04 09:30:30,502 - logger - INFO - retrieve station status
+2024-07-04 09:30:30,978 - logger - INFO - request status: Successful
+2024-07-04 09:30:30,981 - logger - INFO - Successful dumping
+2024-07-04 09:30:30,981 - logger - INFO - retrieve station information
+2024-07-04 09:30:32,245 - logger - INFO - request status: Successful
+2024-07-04 09:30:32,263 - logger - INFO - Successful dumping
+2024-07-04 09:30:32,264 - logger - INFO - ------
