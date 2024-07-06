@@ -6264,3 +6264,11 @@
 2024-07-06 13:26:22,093 - logger - INFO - request status: Successful
 2024-07-06 13:26:22,111 - logger - INFO - Successful dumping
 2024-07-06 13:26:22,112 - logger - INFO - ------
+2024-07-06 14:28:28,425 - logger - INFO - ------
+2024-07-06 14:28:28,425 - logger - INFO - retrieve station status
+2024-07-06 14:28:28,940 - logger - INFO - request status: Successful
+2024-07-06 14:28:28,942 - logger - INFO - Successful dumping
+2024-07-06 14:28:28,942 - logger - INFO - retrieve station information
+2024-07-06 14:28:30,220 - logger - INFO - request status: Successful
+2024-07-06 14:28:30,238 - logger - INFO - Successful dumping
+2024-07-06 14:28:30,239 - logger - INFO - ------
