@@ -6200,3 +6200,11 @@
 2024-07-06 05:29:38,134 - logger - INFO - request status: Successful
 2024-07-06 05:29:38,153 - logger - INFO - Successful dumping
 2024-07-06 05:29:38,153 - logger - INFO - ------
+2024-07-06 06:33:01,742 - logger - INFO - ------
+2024-07-06 06:33:01,742 - logger - INFO - retrieve station status
+2024-07-06 06:33:02,085 - logger - INFO - request status: Successful
+2024-07-06 06:33:02,087 - logger - INFO - Successful dumping
+2024-07-06 06:33:02,088 - logger - INFO - retrieve station information
+2024-07-06 06:33:03,026 - logger - INFO - request status: Successful
+2024-07-06 06:33:03,044 - logger - INFO - Successful dumping
+2024-07-06 06:33:03,045 - logger - INFO - ------
