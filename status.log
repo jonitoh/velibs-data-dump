@@ -6184,3 +6184,11 @@
 2024-07-06 03:31:11,437 - logger - INFO - request status: Successful
 2024-07-06 03:31:11,455 - logger - INFO - Successful dumping
 2024-07-06 03:31:11,455 - logger - INFO - ------
+2024-07-06 04:31:45,466 - logger - INFO - ------
+2024-07-06 04:31:45,466 - logger - INFO - retrieve station status
+2024-07-06 04:31:45,808 - logger - INFO - request status: Successful
+2024-07-06 04:31:45,811 - logger - INFO - Successful dumping
+2024-07-06 04:31:45,811 - logger - INFO - retrieve station information
+2024-07-06 04:31:46,756 - logger - INFO - request status: Successful
+2024-07-06 04:31:46,774 - logger - INFO - Successful dumping
+2024-07-06 04:31:46,775 - logger - INFO - ------
