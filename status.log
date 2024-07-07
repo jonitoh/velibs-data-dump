@@ -6424,3 +6424,11 @@
 2024-07-07 10:30:04,445 - logger - INFO - request status: Successful
 2024-07-07 10:30:04,463 - logger - INFO - Successful dumping
 2024-07-07 10:30:04,464 - logger - INFO - ------
+2024-07-07 11:25:35,510 - logger - INFO - ------
+2024-07-07 11:25:35,510 - logger - INFO - retrieve station status
+2024-07-07 11:25:35,823 - logger - INFO - request status: Successful
+2024-07-07 11:25:35,825 - logger - INFO - Successful dumping
+2024-07-07 11:25:35,825 - logger - INFO - retrieve station information
+2024-07-07 11:25:36,596 - logger - INFO - request status: Successful
+2024-07-07 11:25:36,614 - logger - INFO - Successful dumping
+2024-07-07 11:25:36,614 - logger - INFO - ------
