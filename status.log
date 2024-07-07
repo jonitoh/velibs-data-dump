@@ -6432,3 +6432,11 @@
 2024-07-07 11:25:36,596 - logger - INFO - request status: Successful
 2024-07-07 11:25:36,614 - logger - INFO - Successful dumping
 2024-07-07 11:25:36,614 - logger - INFO - ------
+2024-07-07 12:44:43,325 - logger - INFO - ------
+2024-07-07 12:44:43,325 - logger - INFO - retrieve station status
+2024-07-07 12:44:43,658 - logger - INFO - request status: Successful
+2024-07-07 12:44:43,661 - logger - INFO - Successful dumping
+2024-07-07 12:44:43,661 - logger - INFO - retrieve station information
+2024-07-07 12:44:44,420 - logger - INFO - request status: Successful
+2024-07-07 12:44:44,438 - logger - INFO - Successful dumping
+2024-07-07 12:44:44,439 - logger - INFO - ------
