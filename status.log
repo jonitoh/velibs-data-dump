@@ -6512,3 +6512,11 @@
 2024-07-07 21:26:47,703 - logger - INFO - request status: Successful
 2024-07-07 21:26:47,721 - logger - INFO - Successful dumping
 2024-07-07 21:26:47,722 - logger - INFO - ------
+2024-07-07 22:30:27,660 - logger - INFO - ------
+2024-07-07 22:30:27,660 - logger - INFO - retrieve station status
+2024-07-07 22:30:27,997 - logger - INFO - request status: Successful
+2024-07-07 22:30:28,000 - logger - INFO - Successful dumping
+2024-07-07 22:30:28,000 - logger - INFO - retrieve station information
+2024-07-07 22:30:28,931 - logger - INFO - request status: Successful
+2024-07-07 22:30:28,950 - logger - INFO - Successful dumping
+2024-07-07 22:30:28,950 - logger - INFO - ------
