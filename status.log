@@ -6880,3 +6880,11 @@
 2024-07-09 21:27:57,030 - logger - INFO - request status: Successful
 2024-07-09 21:27:57,049 - logger - INFO - Successful dumping
 2024-07-09 21:27:57,049 - logger - INFO - ------
+2024-07-09 22:31:30,960 - logger - INFO - ------
+2024-07-09 22:31:30,960 - logger - INFO - retrieve station status
+2024-07-09 22:31:31,601 - logger - INFO - request status: Successful
+2024-07-09 22:31:31,604 - logger - INFO - Successful dumping
+2024-07-09 22:31:31,604 - logger - INFO - retrieve station information
+2024-07-09 22:31:32,891 - logger - INFO - request status: Successful
+2024-07-09 22:31:32,909 - logger - INFO - Successful dumping
+2024-07-09 22:31:32,910 - logger - INFO - ------
