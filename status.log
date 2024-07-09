@@ -6736,3 +6736,11 @@
 2024-07-09 03:31:10,453 - logger - INFO - request status: Successful
 2024-07-09 03:31:10,471 - logger - INFO - Successful dumping
 2024-07-09 03:31:10,471 - logger - INFO - ------
+2024-07-09 04:31:32,567 - logger - INFO - ------
+2024-07-09 04:31:32,567 - logger - INFO - retrieve station status
+2024-07-09 04:31:33,025 - logger - INFO - request status: Successful
+2024-07-09 04:31:33,028 - logger - INFO - Successful dumping
+2024-07-09 04:31:33,028 - logger - INFO - retrieve station information
+2024-07-09 04:31:34,298 - logger - INFO - request status: Successful
+2024-07-09 04:31:34,317 - logger - INFO - Successful dumping
+2024-07-09 04:31:34,317 - logger - INFO - ------
