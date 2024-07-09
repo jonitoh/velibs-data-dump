@@ -6752,3 +6752,11 @@
 2024-07-09 05:31:14,985 - logger - INFO - request status: Successful
 2024-07-09 05:31:15,003 - logger - INFO - Successful dumping
 2024-07-09 05:31:15,003 - logger - INFO - ------
+2024-07-09 06:39:58,349 - logger - INFO - ------
+2024-07-09 06:39:58,350 - logger - INFO - retrieve station status
+2024-07-09 06:39:58,888 - logger - INFO - request status: Successful
+2024-07-09 06:39:58,891 - logger - INFO - Successful dumping
+2024-07-09 06:39:58,891 - logger - INFO - retrieve station information
+2024-07-09 06:40:00,166 - logger - INFO - request status: Successful
+2024-07-09 06:40:00,185 - logger - INFO - Successful dumping
+2024-07-09 06:40:00,185 - logger - INFO - ------
