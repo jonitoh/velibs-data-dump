@@ -6760,3 +6760,11 @@
 2024-07-09 06:40:00,166 - logger - INFO - request status: Successful
 2024-07-09 06:40:00,185 - logger - INFO - Successful dumping
 2024-07-09 06:40:00,185 - logger - INFO - ------
+2024-07-09 07:25:49,537 - logger - INFO - ------
+2024-07-09 07:25:49,537 - logger - INFO - retrieve station status
+2024-07-09 07:25:49,991 - logger - INFO - request status: Successful
+2024-07-09 07:25:49,993 - logger - INFO - Successful dumping
+2024-07-09 07:25:49,993 - logger - INFO - retrieve station information
+2024-07-09 07:25:51,274 - logger - INFO - request status: Successful
+2024-07-09 07:25:51,292 - logger - INFO - Successful dumping
+2024-07-09 07:25:51,293 - logger - INFO - ------
