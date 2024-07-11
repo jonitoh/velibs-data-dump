@@ -7160,3 +7160,11 @@
 2024-07-11 10:32:14,402 - logger - INFO - request status: Successful
 2024-07-11 10:32:14,421 - logger - INFO - Successful dumping
 2024-07-11 10:32:14,421 - logger - INFO - ------
+2024-07-11 11:26:13,105 - logger - INFO - ------
+2024-07-11 11:26:13,105 - logger - INFO - retrieve station status
+2024-07-11 11:26:13,423 - logger - INFO - request status: Successful
+2024-07-11 11:26:13,426 - logger - INFO - Successful dumping
+2024-07-11 11:26:13,426 - logger - INFO - retrieve station information
+2024-07-11 11:26:14,300 - logger - INFO - request status: Successful
+2024-07-11 11:26:14,318 - logger - INFO - Successful dumping
+2024-07-11 11:26:14,319 - logger - INFO - ------
