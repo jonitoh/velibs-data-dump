@@ -7088,3 +7088,11 @@
 2024-07-11 01:42:08,619 - logger - INFO - request status: Successful
 2024-07-11 01:42:08,638 - logger - INFO - Successful dumping
 2024-07-11 01:42:08,638 - logger - INFO - ------
+2024-07-11 02:45:41,016 - logger - INFO - ------
+2024-07-11 02:45:41,016 - logger - INFO - retrieve station status
+2024-07-11 02:45:41,378 - logger - INFO - request status: Successful
+2024-07-11 02:45:41,380 - logger - INFO - Successful dumping
+2024-07-11 02:45:41,380 - logger - INFO - retrieve station information
+2024-07-11 02:45:42,152 - logger - INFO - request status: Successful
+2024-07-11 02:45:42,170 - logger - INFO - Successful dumping
+2024-07-11 02:45:42,171 - logger - INFO - ------
