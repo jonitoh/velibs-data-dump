@@ -7376,3 +7376,11 @@
 2024-07-12 14:31:38,353 - logger - INFO - request status: Successful
 2024-07-12 14:31:38,372 - logger - INFO - Successful dumping
 2024-07-12 14:31:38,373 - logger - INFO - ------
+2024-07-12 15:29:12,234 - logger - INFO - ------
+2024-07-12 15:29:12,234 - logger - INFO - retrieve station status
+2024-07-12 15:29:12,584 - logger - INFO - request status: Successful
+2024-07-12 15:29:12,586 - logger - INFO - Successful dumping
+2024-07-12 15:29:12,586 - logger - INFO - retrieve station information
+2024-07-12 15:29:13,511 - logger - INFO - request status: Successful
+2024-07-12 15:29:13,529 - logger - INFO - Successful dumping
+2024-07-12 15:29:13,530 - logger - INFO - ------
