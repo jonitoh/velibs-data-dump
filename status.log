@@ -7360,3 +7360,11 @@
 2024-07-12 12:47:46,175 - logger - INFO - request status: Successful
 2024-07-12 12:47:46,193 - logger - INFO - Successful dumping
 2024-07-12 12:47:46,194 - logger - INFO - ------
+2024-07-12 13:29:28,919 - logger - INFO - ------
+2024-07-12 13:29:28,919 - logger - INFO - retrieve station status
+2024-07-12 13:29:29,411 - logger - INFO - request status: Successful
+2024-07-12 13:29:29,414 - logger - INFO - Successful dumping
+2024-07-12 13:29:29,414 - logger - INFO - retrieve station information
+2024-07-12 13:29:30,722 - logger - INFO - request status: Successful
+2024-07-12 13:29:30,740 - logger - INFO - Successful dumping
+2024-07-12 13:29:30,741 - logger - INFO - ------
