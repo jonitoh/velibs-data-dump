@@ -7512,3 +7512,11 @@
 2024-07-13 09:26:29,661 - logger - INFO - request status: Successful
 2024-07-13 09:26:29,679 - logger - INFO - Successful dumping
 2024-07-13 09:26:29,680 - logger - INFO - ------
+2024-07-13 10:30:45,558 - logger - INFO - ------
+2024-07-13 10:30:45,559 - logger - INFO - retrieve station status
+2024-07-13 10:30:45,954 - logger - INFO - request status: Successful
+2024-07-13 10:30:45,956 - logger - INFO - Successful dumping
+2024-07-13 10:30:45,957 - logger - INFO - retrieve station information
+2024-07-13 10:30:46,733 - logger - INFO - request status: Successful
+2024-07-13 10:30:46,752 - logger - INFO - Successful dumping
+2024-07-13 10:30:46,752 - logger - INFO - ------
