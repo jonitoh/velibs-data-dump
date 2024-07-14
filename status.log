@@ -7632,3 +7632,11 @@
 2024-07-14 01:49:18,912 - logger - INFO - request status: Successful
 2024-07-14 01:49:18,931 - logger - INFO - Successful dumping
 2024-07-14 01:49:18,931 - logger - INFO - ------
+2024-07-14 02:49:54,236 - logger - INFO - ------
+2024-07-14 02:49:54,236 - logger - INFO - retrieve station status
+2024-07-14 02:49:54,647 - logger - INFO - request status: Successful
+2024-07-14 02:49:54,650 - logger - INFO - Successful dumping
+2024-07-14 02:49:54,650 - logger - INFO - retrieve station information
+2024-07-14 02:49:55,423 - logger - INFO - request status: Successful
+2024-07-14 02:49:55,441 - logger - INFO - Successful dumping
+2024-07-14 02:49:55,442 - logger - INFO - ------
