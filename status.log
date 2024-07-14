@@ -7752,3 +7752,11 @@
 2024-07-14 16:47:37,675 - logger - INFO - request status: Successful
 2024-07-14 16:47:37,693 - logger - INFO - Successful dumping
 2024-07-14 16:47:37,694 - logger - INFO - ------
+2024-07-14 17:43:35,405 - logger - INFO - ------
+2024-07-14 17:43:35,405 - logger - INFO - retrieve station status
+2024-07-14 17:43:35,711 - logger - INFO - request status: Successful
+2024-07-14 17:43:35,713 - logger - INFO - Successful dumping
+2024-07-14 17:43:35,713 - logger - INFO - retrieve station information
+2024-07-14 17:43:36,463 - logger - INFO - request status: Successful
+2024-07-14 17:43:36,481 - logger - INFO - Successful dumping
+2024-07-14 17:43:36,481 - logger - INFO - ------
