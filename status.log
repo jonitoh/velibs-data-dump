@@ -7912,3 +7912,11 @@
 2024-07-15 13:29:56,184 - logger - INFO - request status: Successful
 2024-07-15 13:29:56,203 - logger - INFO - Successful dumping
 2024-07-15 13:29:56,203 - logger - INFO - ------
+2024-07-15 14:30:05,125 - logger - INFO - ------
+2024-07-15 14:30:05,125 - logger - INFO - retrieve station status
+2024-07-15 14:30:05,468 - logger - INFO - request status: Successful
+2024-07-15 14:30:05,471 - logger - INFO - Successful dumping
+2024-07-15 14:30:05,471 - logger - INFO - retrieve station information
+2024-07-15 14:30:06,382 - logger - INFO - request status: Successful
+2024-07-15 14:30:06,401 - logger - INFO - Successful dumping
+2024-07-15 14:30:06,401 - logger - INFO - ------
