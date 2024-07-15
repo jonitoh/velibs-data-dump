@@ -7920,3 +7920,11 @@
 2024-07-15 14:30:06,382 - logger - INFO - request status: Successful
 2024-07-15 14:30:06,401 - logger - INFO - Successful dumping
 2024-07-15 14:30:06,401 - logger - INFO - ------
+2024-07-15 15:31:57,462 - logger - INFO - ------
+2024-07-15 15:31:57,462 - logger - INFO - retrieve station status
+2024-07-15 15:31:57,797 - logger - INFO - request status: Successful
+2024-07-15 15:31:57,800 - logger - INFO - Successful dumping
+2024-07-15 15:31:57,800 - logger - INFO - retrieve station information
+2024-07-15 15:31:58,702 - logger - INFO - request status: Successful
+2024-07-15 15:31:58,721 - logger - INFO - Successful dumping
+2024-07-15 15:31:58,721 - logger - INFO - ------
