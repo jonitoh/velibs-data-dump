@@ -8144,3 +8144,10 @@
 2024-07-16 19:25:51,770 - logger - INFO - request status: Successful
 2024-07-16 19:25:51,788 - logger - INFO - Successful dumping
 2024-07-16 19:25:51,789 - logger - INFO - ------
+2024-07-16 20:27:27,219 - logger - INFO - ------
+2024-07-16 20:27:27,219 - logger - INFO - retrieve station status
+2024-07-16 20:27:27,538 - logger - INFO - request status: Successful
+2024-07-16 20:27:27,541 - logger - INFO - Successful dumping
+2024-07-16 20:27:27,541 - logger - INFO - retrieve station information
+2024-07-16 20:27:27,994 - logger - INFO - request status: Unsuccessful 502
+2024-07-16 20:27:27,994 - logger - INFO - ------
