@@ -8151,3 +8151,11 @@
 2024-07-16 20:27:27,541 - logger - INFO - retrieve station information
 2024-07-16 20:27:27,994 - logger - INFO - request status: Unsuccessful 502
 2024-07-16 20:27:27,994 - logger - INFO - ------
+2024-07-16 21:26:52,534 - logger - INFO - ------
+2024-07-16 21:26:52,534 - logger - INFO - retrieve station status
+2024-07-16 21:26:52,850 - logger - INFO - request status: Successful
+2024-07-16 21:26:52,853 - logger - INFO - Successful dumping
+2024-07-16 21:26:52,853 - logger - INFO - retrieve station information
+2024-07-16 21:26:53,644 - logger - INFO - request status: Successful
+2024-07-16 21:26:53,663 - logger - INFO - Successful dumping
+2024-07-16 21:26:53,663 - logger - INFO - ------
