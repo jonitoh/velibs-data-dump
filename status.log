@@ -8303,3 +8303,11 @@
 2024-07-17 16:35:44,565 - logger - INFO - request status: Successful
 2024-07-17 16:35:44,584 - logger - INFO - Successful dumping
 2024-07-17 16:35:44,584 - logger - INFO - ------
+2024-07-17 17:28:55,181 - logger - INFO - ------
+2024-07-17 17:28:55,181 - logger - INFO - retrieve station status
+2024-07-17 17:28:55,465 - logger - INFO - request status: Successful
+2024-07-17 17:28:55,467 - logger - INFO - Successful dumping
+2024-07-17 17:28:55,467 - logger - INFO - retrieve station information
+2024-07-17 17:28:56,219 - logger - INFO - request status: Successful
+2024-07-17 17:28:56,237 - logger - INFO - Successful dumping
+2024-07-17 17:28:56,238 - logger - INFO - ------
