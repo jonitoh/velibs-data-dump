@@ -8215,3 +8215,11 @@
 2024-07-17 05:30:58,279 - logger - INFO - request status: Successful
 2024-07-17 05:30:58,297 - logger - INFO - Successful dumping
 2024-07-17 05:30:58,297 - logger - INFO - ------
+2024-07-17 06:35:58,909 - logger - INFO - ------
+2024-07-17 06:35:58,909 - logger - INFO - retrieve station status
+2024-07-17 06:35:59,246 - logger - INFO - request status: Successful
+2024-07-17 06:35:59,248 - logger - INFO - Successful dumping
+2024-07-17 06:35:59,248 - logger - INFO - retrieve station information
+2024-07-17 06:35:59,988 - logger - INFO - request status: Successful
+2024-07-17 06:36:00,007 - logger - INFO - Successful dumping
+2024-07-17 06:36:00,008 - logger - INFO - ------
