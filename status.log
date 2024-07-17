@@ -8279,3 +8279,11 @@
 2024-07-17 13:29:28,909 - logger - INFO - request status: Successful
 2024-07-17 13:29:28,928 - logger - INFO - Successful dumping
 2024-07-17 13:29:28,928 - logger - INFO - ------
+2024-07-17 14:32:03,805 - logger - INFO - ------
+2024-07-17 14:32:03,805 - logger - INFO - retrieve station status
+2024-07-17 14:32:04,147 - logger - INFO - request status: Successful
+2024-07-17 14:32:04,150 - logger - INFO - Successful dumping
+2024-07-17 14:32:04,150 - logger - INFO - retrieve station information
+2024-07-17 14:32:04,953 - logger - INFO - request status: Successful
+2024-07-17 14:32:04,972 - logger - INFO - Successful dumping
+2024-07-17 14:32:04,972 - logger - INFO - ------
