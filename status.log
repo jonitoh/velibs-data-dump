@@ -8343,3 +8343,11 @@
 2024-07-17 21:26:48,849 - logger - INFO - request status: Successful
 2024-07-17 21:26:48,868 - logger - INFO - Successful dumping
 2024-07-17 21:26:48,868 - logger - INFO - ------
+2024-07-17 22:32:03,346 - logger - INFO - ------
+2024-07-17 22:32:03,346 - logger - INFO - retrieve station status
+2024-07-17 22:32:03,654 - logger - INFO - request status: Successful
+2024-07-17 22:32:03,657 - logger - INFO - Successful dumping
+2024-07-17 22:32:03,657 - logger - INFO - retrieve station information
+2024-07-17 22:32:04,555 - logger - INFO - request status: Successful
+2024-07-17 22:32:04,573 - logger - INFO - Successful dumping
+2024-07-17 22:32:04,574 - logger - INFO - ------
