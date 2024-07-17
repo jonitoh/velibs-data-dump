@@ -8263,3 +8263,11 @@
 2024-07-17 11:25:34,389 - logger - INFO - request status: Successful
 2024-07-17 11:25:34,408 - logger - INFO - Successful dumping
 2024-07-17 11:25:34,409 - logger - INFO - ------
+2024-07-17 12:47:56,658 - logger - INFO - ------
+2024-07-17 12:47:56,658 - logger - INFO - retrieve station status
+2024-07-17 12:47:56,995 - logger - INFO - request status: Successful
+2024-07-17 12:47:56,997 - logger - INFO - Successful dumping
+2024-07-17 12:47:56,998 - logger - INFO - retrieve station information
+2024-07-17 12:47:57,869 - logger - INFO - request status: Successful
+2024-07-17 12:47:57,888 - logger - INFO - Successful dumping
+2024-07-17 12:47:57,888 - logger - INFO - ------
