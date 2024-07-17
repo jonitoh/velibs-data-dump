@@ -8207,3 +8207,11 @@
 2024-07-17 04:31:22,335 - logger - INFO - request status: Successful
 2024-07-17 04:31:22,354 - logger - INFO - Successful dumping
 2024-07-17 04:31:22,354 - logger - INFO - ------
+2024-07-17 05:30:57,324 - logger - INFO - ------
+2024-07-17 05:30:57,324 - logger - INFO - retrieve station status
+2024-07-17 05:30:57,584 - logger - INFO - request status: Successful
+2024-07-17 05:30:57,587 - logger - INFO - Successful dumping
+2024-07-17 05:30:57,587 - logger - INFO - retrieve station information
+2024-07-17 05:30:58,279 - logger - INFO - request status: Successful
+2024-07-17 05:30:58,297 - logger - INFO - Successful dumping
+2024-07-17 05:30:58,297 - logger - INFO - ------
