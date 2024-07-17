@@ -8191,3 +8191,11 @@
 2024-07-17 02:44:47,628 - logger - INFO - request status: Successful
 2024-07-17 02:44:47,647 - logger - INFO - Successful dumping
 2024-07-17 02:44:47,647 - logger - INFO - ------
+2024-07-17 03:31:24,368 - logger - INFO - ------
+2024-07-17 03:31:24,368 - logger - INFO - retrieve station status
+2024-07-17 03:31:24,865 - logger - INFO - request status: Successful
+2024-07-17 03:31:24,868 - logger - INFO - Successful dumping
+2024-07-17 03:31:24,868 - logger - INFO - retrieve station information
+2024-07-17 03:31:26,158 - logger - INFO - request status: Successful
+2024-07-17 03:31:26,176 - logger - INFO - Successful dumping
+2024-07-17 03:31:26,177 - logger - INFO - ------
