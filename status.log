@@ -8311,3 +8311,11 @@
 2024-07-17 17:28:56,219 - logger - INFO - request status: Successful
 2024-07-17 17:28:56,237 - logger - INFO - Successful dumping
 2024-07-17 17:28:56,238 - logger - INFO - ------
+2024-07-17 18:34:59,745 - logger - INFO - ------
+2024-07-17 18:34:59,746 - logger - INFO - retrieve station status
+2024-07-17 18:35:00,106 - logger - INFO - request status: Successful
+2024-07-17 18:35:00,109 - logger - INFO - Successful dumping
+2024-07-17 18:35:00,109 - logger - INFO - retrieve station information
+2024-07-17 18:35:00,930 - logger - INFO - request status: Successful
+2024-07-17 18:35:00,948 - logger - INFO - Successful dumping
+2024-07-17 18:35:00,949 - logger - INFO - ------
