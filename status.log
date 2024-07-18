@@ -8375,3 +8375,11 @@
 2024-07-18 02:44:04,756 - logger - INFO - request status: Successful
 2024-07-18 02:44:04,774 - logger - INFO - Successful dumping
 2024-07-18 02:44:04,775 - logger - INFO - ------
+2024-07-18 03:34:01,840 - logger - INFO - ------
+2024-07-18 03:34:01,840 - logger - INFO - retrieve station status
+2024-07-18 03:34:02,362 - logger - INFO - request status: Successful
+2024-07-18 03:34:02,364 - logger - INFO - Successful dumping
+2024-07-18 03:34:02,364 - logger - INFO - retrieve station information
+2024-07-18 03:34:03,649 - logger - INFO - request status: Successful
+2024-07-18 03:34:03,667 - logger - INFO - Successful dumping
+2024-07-18 03:34:03,668 - logger - INFO - ------
