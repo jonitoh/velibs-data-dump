@@ -8391,3 +8391,11 @@
 2024-07-18 04:33:08,397 - logger - INFO - request status: Successful
 2024-07-18 04:33:08,415 - logger - INFO - Successful dumping
 2024-07-18 04:33:08,416 - logger - INFO - ------
+2024-07-18 05:30:53,838 - logger - INFO - ------
+2024-07-18 05:30:53,838 - logger - INFO - retrieve station status
+2024-07-18 05:30:54,162 - logger - INFO - request status: Successful
+2024-07-18 05:30:54,165 - logger - INFO - Successful dumping
+2024-07-18 05:30:54,165 - logger - INFO - retrieve station information
+2024-07-18 05:30:55,041 - logger - INFO - request status: Successful
+2024-07-18 05:30:55,059 - logger - INFO - Successful dumping
+2024-07-18 05:30:55,060 - logger - INFO - ------
