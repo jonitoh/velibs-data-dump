@@ -8511,3 +8511,11 @@
 2024-07-18 19:25:44,260 - logger - INFO - request status: Successful
 2024-07-18 19:25:44,279 - logger - INFO - Successful dumping
 2024-07-18 19:25:44,279 - logger - INFO - ------
+2024-07-18 20:28:28,229 - logger - INFO - ------
+2024-07-18 20:28:28,230 - logger - INFO - retrieve station status
+2024-07-18 20:28:28,704 - logger - INFO - request status: Successful
+2024-07-18 20:28:28,706 - logger - INFO - Successful dumping
+2024-07-18 20:28:28,707 - logger - INFO - retrieve station information
+2024-07-18 20:28:29,994 - logger - INFO - request status: Successful
+2024-07-18 20:28:30,013 - logger - INFO - Successful dumping
+2024-07-18 20:28:30,014 - logger - INFO - ------
