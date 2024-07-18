@@ -8431,3 +8431,11 @@
 2024-07-18 09:28:43,511 - logger - INFO - request status: Successful
 2024-07-18 09:28:43,529 - logger - INFO - Successful dumping
 2024-07-18 09:28:43,530 - logger - INFO - ------
+2024-07-18 10:33:12,955 - logger - INFO - ------
+2024-07-18 10:33:12,955 - logger - INFO - retrieve station status
+2024-07-18 10:33:13,403 - logger - INFO - request status: Successful
+2024-07-18 10:33:13,406 - logger - INFO - Successful dumping
+2024-07-18 10:33:13,407 - logger - INFO - retrieve station information
+2024-07-18 10:33:14,719 - logger - INFO - request status: Successful
+2024-07-18 10:33:14,739 - logger - INFO - Successful dumping
+2024-07-18 10:33:14,739 - logger - INFO - ------
