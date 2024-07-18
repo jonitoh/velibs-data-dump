@@ -8399,3 +8399,11 @@
 2024-07-18 05:30:55,041 - logger - INFO - request status: Successful
 2024-07-18 05:30:55,059 - logger - INFO - Successful dumping
 2024-07-18 05:30:55,060 - logger - INFO - ------
+2024-07-18 06:35:37,271 - logger - INFO - ------
+2024-07-18 06:35:37,272 - logger - INFO - retrieve station status
+2024-07-18 06:35:37,601 - logger - INFO - request status: Successful
+2024-07-18 06:35:37,603 - logger - INFO - Successful dumping
+2024-07-18 06:35:37,603 - logger - INFO - retrieve station information
+2024-07-18 06:35:38,387 - logger - INFO - request status: Successful
+2024-07-18 06:35:38,406 - logger - INFO - Successful dumping
+2024-07-18 06:35:38,406 - logger - INFO - ------
