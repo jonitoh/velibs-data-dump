@@ -8527,3 +8527,11 @@
 2024-07-18 21:26:21,190 - logger - INFO - request status: Successful
 2024-07-18 21:26:21,208 - logger - INFO - Successful dumping
 2024-07-18 21:26:21,209 - logger - INFO - ------
+2024-07-18 22:31:15,106 - logger - INFO - ------
+2024-07-18 22:31:15,106 - logger - INFO - retrieve station status
+2024-07-18 22:31:15,409 - logger - INFO - request status: Successful
+2024-07-18 22:31:15,412 - logger - INFO - Successful dumping
+2024-07-18 22:31:15,412 - logger - INFO - retrieve station information
+2024-07-18 22:31:16,311 - logger - INFO - request status: Successful
+2024-07-18 22:31:16,329 - logger - INFO - Successful dumping
+2024-07-18 22:31:16,330 - logger - INFO - ------
