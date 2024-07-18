@@ -8495,3 +8495,11 @@
 2024-07-18 17:29:05,532 - logger - INFO - request status: Successful
 2024-07-18 17:29:05,551 - logger - INFO - Successful dumping
 2024-07-18 17:29:05,551 - logger - INFO - ------
+2024-07-18 18:35:02,381 - logger - INFO - ------
+2024-07-18 18:35:02,381 - logger - INFO - retrieve station status
+2024-07-18 18:35:02,703 - logger - INFO - request status: Successful
+2024-07-18 18:35:02,705 - logger - INFO - Successful dumping
+2024-07-18 18:35:02,706 - logger - INFO - retrieve station information
+2024-07-18 18:35:03,572 - logger - INFO - request status: Successful
+2024-07-18 18:35:03,590 - logger - INFO - Successful dumping
+2024-07-18 18:35:03,591 - logger - INFO - ------
