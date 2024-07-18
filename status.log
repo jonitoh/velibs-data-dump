@@ -8423,3 +8423,11 @@
 2024-07-18 08:32:32,320 - logger - INFO - request status: Successful
 2024-07-18 08:32:32,339 - logger - INFO - Successful dumping
 2024-07-18 08:32:32,339 - logger - INFO - ------
+2024-07-18 09:28:42,159 - logger - INFO - ------
+2024-07-18 09:28:42,160 - logger - INFO - retrieve station status
+2024-07-18 09:28:42,576 - logger - INFO - request status: Successful
+2024-07-18 09:28:42,578 - logger - INFO - Successful dumping
+2024-07-18 09:28:42,579 - logger - INFO - retrieve station information
+2024-07-18 09:28:43,511 - logger - INFO - request status: Successful
+2024-07-18 09:28:43,529 - logger - INFO - Successful dumping
+2024-07-18 09:28:43,530 - logger - INFO - ------
