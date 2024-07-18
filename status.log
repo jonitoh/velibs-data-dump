@@ -8359,3 +8359,11 @@
 2024-07-17 23:28:09,031 - logger - INFO - request status: Successful
 2024-07-17 23:28:09,049 - logger - INFO - Successful dumping
 2024-07-17 23:28:09,050 - logger - INFO - ------
+2024-07-18 01:41:15,741 - logger - INFO - ------
+2024-07-18 01:41:15,741 - logger - INFO - retrieve station status
+2024-07-18 01:41:16,050 - logger - INFO - request status: Successful
+2024-07-18 01:41:16,053 - logger - INFO - Successful dumping
+2024-07-18 01:41:16,053 - logger - INFO - retrieve station information
+2024-07-18 01:41:16,850 - logger - INFO - request status: Successful
+2024-07-18 01:41:16,869 - logger - INFO - Successful dumping
+2024-07-18 01:41:16,869 - logger - INFO - ------
