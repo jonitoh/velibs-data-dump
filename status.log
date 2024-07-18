@@ -8471,3 +8471,11 @@
 2024-07-18 14:31:06,561 - logger - INFO - request status: Successful
 2024-07-18 14:31:06,580 - logger - INFO - Successful dumping
 2024-07-18 14:31:06,580 - logger - INFO - ------
+2024-07-18 15:30:23,853 - logger - INFO - ------
+2024-07-18 15:30:23,853 - logger - INFO - retrieve station status
+2024-07-18 15:30:24,208 - logger - INFO - request status: Successful
+2024-07-18 15:30:24,210 - logger - INFO - Successful dumping
+2024-07-18 15:30:24,211 - logger - INFO - retrieve station information
+2024-07-18 15:30:24,995 - logger - INFO - request status: Successful
+2024-07-18 15:30:25,014 - logger - INFO - Successful dumping
+2024-07-18 15:30:25,014 - logger - INFO - ------
