@@ -8447,3 +8447,11 @@
 2024-07-18 11:27:28,789 - logger - INFO - request status: Successful
 2024-07-18 11:27:28,808 - logger - INFO - Successful dumping
 2024-07-18 11:27:28,808 - logger - INFO - ------
+2024-07-18 12:49:02,882 - logger - INFO - ------
+2024-07-18 12:49:02,882 - logger - INFO - retrieve station status
+2024-07-18 12:49:03,364 - logger - INFO - request status: Successful
+2024-07-18 12:49:03,366 - logger - INFO - Successful dumping
+2024-07-18 12:49:03,366 - logger - INFO - retrieve station information
+2024-07-18 12:49:04,631 - logger - INFO - request status: Successful
+2024-07-18 12:49:04,650 - logger - INFO - Successful dumping
+2024-07-18 12:49:04,650 - logger - INFO - ------
