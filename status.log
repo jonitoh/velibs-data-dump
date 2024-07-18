@@ -8455,3 +8455,11 @@
 2024-07-18 12:49:04,631 - logger - INFO - request status: Successful
 2024-07-18 12:49:04,650 - logger - INFO - Successful dumping
 2024-07-18 12:49:04,650 - logger - INFO - ------
+2024-07-18 13:30:02,935 - logger - INFO - ------
+2024-07-18 13:30:02,935 - logger - INFO - retrieve station status
+2024-07-18 13:30:03,202 - logger - INFO - request status: Successful
+2024-07-18 13:30:03,205 - logger - INFO - Successful dumping
+2024-07-18 13:30:03,205 - logger - INFO - retrieve station information
+2024-07-18 13:30:03,986 - logger - INFO - request status: Successful
+2024-07-18 13:30:04,005 - logger - INFO - Successful dumping
+2024-07-18 13:30:04,006 - logger - INFO - ------
