@@ -8543,3 +8543,11 @@
 2024-07-19 01:41:07,959 - logger - INFO - request status: Successful
 2024-07-19 01:41:07,977 - logger - INFO - Successful dumping
 2024-07-19 01:41:07,978 - logger - INFO - ------
+2024-07-19 02:45:02,234 - logger - INFO - ------
+2024-07-19 02:45:02,234 - logger - INFO - retrieve station status
+2024-07-19 02:45:02,785 - logger - INFO - request status: Successful
+2024-07-19 02:45:02,788 - logger - INFO - Successful dumping
+2024-07-19 02:45:02,788 - logger - INFO - retrieve station information
+2024-07-19 02:45:04,067 - logger - INFO - request status: Successful
+2024-07-19 02:45:04,085 - logger - INFO - Successful dumping
+2024-07-19 02:45:04,086 - logger - INFO - ------
