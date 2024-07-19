@@ -8607,3 +8607,11 @@
 2024-07-19 09:28:16,753 - logger - INFO - request status: Successful
 2024-07-19 09:28:16,772 - logger - INFO - Successful dumping
 2024-07-19 09:28:16,772 - logger - INFO - ------
+2024-07-19 10:32:18,413 - logger - INFO - ------
+2024-07-19 10:32:18,413 - logger - INFO - retrieve station status
+2024-07-19 10:32:18,752 - logger - INFO - request status: Successful
+2024-07-19 10:32:18,754 - logger - INFO - Successful dumping
+2024-07-19 10:32:18,754 - logger - INFO - retrieve station information
+2024-07-19 10:32:19,644 - logger - INFO - request status: Successful
+2024-07-19 10:32:19,663 - logger - INFO - Successful dumping
+2024-07-19 10:32:19,663 - logger - INFO - ------
