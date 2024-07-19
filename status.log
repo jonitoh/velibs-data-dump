@@ -8671,3 +8671,11 @@
 2024-07-19 17:32:04,466 - logger - INFO - request status: Successful
 2024-07-19 17:32:04,484 - logger - INFO - Successful dumping
 2024-07-19 17:32:04,485 - logger - INFO - ------
+2024-07-19 18:33:50,067 - logger - INFO - ------
+2024-07-19 18:33:50,067 - logger - INFO - retrieve station status
+2024-07-19 18:33:50,419 - logger - INFO - request status: Successful
+2024-07-19 18:33:50,422 - logger - INFO - Successful dumping
+2024-07-19 18:33:50,422 - logger - INFO - retrieve station information
+2024-07-19 18:33:51,215 - logger - INFO - request status: Successful
+2024-07-19 18:33:51,233 - logger - INFO - Successful dumping
+2024-07-19 18:33:51,234 - logger - INFO - ------
