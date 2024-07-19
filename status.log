@@ -8687,3 +8687,11 @@
 2024-07-19 19:25:45,780 - logger - INFO - request status: Successful
 2024-07-19 19:25:45,799 - logger - INFO - Successful dumping
 2024-07-19 19:25:45,799 - logger - INFO - ------
+2024-07-19 20:29:12,378 - logger - INFO - ------
+2024-07-19 20:29:12,379 - logger - INFO - retrieve station status
+2024-07-19 20:29:12,829 - logger - INFO - request status: Successful
+2024-07-19 20:29:12,831 - logger - INFO - Successful dumping
+2024-07-19 20:29:12,832 - logger - INFO - retrieve station information
+2024-07-19 20:29:14,109 - logger - INFO - request status: Successful
+2024-07-19 20:29:14,128 - logger - INFO - Successful dumping
+2024-07-19 20:29:14,128 - logger - INFO - ------
