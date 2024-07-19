@@ -8663,3 +8663,11 @@
 2024-07-19 16:34:40,203 - logger - INFO - request status: Successful
 2024-07-19 16:34:40,222 - logger - INFO - Successful dumping
 2024-07-19 16:34:40,222 - logger - INFO - ------
+2024-07-19 17:32:03,214 - logger - INFO - ------
+2024-07-19 17:32:03,214 - logger - INFO - retrieve station status
+2024-07-19 17:32:03,549 - logger - INFO - request status: Successful
+2024-07-19 17:32:03,551 - logger - INFO - Successful dumping
+2024-07-19 17:32:03,552 - logger - INFO - retrieve station information
+2024-07-19 17:32:04,466 - logger - INFO - request status: Successful
+2024-07-19 17:32:04,484 - logger - INFO - Successful dumping
+2024-07-19 17:32:04,485 - logger - INFO - ------
