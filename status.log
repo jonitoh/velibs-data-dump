@@ -8639,3 +8639,11 @@
 2024-07-19 13:29:14,787 - logger - INFO - request status: Successful
 2024-07-19 13:29:14,805 - logger - INFO - Successful dumping
 2024-07-19 13:29:14,806 - logger - INFO - ------
+2024-07-19 14:31:22,588 - logger - INFO - ------
+2024-07-19 14:31:22,588 - logger - INFO - retrieve station status
+2024-07-19 14:31:22,886 - logger - INFO - request status: Successful
+2024-07-19 14:31:22,889 - logger - INFO - Successful dumping
+2024-07-19 14:31:22,889 - logger - INFO - retrieve station information
+2024-07-19 14:31:23,696 - logger - INFO - request status: Successful
+2024-07-19 14:31:23,715 - logger - INFO - Successful dumping
+2024-07-19 14:31:23,715 - logger - INFO - ------
