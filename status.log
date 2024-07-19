@@ -8647,3 +8647,11 @@
 2024-07-19 14:31:23,696 - logger - INFO - request status: Successful
 2024-07-19 14:31:23,715 - logger - INFO - Successful dumping
 2024-07-19 14:31:23,715 - logger - INFO - ------
+2024-07-19 15:30:28,375 - logger - INFO - ------
+2024-07-19 15:30:28,375 - logger - INFO - retrieve station status
+2024-07-19 15:30:28,697 - logger - INFO - request status: Successful
+2024-07-19 15:30:28,700 - logger - INFO - Successful dumping
+2024-07-19 15:30:28,700 - logger - INFO - retrieve station information
+2024-07-19 15:30:29,612 - logger - INFO - request status: Successful
+2024-07-19 15:30:29,631 - logger - INFO - Successful dumping
+2024-07-19 15:30:29,631 - logger - INFO - ------
