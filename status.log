@@ -8655,3 +8655,11 @@
 2024-07-19 15:30:29,612 - logger - INFO - request status: Successful
 2024-07-19 15:30:29,631 - logger - INFO - Successful dumping
 2024-07-19 15:30:29,631 - logger - INFO - ------
+2024-07-19 16:34:39,111 - logger - INFO - ------
+2024-07-19 16:34:39,112 - logger - INFO - retrieve station status
+2024-07-19 16:34:39,370 - logger - INFO - request status: Successful
+2024-07-19 16:34:39,373 - logger - INFO - Successful dumping
+2024-07-19 16:34:39,373 - logger - INFO - retrieve station information
+2024-07-19 16:34:40,203 - logger - INFO - request status: Successful
+2024-07-19 16:34:40,222 - logger - INFO - Successful dumping
+2024-07-19 16:34:40,222 - logger - INFO - ------
