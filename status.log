@@ -8727,3 +8727,11 @@
 2024-07-20 01:39:48,310 - logger - INFO - request status: Successful
 2024-07-20 01:39:48,328 - logger - INFO - Successful dumping
 2024-07-20 01:39:48,329 - logger - INFO - ------
+2024-07-20 02:41:15,314 - logger - INFO - ------
+2024-07-20 02:41:15,314 - logger - INFO - retrieve station status
+2024-07-20 02:41:15,764 - logger - INFO - request status: Successful
+2024-07-20 02:41:15,766 - logger - INFO - Successful dumping
+2024-07-20 02:41:15,767 - logger - INFO - retrieve station information
+2024-07-20 02:41:17,045 - logger - INFO - request status: Successful
+2024-07-20 02:41:17,063 - logger - INFO - Successful dumping
+2024-07-20 02:41:17,064 - logger - INFO - ------
