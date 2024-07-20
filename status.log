@@ -8775,3 +8775,11 @@
 2024-07-20 07:25:51,821 - logger - INFO - request status: Successful
 2024-07-20 07:25:51,840 - logger - INFO - Successful dumping
 2024-07-20 07:25:51,840 - logger - INFO - ------
+2024-07-20 08:30:20,445 - logger - INFO - ------
+2024-07-20 08:30:20,446 - logger - INFO - retrieve station status
+2024-07-20 08:30:20,723 - logger - INFO - request status: Successful
+2024-07-20 08:30:20,726 - logger - INFO - Successful dumping
+2024-07-20 08:30:20,726 - logger - INFO - retrieve station information
+2024-07-20 08:30:21,475 - logger - INFO - request status: Successful
+2024-07-20 08:30:21,493 - logger - INFO - Successful dumping
+2024-07-20 08:30:21,494 - logger - INFO - ------
