@@ -8855,3 +8855,11 @@
 2024-07-20 17:28:47,719 - logger - INFO - request status: Successful
 2024-07-20 17:28:47,738 - logger - INFO - Successful dumping
 2024-07-20 17:28:47,738 - logger - INFO - ------
+2024-07-20 18:33:37,492 - logger - INFO - ------
+2024-07-20 18:33:37,493 - logger - INFO - retrieve station status
+2024-07-20 18:33:37,851 - logger - INFO - request status: Successful
+2024-07-20 18:33:37,854 - logger - INFO - Successful dumping
+2024-07-20 18:33:37,854 - logger - INFO - retrieve station information
+2024-07-20 18:33:38,615 - logger - INFO - request status: Successful
+2024-07-20 18:33:38,633 - logger - INFO - Successful dumping
+2024-07-20 18:33:38,634 - logger - INFO - ------
