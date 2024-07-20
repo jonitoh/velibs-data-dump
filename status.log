@@ -8751,3 +8751,11 @@
 2024-07-20 04:33:01,176 - logger - INFO - request status: Successful
 2024-07-20 04:33:01,194 - logger - INFO - Successful dumping
 2024-07-20 04:33:01,195 - logger - INFO - ------
+2024-07-20 05:31:11,002 - logger - INFO - ------
+2024-07-20 05:31:11,003 - logger - INFO - retrieve station status
+2024-07-20 05:31:11,316 - logger - INFO - request status: Successful
+2024-07-20 05:31:11,318 - logger - INFO - Successful dumping
+2024-07-20 05:31:11,318 - logger - INFO - retrieve station information
+2024-07-20 05:31:12,193 - logger - INFO - request status: Successful
+2024-07-20 05:31:12,212 - logger - INFO - Successful dumping
+2024-07-20 05:31:12,212 - logger - INFO - ------
