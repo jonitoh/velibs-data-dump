@@ -8735,3 +8735,11 @@
 2024-07-20 02:41:17,045 - logger - INFO - request status: Successful
 2024-07-20 02:41:17,063 - logger - INFO - Successful dumping
 2024-07-20 02:41:17,064 - logger - INFO - ------
+2024-07-20 03:31:25,595 - logger - INFO - ------
+2024-07-20 03:31:25,595 - logger - INFO - retrieve station status
+2024-07-20 03:31:26,140 - logger - INFO - request status: Successful
+2024-07-20 03:31:26,145 - logger - INFO - Successful dumping
+2024-07-20 03:31:26,145 - logger - INFO - retrieve station information
+2024-07-20 03:31:27,422 - logger - INFO - request status: Successful
+2024-07-20 03:31:27,440 - logger - INFO - Successful dumping
+2024-07-20 03:31:27,441 - logger - INFO - ------
