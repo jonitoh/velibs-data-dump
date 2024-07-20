@@ -8871,3 +8871,11 @@
 2024-07-20 19:25:34,488 - logger - INFO - request status: Successful
 2024-07-20 19:25:34,506 - logger - INFO - Successful dumping
 2024-07-20 19:25:34,507 - logger - INFO - ------
+2024-07-20 20:27:25,632 - logger - INFO - ------
+2024-07-20 20:27:25,632 - logger - INFO - retrieve station status
+2024-07-20 20:27:26,030 - logger - INFO - request status: Successful
+2024-07-20 20:27:26,033 - logger - INFO - Successful dumping
+2024-07-20 20:27:26,033 - logger - INFO - retrieve station information
+2024-07-20 20:27:26,806 - logger - INFO - request status: Successful
+2024-07-20 20:27:26,824 - logger - INFO - Successful dumping
+2024-07-20 20:27:26,825 - logger - INFO - ------
