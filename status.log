@@ -8799,3 +8799,11 @@
 2024-07-20 10:33:13,751 - logger - INFO - request status: Successful
 2024-07-20 10:33:13,769 - logger - INFO - Successful dumping
 2024-07-20 10:33:13,770 - logger - INFO - ------
+2024-07-20 11:25:34,229 - logger - INFO - ------
+2024-07-20 11:25:34,229 - logger - INFO - retrieve station status
+2024-07-20 11:25:34,692 - logger - INFO - request status: Successful
+2024-07-20 11:25:34,695 - logger - INFO - Successful dumping
+2024-07-20 11:25:34,695 - logger - INFO - retrieve station information
+2024-07-20 11:25:35,985 - logger - INFO - request status: Successful
+2024-07-20 11:25:36,004 - logger - INFO - Successful dumping
+2024-07-20 11:25:36,005 - logger - INFO - ------
