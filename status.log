@@ -8831,3 +8831,11 @@
 2024-07-20 14:28:40,691 - logger - INFO - request status: Successful
 2024-07-20 14:28:40,708 - logger - INFO - Successful dumping
 2024-07-20 14:28:40,709 - logger - INFO - ------
+2024-07-20 15:27:07,985 - logger - INFO - ------
+2024-07-20 15:27:07,985 - logger - INFO - retrieve station status
+2024-07-20 15:27:08,373 - logger - INFO - request status: Successful
+2024-07-20 15:27:08,376 - logger - INFO - Successful dumping
+2024-07-20 15:27:08,376 - logger - INFO - retrieve station information
+2024-07-20 15:27:09,166 - logger - INFO - request status: Successful
+2024-07-20 15:27:09,184 - logger - INFO - Successful dumping
+2024-07-20 15:27:09,185 - logger - INFO - ------
