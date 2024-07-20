@@ -8815,3 +8815,11 @@
 2024-07-20 12:44:59,441 - logger - INFO - request status: Successful
 2024-07-20 12:44:59,459 - logger - INFO - Successful dumping
 2024-07-20 12:44:59,459 - logger - INFO - ------
+2024-07-20 13:26:43,540 - logger - INFO - ------
+2024-07-20 13:26:43,540 - logger - INFO - retrieve station status
+2024-07-20 13:26:43,861 - logger - INFO - request status: Successful
+2024-07-20 13:26:43,864 - logger - INFO - Successful dumping
+2024-07-20 13:26:43,864 - logger - INFO - retrieve station information
+2024-07-20 13:26:44,742 - logger - INFO - request status: Successful
+2024-07-20 13:26:44,760 - logger - INFO - Successful dumping
+2024-07-20 13:26:44,761 - logger - INFO - ------
