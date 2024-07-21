@@ -9047,3 +9047,11 @@
 2024-07-21 18:31:54,852 - logger - INFO - request status: Successful
 2024-07-21 18:31:54,870 - logger - INFO - Successful dumping
 2024-07-21 18:31:54,870 - logger - INFO - ------
+2024-07-21 19:25:30,867 - logger - INFO - ------
+2024-07-21 19:25:30,868 - logger - INFO - retrieve station status
+2024-07-21 19:25:31,243 - logger - INFO - request status: Successful
+2024-07-21 19:25:31,246 - logger - INFO - Successful dumping
+2024-07-21 19:25:31,246 - logger - INFO - retrieve station information
+2024-07-21 19:25:32,028 - logger - INFO - request status: Successful
+2024-07-21 19:25:32,046 - logger - INFO - Successful dumping
+2024-07-21 19:25:32,047 - logger - INFO - ------
