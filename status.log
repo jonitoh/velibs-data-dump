@@ -9063,3 +9063,11 @@
 2024-07-21 20:30:19,972 - logger - INFO - request status: Successful
 2024-07-21 20:30:19,990 - logger - INFO - Successful dumping
 2024-07-21 20:30:19,991 - logger - INFO - ------
+2024-07-21 21:25:46,377 - logger - INFO - ------
+2024-07-21 21:25:46,377 - logger - INFO - retrieve station status
+2024-07-21 21:25:46,841 - logger - INFO - request status: Successful
+2024-07-21 21:25:46,844 - logger - INFO - Successful dumping
+2024-07-21 21:25:46,844 - logger - INFO - retrieve station information
+2024-07-21 21:25:48,117 - logger - INFO - request status: Successful
+2024-07-21 21:25:48,135 - logger - INFO - Successful dumping
+2024-07-21 21:25:48,136 - logger - INFO - ------
