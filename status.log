@@ -8903,3 +8903,11 @@
 2024-07-20 23:26:31,470 - logger - INFO - request status: Successful
 2024-07-20 23:26:31,489 - logger - INFO - Successful dumping
 2024-07-20 23:26:31,489 - logger - INFO - ------
+2024-07-21 01:48:09,224 - logger - INFO - ------
+2024-07-21 01:48:09,224 - logger - INFO - retrieve station status
+2024-07-21 01:48:09,736 - logger - INFO - request status: Successful
+2024-07-21 01:48:09,738 - logger - INFO - Successful dumping
+2024-07-21 01:48:09,739 - logger - INFO - retrieve station information
+2024-07-21 01:48:11,003 - logger - INFO - request status: Successful
+2024-07-21 01:48:11,021 - logger - INFO - Successful dumping
+2024-07-21 01:48:11,022 - logger - INFO - ------
