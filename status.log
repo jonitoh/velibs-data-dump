@@ -8943,3 +8943,11 @@
 2024-07-21 05:30:59,372 - logger - INFO - request status: Successful
 2024-07-21 05:30:59,390 - logger - INFO - Successful dumping
 2024-07-21 05:30:59,391 - logger - INFO - ------
+2024-07-21 06:36:06,913 - logger - INFO - ------
+2024-07-21 06:36:06,914 - logger - INFO - retrieve station status
+2024-07-21 06:36:07,306 - logger - INFO - request status: Successful
+2024-07-21 06:36:07,308 - logger - INFO - Successful dumping
+2024-07-21 06:36:07,309 - logger - INFO - retrieve station information
+2024-07-21 06:36:08,107 - logger - INFO - request status: Successful
+2024-07-21 06:36:08,125 - logger - INFO - Successful dumping
+2024-07-21 06:36:08,126 - logger - INFO - ------
