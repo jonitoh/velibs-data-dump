@@ -8959,3 +8959,11 @@
 2024-07-21 07:25:47,708 - logger - INFO - request status: Successful
 2024-07-21 07:25:47,727 - logger - INFO - Successful dumping
 2024-07-21 07:25:47,727 - logger - INFO - ------
+2024-07-21 08:30:15,157 - logger - INFO - ------
+2024-07-21 08:30:15,157 - logger - INFO - retrieve station status
+2024-07-21 08:30:15,483 - logger - INFO - request status: Successful
+2024-07-21 08:30:15,486 - logger - INFO - Successful dumping
+2024-07-21 08:30:15,486 - logger - INFO - retrieve station information
+2024-07-21 08:30:16,389 - logger - INFO - request status: Successful
+2024-07-21 08:30:16,408 - logger - INFO - Successful dumping
+2024-07-21 08:30:16,409 - logger - INFO - ------
