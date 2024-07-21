@@ -9071,3 +9071,11 @@
 2024-07-21 21:25:48,117 - logger - INFO - request status: Successful
 2024-07-21 21:25:48,135 - logger - INFO - Successful dumping
 2024-07-21 21:25:48,136 - logger - INFO - ------
+2024-07-21 22:29:56,358 - logger - INFO - ------
+2024-07-21 22:29:56,359 - logger - INFO - retrieve station status
+2024-07-21 22:29:56,859 - logger - INFO - request status: Successful
+2024-07-21 22:29:56,862 - logger - INFO - Successful dumping
+2024-07-21 22:29:56,862 - logger - INFO - retrieve station information
+2024-07-21 22:29:58,131 - logger - INFO - request status: Successful
+2024-07-21 22:29:58,149 - logger - INFO - Successful dumping
+2024-07-21 22:29:58,150 - logger - INFO - ------
