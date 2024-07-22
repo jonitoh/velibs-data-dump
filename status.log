@@ -9207,3 +9207,11 @@
 2024-07-22 15:31:04,291 - logger - INFO - request status: Successful
 2024-07-22 15:31:04,310 - logger - INFO - Successful dumping
 2024-07-22 15:31:04,310 - logger - INFO - ------
+2024-07-22 16:35:54,049 - logger - INFO - ------
+2024-07-22 16:35:54,049 - logger - INFO - retrieve station status
+2024-07-22 16:35:54,394 - logger - INFO - request status: Successful
+2024-07-22 16:35:54,397 - logger - INFO - Successful dumping
+2024-07-22 16:35:54,397 - logger - INFO - retrieve station information
+2024-07-22 16:35:55,307 - logger - INFO - request status: Successful
+2024-07-22 16:35:55,325 - logger - INFO - Successful dumping
+2024-07-22 16:35:55,326 - logger - INFO - ------
