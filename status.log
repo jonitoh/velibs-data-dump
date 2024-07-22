@@ -9239,3 +9239,11 @@
 2024-07-22 19:25:58,583 - logger - INFO - request status: Successful
 2024-07-22 19:25:58,601 - logger - INFO - Successful dumping
 2024-07-22 19:25:58,602 - logger - INFO - ------
+2024-07-22 20:28:25,862 - logger - INFO - ------
+2024-07-22 20:28:25,862 - logger - INFO - retrieve station status
+2024-07-22 20:28:26,191 - logger - INFO - request status: Successful
+2024-07-22 20:28:26,193 - logger - INFO - Successful dumping
+2024-07-22 20:28:26,193 - logger - INFO - retrieve station information
+2024-07-22 20:28:26,975 - logger - INFO - request status: Successful
+2024-07-22 20:28:26,994 - logger - INFO - Successful dumping
+2024-07-22 20:28:26,994 - logger - INFO - ------
