@@ -9159,3 +9159,11 @@
 2024-07-22 09:32:13,902 - logger - INFO - request status: Successful
 2024-07-22 09:32:13,921 - logger - INFO - Successful dumping
 2024-07-22 09:32:13,922 - logger - INFO - ------
+2024-07-22 10:33:12,846 - logger - INFO - ------
+2024-07-22 10:33:12,846 - logger - INFO - retrieve station status
+2024-07-22 10:33:13,180 - logger - INFO - request status: Successful
+2024-07-22 10:33:13,183 - logger - INFO - Successful dumping
+2024-07-22 10:33:13,183 - logger - INFO - retrieve station information
+2024-07-22 10:33:14,058 - logger - INFO - request status: Successful
+2024-07-22 10:33:14,076 - logger - INFO - Successful dumping
+2024-07-22 10:33:14,077 - logger - INFO - ------
