@@ -9111,3 +9111,11 @@
 2024-07-22 03:31:42,696 - logger - INFO - request status: Successful
 2024-07-22 03:31:42,714 - logger - INFO - Successful dumping
 2024-07-22 03:31:42,715 - logger - INFO - ------
+2024-07-22 04:32:41,968 - logger - INFO - ------
+2024-07-22 04:32:41,968 - logger - INFO - retrieve station status
+2024-07-22 04:32:42,349 - logger - INFO - request status: Successful
+2024-07-22 04:32:42,352 - logger - INFO - Successful dumping
+2024-07-22 04:32:42,352 - logger - INFO - retrieve station information
+2024-07-22 04:32:43,233 - logger - INFO - request status: Successful
+2024-07-22 04:32:43,252 - logger - INFO - Successful dumping
+2024-07-22 04:32:43,252 - logger - INFO - ------
