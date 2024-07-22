@@ -9095,3 +9095,11 @@
 2024-07-22 01:45:21,660 - logger - INFO - request status: Successful
 2024-07-22 01:45:21,678 - logger - INFO - Successful dumping
 2024-07-22 01:45:21,679 - logger - INFO - ------
+2024-07-22 02:46:28,131 - logger - INFO - ------
+2024-07-22 02:46:28,131 - logger - INFO - retrieve station status
+2024-07-22 02:46:28,500 - logger - INFO - request status: Successful
+2024-07-22 02:46:28,503 - logger - INFO - Successful dumping
+2024-07-22 02:46:28,503 - logger - INFO - retrieve station information
+2024-07-22 02:46:29,387 - logger - INFO - request status: Successful
+2024-07-22 02:46:29,406 - logger - INFO - Successful dumping
+2024-07-22 02:46:29,406 - logger - INFO - ------
