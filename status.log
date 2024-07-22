@@ -9175,3 +9175,11 @@
 2024-07-22 11:25:42,191 - logger - INFO - request status: Successful
 2024-07-22 11:25:42,209 - logger - INFO - Successful dumping
 2024-07-22 11:25:42,209 - logger - INFO - ------
+2024-07-22 12:49:02,544 - logger - INFO - ------
+2024-07-22 12:49:02,544 - logger - INFO - retrieve station status
+2024-07-22 12:49:02,860 - logger - INFO - request status: Successful
+2024-07-22 12:49:02,863 - logger - INFO - Successful dumping
+2024-07-22 12:49:02,863 - logger - INFO - retrieve station information
+2024-07-22 12:49:03,635 - logger - INFO - request status: Successful
+2024-07-22 12:49:03,653 - logger - INFO - Successful dumping
+2024-07-22 12:49:03,653 - logger - INFO - ------
