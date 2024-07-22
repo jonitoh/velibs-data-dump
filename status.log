@@ -9183,3 +9183,11 @@
 2024-07-22 12:49:03,635 - logger - INFO - request status: Successful
 2024-07-22 12:49:03,653 - logger - INFO - Successful dumping
 2024-07-22 12:49:03,653 - logger - INFO - ------
+2024-07-22 13:30:03,951 - logger - INFO - ------
+2024-07-22 13:30:03,951 - logger - INFO - retrieve station status
+2024-07-22 13:30:04,467 - logger - INFO - request status: Successful
+2024-07-22 13:30:04,470 - logger - INFO - Successful dumping
+2024-07-22 13:30:04,470 - logger - INFO - retrieve station information
+2024-07-22 13:30:05,763 - logger - INFO - request status: Successful
+2024-07-22 13:30:05,781 - logger - INFO - Successful dumping
+2024-07-22 13:30:05,781 - logger - INFO - ------
