@@ -9167,3 +9167,11 @@
 2024-07-22 10:33:14,058 - logger - INFO - request status: Successful
 2024-07-22 10:33:14,076 - logger - INFO - Successful dumping
 2024-07-22 10:33:14,077 - logger - INFO - ------
+2024-07-22 11:25:41,084 - logger - INFO - ------
+2024-07-22 11:25:41,085 - logger - INFO - retrieve station status
+2024-07-22 11:25:41,412 - logger - INFO - request status: Successful
+2024-07-22 11:25:41,415 - logger - INFO - Successful dumping
+2024-07-22 11:25:41,415 - logger - INFO - retrieve station information
+2024-07-22 11:25:42,191 - logger - INFO - request status: Successful
+2024-07-22 11:25:42,209 - logger - INFO - Successful dumping
+2024-07-22 11:25:42,209 - logger - INFO - ------
