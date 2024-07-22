@@ -9127,3 +9127,11 @@
 2024-07-22 05:32:25,504 - logger - INFO - request status: Successful
 2024-07-22 05:32:25,522 - logger - INFO - Successful dumping
 2024-07-22 05:32:25,522 - logger - INFO - ------
+2024-07-22 06:36:33,301 - logger - INFO - ------
+2024-07-22 06:36:33,301 - logger - INFO - retrieve station status
+2024-07-22 06:36:33,566 - logger - INFO - request status: Successful
+2024-07-22 06:36:33,570 - logger - INFO - Successful dumping
+2024-07-22 06:36:33,570 - logger - INFO - retrieve station information
+2024-07-22 06:36:34,337 - logger - INFO - request status: Successful
+2024-07-22 06:36:34,358 - logger - INFO - Successful dumping
+2024-07-22 06:36:34,359 - logger - INFO - ------
