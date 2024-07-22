@@ -9151,3 +9151,11 @@
 2024-07-22 08:34:53,633 - logger - INFO - request status: Successful
 2024-07-22 08:34:53,652 - logger - INFO - Successful dumping
 2024-07-22 08:34:53,652 - logger - INFO - ------
+2024-07-22 09:32:12,076 - logger - INFO - ------
+2024-07-22 09:32:12,077 - logger - INFO - retrieve station status
+2024-07-22 09:32:12,631 - logger - INFO - request status: Successful
+2024-07-22 09:32:12,634 - logger - INFO - Successful dumping
+2024-07-22 09:32:12,634 - logger - INFO - retrieve station information
+2024-07-22 09:32:13,902 - logger - INFO - request status: Successful
+2024-07-22 09:32:13,921 - logger - INFO - Successful dumping
+2024-07-22 09:32:13,922 - logger - INFO - ------
