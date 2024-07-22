@@ -9215,3 +9215,11 @@
 2024-07-22 16:35:55,307 - logger - INFO - request status: Successful
 2024-07-22 16:35:55,325 - logger - INFO - Successful dumping
 2024-07-22 16:35:55,326 - logger - INFO - ------
+2024-07-22 17:29:58,363 - logger - INFO - ------
+2024-07-22 17:29:58,363 - logger - INFO - retrieve station status
+2024-07-22 17:29:58,700 - logger - INFO - request status: Successful
+2024-07-22 17:29:58,702 - logger - INFO - Successful dumping
+2024-07-22 17:29:58,703 - logger - INFO - retrieve station information
+2024-07-22 17:29:59,470 - logger - INFO - request status: Successful
+2024-07-22 17:29:59,488 - logger - INFO - Successful dumping
+2024-07-22 17:29:59,489 - logger - INFO - ------
