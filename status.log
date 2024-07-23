@@ -9319,3 +9319,11 @@
 2024-07-23 06:35:50,767 - logger - INFO - request status: Successful
 2024-07-23 06:35:50,786 - logger - INFO - Successful dumping
 2024-07-23 06:35:50,786 - logger - INFO - ------
+2024-07-23 07:25:55,955 - logger - INFO - ------
+2024-07-23 07:25:55,955 - logger - INFO - retrieve station status
+2024-07-23 07:25:56,290 - logger - INFO - request status: Successful
+2024-07-23 07:25:56,293 - logger - INFO - Successful dumping
+2024-07-23 07:25:56,293 - logger - INFO - retrieve station information
+2024-07-23 07:25:57,144 - logger - INFO - request status: Successful
+2024-07-23 07:25:57,163 - logger - INFO - Successful dumping
+2024-07-23 07:25:57,164 - logger - INFO - ------
