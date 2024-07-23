@@ -9431,3 +9431,11 @@
 2024-07-23 20:28:15,625 - logger - INFO - request status: Successful
 2024-07-23 20:28:15,643 - logger - INFO - Successful dumping
 2024-07-23 20:28:15,644 - logger - INFO - ------
+2024-07-23 21:28:34,097 - logger - INFO - ------
+2024-07-23 21:28:34,097 - logger - INFO - retrieve station status
+2024-07-23 21:28:34,654 - logger - INFO - request status: Successful
+2024-07-23 21:28:34,657 - logger - INFO - Successful dumping
+2024-07-23 21:28:34,657 - logger - INFO - retrieve station information
+2024-07-23 21:28:36,011 - logger - INFO - request status: Successful
+2024-07-23 21:28:36,029 - logger - INFO - Successful dumping
+2024-07-23 21:28:36,029 - logger - INFO - ------
