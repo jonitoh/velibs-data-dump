@@ -9423,3 +9423,11 @@
 2024-07-23 19:25:43,240 - logger - INFO - request status: Successful
 2024-07-23 19:25:43,259 - logger - INFO - Successful dumping
 2024-07-23 19:25:43,259 - logger - INFO - ------
+2024-07-23 20:28:14,367 - logger - INFO - ------
+2024-07-23 20:28:14,367 - logger - INFO - retrieve station status
+2024-07-23 20:28:14,695 - logger - INFO - request status: Successful
+2024-07-23 20:28:14,697 - logger - INFO - Successful dumping
+2024-07-23 20:28:14,698 - logger - INFO - retrieve station information
+2024-07-23 20:28:15,625 - logger - INFO - request status: Successful
+2024-07-23 20:28:15,643 - logger - INFO - Successful dumping
+2024-07-23 20:28:15,644 - logger - INFO - ------
