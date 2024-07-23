@@ -9407,3 +9407,11 @@
 2024-07-23 17:30:35,556 - logger - INFO - request status: Successful
 2024-07-23 17:30:35,575 - logger - INFO - Successful dumping
 2024-07-23 17:30:35,575 - logger - INFO - ------
+2024-07-23 18:32:33,062 - logger - INFO - ------
+2024-07-23 18:32:33,062 - logger - INFO - retrieve station status
+2024-07-23 18:32:33,400 - logger - INFO - request status: Successful
+2024-07-23 18:32:33,403 - logger - INFO - Successful dumping
+2024-07-23 18:32:33,403 - logger - INFO - retrieve station information
+2024-07-23 18:32:34,300 - logger - INFO - request status: Successful
+2024-07-23 18:32:34,319 - logger - INFO - Successful dumping
+2024-07-23 18:32:34,319 - logger - INFO - ------
