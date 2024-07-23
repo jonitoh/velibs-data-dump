@@ -9367,3 +9367,11 @@
 2024-07-23 12:48:19,429 - logger - INFO - request status: Successful
 2024-07-23 12:48:19,447 - logger - INFO - Successful dumping
 2024-07-23 12:48:19,447 - logger - INFO - ------
+2024-07-23 13:29:35,363 - logger - INFO - ------
+2024-07-23 13:29:35,363 - logger - INFO - retrieve station status
+2024-07-23 13:29:35,891 - logger - INFO - request status: Successful
+2024-07-23 13:29:35,894 - logger - INFO - Successful dumping
+2024-07-23 13:29:35,894 - logger - INFO - retrieve station information
+2024-07-23 13:29:37,165 - logger - INFO - request status: Successful
+2024-07-23 13:29:37,183 - logger - INFO - Successful dumping
+2024-07-23 13:29:37,184 - logger - INFO - ------
