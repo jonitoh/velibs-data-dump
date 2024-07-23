@@ -9375,3 +9375,11 @@
 2024-07-23 13:29:37,165 - logger - INFO - request status: Successful
 2024-07-23 13:29:37,183 - logger - INFO - Successful dumping
 2024-07-23 13:29:37,184 - logger - INFO - ------
+2024-07-23 14:30:58,497 - logger - INFO - ------
+2024-07-23 14:30:58,497 - logger - INFO - retrieve station status
+2024-07-23 14:30:58,851 - logger - INFO - request status: Successful
+2024-07-23 14:30:58,854 - logger - INFO - Successful dumping
+2024-07-23 14:30:58,854 - logger - INFO - retrieve station information
+2024-07-23 14:30:59,817 - logger - INFO - request status: Successful
+2024-07-23 14:30:59,836 - logger - INFO - Successful dumping
+2024-07-23 14:30:59,836 - logger - INFO - ------
