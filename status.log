@@ -9311,3 +9311,11 @@
 2024-07-23 05:31:38,413 - logger - INFO - request status: Successful
 2024-07-23 05:31:38,432 - logger - INFO - Successful dumping
 2024-07-23 05:31:38,432 - logger - INFO - ------
+2024-07-23 06:35:49,589 - logger - INFO - ------
+2024-07-23 06:35:49,589 - logger - INFO - retrieve station status
+2024-07-23 06:35:49,871 - logger - INFO - request status: Successful
+2024-07-23 06:35:49,873 - logger - INFO - Successful dumping
+2024-07-23 06:35:49,874 - logger - INFO - retrieve station information
+2024-07-23 06:35:50,767 - logger - INFO - request status: Successful
+2024-07-23 06:35:50,786 - logger - INFO - Successful dumping
+2024-07-23 06:35:50,786 - logger - INFO - ------
