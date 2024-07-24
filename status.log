@@ -9575,3 +9575,11 @@
 2024-07-24 15:29:28,073 - logger - INFO - request status: Successful
 2024-07-24 15:29:28,092 - logger - INFO - Successful dumping
 2024-07-24 15:29:28,093 - logger - INFO - ------
+2024-07-24 16:34:49,602 - logger - INFO - ------
+2024-07-24 16:34:49,602 - logger - INFO - retrieve station status
+2024-07-24 16:34:49,991 - logger - INFO - request status: Successful
+2024-07-24 16:34:49,994 - logger - INFO - Successful dumping
+2024-07-24 16:34:49,994 - logger - INFO - retrieve station information
+2024-07-24 16:34:50,774 - logger - INFO - request status: Successful
+2024-07-24 16:34:50,793 - logger - INFO - Successful dumping
+2024-07-24 16:34:50,793 - logger - INFO - ------
