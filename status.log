@@ -9631,3 +9631,11 @@
 2024-07-24 22:30:54,448 - logger - INFO - request status: Successful
 2024-07-24 22:30:54,467 - logger - INFO - Successful dumping
 2024-07-24 22:30:54,467 - logger - INFO - ------
+2024-07-24 23:27:46,591 - logger - INFO - ------
+2024-07-24 23:27:46,591 - logger - INFO - retrieve station status
+2024-07-24 23:27:46,904 - logger - INFO - request status: Successful
+2024-07-24 23:27:46,907 - logger - INFO - Successful dumping
+2024-07-24 23:27:46,907 - logger - INFO - retrieve station information
+2024-07-24 23:27:47,657 - logger - INFO - request status: Successful
+2024-07-24 23:27:47,675 - logger - INFO - Successful dumping
+2024-07-24 23:27:47,676 - logger - INFO - ------
