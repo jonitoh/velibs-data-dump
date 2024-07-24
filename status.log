@@ -9583,3 +9583,11 @@
 2024-07-24 16:34:50,774 - logger - INFO - request status: Successful
 2024-07-24 16:34:50,793 - logger - INFO - Successful dumping
 2024-07-24 16:34:50,793 - logger - INFO - ------
+2024-07-24 17:29:11,712 - logger - INFO - ------
+2024-07-24 17:29:11,712 - logger - INFO - retrieve station status
+2024-07-24 17:29:12,022 - logger - INFO - request status: Successful
+2024-07-24 17:29:12,025 - logger - INFO - Successful dumping
+2024-07-24 17:29:12,025 - logger - INFO - retrieve station information
+2024-07-24 17:29:12,767 - logger - INFO - request status: Successful
+2024-07-24 17:29:12,786 - logger - INFO - Successful dumping
+2024-07-24 17:29:12,786 - logger - INFO - ------
