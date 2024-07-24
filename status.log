@@ -9487,3 +9487,11 @@
 2024-07-24 04:31:21,954 - logger - INFO - request status: Successful
 2024-07-24 04:31:21,972 - logger - INFO - Successful dumping
 2024-07-24 04:31:21,973 - logger - INFO - ------
+2024-07-24 05:31:14,184 - logger - INFO - ------
+2024-07-24 05:31:14,184 - logger - INFO - retrieve station status
+2024-07-24 05:31:14,606 - logger - INFO - request status: Successful
+2024-07-24 05:31:14,609 - logger - INFO - Successful dumping
+2024-07-24 05:31:14,609 - logger - INFO - retrieve station information
+2024-07-24 05:31:15,495 - logger - INFO - request status: Successful
+2024-07-24 05:31:15,513 - logger - INFO - Successful dumping
+2024-07-24 05:31:15,514 - logger - INFO - ------
