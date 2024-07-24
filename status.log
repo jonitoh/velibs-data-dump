@@ -9559,3 +9559,11 @@
 2024-07-24 13:30:57,286 - logger - INFO - request status: Successful
 2024-07-24 13:30:57,304 - logger - INFO - Successful dumping
 2024-07-24 13:30:57,305 - logger - INFO - ------
+2024-07-24 14:31:22,593 - logger - INFO - ------
+2024-07-24 14:31:22,593 - logger - INFO - retrieve station status
+2024-07-24 14:31:22,986 - logger - INFO - request status: Successful
+2024-07-24 14:31:22,988 - logger - INFO - Successful dumping
+2024-07-24 14:31:22,988 - logger - INFO - retrieve station information
+2024-07-24 14:31:23,790 - logger - INFO - request status: Successful
+2024-07-24 14:31:23,808 - logger - INFO - Successful dumping
+2024-07-24 14:31:23,808 - logger - INFO - ------
