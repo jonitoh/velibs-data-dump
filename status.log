@@ -9535,3 +9535,11 @@
 2024-07-24 10:33:03,050 - logger - INFO - request status: Successful
 2024-07-24 10:33:03,068 - logger - INFO - Successful dumping
 2024-07-24 10:33:03,069 - logger - INFO - ------
+2024-07-24 11:25:45,611 - logger - INFO - ------
+2024-07-24 11:25:45,611 - logger - INFO - retrieve station status
+2024-07-24 11:25:45,978 - logger - INFO - request status: Successful
+2024-07-24 11:25:45,981 - logger - INFO - Successful dumping
+2024-07-24 11:25:45,981 - logger - INFO - retrieve station information
+2024-07-24 11:25:46,699 - logger - INFO - request status: Successful
+2024-07-24 11:25:46,717 - logger - INFO - Successful dumping
+2024-07-24 11:25:46,718 - logger - INFO - ------
