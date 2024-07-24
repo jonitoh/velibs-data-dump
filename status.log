@@ -9607,3 +9607,11 @@
 2024-07-24 19:25:42,715 - logger - INFO - request status: Successful
 2024-07-24 19:25:42,733 - logger - INFO - Successful dumping
 2024-07-24 19:25:42,734 - logger - INFO - ------
+2024-07-24 20:28:12,416 - logger - INFO - ------
+2024-07-24 20:28:12,417 - logger - INFO - retrieve station status
+2024-07-24 20:28:12,737 - logger - INFO - request status: Successful
+2024-07-24 20:28:12,742 - logger - INFO - Successful dumping
+2024-07-24 20:28:12,742 - logger - INFO - retrieve station information
+2024-07-24 20:28:13,494 - logger - INFO - request status: Successful
+2024-07-24 20:28:13,512 - logger - INFO - Successful dumping
+2024-07-24 20:28:13,512 - logger - INFO - ------
