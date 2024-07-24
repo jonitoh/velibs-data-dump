@@ -9551,3 +9551,11 @@
 2024-07-24 12:47:41,386 - logger - INFO - request status: Successful
 2024-07-24 12:47:41,404 - logger - INFO - Successful dumping
 2024-07-24 12:47:41,405 - logger - INFO - ------
+2024-07-24 13:30:56,045 - logger - INFO - ------
+2024-07-24 13:30:56,045 - logger - INFO - retrieve station status
+2024-07-24 13:30:56,375 - logger - INFO - request status: Successful
+2024-07-24 13:30:56,378 - logger - INFO - Successful dumping
+2024-07-24 13:30:56,378 - logger - INFO - retrieve station information
+2024-07-24 13:30:57,286 - logger - INFO - request status: Successful
+2024-07-24 13:30:57,304 - logger - INFO - Successful dumping
+2024-07-24 13:30:57,305 - logger - INFO - ------
