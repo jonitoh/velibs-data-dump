@@ -9471,3 +9471,11 @@
 2024-07-24 02:45:06,315 - logger - INFO - request status: Successful
 2024-07-24 02:45:06,333 - logger - INFO - Successful dumping
 2024-07-24 02:45:06,334 - logger - INFO - ------
+2024-07-24 03:31:06,364 - logger - INFO - ------
+2024-07-24 03:31:06,365 - logger - INFO - retrieve station status
+2024-07-24 03:31:06,843 - logger - INFO - request status: Successful
+2024-07-24 03:31:06,845 - logger - INFO - Successful dumping
+2024-07-24 03:31:06,846 - logger - INFO - retrieve station information
+2024-07-24 03:31:08,123 - logger - INFO - request status: Successful
+2024-07-24 03:31:08,142 - logger - INFO - Successful dumping
+2024-07-24 03:31:08,142 - logger - INFO - ------
