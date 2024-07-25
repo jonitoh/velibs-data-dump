@@ -9647,3 +9647,11 @@
 2024-07-25 01:42:30,318 - logger - INFO - request status: Successful
 2024-07-25 01:42:30,337 - logger - INFO - Successful dumping
 2024-07-25 01:42:30,338 - logger - INFO - ------
+2024-07-25 02:45:14,878 - logger - INFO - ------
+2024-07-25 02:45:14,878 - logger - INFO - retrieve station status
+2024-07-25 02:45:15,380 - logger - INFO - request status: Successful
+2024-07-25 02:45:15,383 - logger - INFO - Successful dumping
+2024-07-25 02:45:15,383 - logger - INFO - retrieve station information
+2024-07-25 02:45:16,670 - logger - INFO - request status: Successful
+2024-07-25 02:45:16,689 - logger - INFO - Successful dumping
+2024-07-25 02:45:16,690 - logger - INFO - ------
