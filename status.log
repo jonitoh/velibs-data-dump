@@ -9807,3 +9807,11 @@
 2024-07-25 21:26:34,963 - logger - INFO - request status: Successful
 2024-07-25 21:26:34,981 - logger - INFO - Successful dumping
 2024-07-25 21:26:34,982 - logger - INFO - ------
+2024-07-25 22:31:07,600 - logger - INFO - ------
+2024-07-25 22:31:07,600 - logger - INFO - retrieve station status
+2024-07-25 22:31:07,909 - logger - INFO - request status: Successful
+2024-07-25 22:31:07,912 - logger - INFO - Successful dumping
+2024-07-25 22:31:07,912 - logger - INFO - retrieve station information
+2024-07-25 22:31:08,807 - logger - INFO - request status: Successful
+2024-07-25 22:31:08,825 - logger - INFO - Successful dumping
+2024-07-25 22:31:08,826 - logger - INFO - ------
