@@ -9727,3 +9727,11 @@
 2024-07-25 11:25:55,808 - logger - INFO - request status: Successful
 2024-07-25 11:25:55,827 - logger - INFO - Successful dumping
 2024-07-25 11:25:55,827 - logger - INFO - ------
+2024-07-25 12:47:52,898 - logger - INFO - ------
+2024-07-25 12:47:52,898 - logger - INFO - retrieve station status
+2024-07-25 12:47:53,187 - logger - INFO - request status: Successful
+2024-07-25 12:47:53,190 - logger - INFO - Successful dumping
+2024-07-25 12:47:53,190 - logger - INFO - retrieve station information
+2024-07-25 12:47:53,963 - logger - INFO - request status: Successful
+2024-07-25 12:47:53,981 - logger - INFO - Successful dumping
+2024-07-25 12:47:53,982 - logger - INFO - ------
