@@ -9743,3 +9743,11 @@
 2024-07-25 13:29:51,196 - logger - INFO - request status: Successful
 2024-07-25 13:29:51,214 - logger - INFO - Successful dumping
 2024-07-25 13:29:51,214 - logger - INFO - ------
+2024-07-25 14:30:27,790 - logger - INFO - ------
+2024-07-25 14:30:27,790 - logger - INFO - retrieve station status
+2024-07-25 14:30:28,210 - logger - INFO - request status: Successful
+2024-07-25 14:30:28,212 - logger - INFO - Successful dumping
+2024-07-25 14:30:28,213 - logger - INFO - retrieve station information
+2024-07-25 14:30:28,996 - logger - INFO - request status: Successful
+2024-07-25 14:30:29,015 - logger - INFO - Successful dumping
+2024-07-25 14:30:29,015 - logger - INFO - ------
