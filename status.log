@@ -9791,3 +9791,11 @@
 2024-07-25 19:25:47,997 - logger - INFO - request status: Successful
 2024-07-25 19:25:48,015 - logger - INFO - Successful dumping
 2024-07-25 19:25:48,016 - logger - INFO - ------
+2024-07-25 20:28:01,805 - logger - INFO - ------
+2024-07-25 20:28:01,805 - logger - INFO - retrieve station status
+2024-07-25 20:28:02,199 - logger - INFO - request status: Successful
+2024-07-25 20:28:02,201 - logger - INFO - Successful dumping
+2024-07-25 20:28:02,202 - logger - INFO - retrieve station information
+2024-07-25 20:28:03,091 - logger - INFO - request status: Successful
+2024-07-25 20:28:03,110 - logger - INFO - Successful dumping
+2024-07-25 20:28:03,110 - logger - INFO - ------
