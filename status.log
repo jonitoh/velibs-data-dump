@@ -9703,3 +9703,11 @@
 2024-07-25 08:33:14,134 - logger - INFO - request status: Successful
 2024-07-25 08:33:14,153 - logger - INFO - Successful dumping
 2024-07-25 08:33:14,153 - logger - INFO - ------
+2024-07-25 09:29:31,645 - logger - INFO - ------
+2024-07-25 09:29:31,645 - logger - INFO - retrieve station status
+2024-07-25 09:29:31,919 - logger - INFO - request status: Successful
+2024-07-25 09:29:31,922 - logger - INFO - Successful dumping
+2024-07-25 09:29:31,922 - logger - INFO - retrieve station information
+2024-07-25 09:29:32,668 - logger - INFO - request status: Successful
+2024-07-25 09:29:32,687 - logger - INFO - Successful dumping
+2024-07-25 09:29:32,687 - logger - INFO - ------
