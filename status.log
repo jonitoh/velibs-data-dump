@@ -9671,3 +9671,11 @@
 2024-07-25 04:34:53,448 - logger - INFO - request status: Successful
 2024-07-25 04:34:53,466 - logger - INFO - Successful dumping
 2024-07-25 04:34:53,467 - logger - INFO - ------
+2024-07-25 05:30:53,334 - logger - INFO - ------
+2024-07-25 05:30:53,334 - logger - INFO - retrieve station status
+2024-07-25 05:30:53,612 - logger - INFO - request status: Successful
+2024-07-25 05:30:53,615 - logger - INFO - Successful dumping
+2024-07-25 05:30:53,615 - logger - INFO - retrieve station information
+2024-07-25 05:30:54,352 - logger - INFO - request status: Successful
+2024-07-25 05:30:54,370 - logger - INFO - Successful dumping
+2024-07-25 05:30:54,371 - logger - INFO - ------
