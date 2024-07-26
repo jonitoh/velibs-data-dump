@@ -9863,3 +9863,11 @@
 2024-07-26 05:31:55,982 - logger - INFO - request status: Successful
 2024-07-26 05:31:56,000 - logger - INFO - Successful dumping
 2024-07-26 05:31:56,000 - logger - INFO - ------
+2024-07-26 06:36:26,757 - logger - INFO - ------
+2024-07-26 06:36:26,757 - logger - INFO - retrieve station status
+2024-07-26 06:36:27,127 - logger - INFO - request status: Successful
+2024-07-26 06:36:27,130 - logger - INFO - Successful dumping
+2024-07-26 06:36:27,130 - logger - INFO - retrieve station information
+2024-07-26 06:36:28,022 - logger - INFO - request status: Successful
+2024-07-26 06:36:28,040 - logger - INFO - Successful dumping
+2024-07-26 06:36:28,041 - logger - INFO - ------
