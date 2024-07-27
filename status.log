@@ -10127,3 +10127,11 @@
 2024-07-27 15:27:28,824 - logger - INFO - request status: Successful
 2024-07-27 15:27:28,843 - logger - INFO - Successful dumping
 2024-07-27 15:27:28,843 - logger - INFO - ------
+2024-07-27 16:33:06,024 - logger - INFO - ------
+2024-07-27 16:33:06,024 - logger - INFO - retrieve station status
+2024-07-27 16:33:06,385 - logger - INFO - request status: Successful
+2024-07-27 16:33:06,388 - logger - INFO - Successful dumping
+2024-07-27 16:33:06,388 - logger - INFO - retrieve station information
+2024-07-27 16:33:07,303 - logger - INFO - request status: Successful
+2024-07-27 16:33:07,321 - logger - INFO - Successful dumping
+2024-07-27 16:33:07,322 - logger - INFO - ------
