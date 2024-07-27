@@ -10063,3 +10063,11 @@
 2024-07-27 07:25:43,364 - logger - INFO - request status: Successful
 2024-07-27 07:25:43,383 - logger - INFO - Successful dumping
 2024-07-27 07:25:43,383 - logger - INFO - ------
+2024-07-27 08:31:18,380 - logger - INFO - ------
+2024-07-27 08:31:18,380 - logger - INFO - retrieve station status
+2024-07-27 08:31:18,846 - logger - INFO - request status: Successful
+2024-07-27 08:31:18,849 - logger - INFO - Successful dumping
+2024-07-27 08:31:18,849 - logger - INFO - retrieve station information
+2024-07-27 08:31:20,114 - logger - INFO - request status: Successful
+2024-07-27 08:31:20,132 - logger - INFO - Successful dumping
+2024-07-27 08:31:20,133 - logger - INFO - ------
