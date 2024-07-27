@@ -10111,3 +10111,11 @@
 2024-07-27 13:27:12,740 - logger - INFO - request status: Successful
 2024-07-27 13:27:12,759 - logger - INFO - Successful dumping
 2024-07-27 13:27:12,759 - logger - INFO - ------
+2024-07-27 14:29:25,402 - logger - INFO - ------
+2024-07-27 14:29:25,402 - logger - INFO - retrieve station status
+2024-07-27 14:29:25,901 - logger - INFO - request status: Successful
+2024-07-27 14:29:25,903 - logger - INFO - Successful dumping
+2024-07-27 14:29:25,903 - logger - INFO - retrieve station information
+2024-07-27 14:29:27,186 - logger - INFO - request status: Successful
+2024-07-27 14:29:27,204 - logger - INFO - Successful dumping
+2024-07-27 14:29:27,205 - logger - INFO - ------
