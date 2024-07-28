@@ -10335,3 +10335,11 @@
 2024-07-28 18:33:32,231 - logger - INFO - request status: Successful
 2024-07-28 18:33:32,250 - logger - INFO - Successful dumping
 2024-07-28 18:33:32,250 - logger - INFO - ------
+2024-07-28 19:25:40,628 - logger - INFO - ------
+2024-07-28 19:25:40,628 - logger - INFO - retrieve station status
+2024-07-28 19:25:41,101 - logger - INFO - request status: Successful
+2024-07-28 19:25:41,104 - logger - INFO - Successful dumping
+2024-07-28 19:25:41,104 - logger - INFO - retrieve station information
+2024-07-28 19:25:42,391 - logger - INFO - request status: Successful
+2024-07-28 19:25:42,410 - logger - INFO - Successful dumping
+2024-07-28 19:25:42,410 - logger - INFO - ------
