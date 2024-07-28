@@ -10343,3 +10343,11 @@
 2024-07-28 19:25:42,391 - logger - INFO - request status: Successful
 2024-07-28 19:25:42,410 - logger - INFO - Successful dumping
 2024-07-28 19:25:42,410 - logger - INFO - ------
+2024-07-28 20:27:56,904 - logger - INFO - ------
+2024-07-28 20:27:56,905 - logger - INFO - retrieve station status
+2024-07-28 20:27:57,328 - logger - INFO - request status: Successful
+2024-07-28 20:27:57,331 - logger - INFO - Successful dumping
+2024-07-28 20:27:57,331 - logger - INFO - retrieve station information
+2024-07-28 20:27:58,102 - logger - INFO - request status: Successful
+2024-07-28 20:27:58,121 - logger - INFO - Successful dumping
+2024-07-28 20:27:58,121 - logger - INFO - ------
