@@ -10351,3 +10351,11 @@
 2024-07-28 20:27:58,102 - logger - INFO - request status: Successful
 2024-07-28 20:27:58,121 - logger - INFO - Successful dumping
 2024-07-28 20:27:58,121 - logger - INFO - ------
+2024-07-28 21:27:42,013 - logger - INFO - ------
+2024-07-28 21:27:42,013 - logger - INFO - retrieve station status
+2024-07-28 21:27:42,337 - logger - INFO - request status: Successful
+2024-07-28 21:27:42,340 - logger - INFO - Successful dumping
+2024-07-28 21:27:42,340 - logger - INFO - retrieve station information
+2024-07-28 21:27:43,219 - logger - INFO - request status: Successful
+2024-07-28 21:27:43,238 - logger - INFO - Successful dumping
+2024-07-28 21:27:43,238 - logger - INFO - ------
