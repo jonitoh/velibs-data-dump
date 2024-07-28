@@ -10271,3 +10271,11 @@
 2024-07-28 10:31:14,751 - logger - INFO - request status: Successful
 2024-07-28 10:31:14,769 - logger - INFO - Successful dumping
 2024-07-28 10:31:14,770 - logger - INFO - ------
+2024-07-28 11:25:49,763 - logger - INFO - ------
+2024-07-28 11:25:49,763 - logger - INFO - retrieve station status
+2024-07-28 11:25:50,122 - logger - INFO - request status: Successful
+2024-07-28 11:25:50,124 - logger - INFO - Successful dumping
+2024-07-28 11:25:50,125 - logger - INFO - retrieve station information
+2024-07-28 11:25:51,015 - logger - INFO - request status: Successful
+2024-07-28 11:25:51,045 - logger - INFO - Successful dumping
+2024-07-28 11:25:51,046 - logger - INFO - ------
