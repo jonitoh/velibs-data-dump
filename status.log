@@ -10303,3 +10303,11 @@
 2024-07-28 14:28:55,336 - logger - INFO - request status: Successful
 2024-07-28 14:28:55,354 - logger - INFO - Successful dumping
 2024-07-28 14:28:55,355 - logger - INFO - ------
+2024-07-28 15:27:29,245 - logger - INFO - ------
+2024-07-28 15:27:29,245 - logger - INFO - retrieve station status
+2024-07-28 15:27:29,504 - logger - INFO - request status: Successful
+2024-07-28 15:27:29,507 - logger - INFO - Successful dumping
+2024-07-28 15:27:29,507 - logger - INFO - retrieve station information
+2024-07-28 15:27:30,258 - logger - INFO - request status: Successful
+2024-07-28 15:27:30,276 - logger - INFO - Successful dumping
+2024-07-28 15:27:30,277 - logger - INFO - ------
