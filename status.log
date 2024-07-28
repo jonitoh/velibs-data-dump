@@ -10327,3 +10327,11 @@
 2024-07-28 17:29:19,781 - logger - INFO - request status: Successful
 2024-07-28 17:29:19,800 - logger - INFO - Successful dumping
 2024-07-28 17:29:19,800 - logger - INFO - ------
+2024-07-28 18:33:30,507 - logger - INFO - ------
+2024-07-28 18:33:30,507 - logger - INFO - retrieve station status
+2024-07-28 18:33:30,940 - logger - INFO - request status: Successful
+2024-07-28 18:33:30,943 - logger - INFO - Successful dumping
+2024-07-28 18:33:30,943 - logger - INFO - retrieve station information
+2024-07-28 18:33:32,231 - logger - INFO - request status: Successful
+2024-07-28 18:33:32,250 - logger - INFO - Successful dumping
+2024-07-28 18:33:32,250 - logger - INFO - ------
