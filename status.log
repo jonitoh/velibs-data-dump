@@ -10391,3 +10391,11 @@
 2024-07-29 02:47:24,717 - logger - INFO - request status: Successful
 2024-07-29 02:47:24,736 - logger - INFO - Successful dumping
 2024-07-29 02:47:24,736 - logger - INFO - ------
+2024-07-29 03:31:41,845 - logger - INFO - ------
+2024-07-29 03:31:41,845 - logger - INFO - retrieve station status
+2024-07-29 03:31:42,136 - logger - INFO - request status: Successful
+2024-07-29 03:31:42,139 - logger - INFO - Successful dumping
+2024-07-29 03:31:42,139 - logger - INFO - retrieve station information
+2024-07-29 03:31:42,874 - logger - INFO - request status: Successful
+2024-07-29 03:31:42,893 - logger - INFO - Successful dumping
+2024-07-29 03:31:42,893 - logger - INFO - ------
