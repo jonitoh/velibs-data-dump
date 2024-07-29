@@ -10487,3 +10487,11 @@
 2024-07-29 14:31:26,495 - logger - INFO - request status: Successful
 2024-07-29 14:31:26,513 - logger - INFO - Successful dumping
 2024-07-29 14:31:26,514 - logger - INFO - ------
+2024-07-29 15:30:50,449 - logger - INFO - ------
+2024-07-29 15:30:50,449 - logger - INFO - retrieve station status
+2024-07-29 15:30:50,789 - logger - INFO - request status: Successful
+2024-07-29 15:30:50,792 - logger - INFO - Successful dumping
+2024-07-29 15:30:50,792 - logger - INFO - retrieve station information
+2024-07-29 15:30:51,656 - logger - INFO - request status: Successful
+2024-07-29 15:30:51,674 - logger - INFO - Successful dumping
+2024-07-29 15:30:51,675 - logger - INFO - ------
