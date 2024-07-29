@@ -10463,3 +10463,11 @@
 2024-07-29 11:25:41,450 - logger - INFO - request status: Successful
 2024-07-29 11:25:41,468 - logger - INFO - Successful dumping
 2024-07-29 11:25:41,469 - logger - INFO - ------
+2024-07-29 12:48:45,443 - logger - INFO - ------
+2024-07-29 12:48:45,443 - logger - INFO - retrieve station status
+2024-07-29 12:48:45,739 - logger - INFO - request status: Successful
+2024-07-29 12:48:45,742 - logger - INFO - Successful dumping
+2024-07-29 12:48:45,742 - logger - INFO - retrieve station information
+2024-07-29 12:48:46,517 - logger - INFO - request status: Successful
+2024-07-29 12:48:46,535 - logger - INFO - Successful dumping
+2024-07-29 12:48:46,536 - logger - INFO - ------
