@@ -10527,3 +10527,11 @@
 2024-07-29 19:25:38,086 - logger - INFO - request status: Successful
 2024-07-29 19:25:38,105 - logger - INFO - Successful dumping
 2024-07-29 19:25:38,105 - logger - INFO - ------
+2024-07-29 20:28:25,276 - logger - INFO - ------
+2024-07-29 20:28:25,276 - logger - INFO - retrieve station status
+2024-07-29 20:28:25,631 - logger - INFO - request status: Successful
+2024-07-29 20:28:25,634 - logger - INFO - Successful dumping
+2024-07-29 20:28:25,634 - logger - INFO - retrieve station information
+2024-07-29 20:28:26,523 - logger - INFO - request status: Successful
+2024-07-29 20:28:26,541 - logger - INFO - Successful dumping
+2024-07-29 20:28:26,541 - logger - INFO - ------
