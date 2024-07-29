@@ -10543,3 +10543,11 @@
 2024-07-29 21:28:30,723 - logger - INFO - request status: Successful
 2024-07-29 21:28:30,742 - logger - INFO - Successful dumping
 2024-07-29 21:28:30,742 - logger - INFO - ------
+2024-07-29 22:33:59,957 - logger - INFO - ------
+2024-07-29 22:33:59,957 - logger - INFO - retrieve station status
+2024-07-29 22:34:00,312 - logger - INFO - request status: Successful
+2024-07-29 22:34:00,315 - logger - INFO - Successful dumping
+2024-07-29 22:34:00,315 - logger - INFO - retrieve station information
+2024-07-29 22:34:01,211 - logger - INFO - request status: Successful
+2024-07-29 22:34:01,230 - logger - INFO - Successful dumping
+2024-07-29 22:34:01,230 - logger - INFO - ------
