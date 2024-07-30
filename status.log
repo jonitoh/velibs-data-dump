@@ -10679,3 +10679,11 @@
 2024-07-30 15:29:44,282 - logger - INFO - request status: Successful
 2024-07-30 15:29:44,301 - logger - INFO - Successful dumping
 2024-07-30 15:29:44,301 - logger - INFO - ------
+2024-07-30 16:35:48,598 - logger - INFO - ------
+2024-07-30 16:35:48,598 - logger - INFO - retrieve station status
+2024-07-30 16:35:48,958 - logger - INFO - request status: Successful
+2024-07-30 16:35:48,961 - logger - INFO - Successful dumping
+2024-07-30 16:35:48,961 - logger - INFO - retrieve station information
+2024-07-30 16:35:49,721 - logger - INFO - request status: Successful
+2024-07-30 16:35:49,739 - logger - INFO - Successful dumping
+2024-07-30 16:35:49,740 - logger - INFO - ------
