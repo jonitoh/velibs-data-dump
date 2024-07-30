@@ -10607,3 +10607,11 @@
 2024-07-30 06:36:04,305 - logger - INFO - request status: Successful
 2024-07-30 06:36:04,323 - logger - INFO - Successful dumping
 2024-07-30 06:36:04,323 - logger - INFO - ------
+2024-07-30 07:25:51,358 - logger - INFO - ------
+2024-07-30 07:25:51,358 - logger - INFO - retrieve station status
+2024-07-30 07:25:51,701 - logger - INFO - request status: Successful
+2024-07-30 07:25:51,704 - logger - INFO - Successful dumping
+2024-07-30 07:25:51,704 - logger - INFO - retrieve station information
+2024-07-30 07:25:52,414 - logger - INFO - request status: Successful
+2024-07-30 07:25:52,433 - logger - INFO - Successful dumping
+2024-07-30 07:25:52,434 - logger - INFO - ------
