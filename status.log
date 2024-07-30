@@ -10663,3 +10663,11 @@
 2024-07-30 13:29:35,479 - logger - INFO - request status: Successful
 2024-07-30 13:29:35,498 - logger - INFO - Successful dumping
 2024-07-30 13:29:35,499 - logger - INFO - ------
+2024-07-30 14:29:54,193 - logger - INFO - ------
+2024-07-30 14:29:54,193 - logger - INFO - retrieve station status
+2024-07-30 14:29:54,540 - logger - INFO - request status: Successful
+2024-07-30 14:29:54,543 - logger - INFO - Successful dumping
+2024-07-30 14:29:54,543 - logger - INFO - retrieve station information
+2024-07-30 14:29:55,284 - logger - INFO - request status: Successful
+2024-07-30 14:29:55,311 - logger - INFO - Successful dumping
+2024-07-30 14:29:55,312 - logger - INFO - ------
