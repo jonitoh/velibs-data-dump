@@ -10863,3 +10863,11 @@
 2024-07-31 15:30:29,893 - logger - INFO - request status: Successful
 2024-07-31 15:30:29,911 - logger - INFO - Successful dumping
 2024-07-31 15:30:29,912 - logger - INFO - ------
+2024-07-31 16:34:54,023 - logger - INFO - ------
+2024-07-31 16:34:54,023 - logger - INFO - retrieve station status
+2024-07-31 16:34:54,391 - logger - INFO - request status: Successful
+2024-07-31 16:34:54,394 - logger - INFO - Successful dumping
+2024-07-31 16:34:54,394 - logger - INFO - retrieve station information
+2024-07-31 16:34:55,306 - logger - INFO - request status: Successful
+2024-07-31 16:34:55,324 - logger - INFO - Successful dumping
+2024-07-31 16:34:55,325 - logger - INFO - ------
