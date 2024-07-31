@@ -10871,3 +10871,11 @@
 2024-07-31 16:34:55,306 - logger - INFO - request status: Successful
 2024-07-31 16:34:55,324 - logger - INFO - Successful dumping
 2024-07-31 16:34:55,325 - logger - INFO - ------
+2024-07-31 17:31:29,489 - logger - INFO - ------
+2024-07-31 17:31:29,489 - logger - INFO - retrieve station status
+2024-07-31 17:31:29,859 - logger - INFO - request status: Successful
+2024-07-31 17:31:29,862 - logger - INFO - Successful dumping
+2024-07-31 17:31:29,862 - logger - INFO - retrieve station information
+2024-07-31 17:31:30,400 - logger - INFO - request status: Successful
+2024-07-31 17:31:30,418 - logger - INFO - Successful dumping
+2024-07-31 17:31:30,419 - logger - INFO - ------
