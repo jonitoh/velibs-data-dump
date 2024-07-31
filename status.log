@@ -10791,3 +10791,11 @@
 2024-07-31 06:30:08,895 - logger - INFO - request status: Successful
 2024-07-31 06:30:08,913 - logger - INFO - Successful dumping
 2024-07-31 06:30:08,914 - logger - INFO - ------
+2024-07-31 07:25:52,907 - logger - INFO - ------
+2024-07-31 07:25:52,907 - logger - INFO - retrieve station status
+2024-07-31 07:25:53,402 - logger - INFO - request status: Successful
+2024-07-31 07:25:53,405 - logger - INFO - Successful dumping
+2024-07-31 07:25:53,405 - logger - INFO - retrieve station information
+2024-07-31 07:25:54,706 - logger - INFO - request status: Successful
+2024-07-31 07:25:54,724 - logger - INFO - Successful dumping
+2024-07-31 07:25:54,725 - logger - INFO - ------
