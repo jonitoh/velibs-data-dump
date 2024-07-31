@@ -10815,3 +10815,11 @@
 2024-07-31 09:29:42,283 - logger - INFO - request status: Successful
 2024-07-31 09:29:42,302 - logger - INFO - Successful dumping
 2024-07-31 09:29:42,302 - logger - INFO - ------
+2024-07-31 10:28:51,253 - logger - INFO - ------
+2024-07-31 10:28:51,253 - logger - INFO - retrieve station status
+2024-07-31 10:28:51,734 - logger - INFO - request status: Successful
+2024-07-31 10:28:51,737 - logger - INFO - Successful dumping
+2024-07-31 10:28:51,737 - logger - INFO - retrieve station information
+2024-07-31 10:28:53,022 - logger - INFO - request status: Successful
+2024-07-31 10:28:53,040 - logger - INFO - Successful dumping
+2024-07-31 10:28:53,041 - logger - INFO - ------
