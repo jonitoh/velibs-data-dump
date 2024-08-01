@@ -11031,3 +11031,11 @@
 2024-08-01 13:29:54,123 - logger - INFO - request status: Successful
 2024-08-01 13:29:54,142 - logger - INFO - Successful dumping
 2024-08-01 13:29:54,143 - logger - INFO - ------
+2024-08-01 14:31:14,287 - logger - INFO - ------
+2024-08-01 14:31:14,287 - logger - INFO - retrieve station status
+2024-08-01 14:31:14,665 - logger - INFO - request status: Successful
+2024-08-01 14:31:14,667 - logger - INFO - Successful dumping
+2024-08-01 14:31:14,668 - logger - INFO - retrieve station information
+2024-08-01 14:31:15,388 - logger - INFO - request status: Successful
+2024-08-01 14:31:15,407 - logger - INFO - Successful dumping
+2024-08-01 14:31:15,407 - logger - INFO - ------
