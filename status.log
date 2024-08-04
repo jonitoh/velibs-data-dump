@@ -11647,3 +11647,11 @@
 2024-08-04 21:26:49,565 - logger - INFO - request status: Successful
 2024-08-04 21:26:49,584 - logger - INFO - Successful dumping
 2024-08-04 21:26:49,584 - logger - INFO - ------
+2024-08-04 22:30:49,430 - logger - INFO - ------
+2024-08-04 22:30:49,430 - logger - INFO - retrieve station status
+2024-08-04 22:30:49,781 - logger - INFO - request status: Successful
+2024-08-04 22:30:49,783 - logger - INFO - Successful dumping
+2024-08-04 22:30:49,784 - logger - INFO - retrieve station information
+2024-08-04 22:30:50,555 - logger - INFO - request status: Successful
+2024-08-04 22:30:50,573 - logger - INFO - Successful dumping
+2024-08-04 22:30:50,574 - logger - INFO - ------
