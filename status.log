@@ -11687,3 +11687,11 @@
 2024-08-05 03:31:47,570 - logger - INFO - request status: Successful
 2024-08-05 03:31:47,589 - logger - INFO - Successful dumping
 2024-08-05 03:31:47,589 - logger - INFO - ------
+2024-08-05 04:32:28,405 - logger - INFO - ------
+2024-08-05 04:32:28,405 - logger - INFO - retrieve station status
+2024-08-05 04:32:28,751 - logger - INFO - request status: Successful
+2024-08-05 04:32:28,756 - logger - INFO - Successful dumping
+2024-08-05 04:32:28,756 - logger - INFO - retrieve station information
+2024-08-05 04:32:29,469 - logger - INFO - request status: Successful
+2024-08-05 04:32:29,487 - logger - INFO - Successful dumping
+2024-08-05 04:32:29,488 - logger - INFO - ------
