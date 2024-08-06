@@ -11903,3 +11903,11 @@
 2024-08-06 07:26:51,621 - logger - INFO - request status: Successful
 2024-08-06 07:26:51,639 - logger - INFO - Successful dumping
 2024-08-06 07:26:51,640 - logger - INFO - ------
+2024-08-06 08:32:15,655 - logger - INFO - ------
+2024-08-06 08:32:15,655 - logger - INFO - retrieve station status
+2024-08-06 08:32:15,940 - logger - INFO - request status: Successful
+2024-08-06 08:32:15,943 - logger - INFO - Successful dumping
+2024-08-06 08:32:15,943 - logger - INFO - retrieve station information
+2024-08-06 08:32:16,717 - logger - INFO - request status: Successful
+2024-08-06 08:32:16,735 - logger - INFO - Successful dumping
+2024-08-06 08:32:16,736 - logger - INFO - ------
