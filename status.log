@@ -12095,3 +12095,11 @@
 2024-08-07 08:32:11,231 - logger - INFO - request status: Successful
 2024-08-07 08:32:11,250 - logger - INFO - Successful dumping
 2024-08-07 08:32:11,250 - logger - INFO - ------
+2024-08-07 09:30:01,568 - logger - INFO - ------
+2024-08-07 09:30:01,569 - logger - INFO - retrieve station status
+2024-08-07 09:30:01,948 - logger - INFO - request status: Successful
+2024-08-07 09:30:01,951 - logger - INFO - Successful dumping
+2024-08-07 09:30:01,951 - logger - INFO - retrieve station information
+2024-08-07 09:30:02,702 - logger - INFO - request status: Successful
+2024-08-07 09:30:02,721 - logger - INFO - Successful dumping
+2024-08-07 09:30:02,722 - logger - INFO - ------
