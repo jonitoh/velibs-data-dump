@@ -12375,3 +12375,11 @@
 2024-08-08 20:29:30,614 - logger - INFO - request status: Successful
 2024-08-08 20:29:30,632 - logger - INFO - Successful dumping
 2024-08-08 20:29:30,633 - logger - INFO - ------
+2024-08-08 21:27:02,020 - logger - INFO - ------
+2024-08-08 21:27:02,020 - logger - INFO - retrieve station status
+2024-08-08 21:27:02,331 - logger - INFO - request status: Successful
+2024-08-08 21:27:02,334 - logger - INFO - Successful dumping
+2024-08-08 21:27:02,334 - logger - INFO - retrieve station information
+2024-08-08 21:27:03,266 - logger - INFO - request status: Successful
+2024-08-08 21:27:03,285 - logger - INFO - Successful dumping
+2024-08-08 21:27:03,285 - logger - INFO - ------
