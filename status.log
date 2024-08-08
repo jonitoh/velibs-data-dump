@@ -12327,3 +12327,11 @@
 2024-08-08 14:30:45,049 - logger - INFO - request status: Successful
 2024-08-08 14:30:45,067 - logger - INFO - Successful dumping
 2024-08-08 14:30:45,067 - logger - INFO - ------
+2024-08-08 15:30:04,217 - logger - INFO - ------
+2024-08-08 15:30:04,217 - logger - INFO - retrieve station status
+2024-08-08 15:30:04,476 - logger - INFO - request status: Successful
+2024-08-08 15:30:04,479 - logger - INFO - Successful dumping
+2024-08-08 15:30:04,479 - logger - INFO - retrieve station information
+2024-08-08 15:30:05,279 - logger - INFO - request status: Successful
+2024-08-08 15:30:05,297 - logger - INFO - Successful dumping
+2024-08-08 15:30:05,298 - logger - INFO - ------
