@@ -12335,3 +12335,11 @@
 2024-08-08 15:30:05,279 - logger - INFO - request status: Successful
 2024-08-08 15:30:05,297 - logger - INFO - Successful dumping
 2024-08-08 15:30:05,298 - logger - INFO - ------
+2024-08-08 16:35:35,125 - logger - INFO - ------
+2024-08-08 16:35:35,125 - logger - INFO - retrieve station status
+2024-08-08 16:35:35,488 - logger - INFO - request status: Successful
+2024-08-08 16:35:35,491 - logger - INFO - Successful dumping
+2024-08-08 16:35:35,491 - logger - INFO - retrieve station information
+2024-08-08 16:35:36,375 - logger - INFO - request status: Successful
+2024-08-08 16:35:36,394 - logger - INFO - Successful dumping
+2024-08-08 16:35:36,395 - logger - INFO - ------
