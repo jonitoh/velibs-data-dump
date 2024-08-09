@@ -12431,3 +12431,11 @@
 2024-08-09 04:32:47,887 - logger - INFO - request status: Successful
 2024-08-09 04:32:47,906 - logger - INFO - Successful dumping
 2024-08-09 04:32:47,906 - logger - INFO - ------
+2024-08-09 05:31:59,704 - logger - INFO - ------
+2024-08-09 05:31:59,704 - logger - INFO - retrieve station status
+2024-08-09 05:32:00,411 - logger - INFO - request status: Successful
+2024-08-09 05:32:00,413 - logger - INFO - Successful dumping
+2024-08-09 05:32:00,414 - logger - INFO - retrieve station information
+2024-08-09 05:32:01,678 - logger - INFO - request status: Successful
+2024-08-09 05:32:01,697 - logger - INFO - Successful dumping
+2024-08-09 05:32:01,697 - logger - INFO - ------
