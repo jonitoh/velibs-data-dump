@@ -12615,3 +12615,11 @@
 2024-08-10 04:34:45,551 - logger - INFO - request status: Successful
 2024-08-10 04:34:45,569 - logger - INFO - Successful dumping
 2024-08-10 04:34:45,570 - logger - INFO - ------
+2024-08-10 05:30:04,515 - logger - INFO - ------
+2024-08-10 05:30:04,515 - logger - INFO - retrieve station status
+2024-08-10 05:30:04,807 - logger - INFO - request status: Successful
+2024-08-10 05:30:04,810 - logger - INFO - Successful dumping
+2024-08-10 05:30:04,810 - logger - INFO - retrieve station information
+2024-08-10 05:30:05,574 - logger - INFO - request status: Successful
+2024-08-10 05:30:05,592 - logger - INFO - Successful dumping
+2024-08-10 05:30:05,593 - logger - INFO - ------
