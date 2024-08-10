@@ -12655,3 +12655,11 @@
 2024-08-10 09:28:05,584 - logger - INFO - request status: Successful
 2024-08-10 09:28:05,616 - logger - INFO - Successful dumping
 2024-08-10 09:28:05,617 - logger - INFO - ------
+2024-08-10 10:32:51,541 - logger - INFO - ------
+2024-08-10 10:32:51,541 - logger - INFO - retrieve station status
+2024-08-10 10:32:51,875 - logger - INFO - request status: Successful
+2024-08-10 10:32:51,877 - logger - INFO - Successful dumping
+2024-08-10 10:32:51,878 - logger - INFO - retrieve station information
+2024-08-10 10:32:52,779 - logger - INFO - request status: Successful
+2024-08-10 10:32:52,798 - logger - INFO - Successful dumping
+2024-08-10 10:32:52,798 - logger - INFO - ------
