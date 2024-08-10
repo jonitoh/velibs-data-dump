@@ -12743,3 +12743,11 @@
 2024-08-10 20:28:00,334 - logger - INFO - request status: Successful
 2024-08-10 20:28:00,353 - logger - INFO - Successful dumping
 2024-08-10 20:28:00,353 - logger - INFO - ------
+2024-08-10 21:27:11,983 - logger - INFO - ------
+2024-08-10 21:27:11,983 - logger - INFO - retrieve station status
+2024-08-10 21:27:12,406 - logger - INFO - request status: Successful
+2024-08-10 21:27:12,408 - logger - INFO - Successful dumping
+2024-08-10 21:27:12,408 - logger - INFO - retrieve station information
+2024-08-10 21:27:13,173 - logger - INFO - request status: Successful
+2024-08-10 21:27:13,191 - logger - INFO - Successful dumping
+2024-08-10 21:27:13,192 - logger - INFO - ------
