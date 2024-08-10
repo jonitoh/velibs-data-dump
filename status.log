@@ -12735,3 +12735,11 @@
 2024-08-10 19:25:53,523 - logger - INFO - request status: Successful
 2024-08-10 19:25:53,541 - logger - INFO - Successful dumping
 2024-08-10 19:25:53,542 - logger - INFO - ------
+2024-08-10 20:27:59,256 - logger - INFO - ------
+2024-08-10 20:27:59,256 - logger - INFO - retrieve station status
+2024-08-10 20:27:59,575 - logger - INFO - request status: Successful
+2024-08-10 20:27:59,578 - logger - INFO - Successful dumping
+2024-08-10 20:27:59,578 - logger - INFO - retrieve station information
+2024-08-10 20:28:00,334 - logger - INFO - request status: Successful
+2024-08-10 20:28:00,353 - logger - INFO - Successful dumping
+2024-08-10 20:28:00,353 - logger - INFO - ------
