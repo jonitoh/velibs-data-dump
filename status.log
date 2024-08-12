@@ -13039,3 +13039,11 @@
 2024-08-12 11:26:46,498 - logger - INFO - request status: Successful
 2024-08-12 11:26:46,516 - logger - INFO - Successful dumping
 2024-08-12 11:26:46,517 - logger - INFO - ------
+2024-08-12 12:50:48,838 - logger - INFO - ------
+2024-08-12 12:50:48,838 - logger - INFO - retrieve station status
+2024-08-12 12:50:49,209 - logger - INFO - request status: Successful
+2024-08-12 12:50:49,211 - logger - INFO - Successful dumping
+2024-08-12 12:50:49,212 - logger - INFO - retrieve station information
+2024-08-12 12:50:49,956 - logger - INFO - request status: Successful
+2024-08-12 12:50:49,974 - logger - INFO - Successful dumping
+2024-08-12 12:50:49,975 - logger - INFO - ------
