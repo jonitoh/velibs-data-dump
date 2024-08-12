@@ -12951,3 +12951,11 @@
 2024-08-11 23:26:49,403 - logger - INFO - request status: Successful
 2024-08-11 23:26:49,421 - logger - INFO - Successful dumping
 2024-08-11 23:26:49,422 - logger - INFO - ------
+2024-08-12 01:47:15,564 - logger - INFO - ------
+2024-08-12 01:47:15,564 - logger - INFO - retrieve station status
+2024-08-12 01:47:15,916 - logger - INFO - request status: Successful
+2024-08-12 01:47:15,918 - logger - INFO - Successful dumping
+2024-08-12 01:47:15,919 - logger - INFO - retrieve station information
+2024-08-12 01:47:16,679 - logger - INFO - request status: Successful
+2024-08-12 01:47:16,697 - logger - INFO - Successful dumping
+2024-08-12 01:47:16,698 - logger - INFO - ------
