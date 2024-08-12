@@ -13095,3 +13095,11 @@
 2024-08-12 18:37:22,834 - logger - INFO - request status: Successful
 2024-08-12 18:37:22,853 - logger - INFO - Successful dumping
 2024-08-12 18:37:22,854 - logger - INFO - ------
+2024-08-12 19:26:00,244 - logger - INFO - ------
+2024-08-12 19:26:00,244 - logger - INFO - retrieve station status
+2024-08-12 19:26:00,550 - logger - INFO - request status: Successful
+2024-08-12 19:26:00,552 - logger - INFO - Successful dumping
+2024-08-12 19:26:00,552 - logger - INFO - retrieve station information
+2024-08-12 19:26:01,306 - logger - INFO - request status: Successful
+2024-08-12 19:26:01,324 - logger - INFO - Successful dumping
+2024-08-12 19:26:01,325 - logger - INFO - ------
