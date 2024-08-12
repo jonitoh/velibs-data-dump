@@ -13103,3 +13103,11 @@
 2024-08-12 19:26:01,306 - logger - INFO - request status: Successful
 2024-08-12 19:26:01,324 - logger - INFO - Successful dumping
 2024-08-12 19:26:01,325 - logger - INFO - ------
+2024-08-12 20:29:08,762 - logger - INFO - ------
+2024-08-12 20:29:08,763 - logger - INFO - retrieve station status
+2024-08-12 20:29:09,206 - logger - INFO - request status: Successful
+2024-08-12 20:29:09,209 - logger - INFO - Successful dumping
+2024-08-12 20:29:09,209 - logger - INFO - retrieve station information
+2024-08-12 20:29:10,090 - logger - INFO - request status: Successful
+2024-08-12 20:29:10,108 - logger - INFO - Successful dumping
+2024-08-12 20:29:10,109 - logger - INFO - ------
