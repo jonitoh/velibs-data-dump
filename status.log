@@ -13111,3 +13111,11 @@
 2024-08-12 20:29:10,090 - logger - INFO - request status: Successful
 2024-08-12 20:29:10,108 - logger - INFO - Successful dumping
 2024-08-12 20:29:10,109 - logger - INFO - ------
+2024-08-12 21:28:58,106 - logger - INFO - ------
+2024-08-12 21:28:58,106 - logger - INFO - retrieve station status
+2024-08-12 21:28:58,483 - logger - INFO - request status: Successful
+2024-08-12 21:28:58,486 - logger - INFO - Successful dumping
+2024-08-12 21:28:58,486 - logger - INFO - retrieve station information
+2024-08-12 21:28:59,378 - logger - INFO - request status: Successful
+2024-08-12 21:28:59,397 - logger - INFO - Successful dumping
+2024-08-12 21:28:59,397 - logger - INFO - ------
