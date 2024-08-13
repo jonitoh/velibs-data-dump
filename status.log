@@ -13207,3 +13207,11 @@
 2024-08-13 09:31:23,460 - logger - INFO - request status: Successful
 2024-08-13 09:31:23,479 - logger - INFO - Successful dumping
 2024-08-13 09:31:23,479 - logger - INFO - ------
+2024-08-13 10:35:01,954 - logger - INFO - ------
+2024-08-13 10:35:01,955 - logger - INFO - retrieve station status
+2024-08-13 10:35:02,545 - logger - INFO - request status: Successful
+2024-08-13 10:35:02,548 - logger - INFO - Successful dumping
+2024-08-13 10:35:02,548 - logger - INFO - retrieve station information
+2024-08-13 10:35:03,842 - logger - INFO - request status: Successful
+2024-08-13 10:35:03,860 - logger - INFO - Successful dumping
+2024-08-13 10:35:03,860 - logger - INFO - ------
