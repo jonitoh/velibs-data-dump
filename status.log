@@ -13135,3 +13135,11 @@
 2024-08-12 23:29:28,066 - logger - INFO - request status: Successful
 2024-08-12 23:29:28,085 - logger - INFO - Successful dumping
 2024-08-12 23:29:28,085 - logger - INFO - ------
+2024-08-13 01:46:25,060 - logger - INFO - ------
+2024-08-13 01:46:25,060 - logger - INFO - retrieve station status
+2024-08-13 01:46:25,530 - logger - INFO - request status: Successful
+2024-08-13 01:46:25,533 - logger - INFO - Successful dumping
+2024-08-13 01:46:25,533 - logger - INFO - retrieve station information
+2024-08-13 01:46:26,290 - logger - INFO - request status: Successful
+2024-08-13 01:46:26,308 - logger - INFO - Successful dumping
+2024-08-13 01:46:26,308 - logger - INFO - ------
