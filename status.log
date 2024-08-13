@@ -13247,3 +13247,11 @@
 2024-08-13 14:31:39,573 - logger - INFO - request status: Successful
 2024-08-13 14:31:39,592 - logger - INFO - Successful dumping
 2024-08-13 14:31:39,592 - logger - INFO - ------
+2024-08-13 15:30:01,985 - logger - INFO - ------
+2024-08-13 15:30:01,985 - logger - INFO - retrieve station status
+2024-08-13 15:30:02,564 - logger - INFO - request status: Successful
+2024-08-13 15:30:02,569 - logger - INFO - Successful dumping
+2024-08-13 15:30:02,569 - logger - INFO - retrieve station information
+2024-08-13 15:30:03,863 - logger - INFO - request status: Successful
+2024-08-13 15:30:03,881 - logger - INFO - Successful dumping
+2024-08-13 15:30:03,882 - logger - INFO - ------
