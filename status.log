@@ -13223,3 +13223,11 @@
 2024-08-13 11:26:37,935 - logger - INFO - request status: Successful
 2024-08-13 11:26:37,953 - logger - INFO - Successful dumping
 2024-08-13 11:26:37,954 - logger - INFO - ------
+2024-08-13 12:49:39,307 - logger - INFO - ------
+2024-08-13 12:49:39,307 - logger - INFO - retrieve station status
+2024-08-13 12:49:39,617 - logger - INFO - request status: Successful
+2024-08-13 12:49:39,620 - logger - INFO - Successful dumping
+2024-08-13 12:49:39,620 - logger - INFO - retrieve station information
+2024-08-13 12:49:40,366 - logger - INFO - request status: Successful
+2024-08-13 12:49:40,384 - logger - INFO - Successful dumping
+2024-08-13 12:49:40,385 - logger - INFO - ------
