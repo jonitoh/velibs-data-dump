@@ -13455,3 +13455,11 @@
 2024-08-14 17:29:31,335 - logger - INFO - request status: Successful
 2024-08-14 17:29:31,354 - logger - INFO - Successful dumping
 2024-08-14 17:29:31,355 - logger - INFO - ------
+2024-08-14 18:35:05,293 - logger - INFO - ------
+2024-08-14 18:35:05,293 - logger - INFO - retrieve station status
+2024-08-14 18:35:05,614 - logger - INFO - request status: Successful
+2024-08-14 18:35:05,618 - logger - INFO - Successful dumping
+2024-08-14 18:35:05,618 - logger - INFO - retrieve station information
+2024-08-14 18:35:06,372 - logger - INFO - request status: Successful
+2024-08-14 18:35:06,394 - logger - INFO - Successful dumping
+2024-08-14 18:35:06,394 - logger - INFO - ------
