@@ -13391,3 +13391,11 @@
 2024-08-14 09:30:05,494 - logger - INFO - request status: Successful
 2024-08-14 09:30:05,513 - logger - INFO - Successful dumping
 2024-08-14 09:30:05,513 - logger - INFO - ------
+2024-08-14 10:33:28,182 - logger - INFO - ------
+2024-08-14 10:33:28,182 - logger - INFO - retrieve station status
+2024-08-14 10:33:28,550 - logger - INFO - request status: Successful
+2024-08-14 10:33:28,552 - logger - INFO - Successful dumping
+2024-08-14 10:33:28,553 - logger - INFO - retrieve station information
+2024-08-14 10:33:29,288 - logger - INFO - request status: Successful
+2024-08-14 10:33:29,306 - logger - INFO - Successful dumping
+2024-08-14 10:33:29,307 - logger - INFO - ------
