@@ -13415,3 +13415,11 @@
 2024-08-14 12:49:25,670 - logger - INFO - request status: Successful
 2024-08-14 12:49:25,688 - logger - INFO - Successful dumping
 2024-08-14 12:49:25,689 - logger - INFO - ------
+2024-08-14 13:30:21,926 - logger - INFO - ------
+2024-08-14 13:30:21,926 - logger - INFO - retrieve station status
+2024-08-14 13:30:22,286 - logger - INFO - request status: Successful
+2024-08-14 13:30:22,289 - logger - INFO - Successful dumping
+2024-08-14 13:30:22,289 - logger - INFO - retrieve station information
+2024-08-14 13:30:23,191 - logger - INFO - request status: Successful
+2024-08-14 13:30:23,209 - logger - INFO - Successful dumping
+2024-08-14 13:30:23,209 - logger - INFO - ------
