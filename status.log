@@ -13327,3 +13327,11 @@
 2024-08-14 01:44:57,911 - logger - INFO - request status: Successful
 2024-08-14 01:44:57,930 - logger - INFO - Successful dumping
 2024-08-14 01:44:57,930 - logger - INFO - ------
+2024-08-14 02:46:50,933 - logger - INFO - ------
+2024-08-14 02:46:50,933 - logger - INFO - retrieve station status
+2024-08-14 02:46:51,489 - logger - INFO - request status: Successful
+2024-08-14 02:46:51,492 - logger - INFO - Successful dumping
+2024-08-14 02:46:51,492 - logger - INFO - retrieve station information
+2024-08-14 02:46:52,765 - logger - INFO - request status: Successful
+2024-08-14 02:46:52,784 - logger - INFO - Successful dumping
+2024-08-14 02:46:52,785 - logger - INFO - ------
