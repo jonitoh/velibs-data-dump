@@ -13383,3 +13383,11 @@
 2024-08-14 08:34:23,609 - logger - INFO - request status: Successful
 2024-08-14 08:34:23,628 - logger - INFO - Successful dumping
 2024-08-14 08:34:23,628 - logger - INFO - ------
+2024-08-14 09:30:03,547 - logger - INFO - ------
+2024-08-14 09:30:03,547 - logger - INFO - retrieve station status
+2024-08-14 09:30:04,215 - logger - INFO - request status: Successful
+2024-08-14 09:30:04,218 - logger - INFO - Successful dumping
+2024-08-14 09:30:04,218 - logger - INFO - retrieve station information
+2024-08-14 09:30:05,494 - logger - INFO - request status: Successful
+2024-08-14 09:30:05,513 - logger - INFO - Successful dumping
+2024-08-14 09:30:05,513 - logger - INFO - ------
