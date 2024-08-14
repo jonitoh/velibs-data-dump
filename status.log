@@ -13471,3 +13471,11 @@
 2024-08-14 19:25:48,062 - logger - INFO - request status: Successful
 2024-08-14 19:25:48,081 - logger - INFO - Successful dumping
 2024-08-14 19:25:48,082 - logger - INFO - ------
+2024-08-14 20:29:00,703 - logger - INFO - ------
+2024-08-14 20:29:00,703 - logger - INFO - retrieve station status
+2024-08-14 20:29:01,054 - logger - INFO - request status: Successful
+2024-08-14 20:29:01,057 - logger - INFO - Successful dumping
+2024-08-14 20:29:01,057 - logger - INFO - retrieve station information
+2024-08-14 20:29:01,817 - logger - INFO - request status: Successful
+2024-08-14 20:29:01,836 - logger - INFO - Successful dumping
+2024-08-14 20:29:01,837 - logger - INFO - ------
