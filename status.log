@@ -13351,3 +13351,11 @@
 2024-08-14 04:32:33,634 - logger - INFO - request status: Successful
 2024-08-14 04:32:33,653 - logger - INFO - Successful dumping
 2024-08-14 04:32:33,653 - logger - INFO - ------
+2024-08-14 05:31:35,266 - logger - INFO - ------
+2024-08-14 05:31:35,266 - logger - INFO - retrieve station status
+2024-08-14 05:31:35,626 - logger - INFO - request status: Successful
+2024-08-14 05:31:35,628 - logger - INFO - Successful dumping
+2024-08-14 05:31:35,628 - logger - INFO - retrieve station information
+2024-08-14 05:31:36,524 - logger - INFO - request status: Successful
+2024-08-14 05:31:36,542 - logger - INFO - Successful dumping
+2024-08-14 05:31:36,543 - logger - INFO - ------
