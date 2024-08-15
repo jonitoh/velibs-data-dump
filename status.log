@@ -13631,3 +13631,11 @@
 2024-08-15 16:35:11,216 - logger - INFO - request status: Successful
 2024-08-15 16:35:11,234 - logger - INFO - Successful dumping
 2024-08-15 16:35:11,235 - logger - INFO - ------
+2024-08-15 17:29:01,877 - logger - INFO - ------
+2024-08-15 17:29:01,877 - logger - INFO - retrieve station status
+2024-08-15 17:29:02,135 - logger - INFO - request status: Successful
+2024-08-15 17:29:02,137 - logger - INFO - Successful dumping
+2024-08-15 17:29:02,137 - logger - INFO - retrieve station information
+2024-08-15 17:29:02,856 - logger - INFO - request status: Successful
+2024-08-15 17:29:02,875 - logger - INFO - Successful dumping
+2024-08-15 17:29:02,875 - logger - INFO - ------
