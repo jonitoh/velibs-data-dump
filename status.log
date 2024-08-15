@@ -13615,3 +13615,11 @@
 2024-08-15 14:30:36,487 - logger - INFO - request status: Successful
 2024-08-15 14:30:36,505 - logger - INFO - Successful dumping
 2024-08-15 14:30:36,506 - logger - INFO - ------
+2024-08-15 15:29:19,547 - logger - INFO - ------
+2024-08-15 15:29:19,547 - logger - INFO - retrieve station status
+2024-08-15 15:29:19,857 - logger - INFO - request status: Successful
+2024-08-15 15:29:19,860 - logger - INFO - Successful dumping
+2024-08-15 15:29:19,860 - logger - INFO - retrieve station information
+2024-08-15 15:29:20,603 - logger - INFO - request status: Successful
+2024-08-15 15:29:20,629 - logger - INFO - Successful dumping
+2024-08-15 15:29:20,629 - logger - INFO - ------
