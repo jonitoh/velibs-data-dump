@@ -13823,3 +13823,11 @@
 2024-08-16 17:30:00,993 - logger - INFO - request status: Successful
 2024-08-16 17:30:01,012 - logger - INFO - Successful dumping
 2024-08-16 17:30:01,012 - logger - INFO - ------
+2024-08-16 18:35:08,303 - logger - INFO - ------
+2024-08-16 18:35:08,303 - logger - INFO - retrieve station status
+2024-08-16 18:35:08,776 - logger - INFO - request status: Successful
+2024-08-16 18:35:08,778 - logger - INFO - Successful dumping
+2024-08-16 18:35:08,778 - logger - INFO - retrieve station information
+2024-08-16 18:35:09,546 - logger - INFO - request status: Successful
+2024-08-16 18:35:09,565 - logger - INFO - Successful dumping
+2024-08-16 18:35:09,565 - logger - INFO - ------
