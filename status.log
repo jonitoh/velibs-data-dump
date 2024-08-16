@@ -13807,3 +13807,11 @@
 2024-08-16 15:28:44,248 - logger - INFO - request status: Successful
 2024-08-16 15:28:44,268 - logger - INFO - Successful dumping
 2024-08-16 15:28:44,269 - logger - INFO - ------
+2024-08-16 16:37:43,408 - logger - INFO - ------
+2024-08-16 16:37:43,408 - logger - INFO - retrieve station status
+2024-08-16 16:37:43,897 - logger - INFO - request status: Successful
+2024-08-16 16:37:43,899 - logger - INFO - Successful dumping
+2024-08-16 16:37:43,899 - logger - INFO - retrieve station information
+2024-08-16 16:37:45,190 - logger - INFO - request status: Successful
+2024-08-16 16:37:45,209 - logger - INFO - Successful dumping
+2024-08-16 16:37:45,210 - logger - INFO - ------
