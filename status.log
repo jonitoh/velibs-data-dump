@@ -14007,3 +14007,11 @@
 2024-08-17 17:28:18,549 - logger - INFO - request status: Successful
 2024-08-17 17:28:18,569 - logger - INFO - Successful dumping
 2024-08-17 17:28:18,570 - logger - INFO - ------
+2024-08-17 18:32:59,714 - logger - INFO - ------
+2024-08-17 18:32:59,714 - logger - INFO - retrieve station status
+2024-08-17 18:33:00,094 - logger - INFO - request status: Successful
+2024-08-17 18:33:00,097 - logger - INFO - Successful dumping
+2024-08-17 18:33:00,097 - logger - INFO - retrieve station information
+2024-08-17 18:33:00,971 - logger - INFO - request status: Successful
+2024-08-17 18:33:00,989 - logger - INFO - Successful dumping
+2024-08-17 18:33:00,990 - logger - INFO - ------
