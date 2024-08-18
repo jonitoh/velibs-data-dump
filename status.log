@@ -14151,3 +14151,11 @@
 2024-08-18 12:47:32,106 - logger - INFO - request status: Successful
 2024-08-18 12:47:32,125 - logger - INFO - Successful dumping
 2024-08-18 12:47:32,125 - logger - INFO - ------
+2024-08-18 13:27:50,235 - logger - INFO - ------
+2024-08-18 13:27:50,235 - logger - INFO - retrieve station status
+2024-08-18 13:27:50,518 - logger - INFO - request status: Successful
+2024-08-18 13:27:50,521 - logger - INFO - Successful dumping
+2024-08-18 13:27:50,521 - logger - INFO - retrieve station information
+2024-08-18 13:27:51,263 - logger - INFO - request status: Successful
+2024-08-18 13:27:51,282 - logger - INFO - Successful dumping
+2024-08-18 13:27:51,282 - logger - INFO - ------
