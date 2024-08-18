@@ -14063,3 +14063,11 @@
 2024-08-18 01:49:25,475 - logger - INFO - request status: Successful
 2024-08-18 01:49:25,493 - logger - INFO - Successful dumping
 2024-08-18 01:49:25,493 - logger - INFO - ------
+2024-08-18 02:46:46,162 - logger - INFO - ------
+2024-08-18 02:46:46,162 - logger - INFO - retrieve station status
+2024-08-18 02:46:46,612 - logger - INFO - request status: Successful
+2024-08-18 02:46:46,615 - logger - INFO - Successful dumping
+2024-08-18 02:46:46,615 - logger - INFO - retrieve station information
+2024-08-18 02:46:47,446 - logger - INFO - request status: Successful
+2024-08-18 02:46:47,464 - logger - INFO - Successful dumping
+2024-08-18 02:46:47,465 - logger - INFO - ------
