@@ -14343,3 +14343,11 @@
 2024-08-19 13:30:51,104 - logger - INFO - request status: Successful
 2024-08-19 13:30:51,122 - logger - INFO - Successful dumping
 2024-08-19 13:30:51,123 - logger - INFO - ------
+2024-08-19 14:33:06,086 - logger - INFO - ------
+2024-08-19 14:33:06,086 - logger - INFO - retrieve station status
+2024-08-19 14:33:06,373 - logger - INFO - request status: Successful
+2024-08-19 14:33:06,375 - logger - INFO - Successful dumping
+2024-08-19 14:33:06,376 - logger - INFO - retrieve station information
+2024-08-19 14:33:07,133 - logger - INFO - request status: Successful
+2024-08-19 14:33:07,152 - logger - INFO - Successful dumping
+2024-08-19 14:33:07,153 - logger - INFO - ------
