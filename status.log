@@ -14759,3 +14759,11 @@
 2024-08-21 19:25:37,243 - logger - INFO - request status: Successful
 2024-08-21 19:25:37,262 - logger - INFO - Successful dumping
 2024-08-21 19:25:37,262 - logger - INFO - ------
+2024-08-21 20:31:39,197 - logger - INFO - ------
+2024-08-21 20:31:39,198 - logger - INFO - retrieve station status
+2024-08-21 20:31:39,529 - logger - INFO - request status: Successful
+2024-08-21 20:31:39,531 - logger - INFO - Successful dumping
+2024-08-21 20:31:39,531 - logger - INFO - retrieve station information
+2024-08-21 20:31:40,351 - logger - INFO - request status: Successful
+2024-08-21 20:31:40,369 - logger - INFO - Successful dumping
+2024-08-21 20:31:40,370 - logger - INFO - ------
