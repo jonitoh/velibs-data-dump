@@ -14767,3 +14767,11 @@
 2024-08-21 20:31:40,351 - logger - INFO - request status: Successful
 2024-08-21 20:31:40,369 - logger - INFO - Successful dumping
 2024-08-21 20:31:40,370 - logger - INFO - ------
+2024-08-21 21:27:29,468 - logger - INFO - ------
+2024-08-21 21:27:29,468 - logger - INFO - retrieve station status
+2024-08-21 21:27:29,970 - logger - INFO - request status: Successful
+2024-08-21 21:27:29,972 - logger - INFO - Successful dumping
+2024-08-21 21:27:29,972 - logger - INFO - retrieve station information
+2024-08-21 21:27:31,258 - logger - INFO - request status: Successful
+2024-08-21 21:27:31,277 - logger - INFO - Successful dumping
+2024-08-21 21:27:31,277 - logger - INFO - ------
