@@ -14847,3 +14847,11 @@
 2024-08-22 07:29:17,092 - logger - INFO - request status: Successful
 2024-08-22 07:29:17,110 - logger - INFO - Successful dumping
 2024-08-22 07:29:17,111 - logger - INFO - ------
+2024-08-22 08:33:11,290 - logger - INFO - ------
+2024-08-22 08:33:11,291 - logger - INFO - retrieve station status
+2024-08-22 08:33:11,654 - logger - INFO - request status: Successful
+2024-08-22 08:33:11,657 - logger - INFO - Successful dumping
+2024-08-22 08:33:11,657 - logger - INFO - retrieve station information
+2024-08-22 08:33:12,402 - logger - INFO - request status: Successful
+2024-08-22 08:33:12,420 - logger - INFO - Successful dumping
+2024-08-22 08:33:12,421 - logger - INFO - ------
