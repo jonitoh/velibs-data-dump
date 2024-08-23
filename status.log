@@ -15151,3 +15151,11 @@
 2024-08-23 22:31:20,318 - logger - INFO - request status: Successful
 2024-08-23 22:31:20,336 - logger - INFO - Successful dumping
 2024-08-23 22:31:20,337 - logger - INFO - ------
+2024-08-23 23:27:13,504 - logger - INFO - ------
+2024-08-23 23:27:13,504 - logger - INFO - retrieve station status
+2024-08-23 23:27:14,006 - logger - INFO - request status: Successful
+2024-08-23 23:27:14,008 - logger - INFO - Successful dumping
+2024-08-23 23:27:14,008 - logger - INFO - retrieve station information
+2024-08-23 23:27:15,288 - logger - INFO - request status: Successful
+2024-08-23 23:27:15,306 - logger - INFO - Successful dumping
+2024-08-23 23:27:15,307 - logger - INFO - ------
