@@ -15135,3 +15135,11 @@
 2024-08-23 20:29:26,752 - logger - INFO - request status: Successful
 2024-08-23 20:29:26,771 - logger - INFO - Successful dumping
 2024-08-23 20:29:26,771 - logger - INFO - ------
+2024-08-23 21:26:59,749 - logger - INFO - ------
+2024-08-23 21:26:59,749 - logger - INFO - retrieve station status
+2024-08-23 21:27:00,195 - logger - INFO - request status: Successful
+2024-08-23 21:27:00,197 - logger - INFO - Successful dumping
+2024-08-23 21:27:00,198 - logger - INFO - retrieve station information
+2024-08-23 21:27:01,528 - logger - INFO - request status: Successful
+2024-08-23 21:27:01,546 - logger - INFO - Successful dumping
+2024-08-23 21:27:01,547 - logger - INFO - ------
