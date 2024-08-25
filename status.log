@@ -15455,3 +15455,11 @@
 2024-08-25 14:29:05,820 - logger - INFO - request status: Successful
 2024-08-25 14:29:05,839 - logger - INFO - Successful dumping
 2024-08-25 14:29:05,839 - logger - INFO - ------
+2024-08-25 15:28:29,146 - logger - INFO - ------
+2024-08-25 15:28:29,146 - logger - INFO - retrieve station status
+2024-08-25 15:28:29,664 - logger - INFO - request status: Successful
+2024-08-25 15:28:29,667 - logger - INFO - Successful dumping
+2024-08-25 15:28:29,667 - logger - INFO - retrieve station information
+2024-08-25 15:28:30,935 - logger - INFO - request status: Successful
+2024-08-25 15:28:30,953 - logger - INFO - Successful dumping
+2024-08-25 15:28:30,954 - logger - INFO - ------
