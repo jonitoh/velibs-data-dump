@@ -15503,3 +15503,11 @@
 2024-08-25 20:31:17,659 - logger - INFO - request status: Successful
 2024-08-25 20:31:17,677 - logger - INFO - Successful dumping
 2024-08-25 20:31:17,678 - logger - INFO - ------
+2024-08-25 21:26:45,128 - logger - INFO - ------
+2024-08-25 21:26:45,128 - logger - INFO - retrieve station status
+2024-08-25 21:26:45,512 - logger - INFO - request status: Successful
+2024-08-25 21:26:45,514 - logger - INFO - Successful dumping
+2024-08-25 21:26:45,514 - logger - INFO - retrieve station information
+2024-08-25 21:26:46,515 - logger - INFO - request status: Successful
+2024-08-25 21:26:46,534 - logger - INFO - Successful dumping
+2024-08-25 21:26:46,535 - logger - INFO - ------
