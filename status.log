@@ -15431,3 +15431,11 @@
 2024-08-25 11:27:12,272 - logger - INFO - request status: Successful
 2024-08-25 11:27:12,290 - logger - INFO - Successful dumping
 2024-08-25 11:27:12,291 - logger - INFO - ------
+2024-08-25 12:46:47,457 - logger - INFO - ------
+2024-08-25 12:46:47,457 - logger - INFO - retrieve station status
+2024-08-25 12:46:47,861 - logger - INFO - request status: Successful
+2024-08-25 12:46:47,866 - logger - INFO - Successful dumping
+2024-08-25 12:46:47,866 - logger - INFO - retrieve station information
+2024-08-25 12:46:48,755 - logger - INFO - request status: Successful
+2024-08-25 12:46:48,774 - logger - INFO - Successful dumping
+2024-08-25 12:46:48,774 - logger - INFO - ------
