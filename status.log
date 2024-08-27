@@ -15831,3 +15831,11 @@
 2024-08-27 15:30:39,209 - logger - INFO - request status: Successful
 2024-08-27 15:30:39,228 - logger - INFO - Successful dumping
 2024-08-27 15:30:39,228 - logger - INFO - ------
+2024-08-27 16:35:48,344 - logger - INFO - ------
+2024-08-27 16:35:48,344 - logger - INFO - retrieve station status
+2024-08-27 16:35:48,908 - logger - INFO - request status: Successful
+2024-08-27 16:35:48,911 - logger - INFO - Successful dumping
+2024-08-27 16:35:48,911 - logger - INFO - retrieve station information
+2024-08-27 16:35:50,183 - logger - INFO - request status: Successful
+2024-08-27 16:35:50,201 - logger - INFO - Successful dumping
+2024-08-27 16:35:50,202 - logger - INFO - ------
