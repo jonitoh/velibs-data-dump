@@ -15991,3 +15991,11 @@
 2024-08-28 12:51:00,091 - logger - INFO - request status: Successful
 2024-08-28 12:51:00,109 - logger - INFO - Successful dumping
 2024-08-28 12:51:00,110 - logger - INFO - ------
+2024-08-28 13:31:09,087 - logger - INFO - ------
+2024-08-28 13:31:09,087 - logger - INFO - retrieve station status
+2024-08-28 13:31:09,419 - logger - INFO - request status: Successful
+2024-08-28 13:31:09,422 - logger - INFO - Successful dumping
+2024-08-28 13:31:09,422 - logger - INFO - retrieve station information
+2024-08-28 13:31:10,173 - logger - INFO - request status: Successful
+2024-08-28 13:31:10,191 - logger - INFO - Successful dumping
+2024-08-28 13:31:10,192 - logger - INFO - ------
