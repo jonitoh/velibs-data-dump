@@ -16255,3 +16255,11 @@
 2024-08-29 22:32:58,236 - logger - INFO - request status: Successful
 2024-08-29 22:32:58,255 - logger - INFO - Successful dumping
 2024-08-29 22:32:58,255 - logger - INFO - ------
+2024-08-29 23:29:09,490 - logger - INFO - ------
+2024-08-29 23:29:09,490 - logger - INFO - retrieve station status
+2024-08-29 23:29:09,861 - logger - INFO - request status: Successful
+2024-08-29 23:29:09,863 - logger - INFO - Successful dumping
+2024-08-29 23:29:09,863 - logger - INFO - retrieve station information
+2024-08-29 23:29:10,754 - logger - INFO - request status: Successful
+2024-08-29 23:29:10,772 - logger - INFO - Successful dumping
+2024-08-29 23:29:10,773 - logger - INFO - ------
