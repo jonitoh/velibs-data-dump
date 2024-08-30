@@ -16391,3 +16391,11 @@
 2024-08-30 16:35:44,786 - logger - INFO - request status: Successful
 2024-08-30 16:35:44,804 - logger - INFO - Successful dumping
 2024-08-30 16:35:44,805 - logger - INFO - ------
+2024-08-30 17:31:00,155 - logger - INFO - ------
+2024-08-30 17:31:00,155 - logger - INFO - retrieve station status
+2024-08-30 17:31:00,530 - logger - INFO - request status: Successful
+2024-08-30 17:31:00,533 - logger - INFO - Successful dumping
+2024-08-30 17:31:00,533 - logger - INFO - retrieve station information
+2024-08-30 17:31:01,411 - logger - INFO - request status: Successful
+2024-08-30 17:31:01,430 - logger - INFO - Successful dumping
+2024-08-30 17:31:01,430 - logger - INFO - ------
