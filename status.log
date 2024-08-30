@@ -16383,3 +16383,11 @@
 2024-08-30 15:30:28,688 - logger - INFO - request status: Successful
 2024-08-30 15:30:28,707 - logger - INFO - Successful dumping
 2024-08-30 15:30:28,707 - logger - INFO - ------
+2024-08-30 16:35:42,854 - logger - INFO - ------
+2024-08-30 16:35:42,854 - logger - INFO - retrieve station status
+2024-08-30 16:35:43,439 - logger - INFO - request status: Successful
+2024-08-30 16:35:43,442 - logger - INFO - Successful dumping
+2024-08-30 16:35:43,442 - logger - INFO - retrieve station information
+2024-08-30 16:35:44,786 - logger - INFO - request status: Successful
+2024-08-30 16:35:44,804 - logger - INFO - Successful dumping
+2024-08-30 16:35:44,805 - logger - INFO - ------
