@@ -16519,3 +16519,11 @@
 2024-08-31 09:28:50,254 - logger - INFO - request status: Successful
 2024-08-31 09:28:50,273 - logger - INFO - Successful dumping
 2024-08-31 09:28:50,273 - logger - INFO - ------
+2024-08-31 10:32:21,459 - logger - INFO - ------
+2024-08-31 10:32:21,459 - logger - INFO - retrieve station status
+2024-08-31 10:32:21,751 - logger - INFO - request status: Successful
+2024-08-31 10:32:21,753 - logger - INFO - Successful dumping
+2024-08-31 10:32:21,754 - logger - INFO - retrieve station information
+2024-08-31 10:32:22,514 - logger - INFO - request status: Successful
+2024-08-31 10:32:22,533 - logger - INFO - Successful dumping
+2024-08-31 10:32:22,533 - logger - INFO - ------
