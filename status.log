@@ -16623,3 +16623,11 @@
 2024-08-31 22:32:30,168 - logger - INFO - request status: Successful
 2024-08-31 22:32:30,187 - logger - INFO - Successful dumping
 2024-08-31 22:32:30,188 - logger - INFO - ------
+2024-08-31 23:27:32,526 - logger - INFO - ------
+2024-08-31 23:27:32,526 - logger - INFO - retrieve station status
+2024-08-31 23:27:33,006 - logger - INFO - request status: Successful
+2024-08-31 23:27:33,009 - logger - INFO - Successful dumping
+2024-08-31 23:27:33,009 - logger - INFO - retrieve station information
+2024-08-31 23:27:34,288 - logger - INFO - request status: Successful
+2024-08-31 23:27:34,308 - logger - INFO - Successful dumping
+2024-08-31 23:27:34,309 - logger - INFO - ------
