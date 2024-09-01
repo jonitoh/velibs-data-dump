@@ -16791,3 +16791,11 @@
 2024-09-01 20:29:36,122 - logger - INFO - request status: Successful
 2024-09-01 20:29:36,158 - logger - INFO - Successful dumping
 2024-09-01 20:29:36,159 - logger - INFO - ------
+2024-09-01 21:27:02,003 - logger - INFO - ------
+2024-09-01 21:27:02,003 - logger - INFO - retrieve station status
+2024-09-01 21:27:02,533 - logger - INFO - request status: Successful
+2024-09-01 21:27:02,536 - logger - INFO - Successful dumping
+2024-09-01 21:27:02,536 - logger - INFO - retrieve station information
+2024-09-01 21:27:03,796 - logger - INFO - request status: Successful
+2024-09-01 21:27:03,815 - logger - INFO - Successful dumping
+2024-09-01 21:27:03,815 - logger - INFO - ------
