@@ -16807,3 +16807,11 @@
 2024-09-01 22:32:50,300 - logger - INFO - request status: Successful
 2024-09-01 22:32:50,318 - logger - INFO - Successful dumping
 2024-09-01 22:32:50,319 - logger - INFO - ------
+2024-09-01 23:27:42,288 - logger - INFO - ------
+2024-09-01 23:27:42,288 - logger - INFO - retrieve station status
+2024-09-01 23:27:42,652 - logger - INFO - request status: Successful
+2024-09-01 23:27:42,655 - logger - INFO - Successful dumping
+2024-09-01 23:27:42,655 - logger - INFO - retrieve station information
+2024-09-01 23:27:43,561 - logger - INFO - request status: Successful
+2024-09-01 23:27:43,579 - logger - INFO - Successful dumping
+2024-09-01 23:27:43,580 - logger - INFO - ------
