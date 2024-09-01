@@ -16743,3 +16743,11 @@
 2024-09-01 14:29:56,073 - logger - INFO - request status: Successful
 2024-09-01 14:29:56,091 - logger - INFO - Successful dumping
 2024-09-01 14:29:56,091 - logger - INFO - ------
+2024-09-01 15:29:27,251 - logger - INFO - ------
+2024-09-01 15:29:27,251 - logger - INFO - retrieve station status
+2024-09-01 15:29:27,621 - logger - INFO - request status: Successful
+2024-09-01 15:29:27,624 - logger - INFO - Successful dumping
+2024-09-01 15:29:27,624 - logger - INFO - retrieve station information
+2024-09-01 15:29:28,405 - logger - INFO - request status: Successful
+2024-09-01 15:29:28,424 - logger - INFO - Successful dumping
+2024-09-01 15:29:28,424 - logger - INFO - ------
