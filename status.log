@@ -16935,3 +16935,11 @@
 2024-09-02 15:30:38,030 - logger - INFO - request status: Successful
 2024-09-02 15:30:38,049 - logger - INFO - Successful dumping
 2024-09-02 15:30:38,049 - logger - INFO - ------
+2024-09-02 16:39:50,357 - logger - INFO - ------
+2024-09-02 16:39:50,357 - logger - INFO - retrieve station status
+2024-09-02 16:39:50,667 - logger - INFO - request status: Successful
+2024-09-02 16:39:50,669 - logger - INFO - Successful dumping
+2024-09-02 16:39:50,670 - logger - INFO - retrieve station information
+2024-09-02 16:39:51,477 - logger - INFO - request status: Successful
+2024-09-02 16:39:51,496 - logger - INFO - Successful dumping
+2024-09-02 16:39:51,497 - logger - INFO - ------
