@@ -16927,3 +16927,11 @@
 2024-09-02 14:32:08,283 - logger - INFO - request status: Successful
 2024-09-02 14:32:08,302 - logger - INFO - Successful dumping
 2024-09-02 14:32:08,303 - logger - INFO - ------
+2024-09-02 15:30:36,311 - logger - INFO - ------
+2024-09-02 15:30:36,311 - logger - INFO - retrieve station status
+2024-09-02 15:30:36,811 - logger - INFO - request status: Successful
+2024-09-02 15:30:36,814 - logger - INFO - Successful dumping
+2024-09-02 15:30:36,814 - logger - INFO - retrieve station information
+2024-09-02 15:30:38,030 - logger - INFO - request status: Successful
+2024-09-02 15:30:38,049 - logger - INFO - Successful dumping
+2024-09-02 15:30:38,049 - logger - INFO - ------
