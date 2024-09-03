@@ -125,3 +125,11 @@
 2024-09-03 09:30:10,793 - logger - INFO - request status: Successful
 2024-09-03 09:30:10,811 - logger - INFO - Successful dumping
 2024-09-03 09:30:10,812 - logger - INFO - ------
+2024-09-03 10:34:56,130 - logger - INFO - ------
+2024-09-03 10:34:56,130 - logger - INFO - retrieve station status
+2024-09-03 10:34:56,545 - logger - INFO - request status: Successful
+2024-09-03 10:34:56,548 - logger - INFO - Successful dumping
+2024-09-03 10:34:56,548 - logger - INFO - retrieve station information
+2024-09-03 10:34:57,423 - logger - INFO - request status: Successful
+2024-09-03 10:34:57,441 - logger - INFO - Successful dumping
+2024-09-03 10:34:57,441 - logger - INFO - ------
