@@ -85,3 +85,11 @@
 2024-09-03 04:33:38,432 - logger - INFO - request status: Successful
 2024-09-03 04:33:38,450 - logger - INFO - Successful dumping
 2024-09-03 04:33:38,451 - logger - INFO - ------
+2024-09-03 05:32:38,714 - logger - INFO - ------
+2024-09-03 05:32:38,715 - logger - INFO - retrieve station status
+2024-09-03 05:32:39,109 - logger - INFO - request status: Successful
+2024-09-03 05:32:39,112 - logger - INFO - Successful dumping
+2024-09-03 05:32:39,112 - logger - INFO - retrieve station information
+2024-09-03 05:32:39,989 - logger - INFO - request status: Successful
+2024-09-03 05:32:40,008 - logger - INFO - Successful dumping
+2024-09-03 05:32:40,008 - logger - INFO - ------
