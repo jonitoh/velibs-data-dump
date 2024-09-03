@@ -205,3 +205,11 @@
 2024-09-03 19:25:49,341 - logger - INFO - request status: Successful
 2024-09-03 19:25:49,360 - logger - INFO - Successful dumping
 2024-09-03 19:25:49,360 - logger - INFO - ------
+2024-09-03 20:31:05,000 - logger - INFO - ------
+2024-09-03 20:31:05,000 - logger - INFO - retrieve station status
+2024-09-03 20:31:05,313 - logger - INFO - request status: Successful
+2024-09-03 20:31:05,315 - logger - INFO - Successful dumping
+2024-09-03 20:31:05,316 - logger - INFO - retrieve station information
+2024-09-03 20:31:06,041 - logger - INFO - request status: Successful
+2024-09-03 20:31:06,059 - logger - INFO - Successful dumping
+2024-09-03 20:31:06,060 - logger - INFO - ------
