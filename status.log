@@ -437,3 +437,11 @@
 2024-09-05 02:51:55,868 - logger - INFO - request status: Successful
 2024-09-05 02:51:55,887 - logger - INFO - Successful dumping
 2024-09-05 02:51:55,887 - logger - INFO - ------
+2024-09-05 03:32:10,937 - logger - INFO - ------
+2024-09-05 03:32:10,937 - logger - INFO - retrieve station status
+2024-09-05 03:32:11,219 - logger - INFO - request status: Successful
+2024-09-05 03:32:11,221 - logger - INFO - Successful dumping
+2024-09-05 03:32:11,221 - logger - INFO - retrieve station information
+2024-09-05 03:32:11,984 - logger - INFO - request status: Successful
+2024-09-05 03:32:12,003 - logger - INFO - Successful dumping
+2024-09-05 03:32:12,004 - logger - INFO - ------
