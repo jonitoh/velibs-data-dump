@@ -573,3 +573,11 @@
 2024-09-05 19:25:50,474 - logger - INFO - request status: Successful
 2024-09-05 19:25:50,492 - logger - INFO - Successful dumping
 2024-09-05 19:25:50,492 - logger - INFO - ------
+2024-09-05 20:30:43,069 - logger - INFO - ------
+2024-09-05 20:30:43,069 - logger - INFO - retrieve station status
+2024-09-05 20:30:43,556 - logger - INFO - request status: Successful
+2024-09-05 20:30:43,559 - logger - INFO - Successful dumping
+2024-09-05 20:30:43,559 - logger - INFO - retrieve station information
+2024-09-05 20:30:44,832 - logger - INFO - request status: Successful
+2024-09-05 20:30:44,851 - logger - INFO - Successful dumping
+2024-09-05 20:30:44,852 - logger - INFO - ------
