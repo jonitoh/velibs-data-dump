@@ -485,3 +485,11 @@
 2024-09-05 08:35:16,659 - logger - INFO - request status: Successful
 2024-09-05 08:35:16,677 - logger - INFO - Successful dumping
 2024-09-05 08:35:16,678 - logger - INFO - ------
+2024-09-05 09:30:18,690 - logger - INFO - ------
+2024-09-05 09:30:18,690 - logger - INFO - retrieve station status
+2024-09-05 09:30:19,000 - logger - INFO - request status: Successful
+2024-09-05 09:30:19,003 - logger - INFO - Successful dumping
+2024-09-05 09:30:19,003 - logger - INFO - retrieve station information
+2024-09-05 09:30:19,762 - logger - INFO - request status: Successful
+2024-09-05 09:30:19,780 - logger - INFO - Successful dumping
+2024-09-05 09:30:19,781 - logger - INFO - ------
