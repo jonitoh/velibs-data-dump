@@ -725,3 +725,11 @@
 2024-09-06 15:31:56,957 - logger - INFO - request status: Successful
 2024-09-06 15:31:56,975 - logger - INFO - Successful dumping
 2024-09-06 15:31:56,976 - logger - INFO - ------
+2024-09-06 16:40:34,257 - logger - INFO - ------
+2024-09-06 16:40:34,257 - logger - INFO - retrieve station status
+2024-09-06 16:40:34,602 - logger - INFO - request status: Successful
+2024-09-06 16:40:34,604 - logger - INFO - Successful dumping
+2024-09-06 16:40:34,605 - logger - INFO - retrieve station information
+2024-09-06 16:40:35,495 - logger - INFO - request status: Successful
+2024-09-06 16:40:35,513 - logger - INFO - Successful dumping
+2024-09-06 16:40:35,514 - logger - INFO - ------
