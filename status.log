@@ -749,3 +749,11 @@
 2024-09-06 18:36:50,470 - logger - INFO - request status: Successful
 2024-09-06 18:36:50,489 - logger - INFO - Successful dumping
 2024-09-06 18:36:50,489 - logger - INFO - ------
+2024-09-06 19:25:51,378 - logger - INFO - ------
+2024-09-06 19:25:51,379 - logger - INFO - retrieve station status
+2024-09-06 19:25:51,927 - logger - INFO - request status: Successful
+2024-09-06 19:25:51,930 - logger - INFO - Successful dumping
+2024-09-06 19:25:51,930 - logger - INFO - retrieve station information
+2024-09-06 19:25:53,218 - logger - INFO - request status: Successful
+2024-09-06 19:25:53,237 - logger - INFO - Successful dumping
+2024-09-06 19:25:53,237 - logger - INFO - ------
