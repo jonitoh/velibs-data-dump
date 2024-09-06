@@ -701,3 +701,11 @@
 2024-09-06 12:50:24,082 - logger - INFO - request status: Successful
 2024-09-06 12:50:24,101 - logger - INFO - Successful dumping
 2024-09-06 12:50:24,101 - logger - INFO - ------
+2024-09-06 13:33:44,635 - logger - INFO - ------
+2024-09-06 13:33:44,635 - logger - INFO - retrieve station status
+2024-09-06 13:33:45,195 - logger - INFO - request status: Successful
+2024-09-06 13:33:45,197 - logger - INFO - Successful dumping
+2024-09-06 13:33:45,197 - logger - INFO - retrieve station information
+2024-09-06 13:33:46,526 - logger - INFO - request status: Successful
+2024-09-06 13:33:46,545 - logger - INFO - Successful dumping
+2024-09-06 13:33:46,545 - logger - INFO - ------
