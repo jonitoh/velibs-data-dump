@@ -941,3 +941,11 @@
 2024-09-07 19:25:45,839 - logger - INFO - request status: Successful
 2024-09-07 19:25:45,857 - logger - INFO - Successful dumping
 2024-09-07 19:25:45,858 - logger - INFO - ------
+2024-09-07 20:29:01,284 - logger - INFO - ------
+2024-09-07 20:29:01,284 - logger - INFO - retrieve station status
+2024-09-07 20:29:01,601 - logger - INFO - request status: Successful
+2024-09-07 20:29:01,604 - logger - INFO - Successful dumping
+2024-09-07 20:29:01,604 - logger - INFO - retrieve station information
+2024-09-07 20:29:02,481 - logger - INFO - request status: Successful
+2024-09-07 20:29:02,499 - logger - INFO - Successful dumping
+2024-09-07 20:29:02,500 - logger - INFO - ------
