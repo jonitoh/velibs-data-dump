@@ -901,3 +901,11 @@
 2024-09-07 14:30:27,620 - logger - INFO - request status: Successful
 2024-09-07 14:30:27,638 - logger - INFO - Successful dumping
 2024-09-07 14:30:27,639 - logger - INFO - ------
+2024-09-07 15:29:43,307 - logger - INFO - ------
+2024-09-07 15:29:43,307 - logger - INFO - retrieve station status
+2024-09-07 15:29:43,651 - logger - INFO - request status: Successful
+2024-09-07 15:29:43,656 - logger - INFO - Successful dumping
+2024-09-07 15:29:43,656 - logger - INFO - retrieve station information
+2024-09-07 15:29:44,526 - logger - INFO - request status: Successful
+2024-09-07 15:29:44,545 - logger - INFO - Successful dumping
+2024-09-07 15:29:44,545 - logger - INFO - ------
