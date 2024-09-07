@@ -789,3 +789,11 @@
 2024-09-06 23:31:10,128 - logger - INFO - request status: Successful
 2024-09-06 23:31:10,147 - logger - INFO - Successful dumping
 2024-09-06 23:31:10,147 - logger - INFO - ------
+2024-09-07 01:47:41,638 - logger - INFO - ------
+2024-09-07 01:47:41,638 - logger - INFO - retrieve station status
+2024-09-07 01:47:42,046 - logger - INFO - request status: Successful
+2024-09-07 01:47:42,049 - logger - INFO - Successful dumping
+2024-09-07 01:47:42,050 - logger - INFO - retrieve station information
+2024-09-07 01:47:42,836 - logger - INFO - request status: Successful
+2024-09-07 01:47:42,855 - logger - INFO - Successful dumping
+2024-09-07 01:47:42,856 - logger - INFO - ------
