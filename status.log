@@ -885,3 +885,11 @@
 2024-09-07 12:47:31,569 - logger - INFO - request status: Successful
 2024-09-07 12:47:31,588 - logger - INFO - Successful dumping
 2024-09-07 12:47:31,588 - logger - INFO - ------
+2024-09-07 13:30:05,594 - logger - INFO - ------
+2024-09-07 13:30:05,595 - logger - INFO - retrieve station status
+2024-09-07 13:30:05,988 - logger - INFO - request status: Successful
+2024-09-07 13:30:05,990 - logger - INFO - Successful dumping
+2024-09-07 13:30:05,991 - logger - INFO - retrieve station information
+2024-09-07 13:30:06,848 - logger - INFO - request status: Successful
+2024-09-07 13:30:06,866 - logger - INFO - Successful dumping
+2024-09-07 13:30:06,867 - logger - INFO - ------
