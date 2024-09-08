@@ -1101,3 +1101,11 @@
 2024-09-08 16:35:52,730 - logger - INFO - request status: Successful
 2024-09-08 16:35:52,749 - logger - INFO - Successful dumping
 2024-09-08 16:35:52,750 - logger - INFO - ------
+2024-09-08 17:32:51,490 - logger - INFO - ------
+2024-09-08 17:32:51,490 - logger - INFO - retrieve station status
+2024-09-08 17:32:52,179 - logger - INFO - request status: Successful
+2024-09-08 17:32:52,181 - logger - INFO - Successful dumping
+2024-09-08 17:32:52,182 - logger - INFO - retrieve station information
+2024-09-08 17:32:53,523 - logger - INFO - request status: Successful
+2024-09-08 17:32:53,541 - logger - INFO - Successful dumping
+2024-09-08 17:32:53,542 - logger - INFO - ------
