@@ -1013,3 +1013,11 @@
 2024-09-08 05:32:14,047 - logger - INFO - request status: Successful
 2024-09-08 05:32:14,066 - logger - INFO - Successful dumping
 2024-09-08 05:32:14,066 - logger - INFO - ------
+2024-09-08 06:35:50,127 - logger - INFO - ------
+2024-09-08 06:35:50,127 - logger - INFO - retrieve station status
+2024-09-08 06:35:50,447 - logger - INFO - request status: Successful
+2024-09-08 06:35:50,449 - logger - INFO - Successful dumping
+2024-09-08 06:35:50,449 - logger - INFO - retrieve station information
+2024-09-08 06:35:51,190 - logger - INFO - request status: Successful
+2024-09-08 06:35:51,208 - logger - INFO - Successful dumping
+2024-09-08 06:35:51,209 - logger - INFO - ------
