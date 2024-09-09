@@ -1325,3 +1325,11 @@
 2024-09-09 21:29:28,091 - logger - INFO - request status: Successful
 2024-09-09 21:29:28,110 - logger - INFO - Successful dumping
 2024-09-09 21:29:28,110 - logger - INFO - ------
+2024-09-09 22:32:44,534 - logger - INFO - ------
+2024-09-09 22:32:44,534 - logger - INFO - retrieve station status
+2024-09-09 22:32:44,812 - logger - INFO - request status: Successful
+2024-09-09 22:32:44,814 - logger - INFO - Successful dumping
+2024-09-09 22:32:44,814 - logger - INFO - retrieve station information
+2024-09-09 22:32:45,599 - logger - INFO - request status: Successful
+2024-09-09 22:32:45,618 - logger - INFO - Successful dumping
+2024-09-09 22:32:45,618 - logger - INFO - ------
