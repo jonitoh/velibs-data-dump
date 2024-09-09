@@ -1261,3 +1261,11 @@
 2024-09-09 13:34:19,731 - logger - INFO - request status: Successful
 2024-09-09 13:34:19,750 - logger - INFO - Successful dumping
 2024-09-09 13:34:19,750 - logger - INFO - ------
+2024-09-09 14:35:22,225 - logger - INFO - ------
+2024-09-09 14:35:22,225 - logger - INFO - retrieve station status
+2024-09-09 14:35:22,601 - logger - INFO - request status: Successful
+2024-09-09 14:35:22,603 - logger - INFO - Successful dumping
+2024-09-09 14:35:22,603 - logger - INFO - retrieve station information
+2024-09-09 14:35:23,520 - logger - INFO - request status: Successful
+2024-09-09 14:35:23,538 - logger - INFO - Successful dumping
+2024-09-09 14:35:23,538 - logger - INFO - ------
