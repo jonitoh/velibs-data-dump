@@ -1245,3 +1245,11 @@
 2024-09-09 11:26:31,258 - logger - INFO - request status: Successful
 2024-09-09 11:26:31,277 - logger - INFO - Successful dumping
 2024-09-09 11:26:31,277 - logger - INFO - ------
+2024-09-09 12:52:15,532 - logger - INFO - ------
+2024-09-09 12:52:15,532 - logger - INFO - retrieve station status
+2024-09-09 12:52:16,104 - logger - INFO - request status: Successful
+2024-09-09 12:52:16,106 - logger - INFO - Successful dumping
+2024-09-09 12:52:16,106 - logger - INFO - retrieve station information
+2024-09-09 12:52:17,418 - logger - INFO - request status: Successful
+2024-09-09 12:52:17,437 - logger - INFO - Successful dumping
+2024-09-09 12:52:17,437 - logger - INFO - ------
