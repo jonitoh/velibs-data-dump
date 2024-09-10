@@ -1501,3 +1501,11 @@
 2024-09-10 20:30:41,272 - logger - INFO - request status: Successful
 2024-09-10 20:30:41,291 - logger - INFO - Successful dumping
 2024-09-10 20:30:41,291 - logger - INFO - ------
+2024-09-10 21:28:25,553 - logger - INFO - ------
+2024-09-10 21:28:25,554 - logger - INFO - retrieve station status
+2024-09-10 21:28:25,895 - logger - INFO - request status: Successful
+2024-09-10 21:28:25,898 - logger - INFO - Successful dumping
+2024-09-10 21:28:25,898 - logger - INFO - retrieve station information
+2024-09-10 21:28:26,760 - logger - INFO - request status: Successful
+2024-09-10 21:28:26,778 - logger - INFO - Successful dumping
+2024-09-10 21:28:26,779 - logger - INFO - ------
