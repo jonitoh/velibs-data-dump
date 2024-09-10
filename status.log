@@ -1517,3 +1517,11 @@
 2024-09-10 22:32:36,274 - logger - INFO - request status: Successful
 2024-09-10 22:32:36,292 - logger - INFO - Successful dumping
 2024-09-10 22:32:36,293 - logger - INFO - ------
+2024-09-10 23:28:30,244 - logger - INFO - ------
+2024-09-10 23:28:30,245 - logger - INFO - retrieve station status
+2024-09-10 23:28:30,727 - logger - INFO - request status: Successful
+2024-09-10 23:28:30,730 - logger - INFO - Successful dumping
+2024-09-10 23:28:30,730 - logger - INFO - retrieve station information
+2024-09-10 23:28:31,996 - logger - INFO - request status: Successful
+2024-09-10 23:28:32,015 - logger - INFO - Successful dumping
+2024-09-10 23:28:32,015 - logger - INFO - ------
