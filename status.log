@@ -1493,3 +1493,11 @@
 2024-09-10 19:25:45,017 - logger - INFO - request status: Successful
 2024-09-10 19:25:45,036 - logger - INFO - Successful dumping
 2024-09-10 19:25:45,036 - logger - INFO - ------
+2024-09-10 20:30:39,409 - logger - INFO - ------
+2024-09-10 20:30:39,409 - logger - INFO - retrieve station status
+2024-09-10 20:30:39,966 - logger - INFO - request status: Successful
+2024-09-10 20:30:39,969 - logger - INFO - Successful dumping
+2024-09-10 20:30:39,969 - logger - INFO - retrieve station information
+2024-09-10 20:30:41,272 - logger - INFO - request status: Successful
+2024-09-10 20:30:41,291 - logger - INFO - Successful dumping
+2024-09-10 20:30:41,291 - logger - INFO - ------
