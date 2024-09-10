@@ -1445,3 +1445,11 @@
 2024-09-10 13:33:21,381 - logger - INFO - request status: Successful
 2024-09-10 13:33:21,400 - logger - INFO - Successful dumping
 2024-09-10 13:33:21,400 - logger - INFO - ------
+2024-09-10 14:33:09,563 - logger - INFO - ------
+2024-09-10 14:33:09,563 - logger - INFO - retrieve station status
+2024-09-10 14:33:09,912 - logger - INFO - request status: Successful
+2024-09-10 14:33:09,914 - logger - INFO - Successful dumping
+2024-09-10 14:33:09,915 - logger - INFO - retrieve station information
+2024-09-10 14:33:10,686 - logger - INFO - request status: Successful
+2024-09-10 14:33:10,704 - logger - INFO - Successful dumping
+2024-09-10 14:33:10,705 - logger - INFO - ------
