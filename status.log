@@ -1421,3 +1421,11 @@
 2024-09-10 10:35:40,449 - logger - INFO - request status: Successful
 2024-09-10 10:35:40,467 - logger - INFO - Successful dumping
 2024-09-10 10:35:40,467 - logger - INFO - ------
+2024-09-10 11:26:55,774 - logger - INFO - ------
+2024-09-10 11:26:55,775 - logger - INFO - retrieve station status
+2024-09-10 11:26:56,266 - logger - INFO - request status: Successful
+2024-09-10 11:26:56,269 - logger - INFO - Successful dumping
+2024-09-10 11:26:56,269 - logger - INFO - retrieve station information
+2024-09-10 11:26:57,539 - logger - INFO - request status: Successful
+2024-09-10 11:26:57,557 - logger - INFO - Successful dumping
+2024-09-10 11:26:57,558 - logger - INFO - ------
