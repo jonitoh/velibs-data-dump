@@ -1693,3 +1693,11 @@
 2024-09-11 21:28:50,305 - logger - INFO - request status: Successful
 2024-09-11 21:28:50,324 - logger - INFO - Successful dumping
 2024-09-11 21:28:50,324 - logger - INFO - ------
+2024-09-11 22:32:27,193 - logger - INFO - ------
+2024-09-11 22:32:27,193 - logger - INFO - retrieve station status
+2024-09-11 22:32:27,550 - logger - INFO - request status: Successful
+2024-09-11 22:32:27,552 - logger - INFO - Successful dumping
+2024-09-11 22:32:27,553 - logger - INFO - retrieve station information
+2024-09-11 22:32:28,363 - logger - INFO - request status: Successful
+2024-09-11 22:32:28,381 - logger - INFO - Successful dumping
+2024-09-11 22:32:28,382 - logger - INFO - ------
