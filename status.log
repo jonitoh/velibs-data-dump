@@ -1525,3 +1525,11 @@
 2024-09-10 23:28:31,996 - logger - INFO - request status: Successful
 2024-09-10 23:28:32,015 - logger - INFO - Successful dumping
 2024-09-10 23:28:32,015 - logger - INFO - ------
+2024-09-11 01:50:02,043 - logger - INFO - ------
+2024-09-11 01:50:02,043 - logger - INFO - retrieve station status
+2024-09-11 01:50:02,420 - logger - INFO - request status: Successful
+2024-09-11 01:50:02,423 - logger - INFO - Successful dumping
+2024-09-11 01:50:02,423 - logger - INFO - retrieve station information
+2024-09-11 01:50:03,297 - logger - INFO - request status: Successful
+2024-09-11 01:50:03,315 - logger - INFO - Successful dumping
+2024-09-11 01:50:03,316 - logger - INFO - ------
