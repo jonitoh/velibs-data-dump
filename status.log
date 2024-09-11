@@ -1621,3 +1621,11 @@
 2024-09-11 12:52:20,433 - logger - INFO - request status: Successful
 2024-09-11 12:52:20,452 - logger - INFO - Successful dumping
 2024-09-11 12:52:20,452 - logger - INFO - ------
+2024-09-11 13:32:38,913 - logger - INFO - ------
+2024-09-11 13:32:38,913 - logger - INFO - retrieve station status
+2024-09-11 13:32:39,223 - logger - INFO - request status: Successful
+2024-09-11 13:32:39,226 - logger - INFO - Successful dumping
+2024-09-11 13:32:39,226 - logger - INFO - retrieve station information
+2024-09-11 13:32:39,995 - logger - INFO - request status: Successful
+2024-09-11 13:32:40,013 - logger - INFO - Successful dumping
+2024-09-11 13:32:40,014 - logger - INFO - ------
