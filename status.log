@@ -1597,3 +1597,11 @@
 2024-09-11 09:32:19,236 - logger - INFO - request status: Successful
 2024-09-11 09:32:19,255 - logger - INFO - Successful dumping
 2024-09-11 09:32:19,255 - logger - INFO - ------
+2024-09-11 10:35:14,663 - logger - INFO - ------
+2024-09-11 10:35:14,663 - logger - INFO - retrieve station status
+2024-09-11 10:35:14,964 - logger - INFO - request status: Successful
+2024-09-11 10:35:14,966 - logger - INFO - Successful dumping
+2024-09-11 10:35:14,967 - logger - INFO - retrieve station information
+2024-09-11 10:35:15,752 - logger - INFO - request status: Successful
+2024-09-11 10:35:15,771 - logger - INFO - Successful dumping
+2024-09-11 10:35:15,772 - logger - INFO - ------
