@@ -1613,3 +1613,11 @@
 2024-09-11 11:28:40,442 - logger - INFO - request status: Successful
 2024-09-11 11:28:40,461 - logger - INFO - Successful dumping
 2024-09-11 11:28:40,461 - logger - INFO - ------
+2024-09-11 12:52:19,334 - logger - INFO - ------
+2024-09-11 12:52:19,334 - logger - INFO - retrieve station status
+2024-09-11 12:52:19,637 - logger - INFO - request status: Successful
+2024-09-11 12:52:19,639 - logger - INFO - Successful dumping
+2024-09-11 12:52:19,639 - logger - INFO - retrieve station information
+2024-09-11 12:52:20,433 - logger - INFO - request status: Successful
+2024-09-11 12:52:20,452 - logger - INFO - Successful dumping
+2024-09-11 12:52:20,452 - logger - INFO - ------
