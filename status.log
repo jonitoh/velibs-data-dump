@@ -1541,3 +1541,11 @@
 2024-09-11 02:51:52,620 - logger - INFO - request status: Successful
 2024-09-11 02:51:52,638 - logger - INFO - Successful dumping
 2024-09-11 02:51:52,639 - logger - INFO - ------
+2024-09-11 03:32:05,032 - logger - INFO - ------
+2024-09-11 03:32:05,032 - logger - INFO - retrieve station status
+2024-09-11 03:32:05,326 - logger - INFO - request status: Successful
+2024-09-11 03:32:05,329 - logger - INFO - Successful dumping
+2024-09-11 03:32:05,329 - logger - INFO - retrieve station information
+2024-09-11 03:32:06,089 - logger - INFO - request status: Successful
+2024-09-11 03:32:06,107 - logger - INFO - Successful dumping
+2024-09-11 03:32:06,108 - logger - INFO - ------
