@@ -1677,3 +1677,11 @@
 2024-09-11 19:25:51,777 - logger - INFO - request status: Successful
 2024-09-11 19:25:51,795 - logger - INFO - Successful dumping
 2024-09-11 19:25:51,796 - logger - INFO - ------
+2024-09-11 20:30:01,870 - logger - INFO - ------
+2024-09-11 20:30:01,870 - logger - INFO - retrieve station status
+2024-09-11 20:30:02,350 - logger - INFO - request status: Successful
+2024-09-11 20:30:02,353 - logger - INFO - Successful dumping
+2024-09-11 20:30:02,353 - logger - INFO - retrieve station information
+2024-09-11 20:30:03,624 - logger - INFO - request status: Successful
+2024-09-11 20:30:03,642 - logger - INFO - Successful dumping
+2024-09-11 20:30:03,643 - logger - INFO - ------
