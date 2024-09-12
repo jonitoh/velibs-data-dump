@@ -1845,3 +1845,11 @@
 2024-09-12 17:31:19,450 - logger - INFO - request status: Successful
 2024-09-12 17:31:19,469 - logger - INFO - Successful dumping
 2024-09-12 17:31:19,469 - logger - INFO - ------
+2024-09-12 18:38:43,691 - logger - INFO - ------
+2024-09-12 18:38:43,691 - logger - INFO - retrieve station status
+2024-09-12 18:38:44,169 - logger - INFO - request status: Successful
+2024-09-12 18:38:44,171 - logger - INFO - Successful dumping
+2024-09-12 18:38:44,171 - logger - INFO - retrieve station information
+2024-09-12 18:38:45,456 - logger - INFO - request status: Successful
+2024-09-12 18:38:45,475 - logger - INFO - Successful dumping
+2024-09-12 18:38:45,476 - logger - INFO - ------
