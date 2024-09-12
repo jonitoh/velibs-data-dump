@@ -1741,3 +1741,11 @@
 2024-09-12 04:35:55,890 - logger - INFO - request status: Successful
 2024-09-12 04:35:55,909 - logger - INFO - Successful dumping
 2024-09-12 04:35:55,909 - logger - INFO - ------
+2024-09-12 05:32:49,052 - logger - INFO - ------
+2024-09-12 05:32:49,052 - logger - INFO - retrieve station status
+2024-09-12 05:32:49,418 - logger - INFO - request status: Successful
+2024-09-12 05:32:49,420 - logger - INFO - Successful dumping
+2024-09-12 05:32:49,420 - logger - INFO - retrieve station information
+2024-09-12 05:32:50,193 - logger - INFO - request status: Successful
+2024-09-12 05:32:50,212 - logger - INFO - Successful dumping
+2024-09-12 05:32:50,212 - logger - INFO - ------
