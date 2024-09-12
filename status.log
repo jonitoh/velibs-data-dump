@@ -1853,3 +1853,11 @@
 2024-09-12 18:38:45,456 - logger - INFO - request status: Successful
 2024-09-12 18:38:45,475 - logger - INFO - Successful dumping
 2024-09-12 18:38:45,476 - logger - INFO - ------
+2024-09-12 19:25:48,161 - logger - INFO - ------
+2024-09-12 19:25:48,161 - logger - INFO - retrieve station status
+2024-09-12 19:25:48,670 - logger - INFO - request status: Successful
+2024-09-12 19:25:48,673 - logger - INFO - Successful dumping
+2024-09-12 19:25:48,673 - logger - INFO - retrieve station information
+2024-09-12 19:25:49,944 - logger - INFO - request status: Successful
+2024-09-12 19:25:49,962 - logger - INFO - Successful dumping
+2024-09-12 19:25:49,962 - logger - INFO - ------
