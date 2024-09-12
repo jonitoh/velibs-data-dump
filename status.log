@@ -1717,3 +1717,11 @@
 2024-09-12 01:50:32,253 - logger - INFO - request status: Successful
 2024-09-12 01:50:32,272 - logger - INFO - Successful dumping
 2024-09-12 01:50:32,272 - logger - INFO - ------
+2024-09-12 02:52:47,730 - logger - INFO - ------
+2024-09-12 02:52:47,730 - logger - INFO - retrieve station status
+2024-09-12 02:52:48,082 - logger - INFO - request status: Successful
+2024-09-12 02:52:48,085 - logger - INFO - Successful dumping
+2024-09-12 02:52:48,085 - logger - INFO - retrieve station information
+2024-09-12 02:52:48,843 - logger - INFO - request status: Successful
+2024-09-12 02:52:48,861 - logger - INFO - Successful dumping
+2024-09-12 02:52:48,861 - logger - INFO - ------
