@@ -1781,3 +1781,11 @@
 2024-09-12 09:30:54,460 - logger - INFO - request status: Successful
 2024-09-12 09:30:54,483 - logger - INFO - Successful dumping
 2024-09-12 09:30:54,484 - logger - INFO - ------
+2024-09-12 10:36:04,801 - logger - INFO - ------
+2024-09-12 10:36:04,801 - logger - INFO - retrieve station status
+2024-09-12 10:36:05,197 - logger - INFO - request status: Successful
+2024-09-12 10:36:05,199 - logger - INFO - Successful dumping
+2024-09-12 10:36:05,200 - logger - INFO - retrieve station information
+2024-09-12 10:36:05,969 - logger - INFO - request status: Successful
+2024-09-12 10:36:05,987 - logger - INFO - Successful dumping
+2024-09-12 10:36:05,988 - logger - INFO - ------
