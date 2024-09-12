@@ -1773,3 +1773,11 @@
 2024-09-12 08:36:24,043 - logger - INFO - request status: Successful
 2024-09-12 08:36:24,062 - logger - INFO - Successful dumping
 2024-09-12 08:36:24,062 - logger - INFO - ------
+2024-09-12 09:30:53,222 - logger - INFO - ------
+2024-09-12 09:30:53,222 - logger - INFO - retrieve station status
+2024-09-12 09:30:53,580 - logger - INFO - request status: Successful
+2024-09-12 09:30:53,583 - logger - INFO - Successful dumping
+2024-09-12 09:30:53,583 - logger - INFO - retrieve station information
+2024-09-12 09:30:54,460 - logger - INFO - request status: Successful
+2024-09-12 09:30:54,483 - logger - INFO - Successful dumping
+2024-09-12 09:30:54,484 - logger - INFO - ------
