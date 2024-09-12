@@ -1813,3 +1813,11 @@
 2024-09-12 13:33:20,834 - logger - INFO - request status: Successful
 2024-09-12 13:33:20,853 - logger - INFO - Successful dumping
 2024-09-12 13:33:20,853 - logger - INFO - ------
+2024-09-12 14:35:04,827 - logger - INFO - ------
+2024-09-12 14:35:04,828 - logger - INFO - retrieve station status
+2024-09-12 14:35:05,142 - logger - INFO - request status: Successful
+2024-09-12 14:35:05,144 - logger - INFO - Successful dumping
+2024-09-12 14:35:05,145 - logger - INFO - retrieve station information
+2024-09-12 14:35:05,897 - logger - INFO - request status: Successful
+2024-09-12 14:35:05,916 - logger - INFO - Successful dumping
+2024-09-12 14:35:05,916 - logger - INFO - ------
