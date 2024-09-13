@@ -1965,3 +1965,11 @@
 2024-09-13 09:30:37,782 - logger - INFO - request status: Successful
 2024-09-13 09:30:37,800 - logger - INFO - Successful dumping
 2024-09-13 09:30:37,801 - logger - INFO - ------
+2024-09-13 10:35:43,154 - logger - INFO - ------
+2024-09-13 10:35:43,154 - logger - INFO - retrieve station status
+2024-09-13 10:35:43,484 - logger - INFO - request status: Successful
+2024-09-13 10:35:43,487 - logger - INFO - Successful dumping
+2024-09-13 10:35:43,487 - logger - INFO - retrieve station information
+2024-09-13 10:35:44,382 - logger - INFO - request status: Successful
+2024-09-13 10:35:44,400 - logger - INFO - Successful dumping
+2024-09-13 10:35:44,401 - logger - INFO - ------
