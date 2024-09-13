@@ -1949,3 +1949,11 @@
 2024-09-13 07:29:08,997 - logger - INFO - request status: Successful
 2024-09-13 07:29:09,016 - logger - INFO - Successful dumping
 2024-09-13 07:29:09,016 - logger - INFO - ------
+2024-09-13 08:35:09,085 - logger - INFO - ------
+2024-09-13 08:35:09,085 - logger - INFO - retrieve station status
+2024-09-13 08:35:09,402 - logger - INFO - request status: Successful
+2024-09-13 08:35:09,405 - logger - INFO - Successful dumping
+2024-09-13 08:35:09,405 - logger - INFO - retrieve station information
+2024-09-13 08:35:10,286 - logger - INFO - request status: Successful
+2024-09-13 08:35:10,304 - logger - INFO - Successful dumping
+2024-09-13 08:35:10,305 - logger - INFO - ------
