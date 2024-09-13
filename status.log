@@ -1957,3 +1957,11 @@
 2024-09-13 08:35:10,286 - logger - INFO - request status: Successful
 2024-09-13 08:35:10,304 - logger - INFO - Successful dumping
 2024-09-13 08:35:10,305 - logger - INFO - ------
+2024-09-13 09:30:35,874 - logger - INFO - ------
+2024-09-13 09:30:35,874 - logger - INFO - retrieve station status
+2024-09-13 09:30:36,425 - logger - INFO - request status: Successful
+2024-09-13 09:30:36,428 - logger - INFO - Successful dumping
+2024-09-13 09:30:36,428 - logger - INFO - retrieve station information
+2024-09-13 09:30:37,782 - logger - INFO - request status: Successful
+2024-09-13 09:30:37,800 - logger - INFO - Successful dumping
+2024-09-13 09:30:37,801 - logger - INFO - ------
