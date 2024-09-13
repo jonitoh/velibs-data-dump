@@ -1989,3 +1989,11 @@
 2024-09-13 12:51:14,749 - logger - INFO - request status: Successful
 2024-09-13 12:51:14,767 - logger - INFO - Successful dumping
 2024-09-13 12:51:14,768 - logger - INFO - ------
+2024-09-13 13:32:26,164 - logger - INFO - ------
+2024-09-13 13:32:26,164 - logger - INFO - retrieve station status
+2024-09-13 13:32:26,720 - logger - INFO - request status: Successful
+2024-09-13 13:32:26,723 - logger - INFO - Successful dumping
+2024-09-13 13:32:26,723 - logger - INFO - retrieve station information
+2024-09-13 13:32:27,986 - logger - INFO - request status: Successful
+2024-09-13 13:32:28,004 - logger - INFO - Successful dumping
+2024-09-13 13:32:28,005 - logger - INFO - ------
