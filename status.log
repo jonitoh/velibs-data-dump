@@ -1973,3 +1973,11 @@
 2024-09-13 10:35:44,382 - logger - INFO - request status: Successful
 2024-09-13 10:35:44,400 - logger - INFO - Successful dumping
 2024-09-13 10:35:44,401 - logger - INFO - ------
+2024-09-13 11:26:47,471 - logger - INFO - ------
+2024-09-13 11:26:47,471 - logger - INFO - retrieve station status
+2024-09-13 11:26:48,021 - logger - INFO - request status: Successful
+2024-09-13 11:26:48,024 - logger - INFO - Successful dumping
+2024-09-13 11:26:48,024 - logger - INFO - retrieve station information
+2024-09-13 11:26:49,311 - logger - INFO - request status: Successful
+2024-09-13 11:26:49,329 - logger - INFO - Successful dumping
+2024-09-13 11:26:49,330 - logger - INFO - ------
