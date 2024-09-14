@@ -2181,3 +2181,11 @@
 2024-09-14 13:30:09,874 - logger - INFO - request status: Successful
 2024-09-14 13:30:09,893 - logger - INFO - Successful dumping
 2024-09-14 13:30:09,893 - logger - INFO - ------
+2024-09-14 14:30:45,555 - logger - INFO - ------
+2024-09-14 14:30:45,555 - logger - INFO - retrieve station status
+2024-09-14 14:30:45,862 - logger - INFO - request status: Successful
+2024-09-14 14:30:45,865 - logger - INFO - Successful dumping
+2024-09-14 14:30:45,865 - logger - INFO - retrieve station information
+2024-09-14 14:30:46,605 - logger - INFO - request status: Successful
+2024-09-14 14:30:46,623 - logger - INFO - Successful dumping
+2024-09-14 14:30:46,624 - logger - INFO - ------
