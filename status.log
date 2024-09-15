@@ -2405,3 +2405,11 @@
 2024-09-15 18:36:42,312 - logger - INFO - request status: Successful
 2024-09-15 18:36:42,331 - logger - INFO - Successful dumping
 2024-09-15 18:36:42,331 - logger - INFO - ------
+2024-09-15 19:25:51,184 - logger - INFO - ------
+2024-09-15 19:25:51,184 - logger - INFO - retrieve station status
+2024-09-15 19:25:51,729 - logger - INFO - request status: Successful
+2024-09-15 19:25:51,731 - logger - INFO - Successful dumping
+2024-09-15 19:25:51,731 - logger - INFO - retrieve station information
+2024-09-15 19:25:53,014 - logger - INFO - request status: Successful
+2024-09-15 19:25:53,032 - logger - INFO - Successful dumping
+2024-09-15 19:25:53,033 - logger - INFO - ------
