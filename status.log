@@ -2413,3 +2413,11 @@
 2024-09-15 19:25:53,014 - logger - INFO - request status: Successful
 2024-09-15 19:25:53,032 - logger - INFO - Successful dumping
 2024-09-15 19:25:53,033 - logger - INFO - ------
+2024-09-15 20:29:57,264 - logger - INFO - ------
+2024-09-15 20:29:57,264 - logger - INFO - retrieve station status
+2024-09-15 20:29:57,762 - logger - INFO - request status: Successful
+2024-09-15 20:29:57,764 - logger - INFO - Successful dumping
+2024-09-15 20:29:57,764 - logger - INFO - retrieve station information
+2024-09-15 20:29:59,027 - logger - INFO - request status: Successful
+2024-09-15 20:29:59,045 - logger - INFO - Successful dumping
+2024-09-15 20:29:59,046 - logger - INFO - ------
