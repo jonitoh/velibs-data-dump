@@ -2781,3 +2781,11 @@
 2024-09-17 19:26:44,178 - logger - INFO - request status: Successful
 2024-09-17 19:26:44,195 - logger - INFO - Successful dumping
 2024-09-17 19:26:44,196 - logger - INFO - ------
+2024-09-17 20:31:24,029 - logger - INFO - ------
+2024-09-17 20:31:24,029 - logger - INFO - retrieve station status
+2024-09-17 20:31:24,368 - logger - INFO - request status: Successful
+2024-09-17 20:31:24,371 - logger - INFO - Successful dumping
+2024-09-17 20:31:24,371 - logger - INFO - retrieve station information
+2024-09-17 20:31:25,263 - logger - INFO - request status: Successful
+2024-09-17 20:31:25,281 - logger - INFO - Successful dumping
+2024-09-17 20:31:25,281 - logger - INFO - ------
