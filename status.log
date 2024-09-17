@@ -2741,3 +2741,11 @@
 2024-09-17 14:31:42,687 - logger - INFO - request status: Successful
 2024-09-17 14:31:42,705 - logger - INFO - Successful dumping
 2024-09-17 14:31:42,706 - logger - INFO - ------
+2024-09-17 15:31:59,607 - logger - INFO - ------
+2024-09-17 15:31:59,608 - logger - INFO - retrieve station status
+2024-09-17 15:31:59,961 - logger - INFO - request status: Successful
+2024-09-17 15:31:59,963 - logger - INFO - Successful dumping
+2024-09-17 15:31:59,963 - logger - INFO - retrieve station information
+2024-09-17 15:32:00,697 - logger - INFO - request status: Successful
+2024-09-17 15:32:00,716 - logger - INFO - Successful dumping
+2024-09-17 15:32:00,716 - logger - INFO - ------
