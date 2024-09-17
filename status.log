@@ -2765,3 +2765,11 @@
 2024-09-17 17:32:11,601 - logger - INFO - request status: Successful
 2024-09-17 17:32:11,619 - logger - INFO - Successful dumping
 2024-09-17 17:32:11,619 - logger - INFO - ------
+2024-09-17 18:38:11,700 - logger - INFO - ------
+2024-09-17 18:38:11,701 - logger - INFO - retrieve station status
+2024-09-17 18:38:12,278 - logger - INFO - request status: Successful
+2024-09-17 18:38:12,281 - logger - INFO - Successful dumping
+2024-09-17 18:38:12,281 - logger - INFO - retrieve station information
+2024-09-17 18:38:13,564 - logger - INFO - request status: Successful
+2024-09-17 18:38:13,582 - logger - INFO - Successful dumping
+2024-09-17 18:38:13,582 - logger - INFO - ------
