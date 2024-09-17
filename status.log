@@ -2733,3 +2733,11 @@
 2024-09-17 13:33:57,661 - logger - INFO - request status: Successful
 2024-09-17 13:33:57,679 - logger - INFO - Successful dumping
 2024-09-17 13:33:57,680 - logger - INFO - ------
+2024-09-17 14:31:41,527 - logger - INFO - ------
+2024-09-17 14:31:41,527 - logger - INFO - retrieve station status
+2024-09-17 14:31:41,807 - logger - INFO - request status: Successful
+2024-09-17 14:31:41,810 - logger - INFO - Successful dumping
+2024-09-17 14:31:41,810 - logger - INFO - retrieve station information
+2024-09-17 14:31:42,687 - logger - INFO - request status: Successful
+2024-09-17 14:31:42,705 - logger - INFO - Successful dumping
+2024-09-17 14:31:42,706 - logger - INFO - ------
