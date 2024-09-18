@@ -2813,3 +2813,11 @@
 2024-09-17 23:31:25,604 - logger - INFO - request status: Successful
 2024-09-17 23:31:25,622 - logger - INFO - Successful dumping
 2024-09-17 23:31:25,623 - logger - INFO - ------
+2024-09-18 01:50:56,247 - logger - INFO - ------
+2024-09-18 01:50:56,247 - logger - INFO - retrieve station status
+2024-09-18 01:50:56,871 - logger - INFO - request status: Successful
+2024-09-18 01:50:56,874 - logger - INFO - Successful dumping
+2024-09-18 01:50:56,874 - logger - INFO - retrieve station information
+2024-09-18 01:50:58,143 - logger - INFO - request status: Successful
+2024-09-18 01:50:58,161 - logger - INFO - Successful dumping
+2024-09-18 01:50:58,162 - logger - INFO - ------
