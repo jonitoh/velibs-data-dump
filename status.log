@@ -2949,3 +2949,11 @@
 2024-09-18 17:31:22,319 - logger - INFO - request status: Successful
 2024-09-18 17:31:22,337 - logger - INFO - Successful dumping
 2024-09-18 17:31:22,338 - logger - INFO - ------
+2024-09-18 18:37:47,519 - logger - INFO - ------
+2024-09-18 18:37:47,519 - logger - INFO - retrieve station status
+2024-09-18 18:37:47,841 - logger - INFO - request status: Successful
+2024-09-18 18:37:47,844 - logger - INFO - Successful dumping
+2024-09-18 18:37:47,844 - logger - INFO - retrieve station information
+2024-09-18 18:37:48,640 - logger - INFO - request status: Successful
+2024-09-18 18:37:48,658 - logger - INFO - Successful dumping
+2024-09-18 18:37:48,658 - logger - INFO - ------
