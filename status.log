@@ -2909,3 +2909,11 @@
 2024-09-18 12:51:57,307 - logger - INFO - request status: Successful
 2024-09-18 12:51:57,326 - logger - INFO - Successful dumping
 2024-09-18 12:51:57,327 - logger - INFO - ------
+2024-09-18 13:34:12,481 - logger - INFO - ------
+2024-09-18 13:34:12,481 - logger - INFO - retrieve station status
+2024-09-18 13:34:12,772 - logger - INFO - request status: Successful
+2024-09-18 13:34:12,774 - logger - INFO - Successful dumping
+2024-09-18 13:34:12,774 - logger - INFO - retrieve station information
+2024-09-18 13:34:13,560 - logger - INFO - request status: Successful
+2024-09-18 13:34:13,579 - logger - INFO - Successful dumping
+2024-09-18 13:34:13,579 - logger - INFO - ------
