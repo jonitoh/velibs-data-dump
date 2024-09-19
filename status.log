@@ -3085,3 +3085,11 @@
 2024-09-19 11:27:02,800 - logger - INFO - request status: Successful
 2024-09-19 11:27:02,818 - logger - INFO - Successful dumping
 2024-09-19 11:27:02,818 - logger - INFO - ------
+2024-09-19 12:53:01,623 - logger - INFO - ------
+2024-09-19 12:53:01,623 - logger - INFO - retrieve station status
+2024-09-19 12:53:02,005 - logger - INFO - request status: Successful
+2024-09-19 12:53:02,008 - logger - INFO - Successful dumping
+2024-09-19 12:53:02,008 - logger - INFO - retrieve station information
+2024-09-19 12:53:02,744 - logger - INFO - request status: Successful
+2024-09-19 12:53:02,763 - logger - INFO - Successful dumping
+2024-09-19 12:53:02,763 - logger - INFO - ------
