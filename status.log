@@ -3005,3 +3005,11 @@
 2024-09-19 01:53:05,105 - logger - INFO - request status: Successful
 2024-09-19 01:53:05,123 - logger - INFO - Successful dumping
 2024-09-19 01:53:05,124 - logger - INFO - ------
+2024-09-19 02:55:41,118 - logger - INFO - ------
+2024-09-19 02:55:41,118 - logger - INFO - retrieve station status
+2024-09-19 02:55:41,652 - logger - INFO - request status: Successful
+2024-09-19 02:55:41,654 - logger - INFO - Successful dumping
+2024-09-19 02:55:41,654 - logger - INFO - retrieve station information
+2024-09-19 02:55:42,954 - logger - INFO - request status: Successful
+2024-09-19 02:55:42,972 - logger - INFO - Successful dumping
+2024-09-19 02:55:42,972 - logger - INFO - ------
