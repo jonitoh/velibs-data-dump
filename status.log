@@ -3045,3 +3045,11 @@
 2024-09-19 06:39:54,282 - logger - INFO - request status: Successful
 2024-09-19 06:39:54,301 - logger - INFO - Successful dumping
 2024-09-19 06:39:54,301 - logger - INFO - ------
+2024-09-19 07:28:01,319 - logger - INFO - ------
+2024-09-19 07:28:01,320 - logger - INFO - retrieve station status
+2024-09-19 07:28:01,708 - logger - INFO - request status: Successful
+2024-09-19 07:28:01,711 - logger - INFO - Successful dumping
+2024-09-19 07:28:01,711 - logger - INFO - retrieve station information
+2024-09-19 07:28:03,270 - logger - INFO - request status: Successful
+2024-09-19 07:28:03,288 - logger - INFO - Successful dumping
+2024-09-19 07:28:03,289 - logger - INFO - ------
