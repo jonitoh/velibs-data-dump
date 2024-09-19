@@ -3117,3 +3117,11 @@
 2024-09-19 15:32:21,282 - logger - INFO - request status: Successful
 2024-09-19 15:32:21,300 - logger - INFO - Successful dumping
 2024-09-19 15:32:21,301 - logger - INFO - ------
+2024-09-19 16:39:11,301 - logger - INFO - ------
+2024-09-19 16:39:11,301 - logger - INFO - retrieve station status
+2024-09-19 16:39:11,599 - logger - INFO - request status: Successful
+2024-09-19 16:39:11,602 - logger - INFO - Successful dumping
+2024-09-19 16:39:11,602 - logger - INFO - retrieve station information
+2024-09-19 16:39:12,378 - logger - INFO - request status: Successful
+2024-09-19 16:39:12,399 - logger - INFO - Successful dumping
+2024-09-19 16:39:12,400 - logger - INFO - ------
