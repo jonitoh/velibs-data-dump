@@ -3261,3 +3261,11 @@
 2024-09-20 10:35:51,865 - logger - INFO - request status: Successful
 2024-09-20 10:35:51,883 - logger - INFO - Successful dumping
 2024-09-20 10:35:51,884 - logger - INFO - ------
+2024-09-20 11:26:57,249 - logger - INFO - ------
+2024-09-20 11:26:57,250 - logger - INFO - retrieve station status
+2024-09-20 11:26:57,723 - logger - INFO - request status: Successful
+2024-09-20 11:26:57,725 - logger - INFO - Successful dumping
+2024-09-20 11:26:57,725 - logger - INFO - retrieve station information
+2024-09-20 11:26:58,986 - logger - INFO - request status: Successful
+2024-09-20 11:26:59,005 - logger - INFO - Successful dumping
+2024-09-20 11:26:59,005 - logger - INFO - ------
