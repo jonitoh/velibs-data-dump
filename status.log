@@ -3309,3 +3309,11 @@
 2024-09-20 16:39:06,973 - logger - INFO - request status: Successful
 2024-09-20 16:39:06,992 - logger - INFO - Successful dumping
 2024-09-20 16:39:06,992 - logger - INFO - ------
+2024-09-20 17:30:59,794 - logger - INFO - ------
+2024-09-20 17:30:59,794 - logger - INFO - retrieve station status
+2024-09-20 17:31:00,173 - logger - INFO - request status: Successful
+2024-09-20 17:31:00,175 - logger - INFO - Successful dumping
+2024-09-20 17:31:00,175 - logger - INFO - retrieve station information
+2024-09-20 17:31:01,064 - logger - INFO - request status: Successful
+2024-09-20 17:31:01,083 - logger - INFO - Successful dumping
+2024-09-20 17:31:01,084 - logger - INFO - ------
