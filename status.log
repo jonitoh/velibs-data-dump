@@ -3493,3 +3493,11 @@
 2024-09-21 16:37:44,652 - logger - INFO - request status: Successful
 2024-09-21 16:37:44,670 - logger - INFO - Successful dumping
 2024-09-21 16:37:44,671 - logger - INFO - ------
+2024-09-21 17:32:39,390 - logger - INFO - ------
+2024-09-21 17:32:39,390 - logger - INFO - retrieve station status
+2024-09-21 17:32:39,839 - logger - INFO - request status: Successful
+2024-09-21 17:32:39,841 - logger - INFO - Successful dumping
+2024-09-21 17:32:39,842 - logger - INFO - retrieve station information
+2024-09-21 17:32:41,110 - logger - INFO - request status: Successful
+2024-09-21 17:32:41,128 - logger - INFO - Successful dumping
+2024-09-21 17:32:41,128 - logger - INFO - ------
