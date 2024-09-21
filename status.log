@@ -3517,3 +3517,11 @@
 2024-09-21 19:25:53,869 - logger - INFO - request status: Successful
 2024-09-21 19:25:53,888 - logger - INFO - Successful dumping
 2024-09-21 19:25:53,888 - logger - INFO - ------
+2024-09-21 20:29:33,009 - logger - INFO - ------
+2024-09-21 20:29:33,009 - logger - INFO - retrieve station status
+2024-09-21 20:29:33,313 - logger - INFO - request status: Successful
+2024-09-21 20:29:33,315 - logger - INFO - Successful dumping
+2024-09-21 20:29:33,315 - logger - INFO - retrieve station information
+2024-09-21 20:29:34,084 - logger - INFO - request status: Successful
+2024-09-21 20:29:34,102 - logger - INFO - Successful dumping
+2024-09-21 20:29:34,103 - logger - INFO - ------
