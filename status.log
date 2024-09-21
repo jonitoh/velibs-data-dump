@@ -3373,3 +3373,11 @@
 2024-09-21 01:50:55,336 - logger - INFO - request status: Successful
 2024-09-21 01:50:55,354 - logger - INFO - Successful dumping
 2024-09-21 01:50:55,355 - logger - INFO - ------
+2024-09-21 02:52:58,611 - logger - INFO - ------
+2024-09-21 02:52:58,611 - logger - INFO - retrieve station status
+2024-09-21 02:52:59,067 - logger - INFO - request status: Successful
+2024-09-21 02:52:59,069 - logger - INFO - Successful dumping
+2024-09-21 02:52:59,069 - logger - INFO - retrieve station information
+2024-09-21 02:53:00,338 - logger - INFO - request status: Successful
+2024-09-21 02:53:00,357 - logger - INFO - Successful dumping
+2024-09-21 02:53:00,357 - logger - INFO - ------
