@@ -3413,3 +3413,11 @@
 2024-09-21 06:37:13,400 - logger - INFO - request status: Successful
 2024-09-21 06:37:13,418 - logger - INFO - Successful dumping
 2024-09-21 06:37:13,418 - logger - INFO - ------
+2024-09-21 07:26:57,402 - logger - INFO - ------
+2024-09-21 07:26:57,402 - logger - INFO - retrieve station status
+2024-09-21 07:26:57,883 - logger - INFO - request status: Successful
+2024-09-21 07:26:57,886 - logger - INFO - Successful dumping
+2024-09-21 07:26:57,886 - logger - INFO - retrieve station information
+2024-09-21 07:26:59,142 - logger - INFO - request status: Successful
+2024-09-21 07:26:59,160 - logger - INFO - Successful dumping
+2024-09-21 07:26:59,161 - logger - INFO - ------
