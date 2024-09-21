@@ -3469,3 +3469,11 @@
 2024-09-21 13:30:18,083 - logger - INFO - request status: Successful
 2024-09-21 13:30:18,101 - logger - INFO - Successful dumping
 2024-09-21 13:30:18,102 - logger - INFO - ------
+2024-09-21 14:30:43,819 - logger - INFO - ------
+2024-09-21 14:30:43,819 - logger - INFO - retrieve station status
+2024-09-21 14:30:44,182 - logger - INFO - request status: Successful
+2024-09-21 14:30:44,185 - logger - INFO - Successful dumping
+2024-09-21 14:30:44,185 - logger - INFO - retrieve station information
+2024-09-21 14:30:45,028 - logger - INFO - request status: Successful
+2024-09-21 14:30:45,046 - logger - INFO - Successful dumping
+2024-09-21 14:30:45,046 - logger - INFO - ------
