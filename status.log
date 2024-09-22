@@ -3629,3 +3629,11 @@
 2024-09-22 10:33:36,144 - logger - INFO - request status: Successful
 2024-09-22 10:33:36,163 - logger - INFO - Successful dumping
 2024-09-22 10:33:36,163 - logger - INFO - ------
+2024-09-22 11:25:47,736 - logger - INFO - ------
+2024-09-22 11:25:47,736 - logger - INFO - retrieve station status
+2024-09-22 11:25:48,003 - logger - INFO - request status: Successful
+2024-09-22 11:25:48,006 - logger - INFO - Successful dumping
+2024-09-22 11:25:48,006 - logger - INFO - retrieve station information
+2024-09-22 11:25:48,740 - logger - INFO - request status: Successful
+2024-09-22 11:25:48,760 - logger - INFO - Successful dumping
+2024-09-22 11:25:48,760 - logger - INFO - ------
