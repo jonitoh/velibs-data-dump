@@ -3605,3 +3605,11 @@
 2024-09-22 07:26:33,346 - logger - INFO - request status: Successful
 2024-09-22 07:26:33,365 - logger - INFO - Successful dumping
 2024-09-22 07:26:33,365 - logger - INFO - ------
+2024-09-22 08:33:32,543 - logger - INFO - ------
+2024-09-22 08:33:32,543 - logger - INFO - retrieve station status
+2024-09-22 08:33:33,071 - logger - INFO - request status: Successful
+2024-09-22 08:33:33,073 - logger - INFO - Successful dumping
+2024-09-22 08:33:33,074 - logger - INFO - retrieve station information
+2024-09-22 08:33:34,333 - logger - INFO - request status: Successful
+2024-09-22 08:33:34,351 - logger - INFO - Successful dumping
+2024-09-22 08:33:34,352 - logger - INFO - ------
