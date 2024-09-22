@@ -3724,3 +3724,11 @@
 2024-09-22 22:32:52,734 - logger - INFO - request status: Successful
 2024-09-22 22:32:52,752 - logger - INFO - Successful dumping
 2024-09-22 22:32:52,753 - logger - INFO - ------
+2024-09-22 23:30:17,570 - logger - INFO - ------
+2024-09-22 23:30:17,570 - logger - INFO - retrieve station status
+2024-09-22 23:30:17,959 - logger - INFO - request status: Successful
+2024-09-22 23:30:17,961 - logger - INFO - Successful dumping
+2024-09-22 23:30:17,962 - logger - INFO - retrieve station information
+2024-09-22 23:30:18,678 - logger - INFO - request status: Successful
+2024-09-22 23:30:18,697 - logger - INFO - Successful dumping
+2024-09-22 23:30:18,697 - logger - INFO - ------
