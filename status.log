@@ -3652,3 +3652,11 @@
 2024-09-22 13:30:45,904 - logger - INFO - retrieve station information
 2024-09-22 13:30:46,582 - logger - INFO - request status: Unsuccessful 502
 2024-09-22 13:30:46,582 - logger - INFO - ------
+2024-09-22 14:31:01,072 - logger - INFO - ------
+2024-09-22 14:31:01,072 - logger - INFO - retrieve station status
+2024-09-22 14:31:01,595 - logger - INFO - request status: Successful
+2024-09-22 14:31:01,598 - logger - INFO - Successful dumping
+2024-09-22 14:31:01,598 - logger - INFO - retrieve station information
+2024-09-22 14:31:02,881 - logger - INFO - request status: Successful
+2024-09-22 14:31:02,900 - logger - INFO - Successful dumping
+2024-09-22 14:31:02,900 - logger - INFO - ------
