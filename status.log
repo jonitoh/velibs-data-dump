@@ -3645,3 +3645,10 @@
 2024-09-22 12:49:28,244 - logger - INFO - request status: Successful
 2024-09-22 12:49:28,262 - logger - INFO - Successful dumping
 2024-09-22 12:49:28,263 - logger - INFO - ------
+2024-09-22 13:30:45,372 - logger - INFO - ------
+2024-09-22 13:30:45,372 - logger - INFO - retrieve station status
+2024-09-22 13:30:45,901 - logger - INFO - request status: Successful
+2024-09-22 13:30:45,904 - logger - INFO - Successful dumping
+2024-09-22 13:30:45,904 - logger - INFO - retrieve station information
+2024-09-22 13:30:46,582 - logger - INFO - request status: Unsuccessful 502
+2024-09-22 13:30:46,582 - logger - INFO - ------
