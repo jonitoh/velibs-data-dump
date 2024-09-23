@@ -3820,3 +3820,11 @@
 2024-09-23 11:27:16,117 - logger - INFO - request status: Successful
 2024-09-23 11:27:16,135 - logger - INFO - Successful dumping
 2024-09-23 11:27:16,136 - logger - INFO - ------
+2024-09-23 12:53:38,235 - logger - INFO - ------
+2024-09-23 12:53:38,235 - logger - INFO - retrieve station status
+2024-09-23 12:53:39,558 - logger - INFO - request status: Successful
+2024-09-23 12:53:39,560 - logger - INFO - Successful dumping
+2024-09-23 12:53:39,561 - logger - INFO - retrieve station information
+2024-09-23 12:53:40,391 - logger - INFO - request status: Successful
+2024-09-23 12:53:40,409 - logger - INFO - Successful dumping
+2024-09-23 12:53:40,409 - logger - INFO - ------
