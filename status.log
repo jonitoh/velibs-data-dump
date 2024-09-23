@@ -3892,3 +3892,11 @@
 2024-09-23 20:32:42,690 - logger - INFO - request status: Successful
 2024-09-23 20:32:42,708 - logger - INFO - Successful dumping
 2024-09-23 20:32:42,709 - logger - INFO - ------
+2024-09-23 21:29:24,212 - logger - INFO - ------
+2024-09-23 21:29:24,212 - logger - INFO - retrieve station status
+2024-09-23 21:29:26,268 - logger - INFO - request status: Successful
+2024-09-23 21:29:26,271 - logger - INFO - Successful dumping
+2024-09-23 21:29:26,271 - logger - INFO - retrieve station information
+2024-09-23 21:29:27,007 - logger - INFO - request status: Successful
+2024-09-23 21:29:27,026 - logger - INFO - Successful dumping
+2024-09-23 21:29:27,027 - logger - INFO - ------
