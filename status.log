@@ -4068,3 +4068,11 @@
 2024-09-24 19:25:43,862 - logger - INFO - request status: Successful
 2024-09-24 19:25:43,880 - logger - INFO - Successful dumping
 2024-09-24 19:25:43,881 - logger - INFO - ------
+2024-09-24 20:32:11,512 - logger - INFO - ------
+2024-09-24 20:32:11,512 - logger - INFO - retrieve station status
+2024-09-24 20:32:12,061 - logger - INFO - request status: Successful
+2024-09-24 20:32:12,063 - logger - INFO - Successful dumping
+2024-09-24 20:32:12,063 - logger - INFO - retrieve station information
+2024-09-24 20:32:13,366 - logger - INFO - request status: Successful
+2024-09-24 20:32:13,384 - logger - INFO - Successful dumping
+2024-09-24 20:32:13,385 - logger - INFO - ------
