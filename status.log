@@ -4004,3 +4004,11 @@
 2024-09-24 11:27:27,412 - logger - INFO - request status: Successful
 2024-09-24 11:27:27,430 - logger - INFO - Successful dumping
 2024-09-24 11:27:27,431 - logger - INFO - ------
+2024-09-24 12:54:28,545 - logger - INFO - ------
+2024-09-24 12:54:28,545 - logger - INFO - retrieve station status
+2024-09-24 12:54:28,908 - logger - INFO - request status: Successful
+2024-09-24 12:54:28,911 - logger - INFO - Successful dumping
+2024-09-24 12:54:28,911 - logger - INFO - retrieve station information
+2024-09-24 12:54:29,773 - logger - INFO - request status: Successful
+2024-09-24 12:54:29,792 - logger - INFO - Successful dumping
+2024-09-24 12:54:29,792 - logger - INFO - ------
