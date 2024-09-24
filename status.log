@@ -4076,3 +4076,11 @@
 2024-09-24 20:32:13,366 - logger - INFO - request status: Successful
 2024-09-24 20:32:13,384 - logger - INFO - Successful dumping
 2024-09-24 20:32:13,385 - logger - INFO - ------
+2024-09-24 21:29:12,365 - logger - INFO - ------
+2024-09-24 21:29:12,365 - logger - INFO - retrieve station status
+2024-09-24 21:29:12,666 - logger - INFO - request status: Successful
+2024-09-24 21:29:12,668 - logger - INFO - Successful dumping
+2024-09-24 21:29:12,669 - logger - INFO - retrieve station information
+2024-09-24 21:29:13,377 - logger - INFO - request status: Successful
+2024-09-24 21:29:13,395 - logger - INFO - Successful dumping
+2024-09-24 21:29:13,396 - logger - INFO - ------
