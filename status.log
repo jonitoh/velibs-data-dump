@@ -4084,3 +4084,11 @@
 2024-09-24 21:29:13,377 - logger - INFO - request status: Successful
 2024-09-24 21:29:13,395 - logger - INFO - Successful dumping
 2024-09-24 21:29:13,396 - logger - INFO - ------
+2024-09-24 22:33:54,550 - logger - INFO - ------
+2024-09-24 22:33:54,550 - logger - INFO - retrieve station status
+2024-09-24 22:33:54,897 - logger - INFO - request status: Successful
+2024-09-24 22:33:54,899 - logger - INFO - Successful dumping
+2024-09-24 22:33:54,900 - logger - INFO - retrieve station information
+2024-09-24 22:33:55,773 - logger - INFO - request status: Successful
+2024-09-24 22:33:55,791 - logger - INFO - Successful dumping
+2024-09-24 22:33:55,792 - logger - INFO - ------
