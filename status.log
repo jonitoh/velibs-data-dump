@@ -4236,3 +4236,11 @@
 2024-09-25 17:32:14,114 - logger - INFO - request status: Successful
 2024-09-25 17:32:14,133 - logger - INFO - Successful dumping
 2024-09-25 17:32:14,133 - logger - INFO - ------
+2024-09-25 18:39:27,281 - logger - INFO - ------
+2024-09-25 18:39:27,281 - logger - INFO - retrieve station status
+2024-09-25 18:39:27,640 - logger - INFO - request status: Successful
+2024-09-25 18:39:27,643 - logger - INFO - Successful dumping
+2024-09-25 18:39:27,643 - logger - INFO - retrieve station information
+2024-09-25 18:39:28,380 - logger - INFO - request status: Successful
+2024-09-25 18:39:28,398 - logger - INFO - Successful dumping
+2024-09-25 18:39:28,399 - logger - INFO - ------
