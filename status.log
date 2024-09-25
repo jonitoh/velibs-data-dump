@@ -4116,3 +4116,11 @@
 2024-09-25 03:01:05,880 - logger - INFO - request status: Successful
 2024-09-25 03:01:05,898 - logger - INFO - Successful dumping
 2024-09-25 03:01:05,899 - logger - INFO - ------
+2024-09-25 03:39:41,388 - logger - INFO - ------
+2024-09-25 03:39:41,388 - logger - INFO - retrieve station status
+2024-09-25 03:39:42,088 - logger - INFO - request status: Successful
+2024-09-25 03:39:42,092 - logger - INFO - Successful dumping
+2024-09-25 03:39:42,092 - logger - INFO - retrieve station information
+2024-09-25 03:39:43,389 - logger - INFO - request status: Successful
+2024-09-25 03:39:43,407 - logger - INFO - Successful dumping
+2024-09-25 03:39:43,408 - logger - INFO - ------
