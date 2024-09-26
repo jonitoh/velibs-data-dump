@@ -4404,3 +4404,11 @@
 2024-09-26 15:32:37,679 - logger - INFO - request status: Successful
 2024-09-26 15:32:37,698 - logger - INFO - Successful dumping
 2024-09-26 15:32:37,698 - logger - INFO - ------
+2024-09-26 16:40:10,266 - logger - INFO - ------
+2024-09-26 16:40:10,266 - logger - INFO - retrieve station status
+2024-09-26 16:40:10,874 - logger - INFO - request status: Successful
+2024-09-26 16:40:10,877 - logger - INFO - Successful dumping
+2024-09-26 16:40:10,877 - logger - INFO - retrieve station information
+2024-09-26 16:40:12,160 - logger - INFO - request status: Successful
+2024-09-26 16:40:12,179 - logger - INFO - Successful dumping
+2024-09-26 16:40:12,179 - logger - INFO - ------
