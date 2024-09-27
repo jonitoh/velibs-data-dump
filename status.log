@@ -4628,3 +4628,11 @@
 2024-09-27 20:31:31,177 - logger - INFO - request status: Successful
 2024-09-27 20:31:31,196 - logger - INFO - Successful dumping
 2024-09-27 20:31:31,196 - logger - INFO - ------
+2024-09-27 21:30:20,152 - logger - INFO - ------
+2024-09-27 21:30:20,152 - logger - INFO - retrieve station status
+2024-09-27 21:30:20,538 - logger - INFO - request status: Successful
+2024-09-27 21:30:20,540 - logger - INFO - Successful dumping
+2024-09-27 21:30:20,540 - logger - INFO - retrieve station information
+2024-09-27 21:30:21,317 - logger - INFO - request status: Successful
+2024-09-27 21:30:21,336 - logger - INFO - Successful dumping
+2024-09-27 21:30:21,336 - logger - INFO - ------
