@@ -4828,3 +4828,11 @@
 2024-09-28 22:32:39,447 - logger - INFO - request status: Successful
 2024-09-28 22:32:39,465 - logger - INFO - Successful dumping
 2024-09-28 22:32:39,465 - logger - INFO - ------
+2024-09-28 23:31:19,556 - logger - INFO - ------
+2024-09-28 23:31:19,556 - logger - INFO - retrieve station status
+2024-09-28 23:31:19,843 - logger - INFO - request status: Successful
+2024-09-28 23:31:19,845 - logger - INFO - Successful dumping
+2024-09-28 23:31:19,845 - logger - INFO - retrieve station information
+2024-09-28 23:31:20,593 - logger - INFO - request status: Successful
+2024-09-28 23:31:20,611 - logger - INFO - Successful dumping
+2024-09-28 23:31:20,612 - logger - INFO - ------
