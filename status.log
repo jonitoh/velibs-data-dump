@@ -4692,3 +4692,11 @@
 2024-09-28 05:32:44,547 - logger - INFO - request status: Successful
 2024-09-28 05:32:44,566 - logger - INFO - Successful dumping
 2024-09-28 05:32:44,566 - logger - INFO - ------
+2024-09-28 06:37:56,108 - logger - INFO - ------
+2024-09-28 06:37:56,108 - logger - INFO - retrieve station status
+2024-09-28 06:37:56,483 - logger - INFO - request status: Successful
+2024-09-28 06:37:56,486 - logger - INFO - Successful dumping
+2024-09-28 06:37:56,486 - logger - INFO - retrieve station information
+2024-09-28 06:37:57,044 - logger - INFO - request status: Successful
+2024-09-28 06:37:57,062 - logger - INFO - Successful dumping
+2024-09-28 06:37:57,063 - logger - INFO - ------
