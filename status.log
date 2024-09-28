@@ -4660,3 +4660,11 @@
 2024-09-28 01:56:34,224 - logger - INFO - request status: Successful
 2024-09-28 01:56:34,243 - logger - INFO - Successful dumping
 2024-09-28 01:56:34,243 - logger - INFO - ------
+2024-09-28 02:57:48,252 - logger - INFO - ------
+2024-09-28 02:57:48,252 - logger - INFO - retrieve station status
+2024-09-28 02:57:48,558 - logger - INFO - request status: Successful
+2024-09-28 02:57:48,561 - logger - INFO - Successful dumping
+2024-09-28 02:57:48,561 - logger - INFO - retrieve station information
+2024-09-28 02:57:49,258 - logger - INFO - request status: Successful
+2024-09-28 02:57:49,276 - logger - INFO - Successful dumping
+2024-09-28 02:57:49,276 - logger - INFO - ------
