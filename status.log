@@ -4924,3 +4924,11 @@
 2024-09-29 11:26:36,005 - logger - INFO - request status: Successful
 2024-09-29 11:26:36,023 - logger - INFO - Successful dumping
 2024-09-29 11:26:36,024 - logger - INFO - ------
+2024-09-29 12:50:32,786 - logger - INFO - ------
+2024-09-29 12:50:32,786 - logger - INFO - retrieve station status
+2024-09-29 12:50:33,230 - logger - INFO - request status: Successful
+2024-09-29 12:50:33,232 - logger - INFO - Successful dumping
+2024-09-29 12:50:33,232 - logger - INFO - retrieve station information
+2024-09-29 12:50:34,522 - logger - INFO - request status: Successful
+2024-09-29 12:50:34,541 - logger - INFO - Successful dumping
+2024-09-29 12:50:34,541 - logger - INFO - ------
