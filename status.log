@@ -4908,3 +4908,11 @@
 2024-09-29 09:30:28,902 - logger - INFO - request status: Successful
 2024-09-29 09:30:28,920 - logger - INFO - Successful dumping
 2024-09-29 09:30:28,921 - logger - INFO - ------
+2024-09-29 10:33:42,596 - logger - INFO - ------
+2024-09-29 10:33:42,596 - logger - INFO - retrieve station status
+2024-09-29 10:33:42,962 - logger - INFO - request status: Successful
+2024-09-29 10:33:42,965 - logger - INFO - Successful dumping
+2024-09-29 10:33:42,965 - logger - INFO - retrieve station information
+2024-09-29 10:33:43,665 - logger - INFO - request status: Successful
+2024-09-29 10:33:43,684 - logger - INFO - Successful dumping
+2024-09-29 10:33:43,684 - logger - INFO - ------
