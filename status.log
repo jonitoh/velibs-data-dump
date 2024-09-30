@@ -5060,3 +5060,11 @@
 2024-09-30 05:34:07,055 - logger - INFO - request status: Successful
 2024-09-30 05:34:07,073 - logger - INFO - Successful dumping
 2024-09-30 05:34:07,074 - logger - INFO - ------
+2024-09-30 06:42:06,530 - logger - INFO - ------
+2024-09-30 06:42:06,530 - logger - INFO - retrieve station status
+2024-09-30 06:42:07,826 - logger - INFO - request status: Successful
+2024-09-30 06:42:07,829 - logger - INFO - Successful dumping
+2024-09-30 06:42:07,829 - logger - INFO - retrieve station information
+2024-09-30 06:42:08,570 - logger - INFO - request status: Successful
+2024-09-30 06:42:08,589 - logger - INFO - Successful dumping
+2024-09-30 06:42:08,589 - logger - INFO - ------
