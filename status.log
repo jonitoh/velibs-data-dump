@@ -5052,3 +5052,11 @@
 2024-09-30 04:37:37,270 - logger - INFO - request status: Successful
 2024-09-30 04:37:37,288 - logger - INFO - Successful dumping
 2024-09-30 04:37:37,289 - logger - INFO - ------
+2024-09-30 05:34:05,104 - logger - INFO - ------
+2024-09-30 05:34:05,105 - logger - INFO - retrieve station status
+2024-09-30 05:34:05,774 - logger - INFO - request status: Successful
+2024-09-30 05:34:05,777 - logger - INFO - Successful dumping
+2024-09-30 05:34:05,777 - logger - INFO - retrieve station information
+2024-09-30 05:34:07,055 - logger - INFO - request status: Successful
+2024-09-30 05:34:07,073 - logger - INFO - Successful dumping
+2024-09-30 05:34:07,074 - logger - INFO - ------
