@@ -5084,3 +5084,11 @@
 2024-09-30 08:39:50,080 - logger - INFO - request status: Successful
 2024-09-30 08:39:50,098 - logger - INFO - Successful dumping
 2024-09-30 08:39:50,099 - logger - INFO - ------
+2024-09-30 09:33:51,709 - logger - INFO - ------
+2024-09-30 09:33:51,709 - logger - INFO - retrieve station status
+2024-09-30 09:33:52,091 - logger - INFO - request status: Successful
+2024-09-30 09:33:52,094 - logger - INFO - Successful dumping
+2024-09-30 09:33:52,094 - logger - INFO - retrieve station information
+2024-09-30 09:33:52,845 - logger - INFO - request status: Successful
+2024-09-30 09:33:52,863 - logger - INFO - Successful dumping
+2024-09-30 09:33:52,864 - logger - INFO - ------
