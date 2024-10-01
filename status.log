@@ -5316,3 +5316,11 @@
 2024-10-01 14:35:15,856 - logger - INFO - request status: Successful
 2024-10-01 14:35:15,874 - logger - INFO - Successful dumping
 2024-10-01 14:35:15,875 - logger - INFO - ------
+2024-10-01 15:32:52,174 - logger - INFO - ------
+2024-10-01 15:32:52,174 - logger - INFO - retrieve station status
+2024-10-01 15:32:52,695 - logger - INFO - request status: Successful
+2024-10-01 15:32:52,698 - logger - INFO - Successful dumping
+2024-10-01 15:32:52,698 - logger - INFO - retrieve station information
+2024-10-01 15:32:53,991 - logger - INFO - request status: Successful
+2024-10-01 15:32:54,009 - logger - INFO - Successful dumping
+2024-10-01 15:32:54,010 - logger - INFO - ------
