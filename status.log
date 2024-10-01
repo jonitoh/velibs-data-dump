@@ -5308,3 +5308,11 @@
 2024-10-01 13:37:06,180 - logger - INFO - request status: Successful
 2024-10-01 13:37:06,199 - logger - INFO - Successful dumping
 2024-10-01 13:37:06,199 - logger - INFO - ------
+2024-10-01 14:35:14,124 - logger - INFO - ------
+2024-10-01 14:35:14,124 - logger - INFO - retrieve station status
+2024-10-01 14:35:14,575 - logger - INFO - request status: Successful
+2024-10-01 14:35:14,578 - logger - INFO - Successful dumping
+2024-10-01 14:35:14,579 - logger - INFO - retrieve station information
+2024-10-01 14:35:15,856 - logger - INFO - request status: Successful
+2024-10-01 14:35:15,874 - logger - INFO - Successful dumping
+2024-10-01 14:35:15,875 - logger - INFO - ------
