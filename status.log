@@ -5236,3 +5236,11 @@
 2024-10-01 04:37:29,076 - logger - INFO - request status: Successful
 2024-10-01 04:37:29,095 - logger - INFO - Successful dumping
 2024-10-01 04:37:29,095 - logger - INFO - ------
+2024-10-01 05:33:57,132 - logger - INFO - ------
+2024-10-01 05:33:57,132 - logger - INFO - retrieve station status
+2024-10-01 05:33:57,800 - logger - INFO - request status: Successful
+2024-10-01 05:33:57,802 - logger - INFO - Successful dumping
+2024-10-01 05:33:57,803 - logger - INFO - retrieve station information
+2024-10-01 05:33:59,070 - logger - INFO - request status: Successful
+2024-10-01 05:33:59,088 - logger - INFO - Successful dumping
+2024-10-01 05:33:59,089 - logger - INFO - ------
