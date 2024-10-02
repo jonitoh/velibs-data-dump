@@ -5404,3 +5404,11 @@
 2024-10-02 02:58:33,504 - logger - INFO - request status: Successful
 2024-10-02 02:58:33,522 - logger - INFO - Successful dumping
 2024-10-02 02:58:33,523 - logger - INFO - ------
+2024-10-02 03:37:59,666 - logger - INFO - ------
+2024-10-02 03:37:59,666 - logger - INFO - retrieve station status
+2024-10-02 03:38:00,091 - logger - INFO - request status: Successful
+2024-10-02 03:38:00,094 - logger - INFO - Successful dumping
+2024-10-02 03:38:00,094 - logger - INFO - retrieve station information
+2024-10-02 03:38:00,960 - logger - INFO - request status: Successful
+2024-10-02 03:38:00,978 - logger - INFO - Successful dumping
+2024-10-02 03:38:00,978 - logger - INFO - ------
