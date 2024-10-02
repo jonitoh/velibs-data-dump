@@ -5540,3 +5540,11 @@
 2024-10-02 19:26:06,716 - logger - INFO - request status: Successful
 2024-10-02 19:26:06,735 - logger - INFO - Successful dumping
 2024-10-02 19:26:06,735 - logger - INFO - ------
+2024-10-02 20:34:02,448 - logger - INFO - ------
+2024-10-02 20:34:02,448 - logger - INFO - retrieve station status
+2024-10-02 20:34:02,946 - logger - INFO - request status: Successful
+2024-10-02 20:34:02,948 - logger - INFO - Successful dumping
+2024-10-02 20:34:02,948 - logger - INFO - retrieve station information
+2024-10-02 20:34:04,234 - logger - INFO - request status: Successful
+2024-10-02 20:34:04,252 - logger - INFO - Successful dumping
+2024-10-02 20:34:04,253 - logger - INFO - ------
