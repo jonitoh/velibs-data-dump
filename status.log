@@ -5532,3 +5532,11 @@
 2024-10-02 18:40:19,774 - logger - INFO - request status: Successful
 2024-10-02 18:40:19,792 - logger - INFO - Successful dumping
 2024-10-02 18:40:19,793 - logger - INFO - ------
+2024-10-02 19:26:05,444 - logger - INFO - ------
+2024-10-02 19:26:05,444 - logger - INFO - retrieve station status
+2024-10-02 19:26:05,826 - logger - INFO - request status: Successful
+2024-10-02 19:26:05,828 - logger - INFO - Successful dumping
+2024-10-02 19:26:05,828 - logger - INFO - retrieve station information
+2024-10-02 19:26:06,716 - logger - INFO - request status: Successful
+2024-10-02 19:26:06,735 - logger - INFO - Successful dumping
+2024-10-02 19:26:06,735 - logger - INFO - ------
