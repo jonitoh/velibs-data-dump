@@ -5508,3 +5508,11 @@
 2024-10-02 15:33:15,924 - logger - INFO - request status: Successful
 2024-10-02 15:33:15,942 - logger - INFO - Successful dumping
 2024-10-02 15:33:15,943 - logger - INFO - ------
+2024-10-02 16:40:04,737 - logger - INFO - ------
+2024-10-02 16:40:04,737 - logger - INFO - retrieve station status
+2024-10-02 16:40:05,066 - logger - INFO - request status: Successful
+2024-10-02 16:40:05,068 - logger - INFO - Successful dumping
+2024-10-02 16:40:05,069 - logger - INFO - retrieve station information
+2024-10-02 16:40:05,941 - logger - INFO - request status: Successful
+2024-10-02 16:40:05,959 - logger - INFO - Successful dumping
+2024-10-02 16:40:05,960 - logger - INFO - ------
