@@ -5388,3 +5388,11 @@
 2024-10-01 23:29:41,733 - logger - INFO - request status: Successful
 2024-10-01 23:29:41,752 - logger - INFO - Successful dumping
 2024-10-01 23:29:41,753 - logger - INFO - ------
+2024-10-02 01:55:26,860 - logger - INFO - ------
+2024-10-02 01:55:26,861 - logger - INFO - retrieve station status
+2024-10-02 01:55:27,182 - logger - INFO - request status: Successful
+2024-10-02 01:55:27,184 - logger - INFO - Successful dumping
+2024-10-02 01:55:27,185 - logger - INFO - retrieve station information
+2024-10-02 01:55:27,962 - logger - INFO - request status: Successful
+2024-10-02 01:55:27,980 - logger - INFO - Successful dumping
+2024-10-02 01:55:27,981 - logger - INFO - ------
