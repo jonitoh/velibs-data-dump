@@ -5724,3 +5724,11 @@
 2024-10-03 19:25:54,694 - logger - INFO - request status: Successful
 2024-10-03 19:25:54,713 - logger - INFO - Successful dumping
 2024-10-03 19:25:54,713 - logger - INFO - ------
+2024-10-03 20:31:38,564 - logger - INFO - ------
+2024-10-03 20:31:38,564 - logger - INFO - retrieve station status
+2024-10-03 20:31:38,899 - logger - INFO - request status: Successful
+2024-10-03 20:31:38,902 - logger - INFO - Successful dumping
+2024-10-03 20:31:38,902 - logger - INFO - retrieve station information
+2024-10-03 20:31:39,666 - logger - INFO - request status: Successful
+2024-10-03 20:31:39,684 - logger - INFO - Successful dumping
+2024-10-03 20:31:39,684 - logger - INFO - ------
