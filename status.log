@@ -5580,3 +5580,11 @@
 2024-10-03 01:55:47,288 - logger - INFO - request status: Successful
 2024-10-03 01:55:47,307 - logger - INFO - Successful dumping
 2024-10-03 01:55:47,308 - logger - INFO - ------
+2024-10-03 02:59:22,461 - logger - INFO - ------
+2024-10-03 02:59:22,461 - logger - INFO - retrieve station status
+2024-10-03 02:59:22,828 - logger - INFO - request status: Successful
+2024-10-03 02:59:22,830 - logger - INFO - Successful dumping
+2024-10-03 02:59:22,831 - logger - INFO - retrieve station information
+2024-10-03 02:59:23,689 - logger - INFO - request status: Successful
+2024-10-03 02:59:23,707 - logger - INFO - Successful dumping
+2024-10-03 02:59:23,707 - logger - INFO - ------
