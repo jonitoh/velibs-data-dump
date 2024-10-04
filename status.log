@@ -5924,3 +5924,11 @@
 2024-10-04 21:29:03,068 - logger - INFO - request status: Successful
 2024-10-04 21:29:03,086 - logger - INFO - Successful dumping
 2024-10-04 21:29:03,087 - logger - INFO - ------
+2024-10-04 22:33:21,347 - logger - INFO - ------
+2024-10-04 22:33:21,347 - logger - INFO - retrieve station status
+2024-10-04 22:33:21,741 - logger - INFO - request status: Successful
+2024-10-04 22:33:21,744 - logger - INFO - Successful dumping
+2024-10-04 22:33:21,744 - logger - INFO - retrieve station information
+2024-10-04 22:33:22,631 - logger - INFO - request status: Successful
+2024-10-04 22:33:22,649 - logger - INFO - Successful dumping
+2024-10-04 22:33:22,649 - logger - INFO - ------
