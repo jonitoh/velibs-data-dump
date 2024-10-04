@@ -5852,3 +5852,11 @@
 2024-10-04 12:53:29,352 - logger - INFO - request status: Successful
 2024-10-04 12:53:29,370 - logger - INFO - Successful dumping
 2024-10-04 12:53:29,371 - logger - INFO - ------
+2024-10-04 13:34:51,765 - logger - INFO - ------
+2024-10-04 13:34:51,765 - logger - INFO - retrieve station status
+2024-10-04 13:34:52,268 - logger - INFO - request status: Successful
+2024-10-04 13:34:52,271 - logger - INFO - Successful dumping
+2024-10-04 13:34:52,271 - logger - INFO - retrieve station information
+2024-10-04 13:34:53,559 - logger - INFO - request status: Successful
+2024-10-04 13:34:53,577 - logger - INFO - Successful dumping
+2024-10-04 13:34:53,578 - logger - INFO - ------
