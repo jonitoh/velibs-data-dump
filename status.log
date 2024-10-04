@@ -5916,3 +5916,11 @@
 2024-10-04 20:31:22,036 - logger - INFO - request status: Successful
 2024-10-04 20:31:22,054 - logger - INFO - Successful dumping
 2024-10-04 20:31:22,055 - logger - INFO - ------
+2024-10-04 21:29:01,873 - logger - INFO - ------
+2024-10-04 21:29:01,874 - logger - INFO - retrieve station status
+2024-10-04 21:29:02,220 - logger - INFO - request status: Successful
+2024-10-04 21:29:02,223 - logger - INFO - Successful dumping
+2024-10-04 21:29:02,223 - logger - INFO - retrieve station information
+2024-10-04 21:29:03,068 - logger - INFO - request status: Successful
+2024-10-04 21:29:03,086 - logger - INFO - Successful dumping
+2024-10-04 21:29:03,087 - logger - INFO - ------
