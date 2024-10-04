@@ -5908,3 +5908,11 @@
 2024-10-04 19:26:17,395 - logger - INFO - request status: Successful
 2024-10-04 19:26:17,414 - logger - INFO - Successful dumping
 2024-10-04 19:26:17,414 - logger - INFO - ------
+2024-10-04 20:31:20,854 - logger - INFO - ------
+2024-10-04 20:31:20,854 - logger - INFO - retrieve station status
+2024-10-04 20:31:21,290 - logger - INFO - request status: Successful
+2024-10-04 20:31:21,293 - logger - INFO - Successful dumping
+2024-10-04 20:31:21,293 - logger - INFO - retrieve station information
+2024-10-04 20:31:22,036 - logger - INFO - request status: Successful
+2024-10-04 20:31:22,054 - logger - INFO - Successful dumping
+2024-10-04 20:31:22,055 - logger - INFO - ------
