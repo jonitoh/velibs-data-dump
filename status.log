@@ -5876,3 +5876,11 @@
 2024-10-04 15:32:32,059 - logger - INFO - request status: Successful
 2024-10-04 15:32:32,079 - logger - INFO - Successful dumping
 2024-10-04 15:32:32,079 - logger - INFO - ------
+2024-10-04 16:40:12,133 - logger - INFO - ------
+2024-10-04 16:40:12,133 - logger - INFO - retrieve station status
+2024-10-04 16:40:12,761 - logger - INFO - request status: Successful
+2024-10-04 16:40:12,764 - logger - INFO - Successful dumping
+2024-10-04 16:40:12,764 - logger - INFO - retrieve station information
+2024-10-04 16:40:14,066 - logger - INFO - request status: Successful
+2024-10-04 16:40:14,085 - logger - INFO - Successful dumping
+2024-10-04 16:40:14,085 - logger - INFO - ------
