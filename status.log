@@ -5828,3 +5828,11 @@
 2024-10-04 09:32:41,132 - logger - INFO - request status: Successful
 2024-10-04 09:32:41,150 - logger - INFO - Successful dumping
 2024-10-04 09:32:41,150 - logger - INFO - ------
+2024-10-04 10:37:56,029 - logger - INFO - ------
+2024-10-04 10:37:56,029 - logger - INFO - retrieve station status
+2024-10-04 10:37:56,327 - logger - INFO - request status: Successful
+2024-10-04 10:37:56,329 - logger - INFO - Successful dumping
+2024-10-04 10:37:56,329 - logger - INFO - retrieve station information
+2024-10-04 10:37:57,102 - logger - INFO - request status: Successful
+2024-10-04 10:37:57,121 - logger - INFO - Successful dumping
+2024-10-04 10:37:57,121 - logger - INFO - ------
