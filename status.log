@@ -6028,3 +6028,11 @@
 2024-10-05 11:26:40,733 - logger - INFO - request status: Successful
 2024-10-05 11:26:40,751 - logger - INFO - Successful dumping
 2024-10-05 11:26:40,751 - logger - INFO - ------
+2024-10-05 12:50:25,513 - logger - INFO - ------
+2024-10-05 12:50:25,514 - logger - INFO - retrieve station status
+2024-10-05 12:50:25,869 - logger - INFO - request status: Successful
+2024-10-05 12:50:25,872 - logger - INFO - Successful dumping
+2024-10-05 12:50:25,872 - logger - INFO - retrieve station information
+2024-10-05 12:50:26,751 - logger - INFO - request status: Successful
+2024-10-05 12:50:26,770 - logger - INFO - Successful dumping
+2024-10-05 12:50:26,770 - logger - INFO - ------
