@@ -5972,3 +5972,11 @@
 2024-10-05 04:35:26,666 - logger - INFO - request status: Successful
 2024-10-05 04:35:26,684 - logger - INFO - Successful dumping
 2024-10-05 04:35:26,685 - logger - INFO - ------
+2024-10-05 05:32:47,849 - logger - INFO - ------
+2024-10-05 05:32:47,849 - logger - INFO - retrieve station status
+2024-10-05 05:32:48,127 - logger - INFO - request status: Successful
+2024-10-05 05:32:48,130 - logger - INFO - Successful dumping
+2024-10-05 05:32:48,130 - logger - INFO - retrieve station information
+2024-10-05 05:32:48,894 - logger - INFO - request status: Successful
+2024-10-05 05:32:48,912 - logger - INFO - Successful dumping
+2024-10-05 05:32:48,913 - logger - INFO - ------
