@@ -6044,3 +6044,11 @@
 2024-10-05 13:31:08,091 - logger - INFO - request status: Successful
 2024-10-05 13:31:08,110 - logger - INFO - Successful dumping
 2024-10-05 13:31:08,110 - logger - INFO - ------
+2024-10-05 14:31:24,894 - logger - INFO - ------
+2024-10-05 14:31:24,894 - logger - INFO - retrieve station status
+2024-10-05 14:31:25,221 - logger - INFO - request status: Successful
+2024-10-05 14:31:25,223 - logger - INFO - Successful dumping
+2024-10-05 14:31:25,224 - logger - INFO - retrieve station information
+2024-10-05 14:31:25,933 - logger - INFO - request status: Successful
+2024-10-05 14:31:25,952 - logger - INFO - Successful dumping
+2024-10-05 14:31:25,952 - logger - INFO - ------
