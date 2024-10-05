@@ -6052,3 +6052,11 @@
 2024-10-05 14:31:25,933 - logger - INFO - request status: Successful
 2024-10-05 14:31:25,952 - logger - INFO - Successful dumping
 2024-10-05 14:31:25,952 - logger - INFO - ------
+2024-10-05 15:30:33,845 - logger - INFO - ------
+2024-10-05 15:30:33,845 - logger - INFO - retrieve station status
+2024-10-05 15:30:34,170 - logger - INFO - request status: Successful
+2024-10-05 15:30:34,175 - logger - INFO - Successful dumping
+2024-10-05 15:30:34,175 - logger - INFO - retrieve station information
+2024-10-05 15:30:34,901 - logger - INFO - request status: Successful
+2024-10-05 15:30:34,919 - logger - INFO - Successful dumping
+2024-10-05 15:30:34,919 - logger - INFO - ------
