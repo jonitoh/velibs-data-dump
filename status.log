@@ -6252,3 +6252,11 @@
 2024-10-06 16:36:08,003 - logger - INFO - request status: Successful
 2024-10-06 16:36:08,021 - logger - INFO - Successful dumping
 2024-10-06 16:36:08,022 - logger - INFO - ------
+2024-10-06 17:32:03,386 - logger - INFO - ------
+2024-10-06 17:32:03,386 - logger - INFO - retrieve station status
+2024-10-06 17:32:03,731 - logger - INFO - request status: Successful
+2024-10-06 17:32:03,733 - logger - INFO - Successful dumping
+2024-10-06 17:32:03,734 - logger - INFO - retrieve station information
+2024-10-06 17:32:04,615 - logger - INFO - request status: Successful
+2024-10-06 17:32:04,633 - logger - INFO - Successful dumping
+2024-10-06 17:32:04,634 - logger - INFO - ------
