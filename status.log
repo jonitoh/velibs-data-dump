@@ -6156,3 +6156,11 @@
 2024-10-06 04:35:26,166 - logger - INFO - request status: Successful
 2024-10-06 04:35:26,185 - logger - INFO - Successful dumping
 2024-10-06 04:35:26,186 - logger - INFO - ------
+2024-10-06 05:32:01,479 - logger - INFO - ------
+2024-10-06 05:32:01,479 - logger - INFO - retrieve station status
+2024-10-06 05:32:01,846 - logger - INFO - request status: Successful
+2024-10-06 05:32:01,849 - logger - INFO - Successful dumping
+2024-10-06 05:32:01,849 - logger - INFO - retrieve station information
+2024-10-06 05:32:02,703 - logger - INFO - request status: Successful
+2024-10-06 05:32:02,722 - logger - INFO - Successful dumping
+2024-10-06 05:32:02,722 - logger - INFO - ------
