@@ -6236,3 +6236,11 @@
 2024-10-06 14:31:58,286 - logger - INFO - request status: Successful
 2024-10-06 14:31:58,304 - logger - INFO - Successful dumping
 2024-10-06 14:31:58,304 - logger - INFO - ------
+2024-10-06 15:30:24,272 - logger - INFO - ------
+2024-10-06 15:30:24,272 - logger - INFO - retrieve station status
+2024-10-06 15:30:24,659 - logger - INFO - request status: Successful
+2024-10-06 15:30:24,662 - logger - INFO - Successful dumping
+2024-10-06 15:30:24,662 - logger - INFO - retrieve station information
+2024-10-06 15:30:25,549 - logger - INFO - request status: Successful
+2024-10-06 15:30:25,570 - logger - INFO - Successful dumping
+2024-10-06 15:30:25,570 - logger - INFO - ------
