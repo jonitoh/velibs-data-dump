@@ -6140,3 +6140,11 @@
 2024-10-06 03:03:23,182 - logger - INFO - request status: Successful
 2024-10-06 03:03:23,201 - logger - INFO - Successful dumping
 2024-10-06 03:03:23,201 - logger - INFO - ------
+2024-10-06 03:39:58,371 - logger - INFO - ------
+2024-10-06 03:39:58,371 - logger - INFO - retrieve station status
+2024-10-06 03:39:58,861 - logger - INFO - request status: Successful
+2024-10-06 03:39:58,864 - logger - INFO - Successful dumping
+2024-10-06 03:39:58,864 - logger - INFO - retrieve station information
+2024-10-06 03:40:00,139 - logger - INFO - request status: Successful
+2024-10-06 03:40:00,157 - logger - INFO - Successful dumping
+2024-10-06 03:40:00,158 - logger - INFO - ------
