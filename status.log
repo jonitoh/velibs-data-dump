@@ -6132,3 +6132,11 @@
 2024-10-06 02:02:13,498 - logger - INFO - request status: Successful
 2024-10-06 02:02:13,517 - logger - INFO - Successful dumping
 2024-10-06 02:02:13,517 - logger - INFO - ------
+2024-10-06 03:03:21,404 - logger - INFO - ------
+2024-10-06 03:03:21,404 - logger - INFO - retrieve station status
+2024-10-06 03:03:21,886 - logger - INFO - request status: Successful
+2024-10-06 03:03:21,889 - logger - INFO - Successful dumping
+2024-10-06 03:03:21,889 - logger - INFO - retrieve station information
+2024-10-06 03:03:23,182 - logger - INFO - request status: Successful
+2024-10-06 03:03:23,201 - logger - INFO - Successful dumping
+2024-10-06 03:03:23,201 - logger - INFO - ------
