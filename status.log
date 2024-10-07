@@ -6460,3 +6460,11 @@
 2024-10-07 19:25:45,642 - logger - INFO - request status: Successful
 2024-10-07 19:25:45,660 - logger - INFO - Successful dumping
 2024-10-07 19:25:45,660 - logger - INFO - ------
+2024-10-07 20:33:29,498 - logger - INFO - ------
+2024-10-07 20:33:29,498 - logger - INFO - retrieve station status
+2024-10-07 20:33:29,876 - logger - INFO - request status: Successful
+2024-10-07 20:33:29,879 - logger - INFO - Successful dumping
+2024-10-07 20:33:29,879 - logger - INFO - retrieve station information
+2024-10-07 20:33:30,626 - logger - INFO - request status: Successful
+2024-10-07 20:33:30,645 - logger - INFO - Successful dumping
+2024-10-07 20:33:30,645 - logger - INFO - ------
