@@ -6508,3 +6508,11 @@
 2024-10-08 03:01:59,232 - logger - INFO - request status: Successful
 2024-10-08 03:01:59,250 - logger - INFO - Successful dumping
 2024-10-08 03:01:59,251 - logger - INFO - ------
+2024-10-08 03:39:34,642 - logger - INFO - ------
+2024-10-08 03:39:34,643 - logger - INFO - retrieve station status
+2024-10-08 03:39:35,111 - logger - INFO - request status: Successful
+2024-10-08 03:39:35,113 - logger - INFO - Successful dumping
+2024-10-08 03:39:35,114 - logger - INFO - retrieve station information
+2024-10-08 03:39:36,410 - logger - INFO - request status: Successful
+2024-10-08 03:39:36,429 - logger - INFO - Successful dumping
+2024-10-08 03:39:36,430 - logger - INFO - ------
