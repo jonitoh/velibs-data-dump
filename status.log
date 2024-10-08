@@ -6588,3 +6588,11 @@
 2024-10-08 12:52:13,471 - logger - INFO - request status: Successful
 2024-10-08 12:52:13,490 - logger - INFO - Successful dumping
 2024-10-08 12:52:13,490 - logger - INFO - ------
+2024-10-08 13:34:44,863 - logger - INFO - ------
+2024-10-08 13:34:44,864 - logger - INFO - retrieve station status
+2024-10-08 13:34:45,205 - logger - INFO - request status: Successful
+2024-10-08 13:34:45,208 - logger - INFO - Successful dumping
+2024-10-08 13:34:45,208 - logger - INFO - retrieve station information
+2024-10-08 13:34:45,935 - logger - INFO - request status: Successful
+2024-10-08 13:34:45,954 - logger - INFO - Successful dumping
+2024-10-08 13:34:45,954 - logger - INFO - ------
