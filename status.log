@@ -6660,3 +6660,11 @@
 2024-10-08 21:30:44,946 - logger - INFO - request status: Successful
 2024-10-08 21:30:44,964 - logger - INFO - Successful dumping
 2024-10-08 21:30:44,965 - logger - INFO - ------
+2024-10-08 22:34:10,447 - logger - INFO - ------
+2024-10-08 22:34:10,447 - logger - INFO - retrieve station status
+2024-10-08 22:34:10,820 - logger - INFO - request status: Successful
+2024-10-08 22:34:10,823 - logger - INFO - Successful dumping
+2024-10-08 22:34:10,823 - logger - INFO - retrieve station information
+2024-10-08 22:34:11,560 - logger - INFO - request status: Successful
+2024-10-08 22:34:11,578 - logger - INFO - Successful dumping
+2024-10-08 22:34:11,579 - logger - INFO - ------
