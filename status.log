@@ -6644,3 +6644,11 @@
 2024-10-08 19:25:51,099 - logger - INFO - request status: Successful
 2024-10-08 19:25:51,118 - logger - INFO - Successful dumping
 2024-10-08 19:25:51,119 - logger - INFO - ------
+2024-10-08 20:26:51,456 - logger - INFO - ------
+2024-10-08 20:26:51,456 - logger - INFO - retrieve station status
+2024-10-08 20:26:51,812 - logger - INFO - request status: Successful
+2024-10-08 20:26:51,814 - logger - INFO - Successful dumping
+2024-10-08 20:26:51,815 - logger - INFO - retrieve station information
+2024-10-08 20:26:52,635 - logger - INFO - request status: Successful
+2024-10-08 20:26:52,658 - logger - INFO - Successful dumping
+2024-10-08 20:26:52,659 - logger - INFO - ------
