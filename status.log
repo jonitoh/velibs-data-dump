@@ -6652,3 +6652,11 @@
 2024-10-08 20:26:52,635 - logger - INFO - request status: Successful
 2024-10-08 20:26:52,658 - logger - INFO - Successful dumping
 2024-10-08 20:26:52,659 - logger - INFO - ------
+2024-10-08 21:30:44,053 - logger - INFO - ------
+2024-10-08 21:30:44,053 - logger - INFO - retrieve station status
+2024-10-08 21:30:44,445 - logger - INFO - request status: Successful
+2024-10-08 21:30:44,448 - logger - INFO - Successful dumping
+2024-10-08 21:30:44,448 - logger - INFO - retrieve station information
+2024-10-08 21:30:44,946 - logger - INFO - request status: Successful
+2024-10-08 21:30:44,964 - logger - INFO - Successful dumping
+2024-10-08 21:30:44,965 - logger - INFO - ------
