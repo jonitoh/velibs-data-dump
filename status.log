@@ -6596,3 +6596,11 @@
 2024-10-08 13:34:45,935 - logger - INFO - request status: Successful
 2024-10-08 13:34:45,954 - logger - INFO - Successful dumping
 2024-10-08 13:34:45,954 - logger - INFO - ------
+2024-10-08 14:36:30,345 - logger - INFO - ------
+2024-10-08 14:36:30,345 - logger - INFO - retrieve station status
+2024-10-08 14:36:30,657 - logger - INFO - request status: Successful
+2024-10-08 14:36:30,660 - logger - INFO - Successful dumping
+2024-10-08 14:36:30,660 - logger - INFO - retrieve station information
+2024-10-08 14:36:31,457 - logger - INFO - request status: Successful
+2024-10-08 14:36:31,476 - logger - INFO - Successful dumping
+2024-10-08 14:36:31,476 - logger - INFO - ------
