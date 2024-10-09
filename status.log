@@ -6732,3 +6732,11 @@
 2024-10-09 07:29:08,210 - logger - INFO - request status: Successful
 2024-10-09 07:29:08,228 - logger - INFO - Successful dumping
 2024-10-09 07:29:08,229 - logger - INFO - ------
+2024-10-09 08:38:00,756 - logger - INFO - ------
+2024-10-09 08:38:00,756 - logger - INFO - retrieve station status
+2024-10-09 08:38:01,284 - logger - INFO - request status: Successful
+2024-10-09 08:38:01,286 - logger - INFO - Successful dumping
+2024-10-09 08:38:01,287 - logger - INFO - retrieve station information
+2024-10-09 08:38:02,559 - logger - INFO - request status: Successful
+2024-10-09 08:38:02,578 - logger - INFO - Successful dumping
+2024-10-09 08:38:02,579 - logger - INFO - ------
