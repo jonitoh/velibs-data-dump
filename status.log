@@ -6820,3 +6820,11 @@
 2024-10-09 18:39:33,314 - logger - INFO - request status: Successful
 2024-10-09 18:39:33,332 - logger - INFO - Successful dumping
 2024-10-09 18:39:33,332 - logger - INFO - ------
+2024-10-09 19:26:08,120 - logger - INFO - ------
+2024-10-09 19:26:08,120 - logger - INFO - retrieve station status
+2024-10-09 19:26:08,477 - logger - INFO - request status: Successful
+2024-10-09 19:26:08,480 - logger - INFO - Successful dumping
+2024-10-09 19:26:08,480 - logger - INFO - retrieve station information
+2024-10-09 19:26:09,260 - logger - INFO - request status: Successful
+2024-10-09 19:26:09,278 - logger - INFO - Successful dumping
+2024-10-09 19:26:09,279 - logger - INFO - ------
