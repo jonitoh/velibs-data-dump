@@ -6684,3 +6684,11 @@
 2024-10-09 01:55:13,427 - logger - INFO - request status: Successful
 2024-10-09 01:55:13,445 - logger - INFO - Successful dumping
 2024-10-09 01:55:13,446 - logger - INFO - ------
+2024-10-09 02:59:15,500 - logger - INFO - ------
+2024-10-09 02:59:15,500 - logger - INFO - retrieve station status
+2024-10-09 02:59:15,883 - logger - INFO - request status: Successful
+2024-10-09 02:59:15,885 - logger - INFO - Successful dumping
+2024-10-09 02:59:15,886 - logger - INFO - retrieve station information
+2024-10-09 02:59:17,205 - logger - INFO - request status: Successful
+2024-10-09 02:59:17,223 - logger - INFO - Successful dumping
+2024-10-09 02:59:17,224 - logger - INFO - ------
