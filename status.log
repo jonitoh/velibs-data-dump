@@ -6940,3 +6940,11 @@
 2024-10-10 10:37:09,456 - logger - INFO - request status: Successful
 2024-10-10 10:37:09,475 - logger - INFO - Successful dumping
 2024-10-10 10:37:09,475 - logger - INFO - ------
+2024-10-10 11:27:46,913 - logger - INFO - ------
+2024-10-10 11:27:46,914 - logger - INFO - retrieve station status
+2024-10-10 11:27:47,188 - logger - INFO - request status: Successful
+2024-10-10 11:27:47,190 - logger - INFO - Successful dumping
+2024-10-10 11:27:47,190 - logger - INFO - retrieve station information
+2024-10-10 11:27:47,932 - logger - INFO - request status: Successful
+2024-10-10 11:27:47,951 - logger - INFO - Successful dumping
+2024-10-10 11:27:47,951 - logger - INFO - ------
