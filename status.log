@@ -7012,3 +7012,11 @@
 2024-10-10 19:25:58,948 - logger - INFO - request status: Successful
 2024-10-10 19:25:58,967 - logger - INFO - Successful dumping
 2024-10-10 19:25:58,967 - logger - INFO - ------
+2024-10-10 20:31:52,050 - logger - INFO - ------
+2024-10-10 20:31:52,050 - logger - INFO - retrieve station status
+2024-10-10 20:31:52,351 - logger - INFO - request status: Successful
+2024-10-10 20:31:52,354 - logger - INFO - Successful dumping
+2024-10-10 20:31:52,354 - logger - INFO - retrieve station information
+2024-10-10 20:31:53,251 - logger - INFO - request status: Successful
+2024-10-10 20:31:53,269 - logger - INFO - Successful dumping
+2024-10-10 20:31:53,270 - logger - INFO - ------
