@@ -7052,3 +7052,11 @@
 2024-10-11 01:55:09,458 - logger - INFO - request status: Successful
 2024-10-11 01:55:09,476 - logger - INFO - Successful dumping
 2024-10-11 01:55:09,477 - logger - INFO - ------
+2024-10-11 02:58:10,290 - logger - INFO - ------
+2024-10-11 02:58:10,291 - logger - INFO - retrieve station status
+2024-10-11 02:58:10,660 - logger - INFO - request status: Successful
+2024-10-11 02:58:10,663 - logger - INFO - Successful dumping
+2024-10-11 02:58:10,663 - logger - INFO - retrieve station information
+2024-10-11 02:58:11,382 - logger - INFO - request status: Successful
+2024-10-11 02:58:11,400 - logger - INFO - Successful dumping
+2024-10-11 02:58:11,401 - logger - INFO - ------
