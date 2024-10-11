@@ -7164,3 +7164,11 @@
 2024-10-11 15:31:53,054 - logger - INFO - request status: Successful
 2024-10-11 15:31:53,073 - logger - INFO - Successful dumping
 2024-10-11 15:31:53,073 - logger - INFO - ------
+2024-10-11 16:38:53,044 - logger - INFO - ------
+2024-10-11 16:38:53,044 - logger - INFO - retrieve station status
+2024-10-11 16:38:53,320 - logger - INFO - request status: Successful
+2024-10-11 16:38:53,323 - logger - INFO - Successful dumping
+2024-10-11 16:38:53,323 - logger - INFO - retrieve station information
+2024-10-11 16:38:54,153 - logger - INFO - request status: Successful
+2024-10-11 16:38:54,171 - logger - INFO - Successful dumping
+2024-10-11 16:38:54,172 - logger - INFO - ------
