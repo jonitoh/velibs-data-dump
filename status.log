@@ -7316,3 +7316,11 @@
 2024-10-12 11:29:05,610 - logger - INFO - request status: Successful
 2024-10-12 11:29:05,628 - logger - INFO - Successful dumping
 2024-10-12 11:29:05,629 - logger - INFO - ------
+2024-10-12 12:50:02,103 - logger - INFO - ------
+2024-10-12 12:50:02,103 - logger - INFO - retrieve station status
+2024-10-12 12:50:02,491 - logger - INFO - request status: Successful
+2024-10-12 12:50:02,494 - logger - INFO - Successful dumping
+2024-10-12 12:50:02,494 - logger - INFO - retrieve station information
+2024-10-12 12:50:03,257 - logger - INFO - request status: Successful
+2024-10-12 12:50:03,275 - logger - INFO - Successful dumping
+2024-10-12 12:50:03,276 - logger - INFO - ------
