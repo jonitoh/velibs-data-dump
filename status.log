@@ -7308,3 +7308,11 @@
 2024-10-12 10:33:37,711 - logger - INFO - request status: Successful
 2024-10-12 10:33:37,729 - logger - INFO - Successful dumping
 2024-10-12 10:33:37,730 - logger - INFO - ------
+2024-10-12 11:29:04,534 - logger - INFO - ------
+2024-10-12 11:29:04,534 - logger - INFO - retrieve station status
+2024-10-12 11:29:04,883 - logger - INFO - request status: Successful
+2024-10-12 11:29:04,885 - logger - INFO - Successful dumping
+2024-10-12 11:29:04,885 - logger - INFO - retrieve station information
+2024-10-12 11:29:05,610 - logger - INFO - request status: Successful
+2024-10-12 11:29:05,628 - logger - INFO - Successful dumping
+2024-10-12 11:29:05,629 - logger - INFO - ------
