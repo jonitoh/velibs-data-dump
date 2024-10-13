@@ -7412,3 +7412,11 @@
 2024-10-12 23:29:52,652 - logger - INFO - request status: Successful
 2024-10-12 23:29:52,670 - logger - INFO - Successful dumping
 2024-10-12 23:29:52,671 - logger - INFO - ------
+2024-10-13 02:01:49,182 - logger - INFO - ------
+2024-10-13 02:01:49,182 - logger - INFO - retrieve station status
+2024-10-13 02:01:49,492 - logger - INFO - request status: Successful
+2024-10-13 02:01:49,494 - logger - INFO - Successful dumping
+2024-10-13 02:01:49,495 - logger - INFO - retrieve station information
+2024-10-13 02:01:50,324 - logger - INFO - request status: Successful
+2024-10-13 02:01:50,343 - logger - INFO - Successful dumping
+2024-10-13 02:01:50,343 - logger - INFO - ------
