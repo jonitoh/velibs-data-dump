@@ -7548,3 +7548,11 @@
 2024-10-13 17:30:23,647 - logger - INFO - request status: Successful
 2024-10-13 17:30:23,665 - logger - INFO - Successful dumping
 2024-10-13 17:30:23,665 - logger - INFO - ------
+2024-10-13 18:36:29,189 - logger - INFO - ------
+2024-10-13 18:36:29,189 - logger - INFO - retrieve station status
+2024-10-13 18:36:29,583 - logger - INFO - request status: Successful
+2024-10-13 18:36:29,586 - logger - INFO - Successful dumping
+2024-10-13 18:36:29,586 - logger - INFO - retrieve station information
+2024-10-13 18:36:30,456 - logger - INFO - request status: Successful
+2024-10-13 18:36:30,474 - logger - INFO - Successful dumping
+2024-10-13 18:36:30,474 - logger - INFO - ------
