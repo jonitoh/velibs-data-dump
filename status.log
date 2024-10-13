@@ -7508,3 +7508,11 @@
 2024-10-13 12:51:28,584 - logger - INFO - request status: Successful
 2024-10-13 12:51:28,602 - logger - INFO - Successful dumping
 2024-10-13 12:51:28,602 - logger - INFO - ------
+2024-10-13 13:32:08,866 - logger - INFO - ------
+2024-10-13 13:32:08,866 - logger - INFO - retrieve station status
+2024-10-13 13:32:09,247 - logger - INFO - request status: Successful
+2024-10-13 13:32:09,249 - logger - INFO - Successful dumping
+2024-10-13 13:32:09,250 - logger - INFO - retrieve station information
+2024-10-13 13:32:10,044 - logger - INFO - request status: Successful
+2024-10-13 13:32:10,062 - logger - INFO - Successful dumping
+2024-10-13 13:32:10,063 - logger - INFO - ------
