@@ -7540,3 +7540,11 @@
 2024-10-13 16:37:09,389 - logger - INFO - request status: Successful
 2024-10-13 16:37:09,408 - logger - INFO - Successful dumping
 2024-10-13 16:37:09,408 - logger - INFO - ------
+2024-10-13 17:30:22,357 - logger - INFO - ------
+2024-10-13 17:30:22,357 - logger - INFO - retrieve station status
+2024-10-13 17:30:22,767 - logger - INFO - request status: Successful
+2024-10-13 17:30:22,770 - logger - INFO - Successful dumping
+2024-10-13 17:30:22,770 - logger - INFO - retrieve station information
+2024-10-13 17:30:23,647 - logger - INFO - request status: Successful
+2024-10-13 17:30:23,665 - logger - INFO - Successful dumping
+2024-10-13 17:30:23,665 - logger - INFO - ------
