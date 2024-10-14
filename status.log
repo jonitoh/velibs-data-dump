@@ -7612,3 +7612,11 @@
 2024-10-14 03:03:19,851 - logger - INFO - request status: Successful
 2024-10-14 03:03:19,869 - logger - INFO - Successful dumping
 2024-10-14 03:03:19,870 - logger - INFO - ------
+2024-10-14 03:40:48,546 - logger - INFO - ------
+2024-10-14 03:40:48,546 - logger - INFO - retrieve station status
+2024-10-14 03:40:48,987 - logger - INFO - request status: Successful
+2024-10-14 03:40:48,989 - logger - INFO - Successful dumping
+2024-10-14 03:40:48,989 - logger - INFO - retrieve station information
+2024-10-14 03:40:50,284 - logger - INFO - request status: Successful
+2024-10-14 03:40:50,302 - logger - INFO - Successful dumping
+2024-10-14 03:40:50,303 - logger - INFO - ------
