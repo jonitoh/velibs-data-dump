@@ -8028,3 +8028,11 @@
 2024-10-16 19:26:00,442 - logger - INFO - request status: Successful
 2024-10-16 19:26:00,460 - logger - INFO - Successful dumping
 2024-10-16 19:26:00,461 - logger - INFO - ------
+2024-10-16 20:32:00,714 - logger - INFO - ------
+2024-10-16 20:32:00,714 - logger - INFO - retrieve station status
+2024-10-16 20:32:01,089 - logger - INFO - request status: Successful
+2024-10-16 20:32:01,092 - logger - INFO - Successful dumping
+2024-10-16 20:32:01,092 - logger - INFO - retrieve station information
+2024-10-16 20:32:01,986 - logger - INFO - request status: Successful
+2024-10-16 20:32:02,004 - logger - INFO - Successful dumping
+2024-10-16 20:32:02,005 - logger - INFO - ------
