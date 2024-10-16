@@ -7956,3 +7956,11 @@
 2024-10-16 10:37:03,597 - logger - INFO - request status: Successful
 2024-10-16 10:37:03,615 - logger - INFO - Successful dumping
 2024-10-16 10:37:03,616 - logger - INFO - ------
+2024-10-16 11:27:50,965 - logger - INFO - ------
+2024-10-16 11:27:50,965 - logger - INFO - retrieve station status
+2024-10-16 11:27:51,424 - logger - INFO - request status: Successful
+2024-10-16 11:27:51,427 - logger - INFO - Successful dumping
+2024-10-16 11:27:51,427 - logger - INFO - retrieve station information
+2024-10-16 11:27:52,703 - logger - INFO - request status: Successful
+2024-10-16 11:27:52,722 - logger - INFO - Successful dumping
+2024-10-16 11:27:52,722 - logger - INFO - ------
