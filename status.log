@@ -8172,3 +8172,11 @@
 2024-10-17 14:34:00,041 - logger - INFO - request status: Successful
 2024-10-17 14:34:00,061 - logger - INFO - Successful dumping
 2024-10-17 14:34:00,062 - logger - INFO - ------
+2024-10-17 15:34:16,575 - logger - INFO - ------
+2024-10-17 15:34:16,575 - logger - INFO - retrieve station status
+2024-10-17 15:34:16,896 - logger - INFO - request status: Successful
+2024-10-17 15:34:16,898 - logger - INFO - Successful dumping
+2024-10-17 15:34:16,898 - logger - INFO - retrieve station information
+2024-10-17 15:34:17,766 - logger - INFO - request status: Successful
+2024-10-17 15:34:17,784 - logger - INFO - Successful dumping
+2024-10-17 15:34:17,785 - logger - INFO - ------
