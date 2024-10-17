@@ -8164,3 +8164,11 @@
 2024-10-17 13:36:39,815 - logger - INFO - request status: Successful
 2024-10-17 13:36:39,834 - logger - INFO - Successful dumping
 2024-10-17 13:36:39,834 - logger - INFO - ------
+2024-10-17 14:33:59,008 - logger - INFO - ------
+2024-10-17 14:33:59,008 - logger - INFO - retrieve station status
+2024-10-17 14:33:59,285 - logger - INFO - request status: Successful
+2024-10-17 14:33:59,287 - logger - INFO - Successful dumping
+2024-10-17 14:33:59,288 - logger - INFO - retrieve station information
+2024-10-17 14:34:00,041 - logger - INFO - request status: Successful
+2024-10-17 14:34:00,061 - logger - INFO - Successful dumping
+2024-10-17 14:34:00,062 - logger - INFO - ------
