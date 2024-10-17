@@ -8212,3 +8212,11 @@
 2024-10-17 19:26:22,179 - logger - INFO - request status: Successful
 2024-10-17 19:26:22,199 - logger - INFO - Successful dumping
 2024-10-17 19:26:22,199 - logger - INFO - ------
+2024-10-17 20:31:49,758 - logger - INFO - ------
+2024-10-17 20:31:49,758 - logger - INFO - retrieve station status
+2024-10-17 20:31:50,060 - logger - INFO - request status: Successful
+2024-10-17 20:31:50,062 - logger - INFO - Successful dumping
+2024-10-17 20:31:50,063 - logger - INFO - retrieve station information
+2024-10-17 20:31:50,851 - logger - INFO - request status: Successful
+2024-10-17 20:31:50,869 - logger - INFO - Successful dumping
+2024-10-17 20:31:50,869 - logger - INFO - ------
