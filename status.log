@@ -8140,3 +8140,11 @@
 2024-10-17 10:36:54,531 - logger - INFO - request status: Successful
 2024-10-17 10:36:54,549 - logger - INFO - Successful dumping
 2024-10-17 10:36:54,549 - logger - INFO - ------
+2024-10-17 11:27:50,016 - logger - INFO - ------
+2024-10-17 11:27:50,016 - logger - INFO - retrieve station status
+2024-10-17 11:27:50,323 - logger - INFO - request status: Successful
+2024-10-17 11:27:50,325 - logger - INFO - Successful dumping
+2024-10-17 11:27:50,325 - logger - INFO - retrieve station information
+2024-10-17 11:27:51,098 - logger - INFO - request status: Successful
+2024-10-17 11:27:51,116 - logger - INFO - Successful dumping
+2024-10-17 11:27:51,116 - logger - INFO - ------
