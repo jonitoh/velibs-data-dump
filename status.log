@@ -8220,3 +8220,11 @@
 2024-10-17 20:31:50,851 - logger - INFO - request status: Successful
 2024-10-17 20:31:50,869 - logger - INFO - Successful dumping
 2024-10-17 20:31:50,869 - logger - INFO - ------
+2024-10-17 21:29:59,510 - logger - INFO - ------
+2024-10-17 21:29:59,510 - logger - INFO - retrieve station status
+2024-10-17 21:30:00,025 - logger - INFO - request status: Successful
+2024-10-17 21:30:00,028 - logger - INFO - Successful dumping
+2024-10-17 21:30:00,028 - logger - INFO - retrieve station information
+2024-10-17 21:30:01,311 - logger - INFO - request status: Successful
+2024-10-17 21:30:01,329 - logger - INFO - Successful dumping
+2024-10-17 21:30:01,330 - logger - INFO - ------
