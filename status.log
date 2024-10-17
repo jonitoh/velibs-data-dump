@@ -8236,3 +8236,11 @@
 2024-10-17 22:34:11,943 - logger - INFO - request status: Successful
 2024-10-17 22:34:11,961 - logger - INFO - Successful dumping
 2024-10-17 22:34:11,962 - logger - INFO - ------
+2024-10-17 23:30:33,009 - logger - INFO - ------
+2024-10-17 23:30:33,009 - logger - INFO - retrieve station status
+2024-10-17 23:30:33,352 - logger - INFO - request status: Successful
+2024-10-17 23:30:33,355 - logger - INFO - Successful dumping
+2024-10-17 23:30:33,355 - logger - INFO - retrieve station information
+2024-10-17 23:30:34,119 - logger - INFO - request status: Successful
+2024-10-17 23:30:34,137 - logger - INFO - Successful dumping
+2024-10-17 23:30:34,138 - logger - INFO - ------
