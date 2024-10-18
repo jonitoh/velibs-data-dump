@@ -8412,3 +8412,11 @@
 2024-10-18 21:30:08,753 - logger - INFO - request status: Successful
 2024-10-18 21:30:08,771 - logger - INFO - Successful dumping
 2024-10-18 21:30:08,772 - logger - INFO - ------
+2024-10-18 22:33:35,901 - logger - INFO - ------
+2024-10-18 22:33:35,901 - logger - INFO - retrieve station status
+2024-10-18 22:33:36,217 - logger - INFO - request status: Successful
+2024-10-18 22:33:36,219 - logger - INFO - Successful dumping
+2024-10-18 22:33:36,219 - logger - INFO - retrieve station information
+2024-10-18 22:33:36,996 - logger - INFO - request status: Successful
+2024-10-18 22:33:37,014 - logger - INFO - Successful dumping
+2024-10-18 22:33:37,014 - logger - INFO - ------
