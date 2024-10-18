@@ -8356,3 +8356,11 @@
 2024-10-18 14:34:03,202 - logger - INFO - request status: Successful
 2024-10-18 14:34:03,220 - logger - INFO - Successful dumping
 2024-10-18 14:34:03,220 - logger - INFO - ------
+2024-10-18 15:32:14,258 - logger - INFO - ------
+2024-10-18 15:32:14,258 - logger - INFO - retrieve station status
+2024-10-18 15:32:14,608 - logger - INFO - request status: Successful
+2024-10-18 15:32:14,610 - logger - INFO - Successful dumping
+2024-10-18 15:32:14,611 - logger - INFO - retrieve station information
+2024-10-18 15:32:15,436 - logger - INFO - request status: Successful
+2024-10-18 15:32:15,455 - logger - INFO - Successful dumping
+2024-10-18 15:32:15,456 - logger - INFO - ------
