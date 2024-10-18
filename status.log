@@ -8252,3 +8252,11 @@
 2024-10-18 01:56:42,320 - logger - INFO - request status: Successful
 2024-10-18 01:56:42,338 - logger - INFO - Successful dumping
 2024-10-18 01:56:42,338 - logger - INFO - ------
+2024-10-18 03:00:49,556 - logger - INFO - ------
+2024-10-18 03:00:49,556 - logger - INFO - retrieve station status
+2024-10-18 03:00:49,854 - logger - INFO - request status: Successful
+2024-10-18 03:00:49,856 - logger - INFO - Successful dumping
+2024-10-18 03:00:49,857 - logger - INFO - retrieve station information
+2024-10-18 03:00:50,613 - logger - INFO - request status: Successful
+2024-10-18 03:00:50,631 - logger - INFO - Successful dumping
+2024-10-18 03:00:50,631 - logger - INFO - ------
