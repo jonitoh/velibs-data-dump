@@ -8372,3 +8372,11 @@
 2024-10-18 16:39:25,999 - logger - INFO - request status: Successful
 2024-10-18 16:39:26,017 - logger - INFO - Successful dumping
 2024-10-18 16:39:26,018 - logger - INFO - ------
+2024-10-18 17:32:26,048 - logger - INFO - ------
+2024-10-18 17:32:26,048 - logger - INFO - retrieve station status
+2024-10-18 17:32:26,444 - logger - INFO - request status: Successful
+2024-10-18 17:32:26,447 - logger - INFO - Successful dumping
+2024-10-18 17:32:26,447 - logger - INFO - retrieve station information
+2024-10-18 17:32:27,292 - logger - INFO - request status: Successful
+2024-10-18 17:32:27,310 - logger - INFO - Successful dumping
+2024-10-18 17:32:27,311 - logger - INFO - ------
