@@ -8380,3 +8380,11 @@
 2024-10-18 17:32:27,292 - logger - INFO - request status: Successful
 2024-10-18 17:32:27,310 - logger - INFO - Successful dumping
 2024-10-18 17:32:27,311 - logger - INFO - ------
+2024-10-18 18:39:40,004 - logger - INFO - ------
+2024-10-18 18:39:40,005 - logger - INFO - retrieve station status
+2024-10-18 18:39:40,329 - logger - INFO - request status: Successful
+2024-10-18 18:39:40,332 - logger - INFO - Successful dumping
+2024-10-18 18:39:40,332 - logger - INFO - retrieve station information
+2024-10-18 18:39:41,069 - logger - INFO - request status: Successful
+2024-10-18 18:39:41,087 - logger - INFO - Successful dumping
+2024-10-18 18:39:41,088 - logger - INFO - ------
