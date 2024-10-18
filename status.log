@@ -8260,3 +8260,11 @@
 2024-10-18 03:00:50,613 - logger - INFO - request status: Successful
 2024-10-18 03:00:50,631 - logger - INFO - Successful dumping
 2024-10-18 03:00:50,631 - logger - INFO - ------
+2024-10-18 03:39:51,623 - logger - INFO - ------
+2024-10-18 03:39:51,623 - logger - INFO - retrieve station status
+2024-10-18 03:39:51,918 - logger - INFO - request status: Successful
+2024-10-18 03:39:51,920 - logger - INFO - Successful dumping
+2024-10-18 03:39:51,920 - logger - INFO - retrieve station information
+2024-10-18 03:39:52,681 - logger - INFO - request status: Successful
+2024-10-18 03:39:52,699 - logger - INFO - Successful dumping
+2024-10-18 03:39:52,699 - logger - INFO - ------
