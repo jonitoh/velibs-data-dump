@@ -8556,3 +8556,11 @@
 2024-10-19 16:37:36,112 - logger - INFO - request status: Successful
 2024-10-19 16:37:36,130 - logger - INFO - Successful dumping
 2024-10-19 16:37:36,130 - logger - INFO - ------
+2024-10-19 17:31:00,174 - logger - INFO - ------
+2024-10-19 17:31:00,174 - logger - INFO - retrieve station status
+2024-10-19 17:31:00,713 - logger - INFO - request status: Successful
+2024-10-19 17:31:00,715 - logger - INFO - Successful dumping
+2024-10-19 17:31:00,716 - logger - INFO - retrieve station information
+2024-10-19 17:31:02,066 - logger - INFO - request status: Successful
+2024-10-19 17:31:02,084 - logger - INFO - Successful dumping
+2024-10-19 17:31:02,085 - logger - INFO - ------
