@@ -8596,3 +8596,11 @@
 2024-10-19 21:29:06,640 - logger - INFO - request status: Successful
 2024-10-19 21:29:06,658 - logger - INFO - Successful dumping
 2024-10-19 21:29:06,659 - logger - INFO - ------
+2024-10-19 22:35:48,704 - logger - INFO - ------
+2024-10-19 22:35:48,704 - logger - INFO - retrieve station status
+2024-10-19 22:35:49,019 - logger - INFO - request status: Successful
+2024-10-19 22:35:49,022 - logger - INFO - Successful dumping
+2024-10-19 22:35:49,022 - logger - INFO - retrieve station information
+2024-10-19 22:35:49,784 - logger - INFO - request status: Successful
+2024-10-19 22:35:49,802 - logger - INFO - Successful dumping
+2024-10-19 22:35:49,802 - logger - INFO - ------
