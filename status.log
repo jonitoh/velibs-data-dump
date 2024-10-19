@@ -8532,3 +8532,11 @@
 2024-10-19 13:31:25,060 - logger - INFO - request status: Successful
 2024-10-19 13:31:25,079 - logger - INFO - Successful dumping
 2024-10-19 13:31:25,079 - logger - INFO - ------
+2024-10-19 14:32:05,748 - logger - INFO - ------
+2024-10-19 14:32:05,748 - logger - INFO - retrieve station status
+2024-10-19 14:32:06,040 - logger - INFO - request status: Successful
+2024-10-19 14:32:06,042 - logger - INFO - Successful dumping
+2024-10-19 14:32:06,043 - logger - INFO - retrieve station information
+2024-10-19 14:32:06,539 - logger - INFO - request status: Successful
+2024-10-19 14:32:06,557 - logger - INFO - Successful dumping
+2024-10-19 14:32:06,557 - logger - INFO - ------
