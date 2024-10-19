@@ -8588,3 +8588,11 @@
 2024-10-19 20:32:34,609 - logger - INFO - request status: Successful
 2024-10-19 20:32:34,627 - logger - INFO - Successful dumping
 2024-10-19 20:32:34,628 - logger - INFO - ------
+2024-10-19 21:29:05,446 - logger - INFO - ------
+2024-10-19 21:29:05,446 - logger - INFO - retrieve station status
+2024-10-19 21:29:05,744 - logger - INFO - request status: Successful
+2024-10-19 21:29:05,747 - logger - INFO - Successful dumping
+2024-10-19 21:29:05,747 - logger - INFO - retrieve station information
+2024-10-19 21:29:06,640 - logger - INFO - request status: Successful
+2024-10-19 21:29:06,658 - logger - INFO - Successful dumping
+2024-10-19 21:29:06,659 - logger - INFO - ------
