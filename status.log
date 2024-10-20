@@ -8676,3 +8676,11 @@
 2024-10-20 08:37:34,610 - logger - INFO - request status: Successful
 2024-10-20 08:37:34,628 - logger - INFO - Successful dumping
 2024-10-20 08:37:34,629 - logger - INFO - ------
+2024-10-20 09:30:20,704 - logger - INFO - ------
+2024-10-20 09:30:20,705 - logger - INFO - retrieve station status
+2024-10-20 09:30:21,025 - logger - INFO - request status: Successful
+2024-10-20 09:30:21,028 - logger - INFO - Successful dumping
+2024-10-20 09:30:21,028 - logger - INFO - retrieve station information
+2024-10-20 09:30:21,794 - logger - INFO - request status: Successful
+2024-10-20 09:30:21,812 - logger - INFO - Successful dumping
+2024-10-20 09:30:21,812 - logger - INFO - ------
