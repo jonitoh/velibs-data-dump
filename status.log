@@ -8764,3 +8764,11 @@
 2024-10-20 19:25:58,026 - logger - INFO - request status: Successful
 2024-10-20 19:25:58,044 - logger - INFO - Successful dumping
 2024-10-20 19:25:58,044 - logger - INFO - ------
+2024-10-20 20:30:18,054 - logger - INFO - ------
+2024-10-20 20:30:18,054 - logger - INFO - retrieve station status
+2024-10-20 20:30:18,604 - logger - INFO - request status: Successful
+2024-10-20 20:30:18,607 - logger - INFO - Successful dumping
+2024-10-20 20:30:18,607 - logger - INFO - retrieve station information
+2024-10-20 20:30:19,903 - logger - INFO - request status: Successful
+2024-10-20 20:30:19,921 - logger - INFO - Successful dumping
+2024-10-20 20:30:19,922 - logger - INFO - ------
