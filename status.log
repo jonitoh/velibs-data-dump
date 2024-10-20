@@ -8716,3 +8716,11 @@
 2024-10-20 13:31:48,102 - logger - INFO - request status: Successful
 2024-10-20 13:31:48,120 - logger - INFO - Successful dumping
 2024-10-20 13:31:48,121 - logger - INFO - ------
+2024-10-20 14:32:06,638 - logger - INFO - ------
+2024-10-20 14:32:06,638 - logger - INFO - retrieve station status
+2024-10-20 14:32:07,186 - logger - INFO - request status: Successful
+2024-10-20 14:32:07,189 - logger - INFO - Successful dumping
+2024-10-20 14:32:07,189 - logger - INFO - retrieve station information
+2024-10-20 14:32:08,415 - logger - INFO - request status: Successful
+2024-10-20 14:32:08,433 - logger - INFO - Successful dumping
+2024-10-20 14:32:08,433 - logger - INFO - ------
