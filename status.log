@@ -8732,3 +8732,11 @@
 2024-10-20 15:33:30,681 - logger - INFO - request status: Successful
 2024-10-20 15:33:30,699 - logger - INFO - Successful dumping
 2024-10-20 15:33:30,699 - logger - INFO - ------
+2024-10-20 16:36:51,027 - logger - INFO - ------
+2024-10-20 16:36:51,027 - logger - INFO - retrieve station status
+2024-10-20 16:36:51,367 - logger - INFO - request status: Successful
+2024-10-20 16:36:51,370 - logger - INFO - Successful dumping
+2024-10-20 16:36:51,370 - logger - INFO - retrieve station information
+2024-10-20 16:36:52,131 - logger - INFO - request status: Successful
+2024-10-20 16:36:52,149 - logger - INFO - Successful dumping
+2024-10-20 16:36:52,150 - logger - INFO - ------
