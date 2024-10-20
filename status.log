@@ -8620,3 +8620,11 @@
 2024-10-20 02:05:05,336 - logger - INFO - request status: Successful
 2024-10-20 02:05:05,354 - logger - INFO - Successful dumping
 2024-10-20 02:05:05,354 - logger - INFO - ------
+2024-10-20 03:05:03,441 - logger - INFO - ------
+2024-10-20 03:05:03,441 - logger - INFO - retrieve station status
+2024-10-20 03:05:03,791 - logger - INFO - request status: Successful
+2024-10-20 03:05:03,796 - logger - INFO - Successful dumping
+2024-10-20 03:05:03,796 - logger - INFO - retrieve station information
+2024-10-20 03:05:04,696 - logger - INFO - request status: Successful
+2024-10-20 03:05:04,714 - logger - INFO - Successful dumping
+2024-10-20 03:05:04,715 - logger - INFO - ------
