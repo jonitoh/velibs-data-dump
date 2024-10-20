@@ -8772,3 +8772,11 @@
 2024-10-20 20:30:19,903 - logger - INFO - request status: Successful
 2024-10-20 20:30:19,921 - logger - INFO - Successful dumping
 2024-10-20 20:30:19,922 - logger - INFO - ------
+2024-10-20 21:28:35,300 - logger - INFO - ------
+2024-10-20 21:28:35,300 - logger - INFO - retrieve station status
+2024-10-20 21:28:35,579 - logger - INFO - request status: Successful
+2024-10-20 21:28:35,582 - logger - INFO - Successful dumping
+2024-10-20 21:28:35,582 - logger - INFO - retrieve station information
+2024-10-20 21:28:36,482 - logger - INFO - request status: Successful
+2024-10-20 21:28:36,500 - logger - INFO - Successful dumping
+2024-10-20 21:28:36,500 - logger - INFO - ------
