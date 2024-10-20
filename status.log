@@ -8748,3 +8748,11 @@
 2024-10-20 17:32:09,137 - logger - INFO - request status: Successful
 2024-10-20 17:32:09,155 - logger - INFO - Successful dumping
 2024-10-20 17:32:09,155 - logger - INFO - ------
+2024-10-20 18:36:10,378 - logger - INFO - ------
+2024-10-20 18:36:10,378 - logger - INFO - retrieve station status
+2024-10-20 18:36:10,774 - logger - INFO - request status: Successful
+2024-10-20 18:36:10,777 - logger - INFO - Successful dumping
+2024-10-20 18:36:10,777 - logger - INFO - retrieve station information
+2024-10-20 18:36:11,669 - logger - INFO - request status: Successful
+2024-10-20 18:36:11,687 - logger - INFO - Successful dumping
+2024-10-20 18:36:11,687 - logger - INFO - ------
