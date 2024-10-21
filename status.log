@@ -8948,3 +8948,11 @@
 2024-10-21 19:26:14,307 - logger - INFO - request status: Successful
 2024-10-21 19:26:14,325 - logger - INFO - Successful dumping
 2024-10-21 19:26:14,325 - logger - INFO - ------
+2024-10-21 20:31:17,164 - logger - INFO - ------
+2024-10-21 20:31:17,165 - logger - INFO - retrieve station status
+2024-10-21 20:31:17,674 - logger - INFO - request status: Successful
+2024-10-21 20:31:17,677 - logger - INFO - Successful dumping
+2024-10-21 20:31:17,677 - logger - INFO - retrieve station information
+2024-10-21 20:31:19,030 - logger - INFO - request status: Successful
+2024-10-21 20:31:19,048 - logger - INFO - Successful dumping
+2024-10-21 20:31:19,049 - logger - INFO - ------
