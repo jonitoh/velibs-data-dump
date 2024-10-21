@@ -8900,3 +8900,11 @@
 2024-10-21 13:38:20,641 - logger - INFO - request status: Successful
 2024-10-21 13:38:20,659 - logger - INFO - Successful dumping
 2024-10-21 13:38:20,660 - logger - INFO - ------
+2024-10-21 14:35:38,775 - logger - INFO - ------
+2024-10-21 14:35:38,775 - logger - INFO - retrieve station status
+2024-10-21 14:35:39,405 - logger - INFO - request status: Successful
+2024-10-21 14:35:39,408 - logger - INFO - Successful dumping
+2024-10-21 14:35:39,408 - logger - INFO - retrieve station information
+2024-10-21 14:35:40,664 - logger - INFO - request status: Successful
+2024-10-21 14:35:40,682 - logger - INFO - Successful dumping
+2024-10-21 14:35:40,683 - logger - INFO - ------
