@@ -8956,3 +8956,11 @@
 2024-10-21 20:31:19,030 - logger - INFO - request status: Successful
 2024-10-21 20:31:19,048 - logger - INFO - Successful dumping
 2024-10-21 20:31:19,049 - logger - INFO - ------
+2024-10-21 21:29:48,823 - logger - INFO - ------
+2024-10-21 21:29:48,823 - logger - INFO - retrieve station status
+2024-10-21 21:29:49,334 - logger - INFO - request status: Successful
+2024-10-21 21:29:49,337 - logger - INFO - Successful dumping
+2024-10-21 21:29:49,337 - logger - INFO - retrieve station information
+2024-10-21 21:29:50,642 - logger - INFO - request status: Successful
+2024-10-21 21:29:50,660 - logger - INFO - Successful dumping
+2024-10-21 21:29:50,660 - logger - INFO - ------
