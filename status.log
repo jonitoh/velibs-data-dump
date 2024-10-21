@@ -8804,3 +8804,11 @@
 2024-10-21 01:59:06,992 - logger - INFO - request status: Successful
 2024-10-21 01:59:07,010 - logger - INFO - Successful dumping
 2024-10-21 01:59:07,010 - logger - INFO - ------
+2024-10-21 03:03:48,985 - logger - INFO - ------
+2024-10-21 03:03:48,985 - logger - INFO - retrieve station status
+2024-10-21 03:03:49,332 - logger - INFO - request status: Successful
+2024-10-21 03:03:49,335 - logger - INFO - Successful dumping
+2024-10-21 03:03:49,335 - logger - INFO - retrieve station information
+2024-10-21 03:03:50,194 - logger - INFO - request status: Successful
+2024-10-21 03:03:50,212 - logger - INFO - Successful dumping
+2024-10-21 03:03:50,212 - logger - INFO - ------
