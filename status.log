@@ -8940,3 +8940,11 @@
 2024-10-21 18:40:10,544 - logger - INFO - request status: Successful
 2024-10-21 18:40:10,563 - logger - INFO - Successful dumping
 2024-10-21 18:40:10,563 - logger - INFO - ------
+2024-10-21 19:26:12,415 - logger - INFO - ------
+2024-10-21 19:26:12,416 - logger - INFO - retrieve station status
+2024-10-21 19:26:12,976 - logger - INFO - request status: Successful
+2024-10-21 19:26:12,979 - logger - INFO - Successful dumping
+2024-10-21 19:26:12,979 - logger - INFO - retrieve station information
+2024-10-21 19:26:14,307 - logger - INFO - request status: Successful
+2024-10-21 19:26:14,325 - logger - INFO - Successful dumping
+2024-10-21 19:26:14,325 - logger - INFO - ------
