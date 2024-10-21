@@ -8812,3 +8812,11 @@
 2024-10-21 03:03:50,194 - logger - INFO - request status: Successful
 2024-10-21 03:03:50,212 - logger - INFO - Successful dumping
 2024-10-21 03:03:50,212 - logger - INFO - ------
+2024-10-21 03:41:01,204 - logger - INFO - ------
+2024-10-21 03:41:01,204 - logger - INFO - retrieve station status
+2024-10-21 03:41:01,501 - logger - INFO - request status: Successful
+2024-10-21 03:41:01,503 - logger - INFO - Successful dumping
+2024-10-21 03:41:01,504 - logger - INFO - retrieve station information
+2024-10-21 03:41:02,305 - logger - INFO - request status: Successful
+2024-10-21 03:41:02,323 - logger - INFO - Successful dumping
+2024-10-21 03:41:02,323 - logger - INFO - ------
