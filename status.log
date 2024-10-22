@@ -9108,3 +9108,11 @@
 2024-10-22 16:40:12,541 - logger - INFO - request status: Successful
 2024-10-22 16:40:12,560 - logger - INFO - Successful dumping
 2024-10-22 16:40:12,560 - logger - INFO - ------
+2024-10-22 17:32:04,211 - logger - INFO - ------
+2024-10-22 17:32:04,211 - logger - INFO - retrieve station status
+2024-10-22 17:32:04,533 - logger - INFO - request status: Successful
+2024-10-22 17:32:04,536 - logger - INFO - Successful dumping
+2024-10-22 17:32:04,536 - logger - INFO - retrieve station information
+2024-10-22 17:32:05,404 - logger - INFO - request status: Successful
+2024-10-22 17:32:05,422 - logger - INFO - Successful dumping
+2024-10-22 17:32:05,423 - logger - INFO - ------
