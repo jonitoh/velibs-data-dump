@@ -9132,3 +9132,11 @@
 2024-10-22 19:28:21,860 - logger - INFO - request status: Successful
 2024-10-22 19:28:21,878 - logger - INFO - Successful dumping
 2024-10-22 19:28:21,878 - logger - INFO - ------
+2024-10-22 20:31:43,767 - logger - INFO - ------
+2024-10-22 20:31:43,767 - logger - INFO - retrieve station status
+2024-10-22 20:31:44,149 - logger - INFO - request status: Successful
+2024-10-22 20:31:44,151 - logger - INFO - Successful dumping
+2024-10-22 20:31:44,152 - logger - INFO - retrieve station information
+2024-10-22 20:31:45,005 - logger - INFO - request status: Successful
+2024-10-22 20:31:45,023 - logger - INFO - Successful dumping
+2024-10-22 20:31:45,024 - logger - INFO - ------
