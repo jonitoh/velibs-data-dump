@@ -8996,3 +8996,11 @@
 2024-10-22 03:00:22,865 - logger - INFO - request status: Successful
 2024-10-22 03:00:22,883 - logger - INFO - Successful dumping
 2024-10-22 03:00:22,884 - logger - INFO - ------
+2024-10-22 03:38:08,397 - logger - INFO - ------
+2024-10-22 03:38:08,397 - logger - INFO - retrieve station status
+2024-10-22 03:38:08,726 - logger - INFO - request status: Successful
+2024-10-22 03:38:08,729 - logger - INFO - Successful dumping
+2024-10-22 03:38:08,729 - logger - INFO - retrieve station information
+2024-10-22 03:38:09,473 - logger - INFO - request status: Successful
+2024-10-22 03:38:09,491 - logger - INFO - Successful dumping
+2024-10-22 03:38:09,491 - logger - INFO - ------
