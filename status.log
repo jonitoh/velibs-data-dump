@@ -8988,3 +8988,11 @@
 2024-10-22 01:57:21,617 - logger - INFO - request status: Successful
 2024-10-22 01:57:21,636 - logger - INFO - Successful dumping
 2024-10-22 01:57:21,636 - logger - INFO - ------
+2024-10-22 03:00:21,479 - logger - INFO - ------
+2024-10-22 03:00:21,479 - logger - INFO - retrieve station status
+2024-10-22 03:00:22,008 - logger - INFO - request status: Successful
+2024-10-22 03:00:22,011 - logger - INFO - Successful dumping
+2024-10-22 03:00:22,011 - logger - INFO - retrieve station information
+2024-10-22 03:00:22,865 - logger - INFO - request status: Successful
+2024-10-22 03:00:22,883 - logger - INFO - Successful dumping
+2024-10-22 03:00:22,884 - logger - INFO - ------
