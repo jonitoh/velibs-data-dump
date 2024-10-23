@@ -9300,3 +9300,11 @@
 2024-10-23 17:32:33,491 - logger - INFO - request status: Successful
 2024-10-23 17:32:33,510 - logger - INFO - Successful dumping
 2024-10-23 17:32:33,511 - logger - INFO - ------
+2024-10-23 18:39:33,880 - logger - INFO - ------
+2024-10-23 18:39:33,880 - logger - INFO - retrieve station status
+2024-10-23 18:39:34,372 - logger - INFO - request status: Successful
+2024-10-23 18:39:34,375 - logger - INFO - Successful dumping
+2024-10-23 18:39:34,375 - logger - INFO - retrieve station information
+2024-10-23 18:39:35,669 - logger - INFO - request status: Successful
+2024-10-23 18:39:35,687 - logger - INFO - Successful dumping
+2024-10-23 18:39:35,688 - logger - INFO - ------
