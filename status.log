@@ -9308,3 +9308,11 @@
 2024-10-23 18:39:35,669 - logger - INFO - request status: Successful
 2024-10-23 18:39:35,687 - logger - INFO - Successful dumping
 2024-10-23 18:39:35,688 - logger - INFO - ------
+2024-10-23 19:25:45,259 - logger - INFO - ------
+2024-10-23 19:25:45,259 - logger - INFO - retrieve station status
+2024-10-23 19:25:45,748 - logger - INFO - request status: Successful
+2024-10-23 19:25:45,750 - logger - INFO - Successful dumping
+2024-10-23 19:25:45,751 - logger - INFO - retrieve station information
+2024-10-23 19:25:47,127 - logger - INFO - request status: Successful
+2024-10-23 19:25:47,146 - logger - INFO - Successful dumping
+2024-10-23 19:25:47,146 - logger - INFO - ------
