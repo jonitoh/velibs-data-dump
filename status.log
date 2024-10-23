@@ -9284,3 +9284,11 @@
 2024-10-23 15:32:57,991 - logger - INFO - request status: Successful
 2024-10-23 15:32:58,009 - logger - INFO - Successful dumping
 2024-10-23 15:32:58,009 - logger - INFO - ------
+2024-10-23 16:41:43,013 - logger - INFO - ------
+2024-10-23 16:41:43,013 - logger - INFO - retrieve station status
+2024-10-23 16:41:43,456 - logger - INFO - request status: Successful
+2024-10-23 16:41:43,458 - logger - INFO - Successful dumping
+2024-10-23 16:41:43,458 - logger - INFO - retrieve station information
+2024-10-23 16:41:44,743 - logger - INFO - request status: Successful
+2024-10-23 16:41:44,761 - logger - INFO - Successful dumping
+2024-10-23 16:41:44,762 - logger - INFO - ------
