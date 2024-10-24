@@ -9500,3 +9500,11 @@
 2024-10-24 19:27:24,441 - logger - INFO - request status: Successful
 2024-10-24 19:27:24,459 - logger - INFO - Successful dumping
 2024-10-24 19:27:24,459 - logger - INFO - ------
+2024-10-24 20:32:02,508 - logger - INFO - ------
+2024-10-24 20:32:02,508 - logger - INFO - retrieve station status
+2024-10-24 20:32:02,846 - logger - INFO - request status: Successful
+2024-10-24 20:32:02,849 - logger - INFO - Successful dumping
+2024-10-24 20:32:02,849 - logger - INFO - retrieve station information
+2024-10-24 20:32:03,363 - logger - INFO - request status: Successful
+2024-10-24 20:32:03,381 - logger - INFO - Successful dumping
+2024-10-24 20:32:03,382 - logger - INFO - ------
