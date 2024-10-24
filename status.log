@@ -9468,3 +9468,11 @@
 2024-10-24 15:32:43,798 - logger - INFO - request status: Successful
 2024-10-24 15:32:43,816 - logger - INFO - Successful dumping
 2024-10-24 15:32:43,816 - logger - INFO - ------
+2024-10-24 16:40:37,764 - logger - INFO - ------
+2024-10-24 16:40:37,764 - logger - INFO - retrieve station status
+2024-10-24 16:40:38,260 - logger - INFO - request status: Successful
+2024-10-24 16:40:38,263 - logger - INFO - Successful dumping
+2024-10-24 16:40:38,263 - logger - INFO - retrieve station information
+2024-10-24 16:40:39,545 - logger - INFO - request status: Successful
+2024-10-24 16:40:39,562 - logger - INFO - Successful dumping
+2024-10-24 16:40:39,563 - logger - INFO - ------
