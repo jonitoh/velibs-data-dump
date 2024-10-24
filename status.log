@@ -9436,3 +9436,11 @@
 2024-10-24 11:27:30,300 - logger - INFO - request status: Successful
 2024-10-24 11:27:30,335 - logger - INFO - Successful dumping
 2024-10-24 11:27:30,336 - logger - INFO - ------
+2024-10-24 12:54:23,050 - logger - INFO - ------
+2024-10-24 12:54:23,051 - logger - INFO - retrieve station status
+2024-10-24 12:54:23,360 - logger - INFO - request status: Successful
+2024-10-24 12:54:23,363 - logger - INFO - Successful dumping
+2024-10-24 12:54:23,363 - logger - INFO - retrieve station information
+2024-10-24 12:54:24,118 - logger - INFO - request status: Successful
+2024-10-24 12:54:24,136 - logger - INFO - Successful dumping
+2024-10-24 12:54:24,137 - logger - INFO - ------
