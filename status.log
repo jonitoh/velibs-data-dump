@@ -9508,3 +9508,11 @@
 2024-10-24 20:32:03,363 - logger - INFO - request status: Successful
 2024-10-24 20:32:03,381 - logger - INFO - Successful dumping
 2024-10-24 20:32:03,382 - logger - INFO - ------
+2024-10-24 21:30:19,254 - logger - INFO - ------
+2024-10-24 21:30:19,254 - logger - INFO - retrieve station status
+2024-10-24 21:30:19,573 - logger - INFO - request status: Successful
+2024-10-24 21:30:19,576 - logger - INFO - Successful dumping
+2024-10-24 21:30:19,576 - logger - INFO - retrieve station information
+2024-10-24 21:30:20,374 - logger - INFO - request status: Successful
+2024-10-24 21:30:20,392 - logger - INFO - Successful dumping
+2024-10-24 21:30:20,392 - logger - INFO - ------
