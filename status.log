@@ -9428,3 +9428,11 @@
 2024-10-24 10:37:07,219 - logger - INFO - request status: Successful
 2024-10-24 10:37:07,237 - logger - INFO - Successful dumping
 2024-10-24 10:37:07,237 - logger - INFO - ------
+2024-10-24 11:27:29,256 - logger - INFO - ------
+2024-10-24 11:27:29,257 - logger - INFO - retrieve station status
+2024-10-24 11:27:29,585 - logger - INFO - request status: Successful
+2024-10-24 11:27:29,587 - logger - INFO - Successful dumping
+2024-10-24 11:27:29,587 - logger - INFO - retrieve station information
+2024-10-24 11:27:30,300 - logger - INFO - request status: Successful
+2024-10-24 11:27:30,335 - logger - INFO - Successful dumping
+2024-10-24 11:27:30,336 - logger - INFO - ------
