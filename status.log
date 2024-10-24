@@ -9388,3 +9388,11 @@
 2024-10-24 05:34:11,627 - logger - INFO - request status: Successful
 2024-10-24 05:34:11,645 - logger - INFO - Successful dumping
 2024-10-24 05:34:11,646 - logger - INFO - ------
+2024-10-24 06:41:23,046 - logger - INFO - ------
+2024-10-24 06:41:23,046 - logger - INFO - retrieve station status
+2024-10-24 06:41:23,502 - logger - INFO - request status: Successful
+2024-10-24 06:41:23,505 - logger - INFO - Successful dumping
+2024-10-24 06:41:23,505 - logger - INFO - retrieve station information
+2024-10-24 06:41:24,785 - logger - INFO - request status: Successful
+2024-10-24 06:41:24,802 - logger - INFO - Successful dumping
+2024-10-24 06:41:24,803 - logger - INFO - ------
