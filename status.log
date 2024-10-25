@@ -9628,3 +9628,11 @@
 2024-10-25 12:53:37,372 - logger - INFO - request status: Successful
 2024-10-25 12:53:37,390 - logger - INFO - Successful dumping
 2024-10-25 12:53:37,390 - logger - INFO - ------
+2024-10-25 13:35:18,398 - logger - INFO - ------
+2024-10-25 13:35:18,398 - logger - INFO - retrieve station status
+2024-10-25 13:35:18,728 - logger - INFO - request status: Successful
+2024-10-25 13:35:18,731 - logger - INFO - Successful dumping
+2024-10-25 13:35:18,731 - logger - INFO - retrieve station information
+2024-10-25 13:35:19,496 - logger - INFO - request status: Successful
+2024-10-25 13:35:19,514 - logger - INFO - Successful dumping
+2024-10-25 13:35:19,514 - logger - INFO - ------
