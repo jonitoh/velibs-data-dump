@@ -9668,3 +9668,11 @@
 2024-10-25 17:32:18,063 - logger - INFO - request status: Successful
 2024-10-25 17:32:18,081 - logger - INFO - Successful dumping
 2024-10-25 17:32:18,081 - logger - INFO - ------
+2024-10-25 18:39:24,023 - logger - INFO - ------
+2024-10-25 18:39:24,023 - logger - INFO - retrieve station status
+2024-10-25 18:39:24,420 - logger - INFO - request status: Successful
+2024-10-25 18:39:24,425 - logger - INFO - Successful dumping
+2024-10-25 18:39:24,425 - logger - INFO - retrieve station information
+2024-10-25 18:39:25,190 - logger - INFO - request status: Successful
+2024-10-25 18:39:25,208 - logger - INFO - Successful dumping
+2024-10-25 18:39:25,208 - logger - INFO - ------
