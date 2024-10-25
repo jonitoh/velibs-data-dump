@@ -9700,3 +9700,11 @@
 2024-10-25 21:31:38,725 - logger - INFO - request status: Successful
 2024-10-25 21:31:38,742 - logger - INFO - Successful dumping
 2024-10-25 21:31:38,743 - logger - INFO - ------
+2024-10-25 22:33:46,464 - logger - INFO - ------
+2024-10-25 22:33:46,464 - logger - INFO - retrieve station status
+2024-10-25 22:33:46,936 - logger - INFO - request status: Successful
+2024-10-25 22:33:46,939 - logger - INFO - Successful dumping
+2024-10-25 22:33:46,939 - logger - INFO - retrieve station information
+2024-10-25 22:33:48,244 - logger - INFO - request status: Successful
+2024-10-25 22:33:48,262 - logger - INFO - Successful dumping
+2024-10-25 22:33:48,262 - logger - INFO - ------
