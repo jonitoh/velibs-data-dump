@@ -9652,3 +9652,11 @@
 2024-10-25 15:32:13,574 - logger - INFO - request status: Successful
 2024-10-25 15:32:13,592 - logger - INFO - Successful dumping
 2024-10-25 15:32:13,593 - logger - INFO - ------
+2024-10-25 16:39:36,004 - logger - INFO - ------
+2024-10-25 16:39:36,004 - logger - INFO - retrieve station status
+2024-10-25 16:39:36,344 - logger - INFO - request status: Successful
+2024-10-25 16:39:36,347 - logger - INFO - Successful dumping
+2024-10-25 16:39:36,347 - logger - INFO - retrieve station information
+2024-10-25 16:39:37,298 - logger - INFO - request status: Successful
+2024-10-25 16:39:37,316 - logger - INFO - Successful dumping
+2024-10-25 16:39:37,317 - logger - INFO - ------
