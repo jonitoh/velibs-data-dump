@@ -9812,3 +9812,11 @@
 2024-10-26 12:50:37,156 - logger - INFO - request status: Successful
 2024-10-26 12:50:37,174 - logger - INFO - Successful dumping
 2024-10-26 12:50:37,175 - logger - INFO - ------
+2024-10-26 13:31:42,425 - logger - INFO - ------
+2024-10-26 13:31:42,425 - logger - INFO - retrieve station status
+2024-10-26 13:31:42,941 - logger - INFO - request status: Successful
+2024-10-26 13:31:42,944 - logger - INFO - Successful dumping
+2024-10-26 13:31:42,944 - logger - INFO - retrieve station information
+2024-10-26 13:31:44,204 - logger - INFO - request status: Successful
+2024-10-26 13:31:44,222 - logger - INFO - Successful dumping
+2024-10-26 13:31:44,222 - logger - INFO - ------
