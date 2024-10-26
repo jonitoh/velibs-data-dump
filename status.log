@@ -9868,3 +9868,11 @@
 2024-10-26 19:25:44,751 - logger - INFO - request status: Successful
 2024-10-26 19:25:44,769 - logger - INFO - Successful dumping
 2024-10-26 19:25:44,769 - logger - INFO - ------
+2024-10-26 20:29:55,623 - logger - INFO - ------
+2024-10-26 20:29:55,623 - logger - INFO - retrieve station status
+2024-10-26 20:29:55,939 - logger - INFO - request status: Successful
+2024-10-26 20:29:55,941 - logger - INFO - Successful dumping
+2024-10-26 20:29:55,942 - logger - INFO - retrieve station information
+2024-10-26 20:29:56,697 - logger - INFO - request status: Successful
+2024-10-26 20:29:56,715 - logger - INFO - Successful dumping
+2024-10-26 20:29:56,716 - logger - INFO - ------
