@@ -9828,3 +9828,11 @@
 2024-10-26 14:31:14,804 - logger - INFO - request status: Successful
 2024-10-26 14:31:14,823 - logger - INFO - Successful dumping
 2024-10-26 14:31:14,823 - logger - INFO - ------
+2024-10-26 15:30:55,885 - logger - INFO - ------
+2024-10-26 15:30:55,885 - logger - INFO - retrieve station status
+2024-10-26 15:30:56,150 - logger - INFO - request status: Successful
+2024-10-26 15:30:56,152 - logger - INFO - Successful dumping
+2024-10-26 15:30:56,153 - logger - INFO - retrieve station information
+2024-10-26 15:30:56,950 - logger - INFO - request status: Successful
+2024-10-26 15:30:56,968 - logger - INFO - Successful dumping
+2024-10-26 15:30:56,968 - logger - INFO - ------
