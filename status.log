@@ -9820,3 +9820,11 @@
 2024-10-26 13:31:44,204 - logger - INFO - request status: Successful
 2024-10-26 13:31:44,222 - logger - INFO - Successful dumping
 2024-10-26 13:31:44,222 - logger - INFO - ------
+2024-10-26 14:31:13,711 - logger - INFO - ------
+2024-10-26 14:31:13,712 - logger - INFO - retrieve station status
+2024-10-26 14:31:14,049 - logger - INFO - request status: Successful
+2024-10-26 14:31:14,051 - logger - INFO - Successful dumping
+2024-10-26 14:31:14,051 - logger - INFO - retrieve station information
+2024-10-26 14:31:14,804 - logger - INFO - request status: Successful
+2024-10-26 14:31:14,823 - logger - INFO - Successful dumping
+2024-10-26 14:31:14,823 - logger - INFO - ------
