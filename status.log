@@ -10244,3 +10244,11 @@
 2024-10-28 20:32:15,643 - logger - INFO - request status: Successful
 2024-10-28 20:32:15,660 - logger - INFO - Successful dumping
 2024-10-28 20:32:15,661 - logger - INFO - ------
+2024-10-28 21:30:08,373 - logger - INFO - ------
+2024-10-28 21:30:08,373 - logger - INFO - retrieve station status
+2024-10-28 21:30:08,870 - logger - INFO - request status: Successful
+2024-10-28 21:30:08,873 - logger - INFO - Successful dumping
+2024-10-28 21:30:08,873 - logger - INFO - retrieve station information
+2024-10-28 21:30:10,148 - logger - INFO - request status: Successful
+2024-10-28 21:30:10,166 - logger - INFO - Successful dumping
+2024-10-28 21:30:10,167 - logger - INFO - ------
