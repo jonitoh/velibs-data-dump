@@ -10180,3 +10180,11 @@
 2024-10-28 12:55:31,735 - logger - INFO - request status: Successful
 2024-10-28 12:55:31,753 - logger - INFO - Successful dumping
 2024-10-28 12:55:31,753 - logger - INFO - ------
+2024-10-28 13:38:01,536 - logger - INFO - ------
+2024-10-28 13:38:01,536 - logger - INFO - retrieve station status
+2024-10-28 13:38:01,836 - logger - INFO - request status: Successful
+2024-10-28 13:38:01,839 - logger - INFO - Successful dumping
+2024-10-28 13:38:01,839 - logger - INFO - retrieve station information
+2024-10-28 13:38:02,600 - logger - INFO - request status: Successful
+2024-10-28 13:38:02,618 - logger - INFO - Successful dumping
+2024-10-28 13:38:02,618 - logger - INFO - ------
