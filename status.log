@@ -10124,3 +10124,11 @@
 2024-10-28 05:34:56,596 - logger - INFO - request status: Successful
 2024-10-28 05:34:56,614 - logger - INFO - Successful dumping
 2024-10-28 05:34:56,614 - logger - INFO - ------
+2024-10-28 06:42:06,518 - logger - INFO - ------
+2024-10-28 06:42:06,518 - logger - INFO - retrieve station status
+2024-10-28 06:42:06,859 - logger - INFO - request status: Successful
+2024-10-28 06:42:06,862 - logger - INFO - Successful dumping
+2024-10-28 06:42:06,862 - logger - INFO - retrieve station information
+2024-10-28 06:42:07,330 - logger - INFO - request status: Successful
+2024-10-28 06:42:07,349 - logger - INFO - Successful dumping
+2024-10-28 06:42:07,350 - logger - INFO - ------
