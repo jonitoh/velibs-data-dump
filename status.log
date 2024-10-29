@@ -10420,3 +10420,11 @@
 2024-10-29 19:27:15,295 - logger - INFO - request status: Successful
 2024-10-29 19:27:15,313 - logger - INFO - Successful dumping
 2024-10-29 19:27:15,313 - logger - INFO - ------
+2024-10-29 20:32:24,179 - logger - INFO - ------
+2024-10-29 20:32:24,179 - logger - INFO - retrieve station status
+2024-10-29 20:32:24,553 - logger - INFO - request status: Successful
+2024-10-29 20:32:24,556 - logger - INFO - Successful dumping
+2024-10-29 20:32:24,556 - logger - INFO - retrieve station information
+2024-10-29 20:32:25,354 - logger - INFO - request status: Successful
+2024-10-29 20:32:25,372 - logger - INFO - Successful dumping
+2024-10-29 20:32:25,372 - logger - INFO - ------
