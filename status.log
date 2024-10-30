@@ -10604,3 +10604,11 @@
 2024-10-30 19:27:23,996 - logger - INFO - request status: Successful
 2024-10-30 19:27:24,014 - logger - INFO - Successful dumping
 2024-10-30 19:27:24,015 - logger - INFO - ------
+2024-10-30 20:31:59,226 - logger - INFO - ------
+2024-10-30 20:31:59,226 - logger - INFO - retrieve station status
+2024-10-30 20:31:59,789 - logger - INFO - request status: Successful
+2024-10-30 20:31:59,792 - logger - INFO - Successful dumping
+2024-10-30 20:31:59,792 - logger - INFO - retrieve station information
+2024-10-30 20:32:01,065 - logger - INFO - request status: Successful
+2024-10-30 20:32:01,083 - logger - INFO - Successful dumping
+2024-10-30 20:32:01,083 - logger - INFO - ------
