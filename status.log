@@ -10460,3 +10460,11 @@
 2024-10-30 01:57:24,048 - logger - INFO - request status: Successful
 2024-10-30 01:57:24,065 - logger - INFO - Successful dumping
 2024-10-30 01:57:24,066 - logger - INFO - ------
+2024-10-30 03:00:59,202 - logger - INFO - ------
+2024-10-30 03:00:59,202 - logger - INFO - retrieve station status
+2024-10-30 03:00:59,532 - logger - INFO - request status: Successful
+2024-10-30 03:00:59,534 - logger - INFO - Successful dumping
+2024-10-30 03:00:59,535 - logger - INFO - retrieve station information
+2024-10-30 03:01:00,438 - logger - INFO - request status: Successful
+2024-10-30 03:01:00,456 - logger - INFO - Successful dumping
+2024-10-30 03:01:00,457 - logger - INFO - ------
