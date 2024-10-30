@@ -10540,3 +10540,11 @@
 2024-10-30 11:27:53,826 - logger - INFO - request status: Successful
 2024-10-30 11:27:53,844 - logger - INFO - Successful dumping
 2024-10-30 11:27:53,845 - logger - INFO - ------
+2024-10-30 12:54:48,382 - logger - INFO - ------
+2024-10-30 12:54:48,383 - logger - INFO - retrieve station status
+2024-10-30 12:54:48,894 - logger - INFO - request status: Successful
+2024-10-30 12:54:48,897 - logger - INFO - Successful dumping
+2024-10-30 12:54:48,897 - logger - INFO - retrieve station information
+2024-10-30 12:54:50,169 - logger - INFO - request status: Successful
+2024-10-30 12:54:50,186 - logger - INFO - Successful dumping
+2024-10-30 12:54:50,187 - logger - INFO - ------
