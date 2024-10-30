@@ -10508,3 +10508,11 @@
 2024-10-30 07:30:42,365 - logger - INFO - request status: Successful
 2024-10-30 07:30:42,383 - logger - INFO - Successful dumping
 2024-10-30 07:30:42,383 - logger - INFO - ------
+2024-10-30 08:40:50,754 - logger - INFO - ------
+2024-10-30 08:40:50,754 - logger - INFO - retrieve station status
+2024-10-30 08:40:51,233 - logger - INFO - request status: Successful
+2024-10-30 08:40:51,236 - logger - INFO - Successful dumping
+2024-10-30 08:40:51,236 - logger - INFO - retrieve station information
+2024-10-30 08:40:52,521 - logger - INFO - request status: Successful
+2024-10-30 08:40:52,539 - logger - INFO - Successful dumping
+2024-10-30 08:40:52,540 - logger - INFO - ------
