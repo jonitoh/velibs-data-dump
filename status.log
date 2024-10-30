@@ -10620,3 +10620,11 @@
 2024-10-30 21:29:54,487 - logger - INFO - request status: Successful
 2024-10-30 21:29:54,505 - logger - INFO - Successful dumping
 2024-10-30 21:29:54,506 - logger - INFO - ------
+2024-10-30 22:34:14,234 - logger - INFO - ------
+2024-10-30 22:34:14,234 - logger - INFO - retrieve station status
+2024-10-30 22:34:14,756 - logger - INFO - request status: Successful
+2024-10-30 22:34:14,758 - logger - INFO - Successful dumping
+2024-10-30 22:34:14,759 - logger - INFO - retrieve station information
+2024-10-30 22:34:16,042 - logger - INFO - request status: Successful
+2024-10-30 22:34:16,060 - logger - INFO - Successful dumping
+2024-10-30 22:34:16,060 - logger - INFO - ------
