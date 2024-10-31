@@ -10723,3 +10723,11 @@
 2024-10-31 11:28:25,883 - logger - INFO - request status: Successful
 2024-10-31 11:28:25,901 - logger - INFO - Successful dumping
 2024-10-31 11:28:25,902 - logger - INFO - ------
+2024-10-31 12:53:59,109 - logger - INFO - ------
+2024-10-31 12:53:59,110 - logger - INFO - retrieve station status
+2024-10-31 12:53:59,712 - logger - INFO - request status: Successful
+2024-10-31 12:53:59,715 - logger - INFO - Successful dumping
+2024-10-31 12:53:59,715 - logger - INFO - retrieve station information
+2024-10-31 12:54:00,990 - logger - INFO - request status: Successful
+2024-10-31 12:54:01,008 - logger - INFO - Successful dumping
+2024-10-31 12:54:01,009 - logger - INFO - ------
