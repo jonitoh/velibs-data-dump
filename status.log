@@ -10715,3 +10715,11 @@
 2024-10-31 10:37:21,790 - logger - INFO - retrieve station information
 2024-10-31 10:37:22,248 - logger - INFO - request status: Unsuccessful 502
 2024-10-31 10:37:22,249 - logger - INFO - ------
+2024-10-31 11:28:24,103 - logger - INFO - ------
+2024-10-31 11:28:24,103 - logger - INFO - retrieve station status
+2024-10-31 11:28:24,600 - logger - INFO - request status: Successful
+2024-10-31 11:28:24,603 - logger - INFO - Successful dumping
+2024-10-31 11:28:24,603 - logger - INFO - retrieve station information
+2024-10-31 11:28:25,883 - logger - INFO - request status: Successful
+2024-10-31 11:28:25,901 - logger - INFO - Successful dumping
+2024-10-31 11:28:25,902 - logger - INFO - ------
