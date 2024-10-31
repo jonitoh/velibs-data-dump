@@ -10708,3 +10708,10 @@
 2024-10-31 09:31:51,836 - logger - INFO - request status: Successful
 2024-10-31 09:31:51,854 - logger - INFO - Successful dumping
 2024-10-31 09:31:51,854 - logger - INFO - ------
+2024-10-31 10:37:21,442 - logger - INFO - ------
+2024-10-31 10:37:21,442 - logger - INFO - retrieve station status
+2024-10-31 10:37:21,787 - logger - INFO - request status: Successful
+2024-10-31 10:37:21,789 - logger - INFO - Successful dumping
+2024-10-31 10:37:21,790 - logger - INFO - retrieve station information
+2024-10-31 10:37:22,248 - logger - INFO - request status: Unsuccessful 502
+2024-10-31 10:37:22,249 - logger - INFO - ------
