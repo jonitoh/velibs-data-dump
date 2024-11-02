@@ -11067,3 +11067,11 @@
 2024-11-02 08:34:24,243 - logger - INFO - request status: Successful
 2024-11-02 08:34:24,261 - logger - INFO - Successful dumping
 2024-11-02 08:34:24,262 - logger - INFO - ------
+2024-11-02 09:30:10,197 - logger - INFO - ------
+2024-11-02 09:30:10,197 - logger - INFO - retrieve station status
+2024-11-02 09:30:10,686 - logger - INFO - request status: Successful
+2024-11-02 09:30:10,689 - logger - INFO - Successful dumping
+2024-11-02 09:30:10,689 - logger - INFO - retrieve station information
+2024-11-02 09:30:11,570 - logger - INFO - request status: Successful
+2024-11-02 09:30:11,588 - logger - INFO - Successful dumping
+2024-11-02 09:30:11,588 - logger - INFO - ------
