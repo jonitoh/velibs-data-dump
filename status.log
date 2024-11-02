@@ -11123,3 +11123,11 @@
 2024-11-02 15:32:11,841 - logger - INFO - request status: Successful
 2024-11-02 15:32:11,859 - logger - INFO - Successful dumping
 2024-11-02 15:32:11,859 - logger - INFO - ------
+2024-11-02 16:39:58,887 - logger - INFO - ------
+2024-11-02 16:39:58,887 - logger - INFO - retrieve station status
+2024-11-02 16:39:59,216 - logger - INFO - request status: Successful
+2024-11-02 16:39:59,219 - logger - INFO - Successful dumping
+2024-11-02 16:39:59,219 - logger - INFO - retrieve station information
+2024-11-02 16:39:59,980 - logger - INFO - request status: Successful
+2024-11-02 16:39:59,999 - logger - INFO - Successful dumping
+2024-11-02 16:39:59,999 - logger - INFO - ------
