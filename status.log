@@ -11667,3 +11667,11 @@
 2024-11-05 14:33:52,701 - logger - INFO - request status: Successful
 2024-11-05 14:33:52,719 - logger - INFO - Successful dumping
 2024-11-05 14:33:52,720 - logger - INFO - ------
+2024-11-05 15:32:24,251 - logger - INFO - ------
+2024-11-05 15:32:24,251 - logger - INFO - retrieve station status
+2024-11-05 15:32:24,623 - logger - INFO - request status: Successful
+2024-11-05 15:32:24,625 - logger - INFO - Successful dumping
+2024-11-05 15:32:24,626 - logger - INFO - retrieve station information
+2024-11-05 15:32:25,485 - logger - INFO - request status: Successful
+2024-11-05 15:32:25,502 - logger - INFO - Successful dumping
+2024-11-05 15:32:25,503 - logger - INFO - ------
