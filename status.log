@@ -11707,3 +11707,11 @@
 2024-11-05 19:26:03,437 - logger - INFO - request status: Successful
 2024-11-05 19:26:03,455 - logger - INFO - Successful dumping
 2024-11-05 19:26:03,455 - logger - INFO - ------
+2024-11-05 20:31:27,295 - logger - INFO - ------
+2024-11-05 20:31:27,296 - logger - INFO - retrieve station status
+2024-11-05 20:31:27,706 - logger - INFO - request status: Successful
+2024-11-05 20:31:27,711 - logger - INFO - Successful dumping
+2024-11-05 20:31:27,711 - logger - INFO - retrieve station information
+2024-11-05 20:31:29,150 - logger - INFO - request status: Successful
+2024-11-05 20:31:29,168 - logger - INFO - Successful dumping
+2024-11-05 20:31:29,168 - logger - INFO - ------
