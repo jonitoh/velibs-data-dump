@@ -11643,3 +11643,11 @@
 2024-11-05 11:26:56,583 - logger - INFO - request status: Successful
 2024-11-05 11:26:56,602 - logger - INFO - Successful dumping
 2024-11-05 11:26:56,602 - logger - INFO - ------
+2024-11-05 12:51:36,554 - logger - INFO - ------
+2024-11-05 12:51:36,554 - logger - INFO - retrieve station status
+2024-11-05 12:51:36,899 - logger - INFO - request status: Successful
+2024-11-05 12:51:36,901 - logger - INFO - Successful dumping
+2024-11-05 12:51:36,902 - logger - INFO - retrieve station information
+2024-11-05 12:51:37,660 - logger - INFO - request status: Successful
+2024-11-05 12:51:37,678 - logger - INFO - Successful dumping
+2024-11-05 12:51:37,678 - logger - INFO - ------
