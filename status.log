@@ -11827,3 +11827,11 @@
 2024-11-06 11:27:08,232 - logger - INFO - request status: Successful
 2024-11-06 11:27:08,250 - logger - INFO - Successful dumping
 2024-11-06 11:27:08,250 - logger - INFO - ------
+2024-11-06 12:53:13,221 - logger - INFO - ------
+2024-11-06 12:53:13,221 - logger - INFO - retrieve station status
+2024-11-06 12:53:13,528 - logger - INFO - request status: Successful
+2024-11-06 12:53:13,531 - logger - INFO - Successful dumping
+2024-11-06 12:53:13,531 - logger - INFO - retrieve station information
+2024-11-06 12:53:14,282 - logger - INFO - request status: Successful
+2024-11-06 12:53:14,300 - logger - INFO - Successful dumping
+2024-11-06 12:53:14,300 - logger - INFO - ------
