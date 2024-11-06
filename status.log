@@ -11747,3 +11747,11 @@
 2024-11-06 01:53:59,156 - logger - INFO - request status: Successful
 2024-11-06 01:53:59,174 - logger - INFO - Successful dumping
 2024-11-06 01:53:59,175 - logger - INFO - ------
+2024-11-06 02:56:03,129 - logger - INFO - ------
+2024-11-06 02:56:03,129 - logger - INFO - retrieve station status
+2024-11-06 02:56:03,629 - logger - INFO - request status: Successful
+2024-11-06 02:56:03,631 - logger - INFO - Successful dumping
+2024-11-06 02:56:03,631 - logger - INFO - retrieve station information
+2024-11-06 02:56:04,901 - logger - INFO - request status: Successful
+2024-11-06 02:56:04,918 - logger - INFO - Successful dumping
+2024-11-06 02:56:04,919 - logger - INFO - ------
