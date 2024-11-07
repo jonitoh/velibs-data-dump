@@ -12035,3 +12035,11 @@
 2024-11-07 14:31:46,473 - logger - INFO - request status: Successful
 2024-11-07 14:31:46,491 - logger - INFO - Successful dumping
 2024-11-07 14:31:46,492 - logger - INFO - ------
+2024-11-07 15:31:50,537 - logger - INFO - ------
+2024-11-07 15:31:50,537 - logger - INFO - retrieve station status
+2024-11-07 15:31:51,041 - logger - INFO - request status: Successful
+2024-11-07 15:31:51,043 - logger - INFO - Successful dumping
+2024-11-07 15:31:51,043 - logger - INFO - retrieve station information
+2024-11-07 15:31:52,314 - logger - INFO - request status: Successful
+2024-11-07 15:31:52,332 - logger - INFO - Successful dumping
+2024-11-07 15:31:52,332 - logger - INFO - ------
