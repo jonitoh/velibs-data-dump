@@ -12379,3 +12379,11 @@
 2024-11-09 11:25:39,572 - logger - INFO - request status: Successful
 2024-11-09 11:25:39,590 - logger - INFO - Successful dumping
 2024-11-09 11:25:39,590 - logger - INFO - ------
+2024-11-09 12:48:58,754 - logger - INFO - ------
+2024-11-09 12:48:58,754 - logger - INFO - retrieve station status
+2024-11-09 12:48:59,101 - logger - INFO - request status: Successful
+2024-11-09 12:48:59,106 - logger - INFO - Successful dumping
+2024-11-09 12:48:59,106 - logger - INFO - retrieve station information
+2024-11-09 12:48:59,994 - logger - INFO - request status: Successful
+2024-11-09 12:49:00,012 - logger - INFO - Successful dumping
+2024-11-09 12:49:00,013 - logger - INFO - ------
