@@ -12411,3 +12411,11 @@
 2024-11-09 15:30:32,095 - logger - INFO - request status: Successful
 2024-11-09 15:30:32,113 - logger - INFO - Successful dumping
 2024-11-09 15:30:32,114 - logger - INFO - ------
+2024-11-09 16:35:50,611 - logger - INFO - ------
+2024-11-09 16:35:50,611 - logger - INFO - retrieve station status
+2024-11-09 16:35:50,950 - logger - INFO - request status: Successful
+2024-11-09 16:35:50,953 - logger - INFO - Successful dumping
+2024-11-09 16:35:50,953 - logger - INFO - retrieve station information
+2024-11-09 16:35:51,830 - logger - INFO - request status: Successful
+2024-11-09 16:35:51,848 - logger - INFO - Successful dumping
+2024-11-09 16:35:51,849 - logger - INFO - ------
