@@ -12363,3 +12363,11 @@
 2024-11-09 09:28:36,233 - logger - INFO - request status: Successful
 2024-11-09 09:28:36,251 - logger - INFO - Successful dumping
 2024-11-09 09:28:36,252 - logger - INFO - ------
+2024-11-09 10:32:51,100 - logger - INFO - ------
+2024-11-09 10:32:51,100 - logger - INFO - retrieve station status
+2024-11-09 10:32:51,466 - logger - INFO - request status: Successful
+2024-11-09 10:32:51,469 - logger - INFO - Successful dumping
+2024-11-09 10:32:51,469 - logger - INFO - retrieve station information
+2024-11-09 10:32:52,343 - logger - INFO - request status: Successful
+2024-11-09 10:32:52,361 - logger - INFO - Successful dumping
+2024-11-09 10:32:52,362 - logger - INFO - ------
