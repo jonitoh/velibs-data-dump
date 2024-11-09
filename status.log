@@ -12371,3 +12371,11 @@
 2024-11-09 10:32:52,343 - logger - INFO - request status: Successful
 2024-11-09 10:32:52,361 - logger - INFO - Successful dumping
 2024-11-09 10:32:52,362 - logger - INFO - ------
+2024-11-09 11:25:38,524 - logger - INFO - ------
+2024-11-09 11:25:38,524 - logger - INFO - retrieve station status
+2024-11-09 11:25:38,792 - logger - INFO - request status: Successful
+2024-11-09 11:25:38,795 - logger - INFO - Successful dumping
+2024-11-09 11:25:38,795 - logger - INFO - retrieve station information
+2024-11-09 11:25:39,572 - logger - INFO - request status: Successful
+2024-11-09 11:25:39,590 - logger - INFO - Successful dumping
+2024-11-09 11:25:39,590 - logger - INFO - ------
