@@ -12547,3 +12547,11 @@
 2024-11-10 09:28:36,321 - logger - INFO - request status: Successful
 2024-11-10 09:28:36,339 - logger - INFO - Successful dumping
 2024-11-10 09:28:36,339 - logger - INFO - ------
+2024-11-10 10:33:02,698 - logger - INFO - ------
+2024-11-10 10:33:02,698 - logger - INFO - retrieve station status
+2024-11-10 10:33:03,277 - logger - INFO - request status: Successful
+2024-11-10 10:33:03,280 - logger - INFO - Successful dumping
+2024-11-10 10:33:03,280 - logger - INFO - retrieve station information
+2024-11-10 10:33:04,568 - logger - INFO - request status: Successful
+2024-11-10 10:33:04,586 - logger - INFO - Successful dumping
+2024-11-10 10:33:04,587 - logger - INFO - ------
