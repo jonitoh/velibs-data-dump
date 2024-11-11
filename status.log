@@ -12715,3 +12715,11 @@
 2024-11-11 07:31:19,217 - logger - INFO - request status: Successful
 2024-11-11 07:31:19,235 - logger - INFO - Successful dumping
 2024-11-11 07:31:19,235 - logger - INFO - ------
+2024-11-11 08:37:49,315 - logger - INFO - ------
+2024-11-11 08:37:49,315 - logger - INFO - retrieve station status
+2024-11-11 08:37:49,652 - logger - INFO - request status: Successful
+2024-11-11 08:37:49,655 - logger - INFO - Successful dumping
+2024-11-11 08:37:49,655 - logger - INFO - retrieve station information
+2024-11-11 08:37:50,377 - logger - INFO - request status: Successful
+2024-11-11 08:37:50,395 - logger - INFO - Successful dumping
+2024-11-11 08:37:50,395 - logger - INFO - ------
