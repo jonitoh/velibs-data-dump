@@ -12787,3 +12787,11 @@
 2024-11-11 16:39:05,584 - logger - INFO - request status: Successful
 2024-11-11 16:39:05,602 - logger - INFO - Successful dumping
 2024-11-11 16:39:05,602 - logger - INFO - ------
+2024-11-11 17:30:50,000 - logger - INFO - ------
+2024-11-11 17:30:50,000 - logger - INFO - retrieve station status
+2024-11-11 17:30:50,515 - logger - INFO - request status: Successful
+2024-11-11 17:30:50,517 - logger - INFO - Successful dumping
+2024-11-11 17:30:50,517 - logger - INFO - retrieve station information
+2024-11-11 17:30:51,801 - logger - INFO - request status: Successful
+2024-11-11 17:30:51,819 - logger - INFO - Successful dumping
+2024-11-11 17:30:51,819 - logger - INFO - ------
