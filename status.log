@@ -12803,3 +12803,11 @@
 2024-11-11 18:37:37,621 - logger - INFO - request status: Successful
 2024-11-11 18:37:37,639 - logger - INFO - Successful dumping
 2024-11-11 18:37:37,640 - logger - INFO - ------
+2024-11-11 19:25:41,426 - logger - INFO - ------
+2024-11-11 19:25:41,426 - logger - INFO - retrieve station status
+2024-11-11 19:25:41,824 - logger - INFO - request status: Successful
+2024-11-11 19:25:41,827 - logger - INFO - Successful dumping
+2024-11-11 19:25:41,827 - logger - INFO - retrieve station information
+2024-11-11 19:25:42,619 - logger - INFO - request status: Successful
+2024-11-11 19:25:42,637 - logger - INFO - Successful dumping
+2024-11-11 19:25:42,637 - logger - INFO - ------
