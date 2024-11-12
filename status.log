@@ -12875,3 +12875,11 @@
 2024-11-12 04:34:40,252 - logger - INFO - request status: Successful
 2024-11-12 04:34:40,270 - logger - INFO - Successful dumping
 2024-11-12 04:34:40,270 - logger - INFO - ------
+2024-11-12 05:33:14,812 - logger - INFO - ------
+2024-11-12 05:33:14,812 - logger - INFO - retrieve station status
+2024-11-12 05:33:15,160 - logger - INFO - request status: Successful
+2024-11-12 05:33:15,163 - logger - INFO - Successful dumping
+2024-11-12 05:33:15,163 - logger - INFO - retrieve station information
+2024-11-12 05:33:15,929 - logger - INFO - request status: Successful
+2024-11-12 05:33:15,946 - logger - INFO - Successful dumping
+2024-11-12 05:33:15,947 - logger - INFO - ------
