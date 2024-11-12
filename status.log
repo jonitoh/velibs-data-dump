@@ -13019,3 +13019,11 @@
 2024-11-12 22:33:08,708 - logger - INFO - request status: Successful
 2024-11-12 22:33:08,726 - logger - INFO - Successful dumping
 2024-11-12 22:33:08,727 - logger - INFO - ------
+2024-11-12 23:30:02,942 - logger - INFO - ------
+2024-11-12 23:30:02,942 - logger - INFO - retrieve station status
+2024-11-12 23:30:03,331 - logger - INFO - request status: Successful
+2024-11-12 23:30:03,334 - logger - INFO - Successful dumping
+2024-11-12 23:30:03,334 - logger - INFO - retrieve station information
+2024-11-12 23:30:04,139 - logger - INFO - request status: Successful
+2024-11-12 23:30:04,157 - logger - INFO - Successful dumping
+2024-11-12 23:30:04,158 - logger - INFO - ------
