@@ -12963,3 +12963,11 @@
 2024-11-12 15:31:23,698 - logger - INFO - request status: Successful
 2024-11-12 15:31:23,716 - logger - INFO - Successful dumping
 2024-11-12 15:31:23,717 - logger - INFO - ------
+2024-11-12 16:39:57,459 - logger - INFO - ------
+2024-11-12 16:39:57,459 - logger - INFO - retrieve station status
+2024-11-12 16:39:57,799 - logger - INFO - request status: Successful
+2024-11-12 16:39:57,801 - logger - INFO - Successful dumping
+2024-11-12 16:39:57,801 - logger - INFO - retrieve station information
+2024-11-12 16:39:58,543 - logger - INFO - request status: Successful
+2024-11-12 16:39:58,561 - logger - INFO - Successful dumping
+2024-11-12 16:39:58,561 - logger - INFO - ------
