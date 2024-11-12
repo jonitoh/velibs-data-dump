@@ -12931,3 +12931,11 @@
 2024-11-12 11:26:58,302 - logger - INFO - request status: Successful
 2024-11-12 11:26:58,321 - logger - INFO - Successful dumping
 2024-11-12 11:26:58,322 - logger - INFO - ------
+2024-11-12 12:53:59,803 - logger - INFO - ------
+2024-11-12 12:53:59,804 - logger - INFO - retrieve station status
+2024-11-12 12:54:00,080 - logger - INFO - request status: Successful
+2024-11-12 12:54:00,082 - logger - INFO - Successful dumping
+2024-11-12 12:54:00,083 - logger - INFO - retrieve station information
+2024-11-12 12:54:00,839 - logger - INFO - request status: Successful
+2024-11-12 12:54:00,857 - logger - INFO - Successful dumping
+2024-11-12 12:54:00,858 - logger - INFO - ------
