@@ -13187,3 +13187,11 @@
 2024-11-13 20:31:26,556 - logger - INFO - request status: Successful
 2024-11-13 20:31:26,575 - logger - INFO - Successful dumping
 2024-11-13 20:31:26,576 - logger - INFO - ------
+2024-11-13 21:29:14,848 - logger - INFO - ------
+2024-11-13 21:29:14,849 - logger - INFO - retrieve station status
+2024-11-13 21:29:15,272 - logger - INFO - request status: Successful
+2024-11-13 21:29:15,275 - logger - INFO - Successful dumping
+2024-11-13 21:29:15,275 - logger - INFO - retrieve station information
+2024-11-13 21:29:16,048 - logger - INFO - request status: Successful
+2024-11-13 21:29:16,066 - logger - INFO - Successful dumping
+2024-11-13 21:29:16,067 - logger - INFO - ------
