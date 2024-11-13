@@ -13035,3 +13035,11 @@
 2024-11-13 01:55:19,057 - logger - INFO - request status: Successful
 2024-11-13 01:55:19,075 - logger - INFO - Successful dumping
 2024-11-13 01:55:19,075 - logger - INFO - ------
+2024-11-13 02:57:39,524 - logger - INFO - ------
+2024-11-13 02:57:39,524 - logger - INFO - retrieve station status
+2024-11-13 02:57:39,879 - logger - INFO - request status: Successful
+2024-11-13 02:57:39,882 - logger - INFO - Successful dumping
+2024-11-13 02:57:39,882 - logger - INFO - retrieve station information
+2024-11-13 02:57:40,745 - logger - INFO - request status: Successful
+2024-11-13 02:57:40,763 - logger - INFO - Successful dumping
+2024-11-13 02:57:40,764 - logger - INFO - ------
