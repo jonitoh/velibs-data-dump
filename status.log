@@ -13115,3 +13115,11 @@
 2024-11-13 11:27:25,601 - logger - INFO - request status: Successful
 2024-11-13 11:27:25,619 - logger - INFO - Successful dumping
 2024-11-13 11:27:25,619 - logger - INFO - ------
+2024-11-13 12:53:35,163 - logger - INFO - ------
+2024-11-13 12:53:35,163 - logger - INFO - retrieve station status
+2024-11-13 12:53:35,491 - logger - INFO - request status: Successful
+2024-11-13 12:53:35,493 - logger - INFO - Successful dumping
+2024-11-13 12:53:35,493 - logger - INFO - retrieve station information
+2024-11-13 12:53:36,248 - logger - INFO - request status: Successful
+2024-11-13 12:53:36,266 - logger - INFO - Successful dumping
+2024-11-13 12:53:36,266 - logger - INFO - ------
