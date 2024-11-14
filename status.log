@@ -13299,3 +13299,11 @@
 2024-11-14 11:27:37,269 - logger - INFO - request status: Successful
 2024-11-14 11:27:37,287 - logger - INFO - Successful dumping
 2024-11-14 11:27:37,288 - logger - INFO - ------
+2024-11-14 12:55:18,607 - logger - INFO - ------
+2024-11-14 12:55:18,607 - logger - INFO - retrieve station status
+2024-11-14 12:55:18,950 - logger - INFO - request status: Successful
+2024-11-14 12:55:18,953 - logger - INFO - Successful dumping
+2024-11-14 12:55:18,953 - logger - INFO - retrieve station information
+2024-11-14 12:55:19,710 - logger - INFO - request status: Successful
+2024-11-14 12:55:19,728 - logger - INFO - Successful dumping
+2024-11-14 12:55:19,728 - logger - INFO - ------
