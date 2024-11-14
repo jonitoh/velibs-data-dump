@@ -13331,3 +13331,11 @@
 2024-11-14 15:33:11,731 - logger - INFO - request status: Successful
 2024-11-14 15:33:11,750 - logger - INFO - Successful dumping
 2024-11-14 15:33:11,750 - logger - INFO - ------
+2024-11-14 16:40:49,963 - logger - INFO - ------
+2024-11-14 16:40:49,963 - logger - INFO - retrieve station status
+2024-11-14 16:40:51,491 - logger - INFO - request status: Successful
+2024-11-14 16:40:51,493 - logger - INFO - Successful dumping
+2024-11-14 16:40:51,494 - logger - INFO - retrieve station information
+2024-11-14 16:40:52,815 - logger - INFO - request status: Successful
+2024-11-14 16:40:52,833 - logger - INFO - Successful dumping
+2024-11-14 16:40:52,834 - logger - INFO - ------
