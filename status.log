@@ -13307,3 +13307,11 @@
 2024-11-14 12:55:19,710 - logger - INFO - request status: Successful
 2024-11-14 12:55:19,728 - logger - INFO - Successful dumping
 2024-11-14 12:55:19,728 - logger - INFO - ------
+2024-11-14 13:36:19,151 - logger - INFO - ------
+2024-11-14 13:36:19,151 - logger - INFO - retrieve station status
+2024-11-14 13:36:19,530 - logger - INFO - request status: Successful
+2024-11-14 13:36:19,532 - logger - INFO - Successful dumping
+2024-11-14 13:36:19,533 - logger - INFO - retrieve station information
+2024-11-14 13:36:20,255 - logger - INFO - request status: Successful
+2024-11-14 13:36:20,273 - logger - INFO - Successful dumping
+2024-11-14 13:36:20,274 - logger - INFO - ------
