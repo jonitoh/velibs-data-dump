@@ -13515,3 +13515,11 @@
 2024-11-15 15:33:16,459 - logger - INFO - request status: Successful
 2024-11-15 15:33:16,477 - logger - INFO - Successful dumping
 2024-11-15 15:33:16,477 - logger - INFO - ------
+2024-11-15 16:41:01,237 - logger - INFO - ------
+2024-11-15 16:41:01,237 - logger - INFO - retrieve station status
+2024-11-15 16:41:01,628 - logger - INFO - request status: Successful
+2024-11-15 16:41:01,631 - logger - INFO - Successful dumping
+2024-11-15 16:41:01,631 - logger - INFO - retrieve station information
+2024-11-15 16:41:02,527 - logger - INFO - request status: Successful
+2024-11-15 16:41:02,545 - logger - INFO - Successful dumping
+2024-11-15 16:41:02,545 - logger - INFO - ------
