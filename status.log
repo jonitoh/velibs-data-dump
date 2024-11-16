@@ -13731,3 +13731,11 @@
 2024-11-16 19:25:47,025 - logger - INFO - request status: Successful
 2024-11-16 19:25:47,043 - logger - INFO - Successful dumping
 2024-11-16 19:25:47,044 - logger - INFO - ------
+2024-11-16 20:31:41,425 - logger - INFO - ------
+2024-11-16 20:31:41,425 - logger - INFO - retrieve station status
+2024-11-16 20:31:41,728 - logger - INFO - request status: Successful
+2024-11-16 20:31:41,731 - logger - INFO - Successful dumping
+2024-11-16 20:31:41,731 - logger - INFO - retrieve station information
+2024-11-16 20:31:42,474 - logger - INFO - request status: Successful
+2024-11-16 20:31:42,492 - logger - INFO - Successful dumping
+2024-11-16 20:31:42,493 - logger - INFO - ------
