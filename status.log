@@ -13659,3 +13659,11 @@
 2024-11-16 10:35:29,743 - logger - INFO - request status: Successful
 2024-11-16 10:35:29,761 - logger - INFO - Successful dumping
 2024-11-16 10:35:29,762 - logger - INFO - ------
+2024-11-16 11:27:31,538 - logger - INFO - ------
+2024-11-16 11:27:31,538 - logger - INFO - retrieve station status
+2024-11-16 11:27:31,859 - logger - INFO - request status: Successful
+2024-11-16 11:27:31,862 - logger - INFO - Successful dumping
+2024-11-16 11:27:31,862 - logger - INFO - retrieve station information
+2024-11-16 11:27:32,757 - logger - INFO - request status: Successful
+2024-11-16 11:27:32,775 - logger - INFO - Successful dumping
+2024-11-16 11:27:32,775 - logger - INFO - ------
