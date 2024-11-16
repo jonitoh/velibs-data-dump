@@ -13691,3 +13691,11 @@
 2024-11-16 14:32:24,276 - logger - INFO - request status: Successful
 2024-11-16 14:32:24,311 - logger - INFO - Successful dumping
 2024-11-16 14:32:24,312 - logger - INFO - ------
+2024-11-16 15:32:24,854 - logger - INFO - ------
+2024-11-16 15:32:24,854 - logger - INFO - retrieve station status
+2024-11-16 15:32:25,146 - logger - INFO - request status: Successful
+2024-11-16 15:32:25,149 - logger - INFO - Successful dumping
+2024-11-16 15:32:25,149 - logger - INFO - retrieve station information
+2024-11-16 15:32:25,901 - logger - INFO - request status: Successful
+2024-11-16 15:32:25,919 - logger - INFO - Successful dumping
+2024-11-16 15:32:25,919 - logger - INFO - ------
