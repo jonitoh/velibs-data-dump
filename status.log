@@ -13851,3 +13851,11 @@
 2024-11-17 11:27:12,709 - logger - INFO - request status: Successful
 2024-11-17 11:27:12,727 - logger - INFO - Successful dumping
 2024-11-17 11:27:12,728 - logger - INFO - ------
+2024-11-17 12:51:43,282 - logger - INFO - ------
+2024-11-17 12:51:43,282 - logger - INFO - retrieve station status
+2024-11-17 12:51:43,662 - logger - INFO - request status: Successful
+2024-11-17 12:51:43,665 - logger - INFO - Successful dumping
+2024-11-17 12:51:43,665 - logger - INFO - retrieve station information
+2024-11-17 12:51:44,509 - logger - INFO - request status: Successful
+2024-11-17 12:51:44,527 - logger - INFO - Successful dumping
+2024-11-17 12:51:44,527 - logger - INFO - ------
