@@ -13803,3 +13803,11 @@
 2024-11-17 05:34:18,569 - logger - INFO - request status: Successful
 2024-11-17 05:34:18,586 - logger - INFO - Successful dumping
 2024-11-17 05:34:18,587 - logger - INFO - ------
+2024-11-17 06:40:45,926 - logger - INFO - ------
+2024-11-17 06:40:45,926 - logger - INFO - retrieve station status
+2024-11-17 06:40:46,393 - logger - INFO - request status: Successful
+2024-11-17 06:40:46,395 - logger - INFO - Successful dumping
+2024-11-17 06:40:46,396 - logger - INFO - retrieve station information
+2024-11-17 06:40:47,689 - logger - INFO - request status: Successful
+2024-11-17 06:40:47,708 - logger - INFO - Successful dumping
+2024-11-17 06:40:47,709 - logger - INFO - ------
