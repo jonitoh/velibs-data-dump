@@ -14107,3 +14107,11 @@
 2024-11-18 20:32:07,838 - logger - INFO - request status: Successful
 2024-11-18 20:32:07,856 - logger - INFO - Successful dumping
 2024-11-18 20:32:07,857 - logger - INFO - ------
+2024-11-18 21:30:59,099 - logger - INFO - ------
+2024-11-18 21:30:59,099 - logger - INFO - retrieve station status
+2024-11-18 21:30:59,679 - logger - INFO - request status: Successful
+2024-11-18 21:30:59,682 - logger - INFO - Successful dumping
+2024-11-18 21:30:59,682 - logger - INFO - retrieve station information
+2024-11-18 21:31:00,959 - logger - INFO - request status: Successful
+2024-11-18 21:31:00,977 - logger - INFO - Successful dumping
+2024-11-18 21:31:00,978 - logger - INFO - ------
