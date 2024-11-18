@@ -14035,3 +14035,11 @@
 2024-11-18 11:29:09,893 - logger - INFO - request status: Successful
 2024-11-18 11:29:09,911 - logger - INFO - Successful dumping
 2024-11-18 11:29:09,911 - logger - INFO - ------
+2024-11-18 12:57:29,048 - logger - INFO - ------
+2024-11-18 12:57:29,048 - logger - INFO - retrieve station status
+2024-11-18 12:57:29,397 - logger - INFO - request status: Successful
+2024-11-18 12:57:29,399 - logger - INFO - Successful dumping
+2024-11-18 12:57:29,399 - logger - INFO - retrieve station information
+2024-11-18 12:57:30,297 - logger - INFO - request status: Successful
+2024-11-18 12:57:30,315 - logger - INFO - Successful dumping
+2024-11-18 12:57:30,316 - logger - INFO - ------
