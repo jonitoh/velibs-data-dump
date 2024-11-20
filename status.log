@@ -14403,3 +14403,11 @@
 2024-11-20 11:28:14,340 - logger - INFO - request status: Successful
 2024-11-20 11:28:14,359 - logger - INFO - Successful dumping
 2024-11-20 11:28:14,360 - logger - INFO - ------
+2024-11-20 12:56:06,390 - logger - INFO - ------
+2024-11-20 12:56:06,390 - logger - INFO - retrieve station status
+2024-11-20 12:56:06,922 - logger - INFO - request status: Successful
+2024-11-20 12:56:06,925 - logger - INFO - Successful dumping
+2024-11-20 12:56:06,925 - logger - INFO - retrieve station information
+2024-11-20 12:56:08,207 - logger - INFO - request status: Successful
+2024-11-20 12:56:08,226 - logger - INFO - Successful dumping
+2024-11-20 12:56:08,226 - logger - INFO - ------
