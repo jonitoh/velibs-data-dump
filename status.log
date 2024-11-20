@@ -14483,3 +14483,11 @@
 2024-11-20 21:30:52,723 - logger - INFO - request status: Successful
 2024-11-20 21:30:52,741 - logger - INFO - Successful dumping
 2024-11-20 21:30:52,742 - logger - INFO - ------
+2024-11-20 22:35:29,200 - logger - INFO - ------
+2024-11-20 22:35:29,200 - logger - INFO - retrieve station status
+2024-11-20 22:35:29,446 - logger - INFO - request status: Successful
+2024-11-20 22:35:29,449 - logger - INFO - Successful dumping
+2024-11-20 22:35:29,449 - logger - INFO - retrieve station information
+2024-11-20 22:35:30,243 - logger - INFO - request status: Successful
+2024-11-20 22:35:30,261 - logger - INFO - Successful dumping
+2024-11-20 22:35:30,262 - logger - INFO - ------
