@@ -14451,3 +14451,11 @@
 2024-11-20 17:33:09,570 - logger - INFO - request status: Successful
 2024-11-20 17:33:09,588 - logger - INFO - Successful dumping
 2024-11-20 17:33:09,589 - logger - INFO - ------
+2024-11-20 18:41:23,409 - logger - INFO - ------
+2024-11-20 18:41:23,409 - logger - INFO - retrieve station status
+2024-11-20 18:41:23,884 - logger - INFO - request status: Successful
+2024-11-20 18:41:23,887 - logger - INFO - Successful dumping
+2024-11-20 18:41:23,887 - logger - INFO - retrieve station information
+2024-11-20 18:41:25,213 - logger - INFO - request status: Successful
+2024-11-20 18:41:25,231 - logger - INFO - Successful dumping
+2024-11-20 18:41:25,232 - logger - INFO - ------
