@@ -14507,3 +14507,11 @@
 2024-11-21 02:00:45,400 - logger - INFO - request status: Successful
 2024-11-21 02:00:45,418 - logger - INFO - Successful dumping
 2024-11-21 02:00:45,419 - logger - INFO - ------
+2024-11-21 03:05:25,228 - logger - INFO - ------
+2024-11-21 03:05:25,228 - logger - INFO - retrieve station status
+2024-11-21 03:05:25,649 - logger - INFO - request status: Successful
+2024-11-21 03:05:25,651 - logger - INFO - Successful dumping
+2024-11-21 03:05:25,652 - logger - INFO - retrieve station information
+2024-11-21 03:05:26,534 - logger - INFO - request status: Successful
+2024-11-21 03:05:26,553 - logger - INFO - Successful dumping
+2024-11-21 03:05:26,553 - logger - INFO - ------
