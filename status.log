@@ -14595,3 +14595,11 @@
 2024-11-21 12:56:22,876 - logger - INFO - request status: Successful
 2024-11-21 12:56:22,894 - logger - INFO - Successful dumping
 2024-11-21 12:56:22,894 - logger - INFO - ------
+2024-11-21 13:38:49,103 - logger - INFO - ------
+2024-11-21 13:38:49,103 - logger - INFO - retrieve station status
+2024-11-21 13:38:49,389 - logger - INFO - request status: Successful
+2024-11-21 13:38:49,393 - logger - INFO - Successful dumping
+2024-11-21 13:38:49,393 - logger - INFO - retrieve station information
+2024-11-21 13:38:50,162 - logger - INFO - request status: Successful
+2024-11-21 13:38:50,180 - logger - INFO - Successful dumping
+2024-11-21 13:38:50,181 - logger - INFO - ------
