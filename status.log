@@ -14963,3 +14963,11 @@
 2024-11-23 12:51:55,308 - logger - INFO - request status: Successful
 2024-11-23 12:51:55,326 - logger - INFO - Successful dumping
 2024-11-23 12:51:55,327 - logger - INFO - ------
+2024-11-23 13:32:38,303 - logger - INFO - ------
+2024-11-23 13:32:38,303 - logger - INFO - retrieve station status
+2024-11-23 13:32:38,795 - logger - INFO - request status: Successful
+2024-11-23 13:32:38,797 - logger - INFO - Successful dumping
+2024-11-23 13:32:38,797 - logger - INFO - retrieve station information
+2024-11-23 13:32:40,078 - logger - INFO - request status: Successful
+2024-11-23 13:32:40,095 - logger - INFO - Successful dumping
+2024-11-23 13:32:40,096 - logger - INFO - ------
