@@ -15323,3 +15323,11 @@
 2024-11-25 11:28:57,193 - logger - INFO - request status: Successful
 2024-11-25 11:28:57,210 - logger - INFO - Successful dumping
 2024-11-25 11:28:57,211 - logger - INFO - ------
+2024-11-25 12:56:59,686 - logger - INFO - ------
+2024-11-25 12:56:59,686 - logger - INFO - retrieve station status
+2024-11-25 12:57:00,260 - logger - INFO - request status: Successful
+2024-11-25 12:57:00,263 - logger - INFO - Successful dumping
+2024-11-25 12:57:00,263 - logger - INFO - retrieve station information
+2024-11-25 12:57:01,534 - logger - INFO - request status: Successful
+2024-11-25 12:57:01,553 - logger - INFO - Successful dumping
+2024-11-25 12:57:01,553 - logger - INFO - ------
