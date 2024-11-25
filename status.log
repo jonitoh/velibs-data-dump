@@ -15355,3 +15355,11 @@
 2024-11-25 15:33:58,188 - logger - INFO - request status: Successful
 2024-11-25 15:33:58,206 - logger - INFO - Successful dumping
 2024-11-25 15:33:58,207 - logger - INFO - ------
+2024-11-25 16:41:41,882 - logger - INFO - ------
+2024-11-25 16:41:41,882 - logger - INFO - retrieve station status
+2024-11-25 16:41:42,219 - logger - INFO - request status: Successful
+2024-11-25 16:41:42,222 - logger - INFO - Successful dumping
+2024-11-25 16:41:42,222 - logger - INFO - retrieve station information
+2024-11-25 16:41:43,027 - logger - INFO - request status: Successful
+2024-11-25 16:41:43,045 - logger - INFO - Successful dumping
+2024-11-25 16:41:43,045 - logger - INFO - ------
