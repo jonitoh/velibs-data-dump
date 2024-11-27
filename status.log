@@ -15675,3 +15675,11 @@
 2024-11-27 09:34:00,955 - logger - INFO - request status: Successful
 2024-11-27 09:34:00,973 - logger - INFO - Successful dumping
 2024-11-27 09:34:00,974 - logger - INFO - ------
+2024-11-27 10:40:12,779 - logger - INFO - ------
+2024-11-27 10:40:12,779 - logger - INFO - retrieve station status
+2024-11-27 10:40:13,133 - logger - INFO - request status: Successful
+2024-11-27 10:40:13,135 - logger - INFO - Successful dumping
+2024-11-27 10:40:13,136 - logger - INFO - retrieve station information
+2024-11-27 10:40:13,926 - logger - INFO - request status: Successful
+2024-11-27 10:40:13,943 - logger - INFO - Successful dumping
+2024-11-27 10:40:13,944 - logger - INFO - ------
