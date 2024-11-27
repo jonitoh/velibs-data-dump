@@ -15699,3 +15699,11 @@
 2024-11-27 12:57:23,405 - logger - INFO - request status: Successful
 2024-11-27 12:57:23,423 - logger - INFO - Successful dumping
 2024-11-27 12:57:23,424 - logger - INFO - ------
+2024-11-27 13:40:14,768 - logger - INFO - ------
+2024-11-27 13:40:14,768 - logger - INFO - retrieve station status
+2024-11-27 13:40:15,102 - logger - INFO - request status: Successful
+2024-11-27 13:40:15,104 - logger - INFO - Successful dumping
+2024-11-27 13:40:15,105 - logger - INFO - retrieve station information
+2024-11-27 13:40:15,896 - logger - INFO - request status: Successful
+2024-11-27 13:40:15,914 - logger - INFO - Successful dumping
+2024-11-27 13:40:15,915 - logger - INFO - ------
