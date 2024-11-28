@@ -15819,3 +15819,11 @@
 2024-11-28 04:39:40,141 - logger - INFO - request status: Successful
 2024-11-28 04:39:40,159 - logger - INFO - Successful dumping
 2024-11-28 04:39:40,160 - logger - INFO - ------
+2024-11-28 05:36:10,849 - logger - INFO - ------
+2024-11-28 05:36:10,849 - logger - INFO - retrieve station status
+2024-11-28 05:36:11,159 - logger - INFO - request status: Successful
+2024-11-28 05:36:11,162 - logger - INFO - Successful dumping
+2024-11-28 05:36:11,162 - logger - INFO - retrieve station information
+2024-11-28 05:36:11,934 - logger - INFO - request status: Successful
+2024-11-28 05:36:11,951 - logger - INFO - Successful dumping
+2024-11-28 05:36:11,952 - logger - INFO - ------
