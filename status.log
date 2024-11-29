@@ -16067,3 +16067,11 @@
 2024-11-29 12:56:49,194 - logger - INFO - request status: Successful
 2024-11-29 12:56:49,212 - logger - INFO - Successful dumping
 2024-11-29 12:56:49,212 - logger - INFO - ------
+2024-11-29 13:39:01,102 - logger - INFO - ------
+2024-11-29 13:39:01,102 - logger - INFO - retrieve station status
+2024-11-29 13:39:01,471 - logger - INFO - request status: Successful
+2024-11-29 13:39:01,474 - logger - INFO - Successful dumping
+2024-11-29 13:39:01,474 - logger - INFO - retrieve station information
+2024-11-29 13:39:02,335 - logger - INFO - request status: Successful
+2024-11-29 13:39:02,353 - logger - INFO - Successful dumping
+2024-11-29 13:39:02,354 - logger - INFO - ------
