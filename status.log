@@ -16083,3 +16083,11 @@
 2024-11-29 14:36:17,715 - logger - INFO - request status: Successful
 2024-11-29 14:36:17,733 - logger - INFO - Successful dumping
 2024-11-29 14:36:17,733 - logger - INFO - ------
+2024-11-29 15:34:01,497 - logger - INFO - ------
+2024-11-29 15:34:01,497 - logger - INFO - retrieve station status
+2024-11-29 15:34:02,044 - logger - INFO - request status: Successful
+2024-11-29 15:34:02,047 - logger - INFO - Successful dumping
+2024-11-29 15:34:02,047 - logger - INFO - retrieve station information
+2024-11-29 15:34:03,335 - logger - INFO - request status: Successful
+2024-11-29 15:34:03,353 - logger - INFO - Successful dumping
+2024-11-29 15:34:03,354 - logger - INFO - ------
