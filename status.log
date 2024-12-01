@@ -16395,3 +16395,11 @@
 2024-12-01 08:36:49,904 - logger - INFO - request status: Successful
 2024-12-01 08:36:49,922 - logger - INFO - Successful dumping
 2024-12-01 08:36:49,923 - logger - INFO - ------
+2024-12-01 09:31:29,403 - logger - INFO - ------
+2024-12-01 09:31:29,403 - logger - INFO - retrieve station status
+2024-12-01 09:31:29,826 - logger - INFO - request status: Successful
+2024-12-01 09:31:29,829 - logger - INFO - Successful dumping
+2024-12-01 09:31:29,829 - logger - INFO - retrieve station information
+2024-12-01 09:31:31,102 - logger - INFO - request status: Successful
+2024-12-01 09:31:31,120 - logger - INFO - Successful dumping
+2024-12-01 09:31:31,121 - logger - INFO - ------
