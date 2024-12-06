@@ -313,3 +313,11 @@
 2024-12-06 02:10:24,466 - logger - INFO - request status: Successful
 2024-12-06 02:10:24,486 - logger - INFO - Successful dumping
 2024-12-06 02:10:24,486 - logger - INFO - ------
+2024-12-06 03:11:24,348 - logger - INFO - ------
+2024-12-06 03:11:24,348 - logger - INFO - retrieve station status
+2024-12-06 03:11:24,797 - logger - INFO - request status: Successful
+2024-12-06 03:11:24,800 - logger - INFO - Successful dumping
+2024-12-06 03:11:24,800 - logger - INFO - retrieve station information
+2024-12-06 03:11:25,611 - logger - INFO - request status: Successful
+2024-12-06 03:11:25,631 - logger - INFO - Successful dumping
+2024-12-06 03:11:25,631 - logger - INFO - ------
