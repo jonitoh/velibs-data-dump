@@ -441,3 +441,11 @@
 2024-12-06 17:33:58,722 - logger - INFO - request status: Successful
 2024-12-06 17:33:58,740 - logger - INFO - Successful dumping
 2024-12-06 17:33:58,740 - logger - INFO - ------
+2024-12-06 18:42:19,658 - logger - INFO - ------
+2024-12-06 18:42:19,658 - logger - INFO - retrieve station status
+2024-12-06 18:42:19,991 - logger - INFO - request status: Successful
+2024-12-06 18:42:19,994 - logger - INFO - Successful dumping
+2024-12-06 18:42:19,994 - logger - INFO - retrieve station information
+2024-12-06 18:42:20,888 - logger - INFO - request status: Successful
+2024-12-06 18:42:20,907 - logger - INFO - Successful dumping
+2024-12-06 18:42:20,907 - logger - INFO - ------
