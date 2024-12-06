@@ -449,3 +449,11 @@
 2024-12-06 18:42:20,888 - logger - INFO - request status: Successful
 2024-12-06 18:42:20,907 - logger - INFO - Successful dumping
 2024-12-06 18:42:20,907 - logger - INFO - ------
+2024-12-06 19:27:06,392 - logger - INFO - ------
+2024-12-06 19:27:06,392 - logger - INFO - retrieve station status
+2024-12-06 19:27:06,909 - logger - INFO - request status: Successful
+2024-12-06 19:27:06,911 - logger - INFO - Successful dumping
+2024-12-06 19:27:06,912 - logger - INFO - retrieve station information
+2024-12-06 19:27:08,196 - logger - INFO - request status: Successful
+2024-12-06 19:27:08,214 - logger - INFO - Successful dumping
+2024-12-06 19:27:08,215 - logger - INFO - ------
