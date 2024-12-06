@@ -321,3 +321,11 @@
 2024-12-06 03:11:25,611 - logger - INFO - request status: Successful
 2024-12-06 03:11:25,631 - logger - INFO - Successful dumping
 2024-12-06 03:11:25,631 - logger - INFO - ------
+2024-12-06 03:46:17,461 - logger - INFO - ------
+2024-12-06 03:46:17,461 - logger - INFO - retrieve station status
+2024-12-06 03:46:17,815 - logger - INFO - request status: Successful
+2024-12-06 03:46:17,817 - logger - INFO - Successful dumping
+2024-12-06 03:46:17,818 - logger - INFO - retrieve station information
+2024-12-06 03:46:18,602 - logger - INFO - request status: Successful
+2024-12-06 03:46:18,620 - logger - INFO - Successful dumping
+2024-12-06 03:46:18,621 - logger - INFO - ------
