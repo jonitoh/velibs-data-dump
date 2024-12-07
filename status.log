@@ -497,3 +497,11 @@
 2024-12-07 02:05:52,783 - logger - INFO - request status: Successful
 2024-12-07 02:05:52,802 - logger - INFO - Successful dumping
 2024-12-07 02:05:52,803 - logger - INFO - ------
+2024-12-07 03:10:43,763 - logger - INFO - ------
+2024-12-07 03:10:43,764 - logger - INFO - retrieve station status
+2024-12-07 03:10:44,122 - logger - INFO - request status: Successful
+2024-12-07 03:10:44,125 - logger - INFO - Successful dumping
+2024-12-07 03:10:44,125 - logger - INFO - retrieve station information
+2024-12-07 03:10:44,901 - logger - INFO - request status: Successful
+2024-12-07 03:10:44,937 - logger - INFO - Successful dumping
+2024-12-07 03:10:44,937 - logger - INFO - ------
