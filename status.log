@@ -505,3 +505,11 @@
 2024-12-07 03:10:44,901 - logger - INFO - request status: Successful
 2024-12-07 03:10:44,937 - logger - INFO - Successful dumping
 2024-12-07 03:10:44,937 - logger - INFO - ------
+2024-12-07 03:45:55,918 - logger - INFO - ------
+2024-12-07 03:45:55,918 - logger - INFO - retrieve station status
+2024-12-07 03:45:56,269 - logger - INFO - request status: Successful
+2024-12-07 03:45:56,272 - logger - INFO - Successful dumping
+2024-12-07 03:45:56,272 - logger - INFO - retrieve station information
+2024-12-07 03:45:57,075 - logger - INFO - request status: Successful
+2024-12-07 03:45:57,093 - logger - INFO - Successful dumping
+2024-12-07 03:45:57,093 - logger - INFO - ------
