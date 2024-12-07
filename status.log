@@ -649,3 +649,11 @@
 2024-12-07 20:32:08,637 - logger - INFO - request status: Successful
 2024-12-07 20:32:08,658 - logger - INFO - Successful dumping
 2024-12-07 20:32:08,659 - logger - INFO - ------
+2024-12-07 21:29:37,742 - logger - INFO - ------
+2024-12-07 21:29:37,742 - logger - INFO - retrieve station status
+2024-12-07 21:29:38,136 - logger - INFO - request status: Successful
+2024-12-07 21:29:38,139 - logger - INFO - Successful dumping
+2024-12-07 21:29:38,139 - logger - INFO - retrieve station information
+2024-12-07 21:29:38,984 - logger - INFO - request status: Successful
+2024-12-07 21:29:39,002 - logger - INFO - Successful dumping
+2024-12-07 21:29:39,003 - logger - INFO - ------
