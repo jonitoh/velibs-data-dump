@@ -817,3 +817,11 @@
 2024-12-08 18:39:30,588 - logger - INFO - request status: Successful
 2024-12-08 18:39:30,611 - logger - INFO - Successful dumping
 2024-12-08 18:39:30,611 - logger - INFO - ------
+2024-12-08 19:25:48,218 - logger - INFO - ------
+2024-12-08 19:25:48,218 - logger - INFO - retrieve station status
+2024-12-08 19:25:48,563 - logger - INFO - request status: Successful
+2024-12-08 19:25:48,566 - logger - INFO - Successful dumping
+2024-12-08 19:25:48,566 - logger - INFO - retrieve station information
+2024-12-08 19:25:49,359 - logger - INFO - request status: Successful
+2024-12-08 19:25:49,377 - logger - INFO - Successful dumping
+2024-12-08 19:25:49,378 - logger - INFO - ------
