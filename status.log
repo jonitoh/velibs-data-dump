@@ -705,3 +705,11 @@
 2024-12-08 04:37:47,230 - logger - INFO - request status: Successful
 2024-12-08 04:37:47,248 - logger - INFO - Successful dumping
 2024-12-08 04:37:47,248 - logger - INFO - ------
+2024-12-08 05:33:59,392 - logger - INFO - ------
+2024-12-08 05:33:59,392 - logger - INFO - retrieve station status
+2024-12-08 05:33:59,764 - logger - INFO - request status: Successful
+2024-12-08 05:33:59,767 - logger - INFO - Successful dumping
+2024-12-08 05:33:59,767 - logger - INFO - retrieve station information
+2024-12-08 05:34:00,565 - logger - INFO - request status: Successful
+2024-12-08 05:34:00,587 - logger - INFO - Successful dumping
+2024-12-08 05:34:00,587 - logger - INFO - ------
