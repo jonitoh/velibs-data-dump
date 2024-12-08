@@ -785,3 +785,11 @@
 2024-12-08 14:33:05,896 - logger - INFO - request status: Successful
 2024-12-08 14:33:05,926 - logger - INFO - Successful dumping
 2024-12-08 14:33:05,927 - logger - INFO - ------
+2024-12-08 15:32:49,666 - logger - INFO - ------
+2024-12-08 15:32:49,666 - logger - INFO - retrieve station status
+2024-12-08 15:32:49,987 - logger - INFO - request status: Successful
+2024-12-08 15:32:49,990 - logger - INFO - Successful dumping
+2024-12-08 15:32:49,990 - logger - INFO - retrieve station information
+2024-12-08 15:32:50,754 - logger - INFO - request status: Successful
+2024-12-08 15:32:50,773 - logger - INFO - Successful dumping
+2024-12-08 15:32:50,773 - logger - INFO - ------
