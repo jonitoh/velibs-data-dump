@@ -953,3 +953,11 @@
 2024-12-09 12:59:20,084 - logger - INFO - request status: Successful
 2024-12-09 12:59:20,102 - logger - INFO - Successful dumping
 2024-12-09 12:59:20,103 - logger - INFO - ------
+2024-12-09 13:41:11,139 - logger - INFO - ------
+2024-12-09 13:41:11,139 - logger - INFO - retrieve station status
+2024-12-09 13:41:11,477 - logger - INFO - request status: Successful
+2024-12-09 13:41:11,480 - logger - INFO - Successful dumping
+2024-12-09 13:41:11,480 - logger - INFO - retrieve station information
+2024-12-09 13:41:12,322 - logger - INFO - request status: Successful
+2024-12-09 13:41:12,340 - logger - INFO - Successful dumping
+2024-12-09 13:41:12,340 - logger - INFO - ------
