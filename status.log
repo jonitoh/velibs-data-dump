@@ -1033,3 +1033,11 @@
 2024-12-09 22:37:34,308 - logger - INFO - request status: Successful
 2024-12-09 22:37:34,327 - logger - INFO - Successful dumping
 2024-12-09 22:37:34,327 - logger - INFO - ------
+2024-12-09 23:31:52,903 - logger - INFO - ------
+2024-12-09 23:31:52,903 - logger - INFO - retrieve station status
+2024-12-09 23:31:53,344 - logger - INFO - request status: Successful
+2024-12-09 23:31:53,347 - logger - INFO - Successful dumping
+2024-12-09 23:31:53,347 - logger - INFO - retrieve station information
+2024-12-09 23:31:54,629 - logger - INFO - request status: Successful
+2024-12-09 23:31:54,646 - logger - INFO - Successful dumping
+2024-12-09 23:31:54,647 - logger - INFO - ------
