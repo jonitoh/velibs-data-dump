@@ -985,3 +985,11 @@
 2024-12-09 16:43:34,328 - logger - INFO - request status: Successful
 2024-12-09 16:43:34,346 - logger - INFO - Successful dumping
 2024-12-09 16:43:34,346 - logger - INFO - ------
+2024-12-09 17:34:43,999 - logger - INFO - ------
+2024-12-09 17:34:43,999 - logger - INFO - retrieve station status
+2024-12-09 17:34:44,488 - logger - INFO - request status: Successful
+2024-12-09 17:34:44,491 - logger - INFO - Successful dumping
+2024-12-09 17:34:44,491 - logger - INFO - retrieve station information
+2024-12-09 17:34:45,316 - logger - INFO - request status: Successful
+2024-12-09 17:34:45,337 - logger - INFO - Successful dumping
+2024-12-09 17:34:45,337 - logger - INFO - ------
