@@ -873,3 +873,11 @@
 2024-12-09 03:14:05,492 - logger - INFO - request status: Successful
 2024-12-09 03:14:05,510 - logger - INFO - Successful dumping
 2024-12-09 03:14:05,510 - logger - INFO - ------
+2024-12-09 03:47:46,256 - logger - INFO - ------
+2024-12-09 03:47:46,256 - logger - INFO - retrieve station status
+2024-12-09 03:47:46,589 - logger - INFO - request status: Successful
+2024-12-09 03:47:46,591 - logger - INFO - Successful dumping
+2024-12-09 03:47:46,592 - logger - INFO - retrieve station information
+2024-12-09 03:47:47,369 - logger - INFO - request status: Successful
+2024-12-09 03:47:47,387 - logger - INFO - Successful dumping
+2024-12-09 03:47:47,388 - logger - INFO - ------
