@@ -865,3 +865,11 @@
 2024-12-09 02:14:18,694 - logger - INFO - request status: Successful
 2024-12-09 02:14:18,712 - logger - INFO - Successful dumping
 2024-12-09 02:14:18,713 - logger - INFO - ------
+2024-12-09 03:14:04,263 - logger - INFO - ------
+2024-12-09 03:14:04,263 - logger - INFO - retrieve station status
+2024-12-09 03:14:04,608 - logger - INFO - request status: Successful
+2024-12-09 03:14:04,611 - logger - INFO - Successful dumping
+2024-12-09 03:14:04,611 - logger - INFO - retrieve station information
+2024-12-09 03:14:05,492 - logger - INFO - request status: Successful
+2024-12-09 03:14:05,510 - logger - INFO - Successful dumping
+2024-12-09 03:14:05,510 - logger - INFO - ------
