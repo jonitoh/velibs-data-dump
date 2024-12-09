@@ -961,3 +961,11 @@
 2024-12-09 13:41:12,322 - logger - INFO - request status: Successful
 2024-12-09 13:41:12,340 - logger - INFO - Successful dumping
 2024-12-09 13:41:12,340 - logger - INFO - ------
+2024-12-09 14:39:12,194 - logger - INFO - ------
+2024-12-09 14:39:12,194 - logger - INFO - retrieve station status
+2024-12-09 14:39:12,685 - logger - INFO - request status: Successful
+2024-12-09 14:39:12,688 - logger - INFO - Successful dumping
+2024-12-09 14:39:12,689 - logger - INFO - retrieve station information
+2024-12-09 14:39:14,020 - logger - INFO - request status: Successful
+2024-12-09 14:39:14,038 - logger - INFO - Successful dumping
+2024-12-09 14:39:14,039 - logger - INFO - ------
