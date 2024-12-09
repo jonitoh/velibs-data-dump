@@ -945,3 +945,11 @@
 2024-12-09 11:29:36,059 - logger - INFO - request status: Successful
 2024-12-09 11:29:36,077 - logger - INFO - Successful dumping
 2024-12-09 11:29:36,077 - logger - INFO - ------
+2024-12-09 12:59:18,232 - logger - INFO - ------
+2024-12-09 12:59:18,232 - logger - INFO - retrieve station status
+2024-12-09 12:59:18,806 - logger - INFO - request status: Successful
+2024-12-09 12:59:18,809 - logger - INFO - Successful dumping
+2024-12-09 12:59:18,809 - logger - INFO - retrieve station information
+2024-12-09 12:59:20,084 - logger - INFO - request status: Successful
+2024-12-09 12:59:20,102 - logger - INFO - Successful dumping
+2024-12-09 12:59:20,103 - logger - INFO - ------
