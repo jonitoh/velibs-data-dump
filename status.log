@@ -1217,3 +1217,11 @@
 2024-12-10 22:36:44,381 - logger - INFO - request status: Successful
 2024-12-10 22:36:44,399 - logger - INFO - Successful dumping
 2024-12-10 22:36:44,399 - logger - INFO - ------
+2024-12-10 23:31:05,203 - logger - INFO - ------
+2024-12-10 23:31:05,203 - logger - INFO - retrieve station status
+2024-12-10 23:31:05,456 - logger - INFO - request status: Successful
+2024-12-10 23:31:05,460 - logger - INFO - Successful dumping
+2024-12-10 23:31:05,460 - logger - INFO - retrieve station information
+2024-12-10 23:31:06,207 - logger - INFO - request status: Successful
+2024-12-10 23:31:06,226 - logger - INFO - Successful dumping
+2024-12-10 23:31:06,226 - logger - INFO - ------
