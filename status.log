@@ -1057,3 +1057,11 @@
 2024-12-10 03:13:14,038 - logger - INFO - request status: Successful
 2024-12-10 03:13:14,057 - logger - INFO - Successful dumping
 2024-12-10 03:13:14,057 - logger - INFO - ------
+2024-12-10 03:47:13,179 - logger - INFO - ------
+2024-12-10 03:47:13,179 - logger - INFO - retrieve station status
+2024-12-10 03:47:13,511 - logger - INFO - request status: Successful
+2024-12-10 03:47:13,514 - logger - INFO - Successful dumping
+2024-12-10 03:47:13,514 - logger - INFO - retrieve station information
+2024-12-10 03:47:14,329 - logger - INFO - request status: Successful
+2024-12-10 03:47:14,348 - logger - INFO - Successful dumping
+2024-12-10 03:47:14,348 - logger - INFO - ------
