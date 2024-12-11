@@ -1281,3 +1281,11 @@
 2024-12-11 07:31:58,994 - logger - INFO - request status: Successful
 2024-12-11 07:31:59,012 - logger - INFO - Successful dumping
 2024-12-11 07:31:59,013 - logger - INFO - ------
+2024-12-11 08:41:43,102 - logger - INFO - ------
+2024-12-11 08:41:43,102 - logger - INFO - retrieve station status
+2024-12-11 08:41:43,406 - logger - INFO - request status: Successful
+2024-12-11 08:41:43,408 - logger - INFO - Successful dumping
+2024-12-11 08:41:43,409 - logger - INFO - retrieve station information
+2024-12-11 08:41:44,211 - logger - INFO - request status: Successful
+2024-12-11 08:41:44,231 - logger - INFO - Successful dumping
+2024-12-11 08:41:44,232 - logger - INFO - ------
