@@ -1377,3 +1377,11 @@
 2024-12-11 19:27:19,284 - logger - INFO - request status: Successful
 2024-12-11 19:27:19,303 - logger - INFO - Successful dumping
 2024-12-11 19:27:19,303 - logger - INFO - ------
+2024-12-11 20:34:24,188 - logger - INFO - ------
+2024-12-11 20:34:24,188 - logger - INFO - retrieve station status
+2024-12-11 20:34:24,454 - logger - INFO - request status: Successful
+2024-12-11 20:34:24,457 - logger - INFO - Successful dumping
+2024-12-11 20:34:24,457 - logger - INFO - retrieve station information
+2024-12-11 20:34:25,245 - logger - INFO - request status: Successful
+2024-12-11 20:34:25,264 - logger - INFO - Successful dumping
+2024-12-11 20:34:25,264 - logger - INFO - ------
