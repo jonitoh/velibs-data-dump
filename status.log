@@ -1401,3 +1401,11 @@
 2024-12-11 22:38:05,666 - logger - INFO - request status: Successful
 2024-12-11 22:38:05,684 - logger - INFO - Successful dumping
 2024-12-11 22:38:05,685 - logger - INFO - ------
+2024-12-11 23:31:08,632 - logger - INFO - ------
+2024-12-11 23:31:08,632 - logger - INFO - retrieve station status
+2024-12-11 23:31:09,053 - logger - INFO - request status: Successful
+2024-12-11 23:31:09,055 - logger - INFO - Successful dumping
+2024-12-11 23:31:09,056 - logger - INFO - retrieve station information
+2024-12-11 23:31:09,858 - logger - INFO - request status: Successful
+2024-12-11 23:31:09,876 - logger - INFO - Successful dumping
+2024-12-11 23:31:09,877 - logger - INFO - ------
