@@ -1409,3 +1409,11 @@
 2024-12-11 23:31:09,858 - logger - INFO - request status: Successful
 2024-12-11 23:31:09,876 - logger - INFO - Successful dumping
 2024-12-11 23:31:09,877 - logger - INFO - ------
+2024-12-12 02:10:57,666 - logger - INFO - ------
+2024-12-12 02:10:57,666 - logger - INFO - retrieve station status
+2024-12-12 02:10:57,995 - logger - INFO - request status: Successful
+2024-12-12 02:10:57,997 - logger - INFO - Successful dumping
+2024-12-12 02:10:57,997 - logger - INFO - retrieve station information
+2024-12-12 02:10:58,791 - logger - INFO - request status: Successful
+2024-12-12 02:10:58,809 - logger - INFO - Successful dumping
+2024-12-12 02:10:58,810 - logger - INFO - ------
