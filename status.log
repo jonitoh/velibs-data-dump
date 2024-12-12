@@ -1425,3 +1425,11 @@
 2024-12-12 03:11:41,210 - logger - INFO - request status: Successful
 2024-12-12 03:11:41,228 - logger - INFO - Successful dumping
 2024-12-12 03:11:41,229 - logger - INFO - ------
+2024-12-12 03:46:39,442 - logger - INFO - ------
+2024-12-12 03:46:39,442 - logger - INFO - retrieve station status
+2024-12-12 03:46:39,720 - logger - INFO - request status: Successful
+2024-12-12 03:46:39,722 - logger - INFO - Successful dumping
+2024-12-12 03:46:39,723 - logger - INFO - retrieve station information
+2024-12-12 03:46:40,539 - logger - INFO - request status: Successful
+2024-12-12 03:46:40,557 - logger - INFO - Successful dumping
+2024-12-12 03:46:40,558 - logger - INFO - ------
