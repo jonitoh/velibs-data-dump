@@ -1585,3 +1585,11 @@
 2024-12-12 22:37:02,017 - logger - INFO - request status: Successful
 2024-12-12 22:37:02,035 - logger - INFO - Successful dumping
 2024-12-12 22:37:02,035 - logger - INFO - ------
+2024-12-12 23:31:49,826 - logger - INFO - ------
+2024-12-12 23:31:49,826 - logger - INFO - retrieve station status
+2024-12-12 23:31:50,187 - logger - INFO - request status: Successful
+2024-12-12 23:31:50,190 - logger - INFO - Successful dumping
+2024-12-12 23:31:50,190 - logger - INFO - retrieve station information
+2024-12-12 23:31:51,031 - logger - INFO - request status: Successful
+2024-12-12 23:31:51,048 - logger - INFO - Successful dumping
+2024-12-12 23:31:51,049 - logger - INFO - ------
