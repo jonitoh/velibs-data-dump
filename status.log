@@ -1753,3 +1753,11 @@
 2024-12-13 20:34:03,788 - logger - INFO - request status: Successful
 2024-12-13 20:34:03,806 - logger - INFO - Successful dumping
 2024-12-13 20:34:03,806 - logger - INFO - ------
+2024-12-13 21:30:51,803 - logger - INFO - ------
+2024-12-13 21:30:51,803 - logger - INFO - retrieve station status
+2024-12-13 21:30:52,198 - logger - INFO - request status: Successful
+2024-12-13 21:30:52,201 - logger - INFO - Successful dumping
+2024-12-13 21:30:52,201 - logger - INFO - retrieve station information
+2024-12-13 21:30:52,969 - logger - INFO - request status: Successful
+2024-12-13 21:30:52,987 - logger - INFO - Successful dumping
+2024-12-13 21:30:52,987 - logger - INFO - ------
