@@ -1633,3 +1633,11 @@
 2024-12-13 05:36:06,847 - logger - INFO - request status: Successful
 2024-12-13 05:36:06,865 - logger - INFO - Successful dumping
 2024-12-13 05:36:06,866 - logger - INFO - ------
+2024-12-13 06:43:38,846 - logger - INFO - ------
+2024-12-13 06:43:38,846 - logger - INFO - retrieve station status
+2024-12-13 06:43:39,155 - logger - INFO - request status: Successful
+2024-12-13 06:43:39,157 - logger - INFO - Successful dumping
+2024-12-13 06:43:39,157 - logger - INFO - retrieve station information
+2024-12-13 06:43:39,986 - logger - INFO - request status: Successful
+2024-12-13 06:43:40,005 - logger - INFO - Successful dumping
+2024-12-13 06:43:40,005 - logger - INFO - ------
