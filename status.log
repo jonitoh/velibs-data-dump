@@ -1721,3 +1721,11 @@
 2024-12-13 16:41:57,049 - logger - INFO - request status: Successful
 2024-12-13 16:41:57,067 - logger - INFO - Successful dumping
 2024-12-13 16:41:57,067 - logger - INFO - ------
+2024-12-13 17:33:56,614 - logger - INFO - ------
+2024-12-13 17:33:56,614 - logger - INFO - retrieve station status
+2024-12-13 17:33:57,099 - logger - INFO - request status: Successful
+2024-12-13 17:33:57,102 - logger - INFO - Successful dumping
+2024-12-13 17:33:57,102 - logger - INFO - retrieve station information
+2024-12-13 17:33:58,359 - logger - INFO - request status: Successful
+2024-12-13 17:33:58,377 - logger - INFO - Successful dumping
+2024-12-13 17:33:58,377 - logger - INFO - ------
