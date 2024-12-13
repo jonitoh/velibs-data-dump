@@ -1625,3 +1625,11 @@
 2024-12-13 04:39:09,640 - logger - INFO - request status: Successful
 2024-12-13 04:39:09,658 - logger - INFO - Successful dumping
 2024-12-13 04:39:09,659 - logger - INFO - ------
+2024-12-13 05:36:05,708 - logger - INFO - ------
+2024-12-13 05:36:05,708 - logger - INFO - retrieve station status
+2024-12-13 05:36:06,072 - logger - INFO - request status: Successful
+2024-12-13 05:36:06,075 - logger - INFO - Successful dumping
+2024-12-13 05:36:06,075 - logger - INFO - retrieve station information
+2024-12-13 05:36:06,847 - logger - INFO - request status: Successful
+2024-12-13 05:36:06,865 - logger - INFO - Successful dumping
+2024-12-13 05:36:06,866 - logger - INFO - ------
