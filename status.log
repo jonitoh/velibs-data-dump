@@ -1681,3 +1681,11 @@
 2024-12-13 11:28:40,748 - logger - INFO - request status: Successful
 2024-12-13 11:28:40,766 - logger - INFO - Successful dumping
 2024-12-13 11:28:40,767 - logger - INFO - ------
+2024-12-13 12:57:20,905 - logger - INFO - ------
+2024-12-13 12:57:20,905 - logger - INFO - retrieve station status
+2024-12-13 12:57:21,285 - logger - INFO - request status: Successful
+2024-12-13 12:57:21,288 - logger - INFO - Successful dumping
+2024-12-13 12:57:21,288 - logger - INFO - retrieve station information
+2024-12-13 12:57:22,143 - logger - INFO - request status: Successful
+2024-12-13 12:57:22,161 - logger - INFO - Successful dumping
+2024-12-13 12:57:22,162 - logger - INFO - ------
