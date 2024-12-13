@@ -1761,3 +1761,11 @@
 2024-12-13 21:30:52,969 - logger - INFO - request status: Successful
 2024-12-13 21:30:52,987 - logger - INFO - Successful dumping
 2024-12-13 21:30:52,987 - logger - INFO - ------
+2024-12-13 22:36:55,574 - logger - INFO - ------
+2024-12-13 22:36:55,574 - logger - INFO - retrieve station status
+2024-12-13 22:36:55,896 - logger - INFO - request status: Successful
+2024-12-13 22:36:55,898 - logger - INFO - Successful dumping
+2024-12-13 22:36:55,898 - logger - INFO - retrieve station information
+2024-12-13 22:36:56,747 - logger - INFO - request status: Successful
+2024-12-13 22:36:56,768 - logger - INFO - Successful dumping
+2024-12-13 22:36:56,768 - logger - INFO - ------
