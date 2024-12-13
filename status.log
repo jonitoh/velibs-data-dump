@@ -1729,3 +1729,11 @@
 2024-12-13 17:33:58,359 - logger - INFO - request status: Successful
 2024-12-13 17:33:58,377 - logger - INFO - Successful dumping
 2024-12-13 17:33:58,377 - logger - INFO - ------
+2024-12-13 18:42:05,989 - logger - INFO - ------
+2024-12-13 18:42:05,989 - logger - INFO - retrieve station status
+2024-12-13 18:42:06,266 - logger - INFO - request status: Successful
+2024-12-13 18:42:06,269 - logger - INFO - Successful dumping
+2024-12-13 18:42:06,269 - logger - INFO - retrieve station information
+2024-12-13 18:42:07,206 - logger - INFO - request status: Successful
+2024-12-13 18:42:07,225 - logger - INFO - Successful dumping
+2024-12-13 18:42:07,225 - logger - INFO - ------
