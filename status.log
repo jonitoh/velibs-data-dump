@@ -1705,3 +1705,11 @@
 2024-12-13 14:37:36,552 - logger - INFO - request status: Successful
 2024-12-13 14:37:36,570 - logger - INFO - Successful dumping
 2024-12-13 14:37:36,571 - logger - INFO - ------
+2024-12-13 15:34:11,481 - logger - INFO - ------
+2024-12-13 15:34:11,481 - logger - INFO - retrieve station status
+2024-12-13 15:34:11,954 - logger - INFO - request status: Successful
+2024-12-13 15:34:11,957 - logger - INFO - Successful dumping
+2024-12-13 15:34:11,957 - logger - INFO - retrieve station information
+2024-12-13 15:34:13,252 - logger - INFO - request status: Successful
+2024-12-13 15:34:13,271 - logger - INFO - Successful dumping
+2024-12-13 15:34:13,271 - logger - INFO - ------
