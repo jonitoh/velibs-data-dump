@@ -1937,3 +1937,11 @@
 2024-12-14 20:32:07,450 - logger - INFO - request status: Successful
 2024-12-14 20:32:07,468 - logger - INFO - Successful dumping
 2024-12-14 20:32:07,469 - logger - INFO - ------
+2024-12-14 21:29:39,147 - logger - INFO - ------
+2024-12-14 21:29:39,147 - logger - INFO - retrieve station status
+2024-12-14 21:29:39,388 - logger - INFO - request status: Successful
+2024-12-14 21:29:39,391 - logger - INFO - Successful dumping
+2024-12-14 21:29:39,391 - logger - INFO - retrieve station information
+2024-12-14 21:29:40,177 - logger - INFO - request status: Successful
+2024-12-14 21:29:40,196 - logger - INFO - Successful dumping
+2024-12-14 21:29:40,196 - logger - INFO - ------
