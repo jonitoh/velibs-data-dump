@@ -1905,3 +1905,11 @@
 2024-12-14 16:38:45,492 - logger - INFO - request status: Successful
 2024-12-14 16:38:45,510 - logger - INFO - Successful dumping
 2024-12-14 16:38:45,511 - logger - INFO - ------
+2024-12-14 17:31:25,325 - logger - INFO - ------
+2024-12-14 17:31:25,325 - logger - INFO - retrieve station status
+2024-12-14 17:31:25,661 - logger - INFO - request status: Successful
+2024-12-14 17:31:25,664 - logger - INFO - Successful dumping
+2024-12-14 17:31:25,664 - logger - INFO - retrieve station information
+2024-12-14 17:31:26,430 - logger - INFO - request status: Successful
+2024-12-14 17:31:26,448 - logger - INFO - Successful dumping
+2024-12-14 17:31:26,448 - logger - INFO - ------
