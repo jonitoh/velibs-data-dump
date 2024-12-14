@@ -1953,3 +1953,11 @@
 2024-12-14 22:34:36,588 - logger - INFO - request status: Successful
 2024-12-14 22:34:36,607 - logger - INFO - Successful dumping
 2024-12-14 22:34:36,607 - logger - INFO - ------
+2024-12-14 23:30:57,020 - logger - INFO - ------
+2024-12-14 23:30:57,020 - logger - INFO - retrieve station status
+2024-12-14 23:30:57,504 - logger - INFO - request status: Successful
+2024-12-14 23:30:57,506 - logger - INFO - Successful dumping
+2024-12-14 23:30:57,506 - logger - INFO - retrieve station information
+2024-12-14 23:30:58,789 - logger - INFO - request status: Successful
+2024-12-14 23:30:58,807 - logger - INFO - Successful dumping
+2024-12-14 23:30:58,807 - logger - INFO - ------
