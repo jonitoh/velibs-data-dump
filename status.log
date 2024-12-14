@@ -1809,3 +1809,11 @@
 2024-12-14 04:37:36,104 - logger - INFO - request status: Successful
 2024-12-14 04:37:36,122 - logger - INFO - Successful dumping
 2024-12-14 04:37:36,122 - logger - INFO - ------
+2024-12-14 05:33:32,024 - logger - INFO - ------
+2024-12-14 05:33:32,024 - logger - INFO - retrieve station status
+2024-12-14 05:33:32,352 - logger - INFO - request status: Successful
+2024-12-14 05:33:32,354 - logger - INFO - Successful dumping
+2024-12-14 05:33:32,355 - logger - INFO - retrieve station information
+2024-12-14 05:33:33,131 - logger - INFO - request status: Successful
+2024-12-14 05:33:33,149 - logger - INFO - Successful dumping
+2024-12-14 05:33:33,150 - logger - INFO - ------
