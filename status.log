@@ -1945,3 +1945,11 @@
 2024-12-14 21:29:40,177 - logger - INFO - request status: Successful
 2024-12-14 21:29:40,196 - logger - INFO - Successful dumping
 2024-12-14 21:29:40,196 - logger - INFO - ------
+2024-12-14 22:34:35,462 - logger - INFO - ------
+2024-12-14 22:34:35,462 - logger - INFO - retrieve station status
+2024-12-14 22:34:35,762 - logger - INFO - request status: Successful
+2024-12-14 22:34:35,765 - logger - INFO - Successful dumping
+2024-12-14 22:34:35,765 - logger - INFO - retrieve station information
+2024-12-14 22:34:36,588 - logger - INFO - request status: Successful
+2024-12-14 22:34:36,607 - logger - INFO - Successful dumping
+2024-12-14 22:34:36,607 - logger - INFO - ------
