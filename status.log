@@ -1929,3 +1929,11 @@
 2024-12-14 19:25:54,186 - logger - INFO - request status: Successful
 2024-12-14 19:25:54,205 - logger - INFO - Successful dumping
 2024-12-14 19:25:54,205 - logger - INFO - ------
+2024-12-14 20:32:06,339 - logger - INFO - ------
+2024-12-14 20:32:06,339 - logger - INFO - retrieve station status
+2024-12-14 20:32:06,710 - logger - INFO - request status: Successful
+2024-12-14 20:32:06,713 - logger - INFO - Successful dumping
+2024-12-14 20:32:06,713 - logger - INFO - retrieve station information
+2024-12-14 20:32:07,450 - logger - INFO - request status: Successful
+2024-12-14 20:32:07,468 - logger - INFO - Successful dumping
+2024-12-14 20:32:07,469 - logger - INFO - ------
