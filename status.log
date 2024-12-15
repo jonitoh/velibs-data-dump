@@ -2065,3 +2065,11 @@
 2024-12-15 13:34:19,505 - logger - INFO - request status: Successful
 2024-12-15 13:34:19,523 - logger - INFO - Successful dumping
 2024-12-15 13:34:19,523 - logger - INFO - ------
+2024-12-15 14:32:56,481 - logger - INFO - ------
+2024-12-15 14:32:56,481 - logger - INFO - retrieve station status
+2024-12-15 14:32:56,955 - logger - INFO - request status: Successful
+2024-12-15 14:32:56,958 - logger - INFO - Successful dumping
+2024-12-15 14:32:56,958 - logger - INFO - retrieve station information
+2024-12-15 14:32:58,245 - logger - INFO - request status: Successful
+2024-12-15 14:32:58,263 - logger - INFO - Successful dumping
+2024-12-15 14:32:58,264 - logger - INFO - ------
