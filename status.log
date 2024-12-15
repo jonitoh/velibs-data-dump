@@ -1985,3 +1985,11 @@
 2024-12-15 03:47:41,362 - logger - INFO - request status: Successful
 2024-12-15 03:47:41,385 - logger - INFO - Successful dumping
 2024-12-15 03:47:41,385 - logger - INFO - ------
+2024-12-15 04:37:17,514 - logger - INFO - ------
+2024-12-15 04:37:17,514 - logger - INFO - retrieve station status
+2024-12-15 04:37:17,796 - logger - INFO - request status: Successful
+2024-12-15 04:37:17,799 - logger - INFO - Successful dumping
+2024-12-15 04:37:17,799 - logger - INFO - retrieve station information
+2024-12-15 04:37:18,584 - logger - INFO - request status: Successful
+2024-12-15 04:37:18,603 - logger - INFO - Successful dumping
+2024-12-15 04:37:18,603 - logger - INFO - ------
