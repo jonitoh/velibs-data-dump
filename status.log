@@ -2041,3 +2041,11 @@
 2024-12-15 10:37:28,291 - logger - INFO - request status: Successful
 2024-12-15 10:37:28,309 - logger - INFO - Successful dumping
 2024-12-15 10:37:28,310 - logger - INFO - ------
+2024-12-15 11:26:52,309 - logger - INFO - ------
+2024-12-15 11:26:52,309 - logger - INFO - retrieve station status
+2024-12-15 11:26:52,700 - logger - INFO - request status: Successful
+2024-12-15 11:26:52,703 - logger - INFO - Successful dumping
+2024-12-15 11:26:52,703 - logger - INFO - retrieve station information
+2024-12-15 11:26:53,580 - logger - INFO - request status: Successful
+2024-12-15 11:26:53,598 - logger - INFO - Successful dumping
+2024-12-15 11:26:53,599 - logger - INFO - ------
