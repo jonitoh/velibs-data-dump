@@ -2425,3 +2425,11 @@
 2024-12-17 12:58:18,193 - logger - INFO - request status: Successful
 2024-12-17 12:58:18,211 - logger - INFO - Successful dumping
 2024-12-17 12:58:18,212 - logger - INFO - ------
+2024-12-17 13:40:05,855 - logger - INFO - ------
+2024-12-17 13:40:05,855 - logger - INFO - retrieve station status
+2024-12-17 13:40:06,226 - logger - INFO - request status: Successful
+2024-12-17 13:40:06,232 - logger - INFO - Successful dumping
+2024-12-17 13:40:06,232 - logger - INFO - retrieve station information
+2024-12-17 13:40:07,081 - logger - INFO - request status: Successful
+2024-12-17 13:40:07,109 - logger - INFO - Successful dumping
+2024-12-17 13:40:07,110 - logger - INFO - ------
