@@ -2457,3 +2457,11 @@
 2024-12-17 16:43:03,106 - logger - INFO - request status: Successful
 2024-12-17 16:43:03,129 - logger - INFO - Successful dumping
 2024-12-17 16:43:03,130 - logger - INFO - ------
+2024-12-17 17:34:20,177 - logger - INFO - ------
+2024-12-17 17:34:20,178 - logger - INFO - retrieve station status
+2024-12-17 17:34:20,504 - logger - INFO - request status: Successful
+2024-12-17 17:34:20,507 - logger - INFO - Successful dumping
+2024-12-17 17:34:20,507 - logger - INFO - retrieve station information
+2024-12-17 17:34:21,338 - logger - INFO - request status: Successful
+2024-12-17 17:34:21,356 - logger - INFO - Successful dumping
+2024-12-17 17:34:21,357 - logger - INFO - ------
