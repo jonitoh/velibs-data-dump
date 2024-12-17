@@ -2441,3 +2441,11 @@
 2024-12-17 14:37:53,521 - logger - INFO - request status: Successful
 2024-12-17 14:37:53,539 - logger - INFO - Successful dumping
 2024-12-17 14:37:53,540 - logger - INFO - ------
+2024-12-17 15:34:50,439 - logger - INFO - ------
+2024-12-17 15:34:50,439 - logger - INFO - retrieve station status
+2024-12-17 15:34:50,852 - logger - INFO - request status: Successful
+2024-12-17 15:34:50,855 - logger - INFO - Successful dumping
+2024-12-17 15:34:50,855 - logger - INFO - retrieve station information
+2024-12-17 15:34:51,728 - logger - INFO - request status: Successful
+2024-12-17 15:34:51,746 - logger - INFO - Successful dumping
+2024-12-17 15:34:51,747 - logger - INFO - ------
