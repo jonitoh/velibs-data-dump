@@ -2361,3 +2361,11 @@
 2024-12-17 04:39:01,130 - logger - INFO - request status: Successful
 2024-12-17 04:39:01,148 - logger - INFO - Successful dumping
 2024-12-17 04:39:01,148 - logger - INFO - ------
+2024-12-17 05:36:01,551 - logger - INFO - ------
+2024-12-17 05:36:01,551 - logger - INFO - retrieve station status
+2024-12-17 05:36:01,842 - logger - INFO - request status: Successful
+2024-12-17 05:36:01,845 - logger - INFO - Successful dumping
+2024-12-17 05:36:01,845 - logger - INFO - retrieve station information
+2024-12-17 05:36:02,604 - logger - INFO - request status: Successful
+2024-12-17 05:36:02,622 - logger - INFO - Successful dumping
+2024-12-17 05:36:02,623 - logger - INFO - ------
