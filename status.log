@@ -2841,3 +2841,11 @@
 2024-12-19 18:39:28,488 - logger - INFO - request status: Successful
 2024-12-19 18:39:28,506 - logger - INFO - Successful dumping
 2024-12-19 18:39:28,507 - logger - INFO - ------
+2024-12-19 19:25:52,734 - logger - INFO - ------
+2024-12-19 19:25:52,734 - logger - INFO - retrieve station status
+2024-12-19 19:25:53,060 - logger - INFO - request status: Successful
+2024-12-19 19:25:53,063 - logger - INFO - Successful dumping
+2024-12-19 19:25:53,063 - logger - INFO - retrieve station information
+2024-12-19 19:25:53,861 - logger - INFO - request status: Successful
+2024-12-19 19:25:53,879 - logger - INFO - Successful dumping
+2024-12-19 19:25:53,879 - logger - INFO - ------
