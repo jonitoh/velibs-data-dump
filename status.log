@@ -2809,3 +2809,11 @@
 2024-12-19 14:35:54,377 - logger - INFO - request status: Successful
 2024-12-19 14:35:54,396 - logger - INFO - Successful dumping
 2024-12-19 14:35:54,396 - logger - INFO - ------
+2024-12-19 15:33:29,709 - logger - INFO - ------
+2024-12-19 15:33:29,709 - logger - INFO - retrieve station status
+2024-12-19 15:33:30,239 - logger - INFO - request status: Successful
+2024-12-19 15:33:30,241 - logger - INFO - Successful dumping
+2024-12-19 15:33:30,241 - logger - INFO - retrieve station information
+2024-12-19 15:33:31,580 - logger - INFO - request status: Successful
+2024-12-19 15:33:31,598 - logger - INFO - Successful dumping
+2024-12-19 15:33:31,599 - logger - INFO - ------
