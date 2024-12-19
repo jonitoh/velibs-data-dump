@@ -2825,3 +2825,11 @@
 2024-12-19 16:38:20,974 - logger - INFO - request status: Successful
 2024-12-19 16:38:20,993 - logger - INFO - Successful dumping
 2024-12-19 16:38:20,993 - logger - INFO - ------
+2024-12-19 17:31:31,297 - logger - INFO - ------
+2024-12-19 17:31:31,297 - logger - INFO - retrieve station status
+2024-12-19 17:31:31,752 - logger - INFO - request status: Successful
+2024-12-19 17:31:31,755 - logger - INFO - Successful dumping
+2024-12-19 17:31:31,755 - logger - INFO - retrieve station information
+2024-12-19 17:31:33,045 - logger - INFO - request status: Successful
+2024-12-19 17:31:33,063 - logger - INFO - Successful dumping
+2024-12-19 17:31:33,064 - logger - INFO - ------
