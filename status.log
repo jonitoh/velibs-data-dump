@@ -2953,3 +2953,11 @@
 2024-12-20 09:31:07,955 - logger - INFO - request status: Successful
 2024-12-20 09:31:07,973 - logger - INFO - Successful dumping
 2024-12-20 09:31:07,974 - logger - INFO - ------
+2024-12-20 10:35:50,748 - logger - INFO - ------
+2024-12-20 10:35:50,748 - logger - INFO - retrieve station status
+2024-12-20 10:35:51,312 - logger - INFO - request status: Successful
+2024-12-20 10:35:51,315 - logger - INFO - Successful dumping
+2024-12-20 10:35:51,315 - logger - INFO - retrieve station information
+2024-12-20 10:35:52,578 - logger - INFO - request status: Successful
+2024-12-20 10:35:52,596 - logger - INFO - Successful dumping
+2024-12-20 10:35:52,597 - logger - INFO - ------
