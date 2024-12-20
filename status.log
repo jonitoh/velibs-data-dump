@@ -3033,3 +3033,11 @@
 2024-12-20 19:25:53,415 - logger - INFO - request status: Successful
 2024-12-20 19:25:53,433 - logger - INFO - Successful dumping
 2024-12-20 19:25:53,433 - logger - INFO - ------
+2024-12-20 20:31:18,798 - logger - INFO - ------
+2024-12-20 20:31:18,798 - logger - INFO - retrieve station status
+2024-12-20 20:31:19,127 - logger - INFO - request status: Successful
+2024-12-20 20:31:19,129 - logger - INFO - Successful dumping
+2024-12-20 20:31:19,129 - logger - INFO - retrieve station information
+2024-12-20 20:31:19,923 - logger - INFO - request status: Successful
+2024-12-20 20:31:19,941 - logger - INFO - Successful dumping
+2024-12-20 20:31:19,941 - logger - INFO - ------
