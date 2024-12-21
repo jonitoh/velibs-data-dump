@@ -3185,3 +3185,11 @@
 2024-12-21 15:28:51,118 - logger - INFO - request status: Successful
 2024-12-21 15:28:51,136 - logger - INFO - Successful dumping
 2024-12-21 15:28:51,136 - logger - INFO - ------
+2024-12-21 16:34:47,846 - logger - INFO - ------
+2024-12-21 16:34:47,847 - logger - INFO - retrieve station status
+2024-12-21 16:34:48,188 - logger - INFO - request status: Successful
+2024-12-21 16:34:48,190 - logger - INFO - Successful dumping
+2024-12-21 16:34:48,190 - logger - INFO - retrieve station information
+2024-12-21 16:34:49,062 - logger - INFO - request status: Successful
+2024-12-21 16:34:49,080 - logger - INFO - Successful dumping
+2024-12-21 16:34:49,081 - logger - INFO - ------
