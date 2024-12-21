@@ -3209,3 +3209,11 @@
 2024-12-21 18:35:48,347 - logger - INFO - request status: Successful
 2024-12-21 18:35:48,370 - logger - INFO - Successful dumping
 2024-12-21 18:35:48,370 - logger - INFO - ------
+2024-12-21 19:26:02,109 - logger - INFO - ------
+2024-12-21 19:26:02,109 - logger - INFO - retrieve station status
+2024-12-21 19:26:02,612 - logger - INFO - request status: Successful
+2024-12-21 19:26:02,615 - logger - INFO - Successful dumping
+2024-12-21 19:26:02,616 - logger - INFO - retrieve station information
+2024-12-21 19:26:03,890 - logger - INFO - request status: Successful
+2024-12-21 19:26:03,908 - logger - INFO - Successful dumping
+2024-12-21 19:26:03,909 - logger - INFO - ------
