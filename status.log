@@ -3193,3 +3193,11 @@
 2024-12-21 16:34:49,062 - logger - INFO - request status: Successful
 2024-12-21 16:34:49,080 - logger - INFO - Successful dumping
 2024-12-21 16:34:49,081 - logger - INFO - ------
+2024-12-21 17:30:38,062 - logger - INFO - ------
+2024-12-21 17:30:38,063 - logger - INFO - retrieve station status
+2024-12-21 17:30:38,608 - logger - INFO - request status: Successful
+2024-12-21 17:30:38,611 - logger - INFO - Successful dumping
+2024-12-21 17:30:38,612 - logger - INFO - retrieve station information
+2024-12-21 17:30:39,869 - logger - INFO - request status: Successful
+2024-12-21 17:30:39,887 - logger - INFO - Successful dumping
+2024-12-21 17:30:39,888 - logger - INFO - ------
