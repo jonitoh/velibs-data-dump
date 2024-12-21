@@ -3241,3 +3241,11 @@
 2024-12-21 22:31:55,305 - logger - INFO - request status: Successful
 2024-12-21 22:31:55,323 - logger - INFO - Successful dumping
 2024-12-21 22:31:55,324 - logger - INFO - ------
+2024-12-21 23:27:54,266 - logger - INFO - ------
+2024-12-21 23:27:54,266 - logger - INFO - retrieve station status
+2024-12-21 23:27:54,659 - logger - INFO - request status: Successful
+2024-12-21 23:27:54,662 - logger - INFO - Successful dumping
+2024-12-21 23:27:54,662 - logger - INFO - retrieve station information
+2024-12-21 23:27:55,547 - logger - INFO - request status: Successful
+2024-12-21 23:27:55,568 - logger - INFO - Successful dumping
+2024-12-21 23:27:55,568 - logger - INFO - ------
