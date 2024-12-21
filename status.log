@@ -3217,3 +3217,11 @@
 2024-12-21 19:26:03,890 - logger - INFO - request status: Successful
 2024-12-21 19:26:03,908 - logger - INFO - Successful dumping
 2024-12-21 19:26:03,909 - logger - INFO - ------
+2024-12-21 20:29:48,671 - logger - INFO - ------
+2024-12-21 20:29:48,671 - logger - INFO - retrieve station status
+2024-12-21 20:29:49,000 - logger - INFO - request status: Successful
+2024-12-21 20:29:49,003 - logger - INFO - Successful dumping
+2024-12-21 20:29:49,003 - logger - INFO - retrieve station information
+2024-12-21 20:29:49,756 - logger - INFO - request status: Successful
+2024-12-21 20:29:49,774 - logger - INFO - Successful dumping
+2024-12-21 20:29:49,775 - logger - INFO - ------
