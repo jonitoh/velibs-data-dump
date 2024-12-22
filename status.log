@@ -3377,3 +3377,11 @@
 2024-12-22 16:34:37,024 - logger - INFO - request status: Successful
 2024-12-22 16:34:37,042 - logger - INFO - Successful dumping
 2024-12-22 16:34:37,042 - logger - INFO - ------
+2024-12-22 17:29:43,031 - logger - INFO - ------
+2024-12-22 17:29:43,031 - logger - INFO - retrieve station status
+2024-12-22 17:29:43,486 - logger - INFO - request status: Successful
+2024-12-22 17:29:43,488 - logger - INFO - Successful dumping
+2024-12-22 17:29:43,489 - logger - INFO - retrieve station information
+2024-12-22 17:29:44,812 - logger - INFO - request status: Successful
+2024-12-22 17:29:44,830 - logger - INFO - Successful dumping
+2024-12-22 17:29:44,830 - logger - INFO - ------
