@@ -3417,3 +3417,11 @@
 2024-12-22 21:27:29,128 - logger - INFO - request status: Successful
 2024-12-22 21:27:29,146 - logger - INFO - Successful dumping
 2024-12-22 21:27:29,147 - logger - INFO - ------
+2024-12-22 22:31:58,305 - logger - INFO - ------
+2024-12-22 22:31:58,305 - logger - INFO - retrieve station status
+2024-12-22 22:31:58,820 - logger - INFO - request status: Successful
+2024-12-22 22:31:58,822 - logger - INFO - Successful dumping
+2024-12-22 22:31:58,823 - logger - INFO - retrieve station information
+2024-12-22 22:32:00,106 - logger - INFO - request status: Successful
+2024-12-22 22:32:00,124 - logger - INFO - Successful dumping
+2024-12-22 22:32:00,125 - logger - INFO - ------
