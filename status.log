@@ -3401,3 +3401,11 @@
 2024-12-22 19:25:49,103 - logger - INFO - request status: Successful
 2024-12-22 19:25:49,121 - logger - INFO - Successful dumping
 2024-12-22 19:25:49,122 - logger - INFO - ------
+2024-12-22 20:29:45,323 - logger - INFO - ------
+2024-12-22 20:29:45,323 - logger - INFO - retrieve station status
+2024-12-22 20:29:45,642 - logger - INFO - request status: Successful
+2024-12-22 20:29:45,645 - logger - INFO - Successful dumping
+2024-12-22 20:29:45,645 - logger - INFO - retrieve station information
+2024-12-22 20:29:46,526 - logger - INFO - request status: Successful
+2024-12-22 20:29:46,544 - logger - INFO - Successful dumping
+2024-12-22 20:29:46,545 - logger - INFO - ------
