@@ -3329,3 +3329,11 @@
 2024-12-22 10:32:39,236 - logger - INFO - request status: Successful
 2024-12-22 10:32:39,254 - logger - INFO - Successful dumping
 2024-12-22 10:32:39,255 - logger - INFO - ------
+2024-12-22 11:25:54,345 - logger - INFO - ------
+2024-12-22 11:25:54,345 - logger - INFO - retrieve station status
+2024-12-22 11:25:54,850 - logger - INFO - request status: Successful
+2024-12-22 11:25:54,853 - logger - INFO - Successful dumping
+2024-12-22 11:25:54,853 - logger - INFO - retrieve station information
+2024-12-22 11:25:56,136 - logger - INFO - request status: Successful
+2024-12-22 11:25:56,154 - logger - INFO - Successful dumping
+2024-12-22 11:25:56,154 - logger - INFO - ------
