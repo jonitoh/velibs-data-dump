@@ -3473,3 +3473,11 @@
 2024-12-23 05:33:07,151 - logger - INFO - request status: Successful
 2024-12-23 05:33:07,169 - logger - INFO - Successful dumping
 2024-12-23 05:33:07,170 - logger - INFO - ------
+2024-12-23 06:41:23,402 - logger - INFO - ------
+2024-12-23 06:41:23,402 - logger - INFO - retrieve station status
+2024-12-23 06:41:23,934 - logger - INFO - request status: Successful
+2024-12-23 06:41:23,936 - logger - INFO - Successful dumping
+2024-12-23 06:41:23,937 - logger - INFO - retrieve station information
+2024-12-23 06:41:25,231 - logger - INFO - request status: Successful
+2024-12-23 06:41:25,250 - logger - INFO - Successful dumping
+2024-12-23 06:41:25,250 - logger - INFO - ------
