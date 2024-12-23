@@ -3601,3 +3601,11 @@
 2024-12-23 21:28:15,233 - logger - INFO - request status: Successful
 2024-12-23 21:28:15,252 - logger - INFO - Successful dumping
 2024-12-23 21:28:15,253 - logger - INFO - ------
+2024-12-23 22:32:43,246 - logger - INFO - ------
+2024-12-23 22:32:43,246 - logger - INFO - retrieve station status
+2024-12-23 22:32:43,514 - logger - INFO - request status: Successful
+2024-12-23 22:32:43,519 - logger - INFO - Successful dumping
+2024-12-23 22:32:43,519 - logger - INFO - retrieve station information
+2024-12-23 22:32:44,295 - logger - INFO - request status: Successful
+2024-12-23 22:32:44,314 - logger - INFO - Successful dumping
+2024-12-23 22:32:44,314 - logger - INFO - ------
