@@ -3777,3 +3777,11 @@
 2024-12-24 20:30:34,734 - logger - INFO - request status: Successful
 2024-12-24 20:30:34,752 - logger - INFO - Successful dumping
 2024-12-24 20:30:34,753 - logger - INFO - ------
+2024-12-24 21:28:09,164 - logger - INFO - ------
+2024-12-24 21:28:09,164 - logger - INFO - retrieve station status
+2024-12-24 21:28:09,663 - logger - INFO - request status: Successful
+2024-12-24 21:28:09,666 - logger - INFO - Successful dumping
+2024-12-24 21:28:09,666 - logger - INFO - retrieve station information
+2024-12-24 21:28:10,942 - logger - INFO - request status: Successful
+2024-12-24 21:28:10,960 - logger - INFO - Successful dumping
+2024-12-24 21:28:10,960 - logger - INFO - ------
