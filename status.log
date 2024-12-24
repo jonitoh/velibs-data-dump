@@ -3713,3 +3713,11 @@
 2024-12-24 12:52:24,513 - logger - INFO - request status: Successful
 2024-12-24 12:52:24,532 - logger - INFO - Successful dumping
 2024-12-24 12:52:24,532 - logger - INFO - ------
+2024-12-24 13:32:04,253 - logger - INFO - ------
+2024-12-24 13:32:04,253 - logger - INFO - retrieve station status
+2024-12-24 13:32:04,658 - logger - INFO - request status: Successful
+2024-12-24 13:32:04,660 - logger - INFO - Successful dumping
+2024-12-24 13:32:04,661 - logger - INFO - retrieve station information
+2024-12-24 13:32:05,908 - logger - INFO - request status: Successful
+2024-12-24 13:32:05,926 - logger - INFO - Successful dumping
+2024-12-24 13:32:05,926 - logger - INFO - ------
