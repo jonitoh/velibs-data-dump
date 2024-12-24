@@ -3737,3 +3737,11 @@
 2024-12-24 15:30:35,388 - logger - INFO - request status: Successful
 2024-12-24 15:30:35,406 - logger - INFO - Successful dumping
 2024-12-24 15:30:35,407 - logger - INFO - ------
+2024-12-24 16:36:38,009 - logger - INFO - ------
+2024-12-24 16:36:38,009 - logger - INFO - retrieve station status
+2024-12-24 16:36:38,309 - logger - INFO - request status: Successful
+2024-12-24 16:36:38,312 - logger - INFO - Successful dumping
+2024-12-24 16:36:38,312 - logger - INFO - retrieve station information
+2024-12-24 16:36:39,113 - logger - INFO - request status: Successful
+2024-12-24 16:36:39,131 - logger - INFO - Successful dumping
+2024-12-24 16:36:39,131 - logger - INFO - ------
