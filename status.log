@@ -3897,3 +3897,11 @@
 2024-12-25 12:51:54,287 - logger - INFO - request status: Successful
 2024-12-25 12:51:54,305 - logger - INFO - Successful dumping
 2024-12-25 12:51:54,305 - logger - INFO - ------
+2024-12-25 13:31:52,444 - logger - INFO - ------
+2024-12-25 13:31:52,444 - logger - INFO - retrieve station status
+2024-12-25 13:31:52,930 - logger - INFO - request status: Successful
+2024-12-25 13:31:52,932 - logger - INFO - Successful dumping
+2024-12-25 13:31:52,933 - logger - INFO - retrieve station information
+2024-12-25 13:31:54,225 - logger - INFO - request status: Successful
+2024-12-25 13:31:54,243 - logger - INFO - Successful dumping
+2024-12-25 13:31:54,244 - logger - INFO - ------
