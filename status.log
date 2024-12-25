@@ -3929,3 +3929,11 @@
 2024-12-25 16:36:28,788 - logger - INFO - request status: Successful
 2024-12-25 16:36:28,805 - logger - INFO - Successful dumping
 2024-12-25 16:36:28,806 - logger - INFO - ------
+2024-12-25 17:32:01,204 - logger - INFO - ------
+2024-12-25 17:32:01,204 - logger - INFO - retrieve station status
+2024-12-25 17:32:01,512 - logger - INFO - request status: Successful
+2024-12-25 17:32:01,515 - logger - INFO - Successful dumping
+2024-12-25 17:32:01,515 - logger - INFO - retrieve station information
+2024-12-25 17:32:02,419 - logger - INFO - request status: Successful
+2024-12-25 17:32:02,442 - logger - INFO - Successful dumping
+2024-12-25 17:32:02,443 - logger - INFO - ------
