@@ -3961,3 +3961,11 @@
 2024-12-25 20:30:47,157 - logger - INFO - request status: Successful
 2024-12-25 20:30:47,180 - logger - INFO - Successful dumping
 2024-12-25 20:30:47,180 - logger - INFO - ------
+2024-12-25 21:28:08,772 - logger - INFO - ------
+2024-12-25 21:28:08,772 - logger - INFO - retrieve station status
+2024-12-25 21:28:09,141 - logger - INFO - request status: Successful
+2024-12-25 21:28:09,143 - logger - INFO - Successful dumping
+2024-12-25 21:28:09,144 - logger - INFO - retrieve station information
+2024-12-25 21:28:09,661 - logger - INFO - request status: Successful
+2024-12-25 21:28:09,680 - logger - INFO - Successful dumping
+2024-12-25 21:28:09,680 - logger - INFO - ------
