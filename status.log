@@ -4081,3 +4081,11 @@
 2024-12-26 12:53:03,312 - logger - INFO - request status: Successful
 2024-12-26 12:53:03,331 - logger - INFO - Successful dumping
 2024-12-26 12:53:03,331 - logger - INFO - ------
+2024-12-26 13:32:45,039 - logger - INFO - ------
+2024-12-26 13:32:45,039 - logger - INFO - retrieve station status
+2024-12-26 13:32:45,536 - logger - INFO - request status: Successful
+2024-12-26 13:32:45,539 - logger - INFO - Successful dumping
+2024-12-26 13:32:45,539 - logger - INFO - retrieve station information
+2024-12-26 13:32:46,818 - logger - INFO - request status: Successful
+2024-12-26 13:32:46,838 - logger - INFO - Successful dumping
+2024-12-26 13:32:46,838 - logger - INFO - ------
