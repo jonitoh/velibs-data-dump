@@ -4313,3 +4313,11 @@
 2024-12-27 18:37:46,019 - logger - INFO - request status: Successful
 2024-12-27 18:37:46,042 - logger - INFO - Successful dumping
 2024-12-27 18:37:46,042 - logger - INFO - ------
+2024-12-27 19:25:49,398 - logger - INFO - ------
+2024-12-27 19:25:49,398 - logger - INFO - retrieve station status
+2024-12-27 19:25:49,948 - logger - INFO - request status: Successful
+2024-12-27 19:25:49,951 - logger - INFO - Successful dumping
+2024-12-27 19:25:49,951 - logger - INFO - retrieve station information
+2024-12-27 19:25:51,242 - logger - INFO - request status: Successful
+2024-12-27 19:25:51,260 - logger - INFO - Successful dumping
+2024-12-27 19:25:51,261 - logger - INFO - ------
