@@ -4249,3 +4249,11 @@
 2024-12-27 10:34:45,653 - logger - INFO - request status: Successful
 2024-12-27 10:34:45,672 - logger - INFO - Successful dumping
 2024-12-27 10:34:45,672 - logger - INFO - ------
+2024-12-27 11:26:40,684 - logger - INFO - ------
+2024-12-27 11:26:40,684 - logger - INFO - retrieve station status
+2024-12-27 11:26:40,991 - logger - INFO - request status: Successful
+2024-12-27 11:26:40,995 - logger - INFO - Successful dumping
+2024-12-27 11:26:40,995 - logger - INFO - retrieve station information
+2024-12-27 11:26:41,762 - logger - INFO - request status: Successful
+2024-12-27 11:26:41,780 - logger - INFO - Successful dumping
+2024-12-27 11:26:41,780 - logger - INFO - ------
