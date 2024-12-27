@@ -4209,3 +4209,11 @@
 2024-12-27 05:32:56,860 - logger - INFO - request status: Successful
 2024-12-27 05:32:56,878 - logger - INFO - Successful dumping
 2024-12-27 05:32:56,879 - logger - INFO - ------
+2024-12-27 06:39:49,130 - logger - INFO - ------
+2024-12-27 06:39:49,130 - logger - INFO - retrieve station status
+2024-12-27 06:39:49,480 - logger - INFO - request status: Successful
+2024-12-27 06:39:49,483 - logger - INFO - Successful dumping
+2024-12-27 06:39:49,483 - logger - INFO - retrieve station information
+2024-12-27 06:39:50,331 - logger - INFO - request status: Successful
+2024-12-27 06:39:50,353 - logger - INFO - Successful dumping
+2024-12-27 06:39:50,354 - logger - INFO - ------
