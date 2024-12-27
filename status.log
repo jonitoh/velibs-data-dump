@@ -4281,3 +4281,11 @@
 2024-12-27 14:32:34,565 - logger - INFO - request status: Successful
 2024-12-27 14:32:34,584 - logger - INFO - Successful dumping
 2024-12-27 14:32:34,584 - logger - INFO - ------
+2024-12-27 15:30:29,094 - logger - INFO - ------
+2024-12-27 15:30:29,095 - logger - INFO - retrieve station status
+2024-12-27 15:30:29,662 - logger - INFO - request status: Successful
+2024-12-27 15:30:29,665 - logger - INFO - Successful dumping
+2024-12-27 15:30:29,665 - logger - INFO - retrieve station information
+2024-12-27 15:30:31,028 - logger - INFO - request status: Successful
+2024-12-27 15:30:31,046 - logger - INFO - Successful dumping
+2024-12-27 15:30:31,046 - logger - INFO - ------
