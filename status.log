@@ -4273,3 +4273,11 @@
 2024-12-27 13:32:10,304 - logger - INFO - request status: Successful
 2024-12-27 13:32:10,325 - logger - INFO - Successful dumping
 2024-12-27 13:32:10,325 - logger - INFO - ------
+2024-12-27 14:32:32,777 - logger - INFO - ------
+2024-12-27 14:32:32,777 - logger - INFO - retrieve station status
+2024-12-27 14:32:33,280 - logger - INFO - request status: Successful
+2024-12-27 14:32:33,282 - logger - INFO - Successful dumping
+2024-12-27 14:32:33,283 - logger - INFO - retrieve station information
+2024-12-27 14:32:34,565 - logger - INFO - request status: Successful
+2024-12-27 14:32:34,584 - logger - INFO - Successful dumping
+2024-12-27 14:32:34,584 - logger - INFO - ------
