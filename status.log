@@ -4505,3 +4505,11 @@
 2024-12-28 19:25:46,688 - logger - INFO - request status: Successful
 2024-12-28 19:25:46,707 - logger - INFO - Successful dumping
 2024-12-28 19:25:46,707 - logger - INFO - ------
+2024-12-28 20:30:09,625 - logger - INFO - ------
+2024-12-28 20:30:09,625 - logger - INFO - retrieve station status
+2024-12-28 20:30:10,130 - logger - INFO - request status: Successful
+2024-12-28 20:30:10,133 - logger - INFO - Successful dumping
+2024-12-28 20:30:10,133 - logger - INFO - retrieve station information
+2024-12-28 20:30:11,452 - logger - INFO - request status: Successful
+2024-12-28 20:30:11,470 - logger - INFO - Successful dumping
+2024-12-28 20:30:11,471 - logger - INFO - ------
