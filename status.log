@@ -4441,3 +4441,11 @@
 2024-12-28 11:25:44,157 - logger - INFO - request status: Successful
 2024-12-28 11:25:44,176 - logger - INFO - Successful dumping
 2024-12-28 11:25:44,176 - logger - INFO - ------
+2024-12-28 12:50:10,957 - logger - INFO - ------
+2024-12-28 12:50:10,957 - logger - INFO - retrieve station status
+2024-12-28 12:50:11,337 - logger - INFO - request status: Successful
+2024-12-28 12:50:11,339 - logger - INFO - Successful dumping
+2024-12-28 12:50:11,339 - logger - INFO - retrieve station information
+2024-12-28 12:50:12,193 - logger - INFO - request status: Successful
+2024-12-28 12:50:12,211 - logger - INFO - Successful dumping
+2024-12-28 12:50:12,211 - logger - INFO - ------
