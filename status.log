@@ -4617,3 +4617,11 @@
 2024-12-29 10:32:55,367 - logger - INFO - request status: Successful
 2024-12-29 10:32:55,385 - logger - INFO - Successful dumping
 2024-12-29 10:32:55,385 - logger - INFO - ------
+2024-12-29 11:25:44,901 - logger - INFO - ------
+2024-12-29 11:25:44,901 - logger - INFO - retrieve station status
+2024-12-29 11:25:45,225 - logger - INFO - request status: Successful
+2024-12-29 11:25:45,227 - logger - INFO - Successful dumping
+2024-12-29 11:25:45,227 - logger - INFO - retrieve station information
+2024-12-29 11:25:46,031 - logger - INFO - request status: Successful
+2024-12-29 11:25:46,049 - logger - INFO - Successful dumping
+2024-12-29 11:25:46,050 - logger - INFO - ------
