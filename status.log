@@ -4625,3 +4625,11 @@
 2024-12-29 11:25:46,031 - logger - INFO - request status: Successful
 2024-12-29 11:25:46,049 - logger - INFO - Successful dumping
 2024-12-29 11:25:46,050 - logger - INFO - ------
+2024-12-29 12:49:41,566 - logger - INFO - ------
+2024-12-29 12:49:41,566 - logger - INFO - retrieve station status
+2024-12-29 12:49:41,921 - logger - INFO - request status: Successful
+2024-12-29 12:49:41,923 - logger - INFO - Successful dumping
+2024-12-29 12:49:41,923 - logger - INFO - retrieve station information
+2024-12-29 12:49:42,775 - logger - INFO - request status: Successful
+2024-12-29 12:49:42,793 - logger - INFO - Successful dumping
+2024-12-29 12:49:42,793 - logger - INFO - ------
