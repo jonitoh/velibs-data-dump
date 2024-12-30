@@ -4825,3 +4825,11 @@
 2024-12-30 13:33:00,965 - logger - INFO - request status: Successful
 2024-12-30 13:33:00,983 - logger - INFO - Successful dumping
 2024-12-30 13:33:00,984 - logger - INFO - ------
+2024-12-30 14:32:51,849 - logger - INFO - ------
+2024-12-30 14:32:51,849 - logger - INFO - retrieve station status
+2024-12-30 14:32:52,221 - logger - INFO - request status: Successful
+2024-12-30 14:32:52,223 - logger - INFO - Successful dumping
+2024-12-30 14:32:52,223 - logger - INFO - retrieve station information
+2024-12-30 14:32:53,096 - logger - INFO - request status: Successful
+2024-12-30 14:32:53,114 - logger - INFO - Successful dumping
+2024-12-30 14:32:53,115 - logger - INFO - ------
