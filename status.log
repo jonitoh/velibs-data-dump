@@ -4833,3 +4833,11 @@
 2024-12-30 14:32:53,096 - logger - INFO - request status: Successful
 2024-12-30 14:32:53,114 - logger - INFO - Successful dumping
 2024-12-30 14:32:53,115 - logger - INFO - ------
+2024-12-30 15:31:01,000 - logger - INFO - ------
+2024-12-30 15:31:01,001 - logger - INFO - retrieve station status
+2024-12-30 15:31:01,293 - logger - INFO - request status: Successful
+2024-12-30 15:31:01,296 - logger - INFO - Successful dumping
+2024-12-30 15:31:01,297 - logger - INFO - retrieve station information
+2024-12-30 15:31:02,083 - logger - INFO - request status: Successful
+2024-12-30 15:31:02,101 - logger - INFO - Successful dumping
+2024-12-30 15:31:02,101 - logger - INFO - ------
