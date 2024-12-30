@@ -4841,3 +4841,11 @@
 2024-12-30 15:31:02,083 - logger - INFO - request status: Successful
 2024-12-30 15:31:02,101 - logger - INFO - Successful dumping
 2024-12-30 15:31:02,101 - logger - INFO - ------
+2024-12-30 16:38:09,039 - logger - INFO - ------
+2024-12-30 16:38:09,039 - logger - INFO - retrieve station status
+2024-12-30 16:38:09,470 - logger - INFO - request status: Successful
+2024-12-30 16:38:09,472 - logger - INFO - Successful dumping
+2024-12-30 16:38:09,472 - logger - INFO - retrieve station information
+2024-12-30 16:38:10,355 - logger - INFO - request status: Successful
+2024-12-30 16:38:10,372 - logger - INFO - Successful dumping
+2024-12-30 16:38:10,373 - logger - INFO - ------
