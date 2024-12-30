@@ -4793,3 +4793,11 @@
 2024-12-30 09:31:47,791 - logger - INFO - request status: Successful
 2024-12-30 09:31:47,810 - logger - INFO - Successful dumping
 2024-12-30 09:31:47,810 - logger - INFO - ------
+2024-12-30 10:36:22,829 - logger - INFO - ------
+2024-12-30 10:36:22,829 - logger - INFO - retrieve station status
+2024-12-30 10:36:23,095 - logger - INFO - request status: Successful
+2024-12-30 10:36:23,099 - logger - INFO - Successful dumping
+2024-12-30 10:36:23,099 - logger - INFO - retrieve station information
+2024-12-30 10:36:23,843 - logger - INFO - request status: Successful
+2024-12-30 10:36:23,867 - logger - INFO - Successful dumping
+2024-12-30 10:36:23,867 - logger - INFO - ------
