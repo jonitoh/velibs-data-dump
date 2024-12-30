@@ -4753,3 +4753,11 @@
 2024-12-30 04:35:22,599 - logger - INFO - request status: Successful
 2024-12-30 04:35:22,618 - logger - INFO - Successful dumping
 2024-12-30 04:35:22,618 - logger - INFO - ------
+2024-12-30 05:33:14,272 - logger - INFO - ------
+2024-12-30 05:33:14,272 - logger - INFO - retrieve station status
+2024-12-30 05:33:14,747 - logger - INFO - request status: Successful
+2024-12-30 05:33:14,750 - logger - INFO - Successful dumping
+2024-12-30 05:33:14,750 - logger - INFO - retrieve station information
+2024-12-30 05:33:16,029 - logger - INFO - request status: Successful
+2024-12-30 05:33:16,047 - logger - INFO - Successful dumping
+2024-12-30 05:33:16,047 - logger - INFO - ------
