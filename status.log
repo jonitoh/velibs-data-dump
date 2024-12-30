@@ -4809,3 +4809,11 @@
 2024-12-30 11:26:26,527 - logger - INFO - request status: Successful
 2024-12-30 11:26:26,545 - logger - INFO - Successful dumping
 2024-12-30 11:26:26,545 - logger - INFO - ------
+2024-12-30 12:53:03,197 - logger - INFO - ------
+2024-12-30 12:53:03,197 - logger - INFO - retrieve station status
+2024-12-30 12:53:03,614 - logger - INFO - request status: Successful
+2024-12-30 12:53:03,617 - logger - INFO - Successful dumping
+2024-12-30 12:53:03,617 - logger - INFO - retrieve station information
+2024-12-30 12:53:04,486 - logger - INFO - request status: Successful
+2024-12-30 12:53:04,504 - logger - INFO - Successful dumping
+2024-12-30 12:53:04,505 - logger - INFO - ------
