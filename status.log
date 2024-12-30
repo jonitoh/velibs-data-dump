@@ -4801,3 +4801,11 @@
 2024-12-30 10:36:23,843 - logger - INFO - request status: Successful
 2024-12-30 10:36:23,867 - logger - INFO - Successful dumping
 2024-12-30 10:36:23,867 - logger - INFO - ------
+2024-12-30 11:26:25,472 - logger - INFO - ------
+2024-12-30 11:26:25,473 - logger - INFO - retrieve station status
+2024-12-30 11:26:25,769 - logger - INFO - request status: Successful
+2024-12-30 11:26:25,772 - logger - INFO - Successful dumping
+2024-12-30 11:26:25,772 - logger - INFO - retrieve station information
+2024-12-30 11:26:26,527 - logger - INFO - request status: Successful
+2024-12-30 11:26:26,545 - logger - INFO - Successful dumping
+2024-12-30 11:26:26,545 - logger - INFO - ------
