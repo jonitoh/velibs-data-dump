@@ -4761,3 +4761,11 @@
 2024-12-30 05:33:16,029 - logger - INFO - request status: Successful
 2024-12-30 05:33:16,047 - logger - INFO - Successful dumping
 2024-12-30 05:33:16,047 - logger - INFO - ------
+2024-12-30 06:41:18,660 - logger - INFO - ------
+2024-12-30 06:41:18,660 - logger - INFO - retrieve station status
+2024-12-30 06:41:19,141 - logger - INFO - request status: Successful
+2024-12-30 06:41:19,143 - logger - INFO - Successful dumping
+2024-12-30 06:41:19,143 - logger - INFO - retrieve station information
+2024-12-30 06:41:20,397 - logger - INFO - request status: Successful
+2024-12-30 06:41:20,415 - logger - INFO - Successful dumping
+2024-12-30 06:41:20,416 - logger - INFO - ------
