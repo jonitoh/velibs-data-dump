@@ -4857,3 +4857,11 @@
 2024-12-30 17:30:58,922 - logger - INFO - request status: Successful
 2024-12-30 17:30:58,940 - logger - INFO - Successful dumping
 2024-12-30 17:30:58,940 - logger - INFO - ------
+2024-12-30 18:39:00,401 - logger - INFO - ------
+2024-12-30 18:39:00,401 - logger - INFO - retrieve station status
+2024-12-30 18:39:00,746 - logger - INFO - request status: Successful
+2024-12-30 18:39:00,749 - logger - INFO - Successful dumping
+2024-12-30 18:39:00,749 - logger - INFO - retrieve station information
+2024-12-30 18:39:01,589 - logger - INFO - request status: Successful
+2024-12-30 18:39:01,607 - logger - INFO - Successful dumping
+2024-12-30 18:39:01,608 - logger - INFO - ------
