@@ -5073,3 +5073,11 @@
 2024-12-31 21:29:12,583 - logger - INFO - request status: Successful
 2024-12-31 21:29:12,601 - logger - INFO - Successful dumping
 2024-12-31 21:29:12,602 - logger - INFO - ------
+2024-12-31 22:32:15,853 - logger - INFO - ------
+2024-12-31 22:32:15,853 - logger - INFO - retrieve station status
+2024-12-31 22:32:16,144 - logger - INFO - request status: Successful
+2024-12-31 22:32:16,146 - logger - INFO - Successful dumping
+2024-12-31 22:32:16,146 - logger - INFO - retrieve station information
+2024-12-31 22:32:16,927 - logger - INFO - request status: Successful
+2024-12-31 22:32:16,945 - logger - INFO - Successful dumping
+2024-12-31 22:32:16,946 - logger - INFO - ------
