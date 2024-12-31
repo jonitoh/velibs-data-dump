@@ -4945,3 +4945,11 @@
 2024-12-31 05:32:33,918 - logger - INFO - request status: Successful
 2024-12-31 05:32:33,938 - logger - INFO - Successful dumping
 2024-12-31 05:32:33,938 - logger - INFO - ------
+2024-12-31 06:39:49,369 - logger - INFO - ------
+2024-12-31 06:39:49,369 - logger - INFO - retrieve station status
+2024-12-31 06:39:49,690 - logger - INFO - request status: Successful
+2024-12-31 06:39:49,693 - logger - INFO - Successful dumping
+2024-12-31 06:39:49,693 - logger - INFO - retrieve station information
+2024-12-31 06:39:50,556 - logger - INFO - request status: Successful
+2024-12-31 06:39:50,575 - logger - INFO - Successful dumping
+2024-12-31 06:39:50,576 - logger - INFO - ------
