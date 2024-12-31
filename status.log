@@ -4961,3 +4961,11 @@
 2024-12-31 07:28:50,003 - logger - INFO - request status: Successful
 2024-12-31 07:28:50,021 - logger - INFO - Successful dumping
 2024-12-31 07:28:50,021 - logger - INFO - ------
+2024-12-31 08:35:47,299 - logger - INFO - ------
+2024-12-31 08:35:47,299 - logger - INFO - retrieve station status
+2024-12-31 08:35:47,584 - logger - INFO - request status: Successful
+2024-12-31 08:35:47,587 - logger - INFO - Successful dumping
+2024-12-31 08:35:47,587 - logger - INFO - retrieve station information
+2024-12-31 08:35:48,373 - logger - INFO - request status: Successful
+2024-12-31 08:35:48,391 - logger - INFO - Successful dumping
+2024-12-31 08:35:48,392 - logger - INFO - ------
