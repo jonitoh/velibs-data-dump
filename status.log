@@ -4993,3 +4993,11 @@
 2024-12-31 11:26:34,111 - logger - INFO - request status: Successful
 2024-12-31 11:26:34,132 - logger - INFO - Successful dumping
 2024-12-31 11:26:34,132 - logger - INFO - ------
+2024-12-31 12:51:52,870 - logger - INFO - ------
+2024-12-31 12:51:52,870 - logger - INFO - retrieve station status
+2024-12-31 12:51:53,166 - logger - INFO - request status: Successful
+2024-12-31 12:51:53,168 - logger - INFO - Successful dumping
+2024-12-31 12:51:53,169 - logger - INFO - retrieve station information
+2024-12-31 12:51:53,941 - logger - INFO - request status: Successful
+2024-12-31 12:51:53,960 - logger - INFO - Successful dumping
+2024-12-31 12:51:53,961 - logger - INFO - ------
