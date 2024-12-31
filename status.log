@@ -4985,3 +4985,11 @@
 2024-12-31 10:35:12,619 - logger - INFO - request status: Successful
 2024-12-31 10:35:12,637 - logger - INFO - Successful dumping
 2024-12-31 10:35:12,637 - logger - INFO - ------
+2024-12-31 11:26:32,357 - logger - INFO - ------
+2024-12-31 11:26:32,357 - logger - INFO - retrieve station status
+2024-12-31 11:26:32,832 - logger - INFO - request status: Successful
+2024-12-31 11:26:32,834 - logger - INFO - Successful dumping
+2024-12-31 11:26:32,834 - logger - INFO - retrieve station information
+2024-12-31 11:26:34,111 - logger - INFO - request status: Successful
+2024-12-31 11:26:34,132 - logger - INFO - Successful dumping
+2024-12-31 11:26:34,132 - logger - INFO - ------
