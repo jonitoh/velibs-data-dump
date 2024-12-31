@@ -4937,3 +4937,11 @@
 2024-12-31 04:34:46,664 - logger - INFO - request status: Successful
 2024-12-31 04:34:46,682 - logger - INFO - Successful dumping
 2024-12-31 04:34:46,682 - logger - INFO - ------
+2024-12-31 05:32:32,727 - logger - INFO - ------
+2024-12-31 05:32:32,727 - logger - INFO - retrieve station status
+2024-12-31 05:32:33,155 - logger - INFO - request status: Successful
+2024-12-31 05:32:33,157 - logger - INFO - Successful dumping
+2024-12-31 05:32:33,157 - logger - INFO - retrieve station information
+2024-12-31 05:32:33,918 - logger - INFO - request status: Successful
+2024-12-31 05:32:33,938 - logger - INFO - Successful dumping
+2024-12-31 05:32:33,938 - logger - INFO - ------
