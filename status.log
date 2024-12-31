@@ -5025,3 +5025,11 @@
 2024-12-31 15:30:45,781 - logger - INFO - request status: Successful
 2024-12-31 15:30:45,803 - logger - INFO - Successful dumping
 2024-12-31 15:30:45,803 - logger - INFO - ------
+2024-12-31 16:36:55,616 - logger - INFO - ------
+2024-12-31 16:36:55,616 - logger - INFO - retrieve station status
+2024-12-31 16:36:56,104 - logger - INFO - request status: Successful
+2024-12-31 16:36:56,107 - logger - INFO - Successful dumping
+2024-12-31 16:36:56,107 - logger - INFO - retrieve station information
+2024-12-31 16:36:57,383 - logger - INFO - request status: Successful
+2024-12-31 16:36:57,402 - logger - INFO - Successful dumping
+2024-12-31 16:36:57,402 - logger - INFO - ------
