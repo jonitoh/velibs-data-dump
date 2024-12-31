@@ -5065,3 +5065,11 @@
 2024-12-31 20:30:29,255 - logger - INFO - request status: Successful
 2024-12-31 20:30:29,273 - logger - INFO - Successful dumping
 2024-12-31 20:30:29,273 - logger - INFO - ------
+2024-12-31 21:29:10,862 - logger - INFO - ------
+2024-12-31 21:29:10,862 - logger - INFO - retrieve station status
+2024-12-31 21:29:11,315 - logger - INFO - request status: Successful
+2024-12-31 21:29:11,318 - logger - INFO - Successful dumping
+2024-12-31 21:29:11,318 - logger - INFO - retrieve station information
+2024-12-31 21:29:12,583 - logger - INFO - request status: Successful
+2024-12-31 21:29:12,601 - logger - INFO - Successful dumping
+2024-12-31 21:29:12,602 - logger - INFO - ------
