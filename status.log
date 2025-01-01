@@ -5209,3 +5209,11 @@
 2025-01-01 15:31:16,663 - logger - INFO - request status: Successful
 2025-01-01 15:31:16,683 - logger - INFO - Successful dumping
 2025-01-01 15:31:16,683 - logger - INFO - ------
+2025-01-01 16:36:19,318 - logger - INFO - ------
+2025-01-01 16:36:19,318 - logger - INFO - retrieve station status
+2025-01-01 16:36:19,797 - logger - INFO - request status: Successful
+2025-01-01 16:36:19,799 - logger - INFO - Successful dumping
+2025-01-01 16:36:19,799 - logger - INFO - retrieve station information
+2025-01-01 16:36:21,083 - logger - INFO - request status: Successful
+2025-01-01 16:36:21,101 - logger - INFO - Successful dumping
+2025-01-01 16:36:21,102 - logger - INFO - ------
