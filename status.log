@@ -5241,3 +5241,11 @@
 2025-01-01 19:25:57,717 - logger - INFO - request status: Successful
 2025-01-01 19:25:57,736 - logger - INFO - Successful dumping
 2025-01-01 19:25:57,736 - logger - INFO - ------
+2025-01-01 20:30:49,071 - logger - INFO - ------
+2025-01-01 20:30:49,071 - logger - INFO - retrieve station status
+2025-01-01 20:30:49,493 - logger - INFO - request status: Successful
+2025-01-01 20:30:49,496 - logger - INFO - Successful dumping
+2025-01-01 20:30:49,496 - logger - INFO - retrieve station information
+2025-01-01 20:30:50,378 - logger - INFO - request status: Successful
+2025-01-01 20:30:50,396 - logger - INFO - Successful dumping
+2025-01-01 20:30:50,397 - logger - INFO - ------
