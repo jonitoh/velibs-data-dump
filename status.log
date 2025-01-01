@@ -5177,3 +5177,11 @@
 2025-01-01 11:26:13,722 - logger - INFO - request status: Successful
 2025-01-01 11:26:13,750 - logger - INFO - Successful dumping
 2025-01-01 11:26:13,750 - logger - INFO - ------
+2025-01-01 12:52:05,368 - logger - INFO - ------
+2025-01-01 12:52:05,368 - logger - INFO - retrieve station status
+2025-01-01 12:52:05,819 - logger - INFO - request status: Successful
+2025-01-01 12:52:05,822 - logger - INFO - Successful dumping
+2025-01-01 12:52:05,822 - logger - INFO - retrieve station information
+2025-01-01 12:52:07,099 - logger - INFO - request status: Successful
+2025-01-01 12:52:07,120 - logger - INFO - Successful dumping
+2025-01-01 12:52:07,121 - logger - INFO - ------
