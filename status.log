@@ -5225,3 +5225,11 @@
 2025-01-01 17:30:22,448 - logger - INFO - request status: Successful
 2025-01-01 17:30:22,466 - logger - INFO - Successful dumping
 2025-01-01 17:30:22,466 - logger - INFO - ------
+2025-01-01 18:37:20,733 - logger - INFO - ------
+2025-01-01 18:37:20,733 - logger - INFO - retrieve station status
+2025-01-01 18:37:21,279 - logger - INFO - request status: Successful
+2025-01-01 18:37:21,281 - logger - INFO - Successful dumping
+2025-01-01 18:37:21,282 - logger - INFO - retrieve station information
+2025-01-01 18:37:22,592 - logger - INFO - request status: Successful
+2025-01-01 18:37:22,610 - logger - INFO - Successful dumping
+2025-01-01 18:37:22,611 - logger - INFO - ------
