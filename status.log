@@ -5089,3 +5089,11 @@
 2024-12-31 23:28:37,581 - logger - INFO - request status: Successful
 2024-12-31 23:28:37,599 - logger - INFO - Successful dumping
 2024-12-31 23:28:37,599 - logger - INFO - ------
+2025-01-01 02:03:57,712 - logger - INFO - ------
+2025-01-01 02:03:57,712 - logger - INFO - retrieve station status
+2025-01-01 02:03:58,090 - logger - INFO - request status: Successful
+2025-01-01 02:03:58,093 - logger - INFO - Successful dumping
+2025-01-01 02:03:58,094 - logger - INFO - retrieve station information
+2025-01-01 02:03:58,828 - logger - INFO - request status: Successful
+2025-01-01 02:03:58,847 - logger - INFO - Successful dumping
+2025-01-01 02:03:58,847 - logger - INFO - ------
