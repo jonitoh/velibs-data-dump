@@ -5273,3 +5273,11 @@
 2025-01-01 23:28:55,232 - logger - INFO - request status: Successful
 2025-01-01 23:28:55,254 - logger - INFO - Successful dumping
 2025-01-01 23:28:55,254 - logger - INFO - ------
+2025-01-02 01:55:13,214 - logger - INFO - ------
+2025-01-02 01:55:13,214 - logger - INFO - retrieve station status
+2025-01-02 01:55:13,682 - logger - INFO - request status: Successful
+2025-01-02 01:55:13,685 - logger - INFO - Successful dumping
+2025-01-02 01:55:13,685 - logger - INFO - retrieve station information
+2025-01-02 01:55:14,995 - logger - INFO - request status: Successful
+2025-01-02 01:55:15,021 - logger - INFO - Successful dumping
+2025-01-02 01:55:15,021 - logger - INFO - ------
