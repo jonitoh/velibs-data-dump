@@ -5425,3 +5425,11 @@
 2025-01-02 19:25:58,388 - logger - INFO - request status: Successful
 2025-01-02 19:25:58,406 - logger - INFO - Successful dumping
 2025-01-02 19:25:58,406 - logger - INFO - ------
+2025-01-02 20:31:18,018 - logger - INFO - ------
+2025-01-02 20:31:18,018 - logger - INFO - retrieve station status
+2025-01-02 20:31:18,296 - logger - INFO - request status: Successful
+2025-01-02 20:31:18,298 - logger - INFO - Successful dumping
+2025-01-02 20:31:18,298 - logger - INFO - retrieve station information
+2025-01-02 20:31:19,109 - logger - INFO - request status: Successful
+2025-01-02 20:31:19,127 - logger - INFO - Successful dumping
+2025-01-02 20:31:19,127 - logger - INFO - ------
