@@ -5593,3 +5593,11 @@
 2025-01-03 17:30:47,504 - logger - INFO - request status: Successful
 2025-01-03 17:30:47,526 - logger - INFO - Successful dumping
 2025-01-03 17:30:47,526 - logger - INFO - ------
+2025-01-03 18:38:25,650 - logger - INFO - ------
+2025-01-03 18:38:25,650 - logger - INFO - retrieve station status
+2025-01-03 18:38:26,120 - logger - INFO - request status: Successful
+2025-01-03 18:38:26,123 - logger - INFO - Successful dumping
+2025-01-03 18:38:26,124 - logger - INFO - retrieve station information
+2025-01-03 18:38:27,438 - logger - INFO - request status: Successful
+2025-01-03 18:38:27,456 - logger - INFO - Successful dumping
+2025-01-03 18:38:27,457 - logger - INFO - ------
