@@ -5761,3 +5761,11 @@
 2025-01-04 15:29:49,697 - logger - INFO - request status: Successful
 2025-01-04 15:29:49,717 - logger - INFO - Successful dumping
 2025-01-04 15:29:49,718 - logger - INFO - ------
+2025-01-04 16:35:21,370 - logger - INFO - ------
+2025-01-04 16:35:21,371 - logger - INFO - retrieve station status
+2025-01-04 16:35:21,890 - logger - INFO - request status: Successful
+2025-01-04 16:35:21,893 - logger - INFO - Successful dumping
+2025-01-04 16:35:21,893 - logger - INFO - retrieve station information
+2025-01-04 16:35:23,196 - logger - INFO - request status: Successful
+2025-01-04 16:35:23,214 - logger - INFO - Successful dumping
+2025-01-04 16:35:23,214 - logger - INFO - ------
