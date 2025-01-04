@@ -5809,3 +5809,11 @@
 2025-01-04 21:29:23,243 - logger - INFO - request status: Successful
 2025-01-04 21:29:23,264 - logger - INFO - Successful dumping
 2025-01-04 21:29:23,264 - logger - INFO - ------
+2025-01-04 22:31:44,688 - logger - INFO - ------
+2025-01-04 22:31:44,688 - logger - INFO - retrieve station status
+2025-01-04 22:31:45,338 - logger - INFO - request status: Successful
+2025-01-04 22:31:45,341 - logger - INFO - Successful dumping
+2025-01-04 22:31:45,342 - logger - INFO - retrieve station information
+2025-01-04 22:31:46,630 - logger - INFO - request status: Successful
+2025-01-04 22:31:46,648 - logger - INFO - Successful dumping
+2025-01-04 22:31:46,649 - logger - INFO - ------
