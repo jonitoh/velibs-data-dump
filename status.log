@@ -5777,3 +5777,11 @@
 2025-01-04 17:29:49,650 - logger - INFO - request status: Successful
 2025-01-04 17:29:49,668 - logger - INFO - Successful dumping
 2025-01-04 17:29:49,669 - logger - INFO - ------
+2025-01-04 18:36:46,488 - logger - INFO - ------
+2025-01-04 18:36:46,488 - logger - INFO - retrieve station status
+2025-01-04 18:36:46,980 - logger - INFO - request status: Successful
+2025-01-04 18:36:46,982 - logger - INFO - Successful dumping
+2025-01-04 18:36:46,983 - logger - INFO - retrieve station information
+2025-01-04 18:36:48,261 - logger - INFO - request status: Successful
+2025-01-04 18:36:48,279 - logger - INFO - Successful dumping
+2025-01-04 18:36:48,279 - logger - INFO - ------
