@@ -5665,3 +5665,11 @@
 2025-01-04 03:34:46,473 - logger - INFO - request status: Successful
 2025-01-04 03:34:46,495 - logger - INFO - Successful dumping
 2025-01-04 03:34:46,495 - logger - INFO - ------
+2025-01-04 04:33:48,007 - logger - INFO - ------
+2025-01-04 04:33:48,007 - logger - INFO - retrieve station status
+2025-01-04 04:33:48,427 - logger - INFO - request status: Successful
+2025-01-04 04:33:48,430 - logger - INFO - Successful dumping
+2025-01-04 04:33:48,430 - logger - INFO - retrieve station information
+2025-01-04 04:33:49,294 - logger - INFO - request status: Successful
+2025-01-04 04:33:49,315 - logger - INFO - Successful dumping
+2025-01-04 04:33:49,315 - logger - INFO - ------
