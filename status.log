@@ -5729,3 +5729,11 @@
 2025-01-04 11:25:50,817 - logger - INFO - request status: Successful
 2025-01-04 11:25:50,835 - logger - INFO - Successful dumping
 2025-01-04 11:25:50,835 - logger - INFO - ------
+2025-01-04 12:50:56,406 - logger - INFO - ------
+2025-01-04 12:50:56,406 - logger - INFO - retrieve station status
+2025-01-04 12:50:56,871 - logger - INFO - request status: Successful
+2025-01-04 12:50:56,873 - logger - INFO - Successful dumping
+2025-01-04 12:50:56,874 - logger - INFO - retrieve station information
+2025-01-04 12:50:57,730 - logger - INFO - request status: Successful
+2025-01-04 12:50:57,748 - logger - INFO - Successful dumping
+2025-01-04 12:50:57,749 - logger - INFO - ------
