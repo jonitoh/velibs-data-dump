@@ -5905,3 +5905,11 @@
 2025-01-05 10:33:13,981 - logger - INFO - request status: Successful
 2025-01-05 10:33:13,999 - logger - INFO - Successful dumping
 2025-01-05 10:33:14,000 - logger - INFO - ------
+2025-01-05 11:25:59,708 - logger - INFO - ------
+2025-01-05 11:25:59,708 - logger - INFO - retrieve station status
+2025-01-05 11:25:59,965 - logger - INFO - request status: Successful
+2025-01-05 11:25:59,968 - logger - INFO - Successful dumping
+2025-01-05 11:25:59,968 - logger - INFO - retrieve station information
+2025-01-05 11:26:00,895 - logger - INFO - request status: Successful
+2025-01-05 11:26:00,914 - logger - INFO - Successful dumping
+2025-01-05 11:26:00,914 - logger - INFO - ------
