@@ -5857,3 +5857,11 @@
 2025-01-05 04:33:51,183 - logger - INFO - request status: Successful
 2025-01-05 04:33:51,201 - logger - INFO - Successful dumping
 2025-01-05 04:33:51,202 - logger - INFO - ------
+2025-01-05 05:31:29,516 - logger - INFO - ------
+2025-01-05 05:31:29,516 - logger - INFO - retrieve station status
+2025-01-05 05:31:29,837 - logger - INFO - request status: Successful
+2025-01-05 05:31:29,841 - logger - INFO - Successful dumping
+2025-01-05 05:31:29,842 - logger - INFO - retrieve station information
+2025-01-05 05:31:30,642 - logger - INFO - request status: Successful
+2025-01-05 05:31:30,660 - logger - INFO - Successful dumping
+2025-01-05 05:31:30,661 - logger - INFO - ------
