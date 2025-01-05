@@ -5945,3 +5945,11 @@
 2025-01-05 15:29:08,642 - logger - INFO - request status: Successful
 2025-01-05 15:29:08,660 - logger - INFO - Successful dumping
 2025-01-05 15:29:08,661 - logger - INFO - ------
+2025-01-05 16:36:09,727 - logger - INFO - ------
+2025-01-05 16:36:09,727 - logger - INFO - retrieve station status
+2025-01-05 16:36:10,208 - logger - INFO - request status: Successful
+2025-01-05 16:36:10,210 - logger - INFO - Successful dumping
+2025-01-05 16:36:10,210 - logger - INFO - retrieve station information
+2025-01-05 16:36:11,506 - logger - INFO - request status: Successful
+2025-01-05 16:36:11,524 - logger - INFO - Successful dumping
+2025-01-05 16:36:11,525 - logger - INFO - ------
