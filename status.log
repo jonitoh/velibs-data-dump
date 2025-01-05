@@ -5881,3 +5881,11 @@
 2025-01-05 07:26:59,009 - logger - INFO - request status: Successful
 2025-01-05 07:26:59,027 - logger - INFO - Successful dumping
 2025-01-05 07:26:59,028 - logger - INFO - ------
+2025-01-05 08:33:32,235 - logger - INFO - ------
+2025-01-05 08:33:32,235 - logger - INFO - retrieve station status
+2025-01-05 08:33:32,777 - logger - INFO - request status: Successful
+2025-01-05 08:33:32,779 - logger - INFO - Successful dumping
+2025-01-05 08:33:32,780 - logger - INFO - retrieve station information
+2025-01-05 08:33:34,061 - logger - INFO - request status: Successful
+2025-01-05 08:33:34,080 - logger - INFO - Successful dumping
+2025-01-05 08:33:34,080 - logger - INFO - ------
