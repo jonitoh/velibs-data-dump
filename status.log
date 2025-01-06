@@ -6161,3 +6161,11 @@
 2025-01-06 19:25:57,626 - logger - INFO - request status: Successful
 2025-01-06 19:25:57,645 - logger - INFO - Successful dumping
 2025-01-06 19:25:57,645 - logger - INFO - ------
+2025-01-06 20:30:41,908 - logger - INFO - ------
+2025-01-06 20:30:41,908 - logger - INFO - retrieve station status
+2025-01-06 20:30:42,412 - logger - INFO - request status: Successful
+2025-01-06 20:30:42,414 - logger - INFO - Successful dumping
+2025-01-06 20:30:42,415 - logger - INFO - retrieve station information
+2025-01-06 20:30:43,693 - logger - INFO - request status: Successful
+2025-01-06 20:30:43,711 - logger - INFO - Successful dumping
+2025-01-06 20:30:43,711 - logger - INFO - ------
