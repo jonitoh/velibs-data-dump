@@ -6081,3 +6081,11 @@
 2025-01-06 09:32:30,087 - logger - INFO - request status: Successful
 2025-01-06 09:32:30,111 - logger - INFO - Successful dumping
 2025-01-06 09:32:30,111 - logger - INFO - ------
+2025-01-06 10:37:43,801 - logger - INFO - ------
+2025-01-06 10:37:43,801 - logger - INFO - retrieve station status
+2025-01-06 10:37:44,325 - logger - INFO - request status: Successful
+2025-01-06 10:37:44,329 - logger - INFO - Successful dumping
+2025-01-06 10:37:44,329 - logger - INFO - retrieve station information
+2025-01-06 10:37:45,613 - logger - INFO - request status: Successful
+2025-01-06 10:37:45,636 - logger - INFO - Successful dumping
+2025-01-06 10:37:45,637 - logger - INFO - ------
