@@ -6017,3 +6017,11 @@
 2025-01-06 02:00:42,278 - logger - INFO - request status: Successful
 2025-01-06 02:00:42,302 - logger - INFO - Successful dumping
 2025-01-06 02:00:42,302 - logger - INFO - ------
+2025-01-06 03:03:07,435 - logger - INFO - ------
+2025-01-06 03:03:07,435 - logger - INFO - retrieve station status
+2025-01-06 03:03:07,859 - logger - INFO - request status: Successful
+2025-01-06 03:03:07,862 - logger - INFO - Successful dumping
+2025-01-06 03:03:07,862 - logger - INFO - retrieve station information
+2025-01-06 03:03:08,635 - logger - INFO - request status: Successful
+2025-01-06 03:03:08,653 - logger - INFO - Successful dumping
+2025-01-06 03:03:08,653 - logger - INFO - ------
