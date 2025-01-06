@@ -6169,3 +6169,11 @@
 2025-01-06 20:30:43,693 - logger - INFO - request status: Successful
 2025-01-06 20:30:43,711 - logger - INFO - Successful dumping
 2025-01-06 20:30:43,711 - logger - INFO - ------
+2025-01-06 21:29:12,839 - logger - INFO - ------
+2025-01-06 21:29:12,839 - logger - INFO - retrieve station status
+2025-01-06 21:29:13,141 - logger - INFO - request status: Successful
+2025-01-06 21:29:13,144 - logger - INFO - Successful dumping
+2025-01-06 21:29:13,144 - logger - INFO - retrieve station information
+2025-01-06 21:29:13,961 - logger - INFO - request status: Successful
+2025-01-06 21:29:13,985 - logger - INFO - Successful dumping
+2025-01-06 21:29:13,986 - logger - INFO - ------
