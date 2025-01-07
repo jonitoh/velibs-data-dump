@@ -6209,3 +6209,11 @@
 2025-01-07 03:00:33,350 - logger - INFO - request status: Successful
 2025-01-07 03:00:33,368 - logger - INFO - Successful dumping
 2025-01-07 03:00:33,368 - logger - INFO - ------
+2025-01-07 03:38:01,132 - logger - INFO - ------
+2025-01-07 03:38:01,132 - logger - INFO - retrieve station status
+2025-01-07 03:38:01,397 - logger - INFO - request status: Successful
+2025-01-07 03:38:01,399 - logger - INFO - Successful dumping
+2025-01-07 03:38:01,400 - logger - INFO - retrieve station information
+2025-01-07 03:38:02,156 - logger - INFO - request status: Successful
+2025-01-07 03:38:02,175 - logger - INFO - Successful dumping
+2025-01-07 03:38:02,175 - logger - INFO - ------
