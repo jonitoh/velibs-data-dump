@@ -6313,3 +6313,11 @@
 2025-01-07 16:50:38,901 - logger - INFO - request status: Successful
 2025-01-07 16:50:38,919 - logger - INFO - Successful dumping
 2025-01-07 16:50:38,920 - logger - INFO - ------
+2025-01-07 17:31:56,105 - logger - INFO - ------
+2025-01-07 17:31:56,105 - logger - INFO - retrieve station status
+2025-01-07 17:31:56,629 - logger - INFO - request status: Successful
+2025-01-07 17:31:56,631 - logger - INFO - Successful dumping
+2025-01-07 17:31:56,631 - logger - INFO - retrieve station information
+2025-01-07 17:31:57,924 - logger - INFO - request status: Successful
+2025-01-07 17:31:57,942 - logger - INFO - Successful dumping
+2025-01-07 17:31:57,942 - logger - INFO - ------
