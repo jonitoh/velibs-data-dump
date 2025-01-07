@@ -6289,3 +6289,11 @@
 2025-01-07 12:54:30,228 - logger - INFO - request status: Successful
 2025-01-07 12:54:30,246 - logger - INFO - Successful dumping
 2025-01-07 12:54:30,247 - logger - INFO - ------
+2025-01-07 15:02:31,726 - logger - INFO - ------
+2025-01-07 15:02:31,726 - logger - INFO - retrieve station status
+2025-01-07 15:02:31,986 - logger - INFO - request status: Successful
+2025-01-07 15:02:31,989 - logger - INFO - Successful dumping
+2025-01-07 15:02:31,989 - logger - INFO - retrieve station information
+2025-01-07 15:02:32,799 - logger - INFO - request status: Successful
+2025-01-07 15:02:32,823 - logger - INFO - Successful dumping
+2025-01-07 15:02:32,823 - logger - INFO - ------
