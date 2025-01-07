@@ -6233,3 +6233,11 @@
 2025-01-07 05:32:44,453 - logger - INFO - request status: Successful
 2025-01-07 05:32:44,471 - logger - INFO - Successful dumping
 2025-01-07 05:32:44,472 - logger - INFO - ------
+2025-01-07 06:40:51,167 - logger - INFO - ------
+2025-01-07 06:40:51,167 - logger - INFO - retrieve station status
+2025-01-07 06:40:51,512 - logger - INFO - request status: Successful
+2025-01-07 06:40:51,515 - logger - INFO - Successful dumping
+2025-01-07 06:40:51,515 - logger - INFO - retrieve station information
+2025-01-07 06:40:55,547 - logger - INFO - request status: Successful
+2025-01-07 06:40:55,565 - logger - INFO - Successful dumping
+2025-01-07 06:40:55,566 - logger - INFO - ------
