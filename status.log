@@ -6353,3 +6353,11 @@
 2025-01-07 21:30:28,318 - logger - INFO - request status: Successful
 2025-01-07 21:30:28,337 - logger - INFO - Successful dumping
 2025-01-07 21:30:28,338 - logger - INFO - ------
+2025-01-07 22:33:53,390 - logger - INFO - ------
+2025-01-07 22:33:53,391 - logger - INFO - retrieve station status
+2025-01-07 22:33:53,764 - logger - INFO - request status: Successful
+2025-01-07 22:33:53,768 - logger - INFO - Successful dumping
+2025-01-07 22:33:53,768 - logger - INFO - retrieve station information
+2025-01-07 22:33:54,561 - logger - INFO - request status: Successful
+2025-01-07 22:33:54,580 - logger - INFO - Successful dumping
+2025-01-07 22:33:54,581 - logger - INFO - ------
