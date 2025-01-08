@@ -6409,3 +6409,11 @@
 2025-01-08 05:33:03,177 - logger - INFO - request status: Successful
 2025-01-08 05:33:03,195 - logger - INFO - Successful dumping
 2025-01-08 05:33:03,196 - logger - INFO - ------
+2025-01-08 06:39:55,358 - logger - INFO - ------
+2025-01-08 06:39:55,358 - logger - INFO - retrieve station status
+2025-01-08 06:39:55,722 - logger - INFO - request status: Successful
+2025-01-08 06:39:55,725 - logger - INFO - Successful dumping
+2025-01-08 06:39:55,725 - logger - INFO - retrieve station information
+2025-01-08 06:39:56,521 - logger - INFO - request status: Successful
+2025-01-08 06:39:56,539 - logger - INFO - Successful dumping
+2025-01-08 06:39:56,539 - logger - INFO - ------
