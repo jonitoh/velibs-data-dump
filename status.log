@@ -6537,3 +6537,11 @@
 2025-01-08 21:29:55,835 - logger - INFO - request status: Successful
 2025-01-08 21:29:55,853 - logger - INFO - Successful dumping
 2025-01-08 21:29:55,854 - logger - INFO - ------
+2025-01-08 22:33:21,786 - logger - INFO - ------
+2025-01-08 22:33:21,786 - logger - INFO - retrieve station status
+2025-01-08 22:33:22,290 - logger - INFO - request status: Successful
+2025-01-08 22:33:22,293 - logger - INFO - Successful dumping
+2025-01-08 22:33:22,293 - logger - INFO - retrieve station information
+2025-01-08 22:33:25,086 - logger - INFO - request status: Successful
+2025-01-08 22:33:25,104 - logger - INFO - Successful dumping
+2025-01-08 22:33:25,105 - logger - INFO - ------
