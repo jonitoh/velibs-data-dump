@@ -6401,3 +6401,11 @@
 2025-01-08 04:34:43,208 - logger - INFO - request status: Successful
 2025-01-08 04:34:43,227 - logger - INFO - Successful dumping
 2025-01-08 04:34:43,227 - logger - INFO - ------
+2025-01-08 05:33:01,418 - logger - INFO - ------
+2025-01-08 05:33:01,418 - logger - INFO - retrieve station status
+2025-01-08 05:33:01,899 - logger - INFO - request status: Successful
+2025-01-08 05:33:01,901 - logger - INFO - Successful dumping
+2025-01-08 05:33:01,902 - logger - INFO - retrieve station information
+2025-01-08 05:33:03,177 - logger - INFO - request status: Successful
+2025-01-08 05:33:03,195 - logger - INFO - Successful dumping
+2025-01-08 05:33:03,196 - logger - INFO - ------
