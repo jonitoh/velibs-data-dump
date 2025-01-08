@@ -6521,3 +6521,11 @@
 2025-01-08 19:25:47,080 - logger - INFO - request status: Successful
 2025-01-08 19:25:47,099 - logger - INFO - Successful dumping
 2025-01-08 19:25:47,100 - logger - INFO - ------
+2025-01-08 20:31:47,482 - logger - INFO - ------
+2025-01-08 20:31:47,482 - logger - INFO - retrieve station status
+2025-01-08 20:31:47,799 - logger - INFO - request status: Successful
+2025-01-08 20:31:47,802 - logger - INFO - Successful dumping
+2025-01-08 20:31:47,802 - logger - INFO - retrieve station information
+2025-01-08 20:31:48,681 - logger - INFO - request status: Successful
+2025-01-08 20:31:48,699 - logger - INFO - Successful dumping
+2025-01-08 20:31:48,700 - logger - INFO - ------
