@@ -6673,3 +6673,11 @@
 2025-01-09 16:39:48,323 - logger - INFO - request status: Successful
 2025-01-09 16:39:48,341 - logger - INFO - Successful dumping
 2025-01-09 16:39:48,342 - logger - INFO - ------
+2025-01-09 17:31:40,395 - logger - INFO - ------
+2025-01-09 17:31:40,395 - logger - INFO - retrieve station status
+2025-01-09 17:31:41,459 - logger - INFO - request status: Successful
+2025-01-09 17:31:41,461 - logger - INFO - Successful dumping
+2025-01-09 17:31:41,461 - logger - INFO - retrieve station information
+2025-01-09 17:31:42,774 - logger - INFO - request status: Successful
+2025-01-09 17:31:42,794 - logger - INFO - Successful dumping
+2025-01-09 17:31:42,795 - logger - INFO - ------
