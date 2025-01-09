@@ -6609,3 +6609,11 @@
 2025-01-09 08:36:19,228 - logger - INFO - request status: Successful
 2025-01-09 08:36:19,247 - logger - INFO - Successful dumping
 2025-01-09 08:36:19,247 - logger - INFO - ------
+2025-01-09 09:31:32,199 - logger - INFO - ------
+2025-01-09 09:31:32,199 - logger - INFO - retrieve station status
+2025-01-09 09:31:32,499 - logger - INFO - request status: Successful
+2025-01-09 09:31:32,502 - logger - INFO - Successful dumping
+2025-01-09 09:31:32,502 - logger - INFO - retrieve station information
+2025-01-09 09:31:33,306 - logger - INFO - request status: Successful
+2025-01-09 09:31:33,329 - logger - INFO - Successful dumping
+2025-01-09 09:31:33,329 - logger - INFO - ------
