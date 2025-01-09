@@ -6577,3 +6577,11 @@
 2025-01-09 04:34:48,373 - logger - INFO - request status: Successful
 2025-01-09 04:34:48,392 - logger - INFO - Successful dumping
 2025-01-09 04:34:48,392 - logger - INFO - ------
+2025-01-09 05:32:17,526 - logger - INFO - ------
+2025-01-09 05:32:17,526 - logger - INFO - retrieve station status
+2025-01-09 05:32:17,990 - logger - INFO - request status: Successful
+2025-01-09 05:32:17,993 - logger - INFO - Successful dumping
+2025-01-09 05:32:17,993 - logger - INFO - retrieve station information
+2025-01-09 05:32:19,266 - logger - INFO - request status: Successful
+2025-01-09 05:32:19,284 - logger - INFO - Successful dumping
+2025-01-09 05:32:19,285 - logger - INFO - ------
