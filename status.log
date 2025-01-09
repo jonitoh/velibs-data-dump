@@ -6697,3 +6697,11 @@
 2025-01-09 19:25:52,477 - logger - INFO - request status: Successful
 2025-01-09 19:25:52,496 - logger - INFO - Successful dumping
 2025-01-09 19:25:52,496 - logger - INFO - ------
+2025-01-09 20:31:52,404 - logger - INFO - ------
+2025-01-09 20:31:52,404 - logger - INFO - retrieve station status
+2025-01-09 20:31:52,792 - logger - INFO - request status: Successful
+2025-01-09 20:31:52,795 - logger - INFO - Successful dumping
+2025-01-09 20:31:52,795 - logger - INFO - retrieve station information
+2025-01-09 20:31:53,656 - logger - INFO - request status: Successful
+2025-01-09 20:31:53,674 - logger - INFO - Successful dumping
+2025-01-09 20:31:53,675 - logger - INFO - ------
