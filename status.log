@@ -6745,3 +6745,11 @@
 2025-01-10 03:02:09,136 - logger - INFO - request status: Successful
 2025-01-10 03:02:09,159 - logger - INFO - Successful dumping
 2025-01-10 03:02:09,160 - logger - INFO - ------
+2025-01-10 03:39:01,078 - logger - INFO - ------
+2025-01-10 03:39:01,078 - logger - INFO - retrieve station status
+2025-01-10 03:39:01,588 - logger - INFO - request status: Successful
+2025-01-10 03:39:01,590 - logger - INFO - Successful dumping
+2025-01-10 03:39:01,591 - logger - INFO - retrieve station information
+2025-01-10 03:39:02,894 - logger - INFO - request status: Successful
+2025-01-10 03:39:02,912 - logger - INFO - Successful dumping
+2025-01-10 03:39:02,913 - logger - INFO - ------
