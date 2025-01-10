@@ -6737,3 +6737,11 @@
 2025-01-10 01:58:55,533 - logger - INFO - request status: Successful
 2025-01-10 01:58:55,552 - logger - INFO - Successful dumping
 2025-01-10 01:58:55,552 - logger - INFO - ------
+2025-01-10 03:02:07,994 - logger - INFO - ------
+2025-01-10 03:02:07,994 - logger - INFO - retrieve station status
+2025-01-10 03:02:08,289 - logger - INFO - request status: Successful
+2025-01-10 03:02:08,292 - logger - INFO - Successful dumping
+2025-01-10 03:02:08,292 - logger - INFO - retrieve station information
+2025-01-10 03:02:09,136 - logger - INFO - request status: Successful
+2025-01-10 03:02:09,159 - logger - INFO - Successful dumping
+2025-01-10 03:02:09,160 - logger - INFO - ------
