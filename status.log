@@ -6809,3 +6809,11 @@
 2025-01-10 10:37:10,648 - logger - INFO - request status: Successful
 2025-01-10 10:37:10,666 - logger - INFO - Successful dumping
 2025-01-10 10:37:10,666 - logger - INFO - ------
+2025-01-10 11:27:12,456 - logger - INFO - ------
+2025-01-10 11:27:12,456 - logger - INFO - retrieve station status
+2025-01-10 11:27:12,803 - logger - INFO - request status: Successful
+2025-01-10 11:27:12,805 - logger - INFO - Successful dumping
+2025-01-10 11:27:12,806 - logger - INFO - retrieve station information
+2025-01-10 11:27:13,566 - logger - INFO - request status: Successful
+2025-01-10 11:27:13,584 - logger - INFO - Successful dumping
+2025-01-10 11:27:13,584 - logger - INFO - ------
