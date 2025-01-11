@@ -7033,3 +7033,11 @@
 2025-01-11 15:29:29,157 - logger - INFO - request status: Successful
 2025-01-11 15:29:29,175 - logger - INFO - Successful dumping
 2025-01-11 15:29:29,176 - logger - INFO - ------
+2025-01-11 16:35:19,422 - logger - INFO - ------
+2025-01-11 16:35:19,422 - logger - INFO - retrieve station status
+2025-01-11 16:35:19,740 - logger - INFO - request status: Successful
+2025-01-11 16:35:19,743 - logger - INFO - Successful dumping
+2025-01-11 16:35:19,743 - logger - INFO - retrieve station information
+2025-01-11 16:35:20,516 - logger - INFO - request status: Successful
+2025-01-11 16:35:20,534 - logger - INFO - Successful dumping
+2025-01-11 16:35:20,534 - logger - INFO - ------
