@@ -7073,3 +7073,11 @@
 2025-01-11 20:30:22,208 - logger - INFO - request status: Successful
 2025-01-11 20:30:22,226 - logger - INFO - Successful dumping
 2025-01-11 20:30:22,227 - logger - INFO - ------
+2025-01-11 21:27:40,495 - logger - INFO - ------
+2025-01-11 21:27:40,495 - logger - INFO - retrieve station status
+2025-01-11 21:27:40,786 - logger - INFO - request status: Successful
+2025-01-11 21:27:40,789 - logger - INFO - Successful dumping
+2025-01-11 21:27:40,789 - logger - INFO - retrieve station information
+2025-01-11 21:27:41,605 - logger - INFO - request status: Successful
+2025-01-11 21:27:41,623 - logger - INFO - Successful dumping
+2025-01-11 21:27:41,624 - logger - INFO - ------
