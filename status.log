@@ -6921,3 +6921,11 @@
 2025-01-11 01:56:13,834 - logger - INFO - request status: Successful
 2025-01-11 01:56:13,853 - logger - INFO - Successful dumping
 2025-01-11 01:56:13,853 - logger - INFO - ------
+2025-01-11 02:59:17,123 - logger - INFO - ------
+2025-01-11 02:59:17,123 - logger - INFO - retrieve station status
+2025-01-11 02:59:17,589 - logger - INFO - request status: Successful
+2025-01-11 02:59:17,592 - logger - INFO - Successful dumping
+2025-01-11 02:59:17,592 - logger - INFO - retrieve station information
+2025-01-11 02:59:18,875 - logger - INFO - request status: Successful
+2025-01-11 02:59:18,894 - logger - INFO - Successful dumping
+2025-01-11 02:59:18,894 - logger - INFO - ------
