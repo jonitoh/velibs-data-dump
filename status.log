@@ -7025,3 +7025,11 @@
 2025-01-11 14:31:14,293 - logger - INFO - request status: Successful
 2025-01-11 14:31:14,311 - logger - INFO - Successful dumping
 2025-01-11 14:31:14,312 - logger - INFO - ------
+2025-01-11 15:29:28,146 - logger - INFO - ------
+2025-01-11 15:29:28,146 - logger - INFO - retrieve station status
+2025-01-11 15:29:28,383 - logger - INFO - request status: Successful
+2025-01-11 15:29:28,386 - logger - INFO - Successful dumping
+2025-01-11 15:29:28,386 - logger - INFO - retrieve station information
+2025-01-11 15:29:29,157 - logger - INFO - request status: Successful
+2025-01-11 15:29:29,175 - logger - INFO - Successful dumping
+2025-01-11 15:29:29,176 - logger - INFO - ------
