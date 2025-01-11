@@ -7081,3 +7081,11 @@
 2025-01-11 21:27:41,605 - logger - INFO - request status: Successful
 2025-01-11 21:27:41,623 - logger - INFO - Successful dumping
 2025-01-11 21:27:41,624 - logger - INFO - ------
+2025-01-11 22:32:16,051 - logger - INFO - ------
+2025-01-11 22:32:16,051 - logger - INFO - retrieve station status
+2025-01-11 22:32:16,405 - logger - INFO - request status: Successful
+2025-01-11 22:32:16,408 - logger - INFO - Successful dumping
+2025-01-11 22:32:16,408 - logger - INFO - retrieve station information
+2025-01-11 22:32:17,195 - logger - INFO - request status: Successful
+2025-01-11 22:32:17,213 - logger - INFO - Successful dumping
+2025-01-11 22:32:17,213 - logger - INFO - ------
