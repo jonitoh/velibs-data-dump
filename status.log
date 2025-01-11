@@ -7017,3 +7017,11 @@
 2025-01-11 13:30:33,455 - logger - INFO - request status: Successful
 2025-01-11 13:30:33,473 - logger - INFO - Successful dumping
 2025-01-11 13:30:33,474 - logger - INFO - ------
+2025-01-11 14:31:12,514 - logger - INFO - ------
+2025-01-11 14:31:12,514 - logger - INFO - retrieve station status
+2025-01-11 14:31:13,022 - logger - INFO - request status: Successful
+2025-01-11 14:31:13,025 - logger - INFO - Successful dumping
+2025-01-11 14:31:13,025 - logger - INFO - retrieve station information
+2025-01-11 14:31:14,293 - logger - INFO - request status: Successful
+2025-01-11 14:31:14,311 - logger - INFO - Successful dumping
+2025-01-11 14:31:14,312 - logger - INFO - ------
