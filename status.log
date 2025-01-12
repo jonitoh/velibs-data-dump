@@ -7257,3 +7257,11 @@
 2025-01-12 20:30:01,297 - logger - INFO - request status: Successful
 2025-01-12 20:30:01,315 - logger - INFO - Successful dumping
 2025-01-12 20:30:01,316 - logger - INFO - ------
+2025-01-12 21:27:55,776 - logger - INFO - ------
+2025-01-12 21:27:55,776 - logger - INFO - retrieve station status
+2025-01-12 21:27:56,562 - logger - INFO - request status: Successful
+2025-01-12 21:27:56,565 - logger - INFO - Successful dumping
+2025-01-12 21:27:56,565 - logger - INFO - retrieve station information
+2025-01-12 21:27:57,845 - logger - INFO - request status: Successful
+2025-01-12 21:27:57,863 - logger - INFO - Successful dumping
+2025-01-12 21:27:57,863 - logger - INFO - ------
