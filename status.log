@@ -7729,3 +7729,11 @@
 2025-01-15 10:34:44,337 - logger - INFO - request status: Successful
 2025-01-15 10:34:44,355 - logger - INFO - Successful dumping
 2025-01-15 10:34:44,355 - logger - INFO - ------
+2025-01-15 11:27:32,308 - logger - INFO - ------
+2025-01-15 11:27:32,308 - logger - INFO - retrieve station status
+2025-01-15 11:27:32,758 - logger - INFO - request status: Successful
+2025-01-15 11:27:32,760 - logger - INFO - Successful dumping
+2025-01-15 11:27:32,760 - logger - INFO - retrieve station information
+2025-01-15 11:27:34,070 - logger - INFO - request status: Successful
+2025-01-15 11:27:34,088 - logger - INFO - Successful dumping
+2025-01-15 11:27:34,089 - logger - INFO - ------
