@@ -7713,3 +7713,11 @@
 2025-01-15 08:35:34,931 - logger - INFO - request status: Successful
 2025-01-15 08:35:34,949 - logger - INFO - Successful dumping
 2025-01-15 08:35:34,950 - logger - INFO - ------
+2025-01-15 09:30:48,926 - logger - INFO - ------
+2025-01-15 09:30:48,926 - logger - INFO - retrieve station status
+2025-01-15 09:30:49,430 - logger - INFO - request status: Successful
+2025-01-15 09:30:49,433 - logger - INFO - Successful dumping
+2025-01-15 09:30:49,433 - logger - INFO - retrieve station information
+2025-01-15 09:30:50,727 - logger - INFO - request status: Successful
+2025-01-15 09:30:50,746 - logger - INFO - Successful dumping
+2025-01-15 09:30:50,746 - logger - INFO - ------
