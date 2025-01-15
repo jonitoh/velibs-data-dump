@@ -7801,3 +7801,11 @@
 2025-01-15 19:26:04,129 - logger - INFO - request status: Successful
 2025-01-15 19:26:04,150 - logger - INFO - Successful dumping
 2025-01-15 19:26:04,150 - logger - INFO - ------
+2025-01-15 20:30:30,636 - logger - INFO - ------
+2025-01-15 20:30:30,636 - logger - INFO - retrieve station status
+2025-01-15 20:30:31,109 - logger - INFO - request status: Successful
+2025-01-15 20:30:31,112 - logger - INFO - Successful dumping
+2025-01-15 20:30:31,112 - logger - INFO - retrieve station information
+2025-01-15 20:30:32,399 - logger - INFO - request status: Successful
+2025-01-15 20:30:32,417 - logger - INFO - Successful dumping
+2025-01-15 20:30:32,418 - logger - INFO - ------
