@@ -7737,3 +7737,11 @@
 2025-01-15 11:27:34,070 - logger - INFO - request status: Successful
 2025-01-15 11:27:34,088 - logger - INFO - Successful dumping
 2025-01-15 11:27:34,089 - logger - INFO - ------
+2025-01-15 12:52:27,625 - logger - INFO - ------
+2025-01-15 12:52:27,625 - logger - INFO - retrieve station status
+2025-01-15 12:52:27,961 - logger - INFO - request status: Successful
+2025-01-15 12:52:27,963 - logger - INFO - Successful dumping
+2025-01-15 12:52:27,963 - logger - INFO - retrieve station information
+2025-01-15 12:52:28,708 - logger - INFO - request status: Successful
+2025-01-15 12:52:28,726 - logger - INFO - Successful dumping
+2025-01-15 12:52:28,727 - logger - INFO - ------
