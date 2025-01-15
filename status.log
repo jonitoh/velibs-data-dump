@@ -7793,3 +7793,11 @@
 2025-01-15 18:35:35,534 - logger - INFO - request status: Successful
 2025-01-15 18:35:35,555 - logger - INFO - Successful dumping
 2025-01-15 18:35:35,556 - logger - INFO - ------
+2025-01-15 19:26:02,350 - logger - INFO - ------
+2025-01-15 19:26:02,350 - logger - INFO - retrieve station status
+2025-01-15 19:26:02,860 - logger - INFO - request status: Successful
+2025-01-15 19:26:02,863 - logger - INFO - Successful dumping
+2025-01-15 19:26:02,863 - logger - INFO - retrieve station information
+2025-01-15 19:26:04,129 - logger - INFO - request status: Successful
+2025-01-15 19:26:04,150 - logger - INFO - Successful dumping
+2025-01-15 19:26:04,150 - logger - INFO - ------
