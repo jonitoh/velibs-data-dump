@@ -7681,3 +7681,11 @@
 2025-01-15 04:33:53,223 - logger - INFO - request status: Successful
 2025-01-15 04:33:53,242 - logger - INFO - Successful dumping
 2025-01-15 04:33:53,242 - logger - INFO - ------
+2025-01-15 05:32:53,535 - logger - INFO - ------
+2025-01-15 05:32:53,535 - logger - INFO - retrieve station status
+2025-01-15 05:32:53,818 - logger - INFO - request status: Successful
+2025-01-15 05:32:53,821 - logger - INFO - Successful dumping
+2025-01-15 05:32:53,821 - logger - INFO - retrieve station information
+2025-01-15 05:32:54,556 - logger - INFO - request status: Successful
+2025-01-15 05:32:54,574 - logger - INFO - Successful dumping
+2025-01-15 05:32:54,574 - logger - INFO - ------
