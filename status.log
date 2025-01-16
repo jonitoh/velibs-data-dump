@@ -7961,3 +7961,11 @@
 2025-01-16 16:37:20,934 - logger - INFO - request status: Successful
 2025-01-16 16:37:20,952 - logger - INFO - Successful dumping
 2025-01-16 16:37:20,953 - logger - INFO - ------
+2025-01-16 17:31:10,110 - logger - INFO - ------
+2025-01-16 17:31:10,110 - logger - INFO - retrieve station status
+2025-01-16 17:31:10,539 - logger - INFO - request status: Successful
+2025-01-16 17:31:10,542 - logger - INFO - Successful dumping
+2025-01-16 17:31:10,542 - logger - INFO - retrieve station information
+2025-01-16 17:31:11,313 - logger - INFO - request status: Successful
+2025-01-16 17:31:11,331 - logger - INFO - Successful dumping
+2025-01-16 17:31:11,332 - logger - INFO - ------
