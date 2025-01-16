@@ -7913,3 +7913,11 @@
 2025-01-16 10:35:03,698 - logger - INFO - request status: Successful
 2025-01-16 10:35:03,717 - logger - INFO - Successful dumping
 2025-01-16 10:35:03,717 - logger - INFO - ------
+2025-01-16 11:25:57,447 - logger - INFO - ------
+2025-01-16 11:25:57,447 - logger - INFO - retrieve station status
+2025-01-16 11:25:57,780 - logger - INFO - request status: Successful
+2025-01-16 11:25:57,782 - logger - INFO - Successful dumping
+2025-01-16 11:25:57,782 - logger - INFO - retrieve station information
+2025-01-16 11:25:58,571 - logger - INFO - request status: Successful
+2025-01-16 11:25:58,592 - logger - INFO - Successful dumping
+2025-01-16 11:25:58,592 - logger - INFO - ------
