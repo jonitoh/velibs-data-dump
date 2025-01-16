@@ -7953,3 +7953,11 @@
 2025-01-16 15:31:17,841 - logger - INFO - request status: Successful
 2025-01-16 15:31:17,859 - logger - INFO - Successful dumping
 2025-01-16 15:31:17,860 - logger - INFO - ------
+2025-01-16 16:37:19,580 - logger - INFO - ------
+2025-01-16 16:37:19,580 - logger - INFO - retrieve station status
+2025-01-16 16:37:20,054 - logger - INFO - request status: Successful
+2025-01-16 16:37:20,057 - logger - INFO - Successful dumping
+2025-01-16 16:37:20,057 - logger - INFO - retrieve station information
+2025-01-16 16:37:20,934 - logger - INFO - request status: Successful
+2025-01-16 16:37:20,952 - logger - INFO - Successful dumping
+2025-01-16 16:37:20,953 - logger - INFO - ------
