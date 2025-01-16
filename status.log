@@ -7841,3 +7841,11 @@
 2025-01-16 01:52:33,123 - logger - INFO - request status: Successful
 2025-01-16 01:52:33,141 - logger - INFO - Successful dumping
 2025-01-16 01:52:33,142 - logger - INFO - ------
+2025-01-16 02:54:18,340 - logger - INFO - ------
+2025-01-16 02:54:18,340 - logger - INFO - retrieve station status
+2025-01-16 02:54:18,722 - logger - INFO - request status: Successful
+2025-01-16 02:54:18,724 - logger - INFO - Successful dumping
+2025-01-16 02:54:18,724 - logger - INFO - retrieve station information
+2025-01-16 02:54:19,638 - logger - INFO - request status: Successful
+2025-01-16 02:54:19,656 - logger - INFO - Successful dumping
+2025-01-16 02:54:19,656 - logger - INFO - ------
