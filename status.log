@@ -8105,3 +8105,11 @@
 2025-01-17 11:26:56,483 - logger - INFO - request status: Successful
 2025-01-17 11:26:56,501 - logger - INFO - Successful dumping
 2025-01-17 11:26:56,502 - logger - INFO - ------
+2025-01-17 12:51:15,903 - logger - INFO - ------
+2025-01-17 12:51:15,903 - logger - INFO - retrieve station status
+2025-01-17 12:51:16,241 - logger - INFO - request status: Successful
+2025-01-17 12:51:16,244 - logger - INFO - Successful dumping
+2025-01-17 12:51:16,244 - logger - INFO - retrieve station information
+2025-01-17 12:51:17,122 - logger - INFO - request status: Successful
+2025-01-17 12:51:17,139 - logger - INFO - Successful dumping
+2025-01-17 12:51:17,140 - logger - INFO - ------
