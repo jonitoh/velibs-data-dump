@@ -8121,3 +8121,11 @@
 2025-01-17 13:31:25,983 - logger - INFO - request status: Successful
 2025-01-17 13:31:26,001 - logger - INFO - Successful dumping
 2025-01-17 13:31:26,001 - logger - INFO - ------
+2025-01-17 14:32:10,332 - logger - INFO - ------
+2025-01-17 14:32:10,332 - logger - INFO - retrieve station status
+2025-01-17 14:32:10,607 - logger - INFO - request status: Successful
+2025-01-17 14:32:10,610 - logger - INFO - Successful dumping
+2025-01-17 14:32:10,611 - logger - INFO - retrieve station information
+2025-01-17 14:32:14,961 - logger - INFO - request status: Successful
+2025-01-17 14:32:14,980 - logger - INFO - Successful dumping
+2025-01-17 14:32:14,980 - logger - INFO - ------
