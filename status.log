@@ -8049,3 +8049,11 @@
 2025-01-17 04:37:20,179 - logger - INFO - request status: Successful
 2025-01-17 04:37:20,197 - logger - INFO - Successful dumping
 2025-01-17 04:37:20,198 - logger - INFO - ------
+2025-01-17 05:31:59,219 - logger - INFO - ------
+2025-01-17 05:31:59,219 - logger - INFO - retrieve station status
+2025-01-17 05:31:59,568 - logger - INFO - request status: Successful
+2025-01-17 05:31:59,570 - logger - INFO - Successful dumping
+2025-01-17 05:31:59,570 - logger - INFO - retrieve station information
+2025-01-17 05:32:00,336 - logger - INFO - request status: Successful
+2025-01-17 05:32:00,353 - logger - INFO - Successful dumping
+2025-01-17 05:32:00,354 - logger - INFO - ------
