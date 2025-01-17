@@ -8145,3 +8145,11 @@
 2025-01-17 16:36:34,352 - logger - INFO - request status: Successful
 2025-01-17 16:36:34,370 - logger - INFO - Successful dumping
 2025-01-17 16:36:34,371 - logger - INFO - ------
+2025-01-17 17:32:09,271 - logger - INFO - ------
+2025-01-17 17:32:09,271 - logger - INFO - retrieve station status
+2025-01-17 17:32:09,618 - logger - INFO - request status: Successful
+2025-01-17 17:32:09,621 - logger - INFO - Successful dumping
+2025-01-17 17:32:09,621 - logger - INFO - retrieve station information
+2025-01-17 17:32:10,389 - logger - INFO - request status: Successful
+2025-01-17 17:32:10,407 - logger - INFO - Successful dumping
+2025-01-17 17:32:10,407 - logger - INFO - ------
