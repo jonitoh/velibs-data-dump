@@ -8361,3 +8361,11 @@
 2025-01-18 20:28:49,369 - logger - INFO - request status: Successful
 2025-01-18 20:28:49,387 - logger - INFO - Successful dumping
 2025-01-18 20:28:49,388 - logger - INFO - ------
+2025-01-18 21:27:32,425 - logger - INFO - ------
+2025-01-18 21:27:32,426 - logger - INFO - retrieve station status
+2025-01-18 21:27:32,677 - logger - INFO - request status: Successful
+2025-01-18 21:27:32,681 - logger - INFO - Successful dumping
+2025-01-18 21:27:32,681 - logger - INFO - retrieve station information
+2025-01-18 21:27:33,434 - logger - INFO - request status: Successful
+2025-01-18 21:27:33,453 - logger - INFO - Successful dumping
+2025-01-18 21:27:33,454 - logger - INFO - ------
