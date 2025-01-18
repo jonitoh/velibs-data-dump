@@ -8265,3 +8265,11 @@
 2025-01-18 08:31:58,692 - logger - INFO - request status: Successful
 2025-01-18 08:31:58,710 - logger - INFO - Successful dumping
 2025-01-18 08:31:58,711 - logger - INFO - ------
+2025-01-18 09:28:12,119 - logger - INFO - ------
+2025-01-18 09:28:12,119 - logger - INFO - retrieve station status
+2025-01-18 09:28:12,800 - logger - INFO - request status: Successful
+2025-01-18 09:28:12,803 - logger - INFO - Successful dumping
+2025-01-18 09:28:12,803 - logger - INFO - retrieve station information
+2025-01-18 09:28:14,090 - logger - INFO - request status: Successful
+2025-01-18 09:28:14,109 - logger - INFO - Successful dumping
+2025-01-18 09:28:14,110 - logger - INFO - ------
