@@ -8281,3 +8281,11 @@
 2025-01-18 10:32:32,228 - logger - INFO - request status: Successful
 2025-01-18 10:32:32,248 - logger - INFO - Successful dumping
 2025-01-18 10:32:32,248 - logger - INFO - ------
+2025-01-18 11:25:47,999 - logger - INFO - ------
+2025-01-18 11:25:47,999 - logger - INFO - retrieve station status
+2025-01-18 11:25:48,397 - logger - INFO - request status: Successful
+2025-01-18 11:25:48,399 - logger - INFO - Successful dumping
+2025-01-18 11:25:48,399 - logger - INFO - retrieve station information
+2025-01-18 11:25:49,251 - logger - INFO - request status: Successful
+2025-01-18 11:25:49,268 - logger - INFO - Successful dumping
+2025-01-18 11:25:49,269 - logger - INFO - ------
