@@ -8233,3 +8233,11 @@
 2025-01-18 04:32:46,747 - logger - INFO - request status: Successful
 2025-01-18 04:32:46,765 - logger - INFO - Successful dumping
 2025-01-18 04:32:46,765 - logger - INFO - ------
+2025-01-18 05:30:44,203 - logger - INFO - ------
+2025-01-18 05:30:44,203 - logger - INFO - retrieve station status
+2025-01-18 05:30:44,637 - logger - INFO - request status: Successful
+2025-01-18 05:30:44,640 - logger - INFO - Successful dumping
+2025-01-18 05:30:44,640 - logger - INFO - retrieve station information
+2025-01-18 05:30:45,367 - logger - INFO - request status: Successful
+2025-01-18 05:30:45,385 - logger - INFO - Successful dumping
+2025-01-18 05:30:45,386 - logger - INFO - ------
