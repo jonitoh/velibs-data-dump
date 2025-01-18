@@ -8369,3 +8369,11 @@
 2025-01-18 21:27:33,434 - logger - INFO - request status: Successful
 2025-01-18 21:27:33,453 - logger - INFO - Successful dumping
 2025-01-18 21:27:33,454 - logger - INFO - ------
+2025-01-18 22:30:51,597 - logger - INFO - ------
+2025-01-18 22:30:51,597 - logger - INFO - retrieve station status
+2025-01-18 22:30:52,117 - logger - INFO - request status: Successful
+2025-01-18 22:30:52,119 - logger - INFO - Successful dumping
+2025-01-18 22:30:52,119 - logger - INFO - retrieve station information
+2025-01-18 22:30:53,417 - logger - INFO - request status: Successful
+2025-01-18 22:30:53,435 - logger - INFO - Successful dumping
+2025-01-18 22:30:53,435 - logger - INFO - ------
