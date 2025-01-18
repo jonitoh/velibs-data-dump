@@ -8353,3 +8353,11 @@
 2025-01-18 19:25:52,087 - logger - INFO - request status: Successful
 2025-01-18 19:25:52,105 - logger - INFO - Successful dumping
 2025-01-18 19:25:52,105 - logger - INFO - ------
+2025-01-18 20:28:48,545 - logger - INFO - ------
+2025-01-18 20:28:48,545 - logger - INFO - retrieve station status
+2025-01-18 20:28:48,858 - logger - INFO - request status: Successful
+2025-01-18 20:28:48,861 - logger - INFO - Successful dumping
+2025-01-18 20:28:48,861 - logger - INFO - retrieve station information
+2025-01-18 20:28:49,369 - logger - INFO - request status: Successful
+2025-01-18 20:28:49,387 - logger - INFO - Successful dumping
+2025-01-18 20:28:49,388 - logger - INFO - ------
