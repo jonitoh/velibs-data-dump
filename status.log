@@ -8305,3 +8305,11 @@
 2025-01-18 13:28:51,332 - logger - INFO - request status: Successful
 2025-01-18 13:28:51,350 - logger - INFO - Successful dumping
 2025-01-18 13:28:51,350 - logger - INFO - ------
+2025-01-18 14:30:29,301 - logger - INFO - ------
+2025-01-18 14:30:29,301 - logger - INFO - retrieve station status
+2025-01-18 14:30:29,611 - logger - INFO - request status: Successful
+2025-01-18 14:30:29,616 - logger - INFO - Successful dumping
+2025-01-18 14:30:29,616 - logger - INFO - retrieve station information
+2025-01-18 14:30:30,381 - logger - INFO - request status: Successful
+2025-01-18 14:30:30,399 - logger - INFO - Successful dumping
+2025-01-18 14:30:30,399 - logger - INFO - ------
