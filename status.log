@@ -8425,3 +8425,11 @@
 2025-01-19 05:31:04,470 - logger - INFO - request status: Successful
 2025-01-19 05:31:04,490 - logger - INFO - Successful dumping
 2025-01-19 05:31:04,491 - logger - INFO - ------
+2025-01-19 06:36:24,247 - logger - INFO - ------
+2025-01-19 06:36:24,247 - logger - INFO - retrieve station status
+2025-01-19 06:36:24,580 - logger - INFO - request status: Successful
+2025-01-19 06:36:24,583 - logger - INFO - Successful dumping
+2025-01-19 06:36:24,583 - logger - INFO - retrieve station information
+2025-01-19 06:36:25,339 - logger - INFO - request status: Successful
+2025-01-19 06:36:25,357 - logger - INFO - Successful dumping
+2025-01-19 06:36:25,358 - logger - INFO - ------
