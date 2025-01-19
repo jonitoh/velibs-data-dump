@@ -8513,3 +8513,11 @@
 2025-01-19 16:34:17,185 - logger - INFO - request status: Successful
 2025-01-19 16:34:17,204 - logger - INFO - Successful dumping
 2025-01-19 16:34:17,205 - logger - INFO - ------
+2025-01-19 17:29:12,920 - logger - INFO - ------
+2025-01-19 17:29:12,920 - logger - INFO - retrieve station status
+2025-01-19 17:29:13,381 - logger - INFO - request status: Successful
+2025-01-19 17:29:13,383 - logger - INFO - Successful dumping
+2025-01-19 17:29:13,384 - logger - INFO - retrieve station information
+2025-01-19 17:29:14,657 - logger - INFO - request status: Successful
+2025-01-19 17:29:14,675 - logger - INFO - Successful dumping
+2025-01-19 17:29:14,676 - logger - INFO - ------
