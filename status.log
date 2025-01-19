@@ -8417,3 +8417,11 @@
 2025-01-19 04:33:14,521 - logger - INFO - request status: Successful
 2025-01-19 04:33:14,538 - logger - INFO - Successful dumping
 2025-01-19 04:33:14,539 - logger - INFO - ------
+2025-01-19 05:31:03,357 - logger - INFO - ------
+2025-01-19 05:31:03,357 - logger - INFO - retrieve station status
+2025-01-19 05:31:03,706 - logger - INFO - request status: Successful
+2025-01-19 05:31:03,709 - logger - INFO - Successful dumping
+2025-01-19 05:31:03,709 - logger - INFO - retrieve station information
+2025-01-19 05:31:04,470 - logger - INFO - request status: Successful
+2025-01-19 05:31:04,490 - logger - INFO - Successful dumping
+2025-01-19 05:31:04,491 - logger - INFO - ------
