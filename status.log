@@ -8529,3 +8529,11 @@
 2025-01-19 18:34:41,663 - logger - INFO - request status: Successful
 2025-01-19 18:34:41,681 - logger - INFO - Successful dumping
 2025-01-19 18:34:41,682 - logger - INFO - ------
+2025-01-19 19:26:03,362 - logger - INFO - ------
+2025-01-19 19:26:03,362 - logger - INFO - retrieve station status
+2025-01-19 19:26:03,840 - logger - INFO - request status: Successful
+2025-01-19 19:26:03,843 - logger - INFO - Successful dumping
+2025-01-19 19:26:03,843 - logger - INFO - retrieve station information
+2025-01-19 19:26:05,134 - logger - INFO - request status: Successful
+2025-01-19 19:26:05,151 - logger - INFO - Successful dumping
+2025-01-19 19:26:05,152 - logger - INFO - ------
