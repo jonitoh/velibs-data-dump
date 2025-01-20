@@ -8681,3 +8681,11 @@
 2025-01-20 14:33:05,803 - logger - INFO - request status: Successful
 2025-01-20 14:33:05,822 - logger - INFO - Successful dumping
 2025-01-20 14:33:05,822 - logger - INFO - ------
+2025-01-20 15:31:32,731 - logger - INFO - ------
+2025-01-20 15:31:32,731 - logger - INFO - retrieve station status
+2025-01-20 15:31:33,266 - logger - INFO - request status: Successful
+2025-01-20 15:31:33,268 - logger - INFO - Successful dumping
+2025-01-20 15:31:33,269 - logger - INFO - retrieve station information
+2025-01-20 15:31:34,581 - logger - INFO - request status: Successful
+2025-01-20 15:31:34,599 - logger - INFO - Successful dumping
+2025-01-20 15:31:34,600 - logger - INFO - ------
