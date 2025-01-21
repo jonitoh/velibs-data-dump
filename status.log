@@ -8904,3 +8904,11 @@
 2025-01-21 19:25:52,942 - logger - INFO - request status: Successful
 2025-01-21 19:25:52,965 - logger - INFO - Successful dumping
 2025-01-21 19:25:52,965 - logger - INFO - ------
+2025-01-21 20:31:20,301 - logger - INFO - ------
+2025-01-21 20:31:20,301 - logger - INFO - retrieve station status
+2025-01-21 20:31:20,806 - logger - INFO - request status: Successful
+2025-01-21 20:31:20,809 - logger - INFO - Successful dumping
+2025-01-21 20:31:20,809 - logger - INFO - retrieve station information
+2025-01-21 20:31:22,095 - logger - INFO - request status: Successful
+2025-01-21 20:31:22,113 - logger - INFO - Successful dumping
+2025-01-21 20:31:22,113 - logger - INFO - ------
