@@ -8768,3 +8768,11 @@
 2025-01-21 02:54:22,244 - logger - INFO - request status: Successful
 2025-01-21 02:54:22,262 - logger - INFO - Successful dumping
 2025-01-21 02:54:22,263 - logger - INFO - ------
+2025-01-21 03:32:22,036 - logger - INFO - ------
+2025-01-21 03:32:22,036 - logger - INFO - retrieve station status
+2025-01-21 03:32:22,307 - logger - INFO - request status: Successful
+2025-01-21 03:32:22,309 - logger - INFO - Successful dumping
+2025-01-21 03:32:22,309 - logger - INFO - retrieve station information
+2025-01-21 03:32:23,033 - logger - INFO - request status: Successful
+2025-01-21 03:32:23,051 - logger - INFO - Successful dumping
+2025-01-21 03:32:23,051 - logger - INFO - ------
