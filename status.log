@@ -8824,3 +8824,11 @@
 2025-01-21 09:31:32,485 - logger - INFO - request status: Successful
 2025-01-21 09:31:32,503 - logger - INFO - Successful dumping
 2025-01-21 09:31:32,504 - logger - INFO - ------
+2025-01-21 10:35:43,244 - logger - INFO - ------
+2025-01-21 10:35:43,245 - logger - INFO - retrieve station status
+2025-01-21 10:35:43,750 - logger - INFO - request status: Successful
+2025-01-21 10:35:43,752 - logger - INFO - Successful dumping
+2025-01-21 10:35:43,753 - logger - INFO - retrieve station information
+2025-01-21 10:35:44,669 - logger - INFO - request status: Successful
+2025-01-21 10:35:44,687 - logger - INFO - Successful dumping
+2025-01-21 10:35:44,687 - logger - INFO - ------
