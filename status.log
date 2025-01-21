@@ -8752,3 +8752,11 @@
 2025-01-20 23:27:56,823 - logger - INFO - request status: Successful
 2025-01-20 23:27:56,841 - logger - INFO - Successful dumping
 2025-01-20 23:27:56,841 - logger - INFO - ------
+2025-01-21 01:52:55,867 - logger - INFO - ------
+2025-01-21 01:52:55,867 - logger - INFO - retrieve station status
+2025-01-21 01:52:56,252 - logger - INFO - request status: Successful
+2025-01-21 01:52:56,255 - logger - INFO - Successful dumping
+2025-01-21 01:52:56,255 - logger - INFO - retrieve station information
+2025-01-21 01:52:57,118 - logger - INFO - request status: Successful
+2025-01-21 01:52:57,136 - logger - INFO - Successful dumping
+2025-01-21 01:52:57,136 - logger - INFO - ------
