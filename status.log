@@ -8808,3 +8808,11 @@
 2025-01-21 07:28:24,837 - logger - INFO - request status: Successful
 2025-01-21 07:28:24,855 - logger - INFO - Successful dumping
 2025-01-21 07:28:24,856 - logger - INFO - ------
+2025-01-21 08:34:56,467 - logger - INFO - ------
+2025-01-21 08:34:56,468 - logger - INFO - retrieve station status
+2025-01-21 08:34:57,114 - logger - INFO - request status: Successful
+2025-01-21 08:34:57,117 - logger - INFO - Successful dumping
+2025-01-21 08:34:57,117 - logger - INFO - retrieve station information
+2025-01-21 08:34:58,393 - logger - INFO - request status: Successful
+2025-01-21 08:34:58,411 - logger - INFO - Successful dumping
+2025-01-21 08:34:58,412 - logger - INFO - ------
