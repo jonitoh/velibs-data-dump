@@ -8760,3 +8760,11 @@
 2025-01-21 01:52:57,118 - logger - INFO - request status: Successful
 2025-01-21 01:52:57,136 - logger - INFO - Successful dumping
 2025-01-21 01:52:57,136 - logger - INFO - ------
+2025-01-21 02:54:20,385 - logger - INFO - ------
+2025-01-21 02:54:20,386 - logger - INFO - retrieve station status
+2025-01-21 02:54:21,014 - logger - INFO - request status: Successful
+2025-01-21 02:54:21,016 - logger - INFO - Successful dumping
+2025-01-21 02:54:21,017 - logger - INFO - retrieve station information
+2025-01-21 02:54:22,244 - logger - INFO - request status: Successful
+2025-01-21 02:54:22,262 - logger - INFO - Successful dumping
+2025-01-21 02:54:22,263 - logger - INFO - ------
