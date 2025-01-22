@@ -9024,3 +9024,11 @@
 2025-01-22 11:26:41,210 - logger - INFO - request status: Successful
 2025-01-22 11:26:41,231 - logger - INFO - Successful dumping
 2025-01-22 11:26:41,232 - logger - INFO - ------
+2025-01-22 12:52:53,604 - logger - INFO - ------
+2025-01-22 12:52:53,604 - logger - INFO - retrieve station status
+2025-01-22 12:52:53,858 - logger - INFO - request status: Successful
+2025-01-22 12:52:53,861 - logger - INFO - Successful dumping
+2025-01-22 12:52:53,861 - logger - INFO - retrieve station information
+2025-01-22 12:52:54,589 - logger - INFO - request status: Successful
+2025-01-22 12:52:54,608 - logger - INFO - Successful dumping
+2025-01-22 12:52:54,608 - logger - INFO - ------
