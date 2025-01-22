@@ -9040,3 +9040,11 @@
 2025-01-22 13:32:49,312 - logger - INFO - request status: Successful
 2025-01-22 13:32:49,330 - logger - INFO - Successful dumping
 2025-01-22 13:32:49,330 - logger - INFO - ------
+2025-01-22 14:33:25,684 - logger - INFO - ------
+2025-01-22 14:33:25,684 - logger - INFO - retrieve station status
+2025-01-22 14:33:26,415 - logger - INFO - request status: Successful
+2025-01-22 14:33:26,417 - logger - INFO - Successful dumping
+2025-01-22 14:33:26,418 - logger - INFO - retrieve station information
+2025-01-22 14:33:27,701 - logger - INFO - request status: Successful
+2025-01-22 14:33:27,719 - logger - INFO - Successful dumping
+2025-01-22 14:33:27,719 - logger - INFO - ------
