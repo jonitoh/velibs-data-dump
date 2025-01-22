@@ -8968,3 +8968,11 @@
 2025-01-22 04:34:38,405 - logger - INFO - request status: Successful
 2025-01-22 04:34:38,423 - logger - INFO - Successful dumping
 2025-01-22 04:34:38,424 - logger - INFO - ------
+2025-01-22 05:33:03,450 - logger - INFO - ------
+2025-01-22 05:33:03,450 - logger - INFO - retrieve station status
+2025-01-22 05:33:03,736 - logger - INFO - request status: Successful
+2025-01-22 05:33:03,739 - logger - INFO - Successful dumping
+2025-01-22 05:33:03,739 - logger - INFO - retrieve station information
+2025-01-22 05:33:04,535 - logger - INFO - request status: Successful
+2025-01-22 05:33:04,553 - logger - INFO - Successful dumping
+2025-01-22 05:33:04,553 - logger - INFO - ------
