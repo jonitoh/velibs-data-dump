@@ -9016,3 +9016,11 @@
 2025-01-22 10:34:06,331 - logger - INFO - request status: Successful
 2025-01-22 10:34:06,349 - logger - INFO - Successful dumping
 2025-01-22 10:34:06,350 - logger - INFO - ------
+2025-01-22 11:26:40,419 - logger - INFO - ------
+2025-01-22 11:26:40,419 - logger - INFO - retrieve station status
+2025-01-22 11:26:40,702 - logger - INFO - request status: Successful
+2025-01-22 11:26:40,705 - logger - INFO - Successful dumping
+2025-01-22 11:26:40,705 - logger - INFO - retrieve station information
+2025-01-22 11:26:41,210 - logger - INFO - request status: Successful
+2025-01-22 11:26:41,231 - logger - INFO - Successful dumping
+2025-01-22 11:26:41,232 - logger - INFO - ------
