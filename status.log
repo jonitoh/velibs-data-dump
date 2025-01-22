@@ -9072,3 +9072,11 @@
 2025-01-22 17:32:18,595 - logger - INFO - request status: Successful
 2025-01-22 17:32:18,613 - logger - INFO - Successful dumping
 2025-01-22 17:32:18,613 - logger - INFO - ------
+2025-01-22 18:40:05,679 - logger - INFO - ------
+2025-01-22 18:40:05,679 - logger - INFO - retrieve station status
+2025-01-22 18:40:06,184 - logger - INFO - request status: Successful
+2025-01-22 18:40:06,187 - logger - INFO - Successful dumping
+2025-01-22 18:40:06,187 - logger - INFO - retrieve station information
+2025-01-22 18:40:07,466 - logger - INFO - request status: Successful
+2025-01-22 18:40:07,484 - logger - INFO - Successful dumping
+2025-01-22 18:40:07,485 - logger - INFO - ------
