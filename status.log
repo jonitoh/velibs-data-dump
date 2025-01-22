@@ -9080,3 +9080,11 @@
 2025-01-22 18:40:07,466 - logger - INFO - request status: Successful
 2025-01-22 18:40:07,484 - logger - INFO - Successful dumping
 2025-01-22 18:40:07,485 - logger - INFO - ------
+2025-01-22 19:25:47,703 - logger - INFO - ------
+2025-01-22 19:25:47,703 - logger - INFO - retrieve station status
+2025-01-22 19:25:47,998 - logger - INFO - request status: Successful
+2025-01-22 19:25:48,001 - logger - INFO - Successful dumping
+2025-01-22 19:25:48,001 - logger - INFO - retrieve station information
+2025-01-22 19:25:48,789 - logger - INFO - request status: Successful
+2025-01-22 19:25:48,807 - logger - INFO - Successful dumping
+2025-01-22 19:25:48,808 - logger - INFO - ------
