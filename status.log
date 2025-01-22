@@ -9008,3 +9008,11 @@
 2025-01-22 09:31:23,238 - logger - INFO - request status: Successful
 2025-01-22 09:31:23,256 - logger - INFO - Successful dumping
 2025-01-22 09:31:23,256 - logger - INFO - ------
+2025-01-22 10:34:05,110 - logger - INFO - ------
+2025-01-22 10:34:05,110 - logger - INFO - retrieve station status
+2025-01-22 10:34:05,470 - logger - INFO - request status: Successful
+2025-01-22 10:34:05,472 - logger - INFO - Successful dumping
+2025-01-22 10:34:05,472 - logger - INFO - retrieve station information
+2025-01-22 10:34:06,331 - logger - INFO - request status: Successful
+2025-01-22 10:34:06,349 - logger - INFO - Successful dumping
+2025-01-22 10:34:06,350 - logger - INFO - ------
