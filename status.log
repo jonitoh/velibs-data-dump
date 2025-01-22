@@ -9032,3 +9032,11 @@
 2025-01-22 12:52:54,589 - logger - INFO - request status: Successful
 2025-01-22 12:52:54,608 - logger - INFO - Successful dumping
 2025-01-22 12:52:54,608 - logger - INFO - ------
+2025-01-22 13:32:48,118 - logger - INFO - ------
+2025-01-22 13:32:48,118 - logger - INFO - retrieve station status
+2025-01-22 13:32:48,550 - logger - INFO - request status: Successful
+2025-01-22 13:32:48,553 - logger - INFO - Successful dumping
+2025-01-22 13:32:48,553 - logger - INFO - retrieve station information
+2025-01-22 13:32:49,312 - logger - INFO - request status: Successful
+2025-01-22 13:32:49,330 - logger - INFO - Successful dumping
+2025-01-22 13:32:49,330 - logger - INFO - ------
