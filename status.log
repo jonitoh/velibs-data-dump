@@ -9136,3 +9136,11 @@
 2025-01-23 02:54:39,297 - logger - INFO - request status: Successful
 2025-01-23 02:54:39,315 - logger - INFO - Successful dumping
 2025-01-23 02:54:39,315 - logger - INFO - ------
+2025-01-23 03:32:33,595 - logger - INFO - ------
+2025-01-23 03:32:33,595 - logger - INFO - retrieve station status
+2025-01-23 03:32:33,869 - logger - INFO - request status: Successful
+2025-01-23 03:32:33,872 - logger - INFO - Successful dumping
+2025-01-23 03:32:33,872 - logger - INFO - retrieve station information
+2025-01-23 03:32:34,633 - logger - INFO - request status: Successful
+2025-01-23 03:32:34,651 - logger - INFO - Successful dumping
+2025-01-23 03:32:34,652 - logger - INFO - ------
