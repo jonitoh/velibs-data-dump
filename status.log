@@ -9248,3 +9248,11 @@
 2025-01-23 16:38:51,709 - logger - INFO - request status: Successful
 2025-01-23 16:38:51,727 - logger - INFO - Successful dumping
 2025-01-23 16:38:51,728 - logger - INFO - ------
+2025-01-23 17:31:31,200 - logger - INFO - ------
+2025-01-23 17:31:31,201 - logger - INFO - retrieve station status
+2025-01-23 17:31:31,503 - logger - INFO - request status: Successful
+2025-01-23 17:31:31,507 - logger - INFO - Successful dumping
+2025-01-23 17:31:31,508 - logger - INFO - retrieve station information
+2025-01-23 17:31:32,272 - logger - INFO - request status: Successful
+2025-01-23 17:31:32,290 - logger - INFO - Successful dumping
+2025-01-23 17:31:32,291 - logger - INFO - ------
