@@ -9464,3 +9464,11 @@
 2025-01-24 20:29:27,791 - logger - INFO - request status: Successful
 2025-01-24 20:29:27,808 - logger - INFO - Successful dumping
 2025-01-24 20:29:27,809 - logger - INFO - ------
+2025-01-24 21:28:02,284 - logger - INFO - ------
+2025-01-24 21:28:02,285 - logger - INFO - retrieve station status
+2025-01-24 21:28:02,621 - logger - INFO - request status: Successful
+2025-01-24 21:28:02,623 - logger - INFO - Successful dumping
+2025-01-24 21:28:02,623 - logger - INFO - retrieve station information
+2025-01-24 21:28:03,357 - logger - INFO - request status: Successful
+2025-01-24 21:28:03,376 - logger - INFO - Successful dumping
+2025-01-24 21:28:03,377 - logger - INFO - ------
