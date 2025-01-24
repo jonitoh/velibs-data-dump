@@ -9472,3 +9472,11 @@
 2025-01-24 21:28:03,357 - logger - INFO - request status: Successful
 2025-01-24 21:28:03,376 - logger - INFO - Successful dumping
 2025-01-24 21:28:03,377 - logger - INFO - ------
+2025-01-24 22:32:01,904 - logger - INFO - ------
+2025-01-24 22:32:01,904 - logger - INFO - retrieve station status
+2025-01-24 22:32:02,267 - logger - INFO - request status: Successful
+2025-01-24 22:32:02,270 - logger - INFO - Successful dumping
+2025-01-24 22:32:02,270 - logger - INFO - retrieve station information
+2025-01-24 22:32:03,045 - logger - INFO - request status: Successful
+2025-01-24 22:32:03,063 - logger - INFO - Successful dumping
+2025-01-24 22:32:03,064 - logger - INFO - ------
