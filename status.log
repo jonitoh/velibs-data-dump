@@ -9560,3 +9560,11 @@
 2025-01-25 09:28:34,986 - logger - INFO - request status: Successful
 2025-01-25 09:28:35,004 - logger - INFO - Successful dumping
 2025-01-25 09:28:35,004 - logger - INFO - ------
+2025-01-25 10:31:59,084 - logger - INFO - ------
+2025-01-25 10:31:59,084 - logger - INFO - retrieve station status
+2025-01-25 10:31:59,540 - logger - INFO - request status: Successful
+2025-01-25 10:31:59,543 - logger - INFO - Successful dumping
+2025-01-25 10:31:59,543 - logger - INFO - retrieve station information
+2025-01-25 10:32:00,808 - logger - INFO - request status: Successful
+2025-01-25 10:32:00,826 - logger - INFO - Successful dumping
+2025-01-25 10:32:00,826 - logger - INFO - ------
