@@ -9808,3 +9808,11 @@
 2025-01-26 17:30:24,042 - logger - INFO - request status: Successful
 2025-01-26 17:30:24,061 - logger - INFO - Successful dumping
 2025-01-26 17:30:24,061 - logger - INFO - ------
+2025-01-26 18:35:52,224 - logger - INFO - ------
+2025-01-26 18:35:52,225 - logger - INFO - retrieve station status
+2025-01-26 18:35:52,575 - logger - INFO - request status: Successful
+2025-01-26 18:35:52,578 - logger - INFO - Successful dumping
+2025-01-26 18:35:52,578 - logger - INFO - retrieve station information
+2025-01-26 18:35:53,409 - logger - INFO - request status: Successful
+2025-01-26 18:35:53,426 - logger - INFO - Successful dumping
+2025-01-26 18:35:53,426 - logger - INFO - ------
