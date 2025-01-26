@@ -9712,3 +9712,11 @@
 2025-01-26 05:32:14,214 - logger - INFO - request status: Successful
 2025-01-26 05:32:14,231 - logger - INFO - Successful dumping
 2025-01-26 05:32:14,232 - logger - INFO - ------
+2025-01-26 06:35:52,403 - logger - INFO - ------
+2025-01-26 06:35:52,403 - logger - INFO - retrieve station status
+2025-01-26 06:35:52,726 - logger - INFO - request status: Successful
+2025-01-26 06:35:52,729 - logger - INFO - Successful dumping
+2025-01-26 06:35:52,729 - logger - INFO - retrieve station information
+2025-01-26 06:35:53,496 - logger - INFO - request status: Successful
+2025-01-26 06:35:53,514 - logger - INFO - Successful dumping
+2025-01-26 06:35:53,514 - logger - INFO - ------
