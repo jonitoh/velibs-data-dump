@@ -9776,3 +9776,11 @@
 2025-01-26 13:29:45,747 - logger - INFO - request status: Successful
 2025-01-26 13:29:45,764 - logger - INFO - Successful dumping
 2025-01-26 13:29:45,764 - logger - INFO - ------
+2025-01-26 14:29:29,362 - logger - INFO - ------
+2025-01-26 14:29:29,362 - logger - INFO - retrieve station status
+2025-01-26 14:29:29,931 - logger - INFO - request status: Successful
+2025-01-26 14:29:29,933 - logger - INFO - Successful dumping
+2025-01-26 14:29:29,934 - logger - INFO - retrieve station information
+2025-01-26 14:29:31,199 - logger - INFO - request status: Successful
+2025-01-26 14:29:31,217 - logger - INFO - Successful dumping
+2025-01-26 14:29:31,218 - logger - INFO - ------
