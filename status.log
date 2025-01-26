@@ -9728,3 +9728,11 @@
 2025-01-26 07:26:21,849 - logger - INFO - request status: Successful
 2025-01-26 07:26:21,867 - logger - INFO - Successful dumping
 2025-01-26 07:26:21,868 - logger - INFO - ------
+2025-01-26 08:31:24,883 - logger - INFO - ------
+2025-01-26 08:31:24,883 - logger - INFO - retrieve station status
+2025-01-26 08:31:25,413 - logger - INFO - request status: Successful
+2025-01-26 08:31:25,416 - logger - INFO - Successful dumping
+2025-01-26 08:31:25,416 - logger - INFO - retrieve station information
+2025-01-26 08:31:26,711 - logger - INFO - request status: Successful
+2025-01-26 08:31:26,730 - logger - INFO - Successful dumping
+2025-01-26 08:31:26,730 - logger - INFO - ------
