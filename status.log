@@ -9880,3 +9880,11 @@
 2025-01-27 03:33:40,533 - logger - INFO - request status: Successful
 2025-01-27 03:33:40,556 - logger - INFO - Successful dumping
 2025-01-27 03:33:40,557 - logger - INFO - ------
+2025-01-27 04:35:43,689 - logger - INFO - ------
+2025-01-27 04:35:43,689 - logger - INFO - retrieve station status
+2025-01-27 04:35:44,020 - logger - INFO - request status: Successful
+2025-01-27 04:35:44,023 - logger - INFO - Successful dumping
+2025-01-27 04:35:44,023 - logger - INFO - retrieve station information
+2025-01-27 04:35:44,891 - logger - INFO - request status: Successful
+2025-01-27 04:35:44,909 - logger - INFO - Successful dumping
+2025-01-27 04:35:44,910 - logger - INFO - ------
