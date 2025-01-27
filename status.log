@@ -9984,3 +9984,11 @@
 2025-01-27 16:36:19,992 - logger - INFO - request status: Successful
 2025-01-27 16:36:20,010 - logger - INFO - Successful dumping
 2025-01-27 16:36:20,010 - logger - INFO - ------
+2025-01-27 17:31:03,394 - logger - INFO - ------
+2025-01-27 17:31:03,394 - logger - INFO - retrieve station status
+2025-01-27 17:31:03,755 - logger - INFO - request status: Successful
+2025-01-27 17:31:03,758 - logger - INFO - Successful dumping
+2025-01-27 17:31:03,758 - logger - INFO - retrieve station information
+2025-01-27 17:31:04,642 - logger - INFO - request status: Successful
+2025-01-27 17:31:04,660 - logger - INFO - Successful dumping
+2025-01-27 17:31:04,661 - logger - INFO - ------
