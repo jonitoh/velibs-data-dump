@@ -10120,3 +10120,11 @@
 2025-01-28 10:35:03,120 - logger - INFO - request status: Successful
 2025-01-28 10:35:03,138 - logger - INFO - Successful dumping
 2025-01-28 10:35:03,139 - logger - INFO - ------
+2025-01-28 11:26:31,056 - logger - INFO - ------
+2025-01-28 11:26:31,056 - logger - INFO - retrieve station status
+2025-01-28 11:26:31,614 - logger - INFO - request status: Successful
+2025-01-28 11:26:31,617 - logger - INFO - Successful dumping
+2025-01-28 11:26:31,617 - logger - INFO - retrieve station information
+2025-01-28 11:26:32,850 - logger - INFO - request status: Successful
+2025-01-28 11:26:32,868 - logger - INFO - Successful dumping
+2025-01-28 11:26:32,869 - logger - INFO - ------
