@@ -10064,3 +10064,11 @@
 2025-01-28 03:32:16,168 - logger - INFO - request status: Successful
 2025-01-28 03:32:16,186 - logger - INFO - Successful dumping
 2025-01-28 03:32:16,186 - logger - INFO - ------
+2025-01-28 04:34:21,077 - logger - INFO - ------
+2025-01-28 04:34:21,077 - logger - INFO - retrieve station status
+2025-01-28 04:34:21,385 - logger - INFO - request status: Successful
+2025-01-28 04:34:21,387 - logger - INFO - Successful dumping
+2025-01-28 04:34:21,387 - logger - INFO - retrieve station information
+2025-01-28 04:34:21,926 - logger - INFO - request status: Successful
+2025-01-28 04:34:21,944 - logger - INFO - Successful dumping
+2025-01-28 04:34:21,945 - logger - INFO - ------
