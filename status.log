@@ -10040,3 +10040,11 @@
 2025-01-27 23:28:28,522 - logger - INFO - request status: Successful
 2025-01-27 23:28:28,540 - logger - INFO - Successful dumping
 2025-01-27 23:28:28,541 - logger - INFO - ------
+2025-01-28 01:52:45,008 - logger - INFO - ------
+2025-01-28 01:52:45,008 - logger - INFO - retrieve station status
+2025-01-28 01:52:45,275 - logger - INFO - request status: Successful
+2025-01-28 01:52:45,277 - logger - INFO - Successful dumping
+2025-01-28 01:52:45,278 - logger - INFO - retrieve station information
+2025-01-28 01:52:46,009 - logger - INFO - request status: Successful
+2025-01-28 01:52:46,027 - logger - INFO - Successful dumping
+2025-01-28 01:52:46,028 - logger - INFO - ------
