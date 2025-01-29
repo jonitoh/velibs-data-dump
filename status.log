@@ -10304,3 +10304,11 @@
 2025-01-29 10:34:37,292 - logger - INFO - request status: Successful
 2025-01-29 10:34:37,309 - logger - INFO - Successful dumping
 2025-01-29 10:34:37,310 - logger - INFO - ------
+2025-01-29 11:26:20,904 - logger - INFO - ------
+2025-01-29 11:26:20,904 - logger - INFO - retrieve station status
+2025-01-29 11:26:21,190 - logger - INFO - request status: Successful
+2025-01-29 11:26:21,192 - logger - INFO - Successful dumping
+2025-01-29 11:26:21,193 - logger - INFO - retrieve station information
+2025-01-29 11:26:21,946 - logger - INFO - request status: Successful
+2025-01-29 11:26:21,964 - logger - INFO - Successful dumping
+2025-01-29 11:26:21,965 - logger - INFO - ------
