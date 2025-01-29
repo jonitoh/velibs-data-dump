@@ -10312,3 +10312,11 @@
 2025-01-29 11:26:21,946 - logger - INFO - request status: Successful
 2025-01-29 11:26:21,964 - logger - INFO - Successful dumping
 2025-01-29 11:26:21,965 - logger - INFO - ------
+2025-01-29 12:51:40,165 - logger - INFO - ------
+2025-01-29 12:51:40,165 - logger - INFO - retrieve station status
+2025-01-29 12:51:40,497 - logger - INFO - request status: Successful
+2025-01-29 12:51:40,500 - logger - INFO - Successful dumping
+2025-01-29 12:51:40,500 - logger - INFO - retrieve station information
+2025-01-29 12:51:41,235 - logger - INFO - request status: Successful
+2025-01-29 12:51:41,253 - logger - INFO - Successful dumping
+2025-01-29 12:51:41,253 - logger - INFO - ------
