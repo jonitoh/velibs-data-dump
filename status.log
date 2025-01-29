@@ -10376,3 +10376,11 @@
 2025-01-29 19:26:03,288 - logger - INFO - request status: Successful
 2025-01-29 19:26:03,306 - logger - INFO - Successful dumping
 2025-01-29 19:26:03,306 - logger - INFO - ------
+2025-01-29 20:31:03,116 - logger - INFO - ------
+2025-01-29 20:31:03,116 - logger - INFO - retrieve station status
+2025-01-29 20:31:03,429 - logger - INFO - request status: Successful
+2025-01-29 20:31:03,432 - logger - INFO - Successful dumping
+2025-01-29 20:31:03,432 - logger - INFO - retrieve station information
+2025-01-29 20:31:04,229 - logger - INFO - request status: Successful
+2025-01-29 20:31:04,247 - logger - INFO - Successful dumping
+2025-01-29 20:31:04,247 - logger - INFO - ------
