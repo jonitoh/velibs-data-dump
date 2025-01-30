@@ -10416,3 +10416,11 @@
 2025-01-30 01:51:18,923 - logger - INFO - request status: Successful
 2025-01-30 01:51:18,941 - logger - INFO - Successful dumping
 2025-01-30 01:51:18,941 - logger - INFO - ------
+2025-01-30 02:52:33,924 - logger - INFO - ------
+2025-01-30 02:52:33,924 - logger - INFO - retrieve station status
+2025-01-30 02:52:34,180 - logger - INFO - request status: Successful
+2025-01-30 02:52:34,183 - logger - INFO - Successful dumping
+2025-01-30 02:52:34,183 - logger - INFO - retrieve station information
+2025-01-30 02:52:34,955 - logger - INFO - request status: Successful
+2025-01-30 02:52:34,975 - logger - INFO - Successful dumping
+2025-01-30 02:52:34,975 - logger - INFO - ------
