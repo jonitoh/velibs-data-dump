@@ -10504,3 +10504,11 @@
 2025-01-30 12:51:59,856 - logger - INFO - request status: Successful
 2025-01-30 12:51:59,874 - logger - INFO - Successful dumping
 2025-01-30 12:51:59,875 - logger - INFO - ------
+2025-01-30 13:32:13,980 - logger - INFO - ------
+2025-01-30 13:32:13,980 - logger - INFO - retrieve station status
+2025-01-30 13:32:14,296 - logger - INFO - request status: Successful
+2025-01-30 13:32:14,298 - logger - INFO - Successful dumping
+2025-01-30 13:32:14,299 - logger - INFO - retrieve station information
+2025-01-30 13:32:14,811 - logger - INFO - request status: Successful
+2025-01-30 13:32:14,829 - logger - INFO - Successful dumping
+2025-01-30 13:32:14,830 - logger - INFO - ------
