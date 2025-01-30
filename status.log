@@ -10496,3 +10496,11 @@
 2025-01-30 11:27:17,634 - logger - INFO - request status: Successful
 2025-01-30 11:27:17,652 - logger - INFO - Successful dumping
 2025-01-30 11:27:17,653 - logger - INFO - ------
+2025-01-30 12:51:58,648 - logger - INFO - ------
+2025-01-30 12:51:58,648 - logger - INFO - retrieve station status
+2025-01-30 12:51:58,994 - logger - INFO - request status: Successful
+2025-01-30 12:51:58,997 - logger - INFO - Successful dumping
+2025-01-30 12:51:58,997 - logger - INFO - retrieve station information
+2025-01-30 12:51:59,856 - logger - INFO - request status: Successful
+2025-01-30 12:51:59,874 - logger - INFO - Successful dumping
+2025-01-30 12:51:59,875 - logger - INFO - ------
