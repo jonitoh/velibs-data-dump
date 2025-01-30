@@ -10512,3 +10512,11 @@
 2025-01-30 13:32:14,811 - logger - INFO - request status: Successful
 2025-01-30 13:32:14,829 - logger - INFO - Successful dumping
 2025-01-30 13:32:14,830 - logger - INFO - ------
+2025-01-30 14:32:09,990 - logger - INFO - ------
+2025-01-30 14:32:09,990 - logger - INFO - retrieve station status
+2025-01-30 14:32:10,324 - logger - INFO - request status: Successful
+2025-01-30 14:32:10,329 - logger - INFO - Successful dumping
+2025-01-30 14:32:10,329 - logger - INFO - retrieve station information
+2025-01-30 14:32:11,170 - logger - INFO - request status: Successful
+2025-01-30 14:32:11,188 - logger - INFO - Successful dumping
+2025-01-30 14:32:11,189 - logger - INFO - ------
