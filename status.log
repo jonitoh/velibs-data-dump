@@ -10560,3 +10560,11 @@
 2025-01-30 19:25:51,543 - logger - INFO - request status: Successful
 2025-01-30 19:25:51,561 - logger - INFO - Successful dumping
 2025-01-30 19:25:51,561 - logger - INFO - ------
+2025-01-30 20:31:08,847 - logger - INFO - ------
+2025-01-30 20:31:08,847 - logger - INFO - retrieve station status
+2025-01-30 20:31:09,353 - logger - INFO - request status: Successful
+2025-01-30 20:31:09,356 - logger - INFO - Successful dumping
+2025-01-30 20:31:09,356 - logger - INFO - retrieve station information
+2025-01-30 20:31:10,671 - logger - INFO - request status: Successful
+2025-01-30 20:31:10,689 - logger - INFO - Successful dumping
+2025-01-30 20:31:10,689 - logger - INFO - ------
