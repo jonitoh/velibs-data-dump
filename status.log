@@ -10728,3 +10728,11 @@
 2025-01-31 17:30:16,018 - logger - INFO - request status: Successful
 2025-01-31 17:30:16,037 - logger - INFO - Successful dumping
 2025-01-31 17:30:16,037 - logger - INFO - ------
+2025-01-31 18:37:05,855 - logger - INFO - ------
+2025-01-31 18:37:05,855 - logger - INFO - retrieve station status
+2025-01-31 18:37:06,184 - logger - INFO - request status: Successful
+2025-01-31 18:37:06,187 - logger - INFO - Successful dumping
+2025-01-31 18:37:06,187 - logger - INFO - retrieve station information
+2025-01-31 18:37:06,979 - logger - INFO - request status: Successful
+2025-01-31 18:37:06,998 - logger - INFO - Successful dumping
+2025-01-31 18:37:06,998 - logger - INFO - ------
