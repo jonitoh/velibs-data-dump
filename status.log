@@ -10680,3 +10680,11 @@
 2025-01-31 11:26:27,459 - logger - INFO - request status: Successful
 2025-01-31 11:26:27,478 - logger - INFO - Successful dumping
 2025-01-31 11:26:27,478 - logger - INFO - ------
+2025-01-31 12:51:47,673 - logger - INFO - ------
+2025-01-31 12:51:47,673 - logger - INFO - retrieve station status
+2025-01-31 12:51:48,106 - logger - INFO - request status: Successful
+2025-01-31 12:51:48,108 - logger - INFO - Successful dumping
+2025-01-31 12:51:48,108 - logger - INFO - retrieve station information
+2025-01-31 12:51:49,040 - logger - INFO - request status: Successful
+2025-01-31 12:51:49,058 - logger - INFO - Successful dumping
+2025-01-31 12:51:49,059 - logger - INFO - ------
