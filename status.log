@@ -10688,3 +10688,11 @@
 2025-01-31 12:51:49,040 - logger - INFO - request status: Successful
 2025-01-31 12:51:49,058 - logger - INFO - Successful dumping
 2025-01-31 12:51:49,059 - logger - INFO - ------
+2025-01-31 13:31:51,486 - logger - INFO - ------
+2025-01-31 13:31:51,486 - logger - INFO - retrieve station status
+2025-01-31 13:31:51,891 - logger - INFO - request status: Successful
+2025-01-31 13:31:51,893 - logger - INFO - Successful dumping
+2025-01-31 13:31:51,894 - logger - INFO - retrieve station information
+2025-01-31 13:31:52,754 - logger - INFO - request status: Successful
+2025-01-31 13:31:52,772 - logger - INFO - Successful dumping
+2025-01-31 13:31:52,773 - logger - INFO - ------
