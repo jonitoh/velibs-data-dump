@@ -10664,3 +10664,11 @@
 2025-01-31 09:30:34,298 - logger - INFO - request status: Successful
 2025-01-31 09:30:34,316 - logger - INFO - Successful dumping
 2025-01-31 09:30:34,317 - logger - INFO - ------
+2025-01-31 10:34:40,535 - logger - INFO - ------
+2025-01-31 10:34:40,536 - logger - INFO - retrieve station status
+2025-01-31 10:34:41,042 - logger - INFO - request status: Successful
+2025-01-31 10:34:41,044 - logger - INFO - Successful dumping
+2025-01-31 10:34:41,044 - logger - INFO - retrieve station information
+2025-01-31 10:34:42,267 - logger - INFO - request status: Successful
+2025-01-31 10:34:42,285 - logger - INFO - Successful dumping
+2025-01-31 10:34:42,286 - logger - INFO - ------
