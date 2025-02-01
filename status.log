@@ -10856,3 +10856,11 @@
 2025-02-01 10:32:18,038 - logger - INFO - request status: Successful
 2025-02-01 10:32:18,056 - logger - INFO - Successful dumping
 2025-02-01 10:32:18,057 - logger - INFO - ------
+2025-02-01 11:25:54,929 - logger - INFO - ------
+2025-02-01 11:25:54,929 - logger - INFO - retrieve station status
+2025-02-01 11:25:55,185 - logger - INFO - request status: Successful
+2025-02-01 11:25:55,187 - logger - INFO - Successful dumping
+2025-02-01 11:25:55,187 - logger - INFO - retrieve station information
+2025-02-01 11:25:55,929 - logger - INFO - request status: Successful
+2025-02-01 11:25:55,947 - logger - INFO - Successful dumping
+2025-02-01 11:25:55,948 - logger - INFO - ------
