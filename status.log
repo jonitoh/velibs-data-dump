@@ -11040,3 +11040,11 @@
 2025-02-02 10:32:21,428 - logger - INFO - request status: Successful
 2025-02-02 10:32:21,446 - logger - INFO - Successful dumping
 2025-02-02 10:32:21,447 - logger - INFO - ------
+2025-02-02 11:25:50,127 - logger - INFO - ------
+2025-02-02 11:25:50,127 - logger - INFO - retrieve station status
+2025-02-02 11:25:50,478 - logger - INFO - request status: Successful
+2025-02-02 11:25:50,481 - logger - INFO - Successful dumping
+2025-02-02 11:25:50,481 - logger - INFO - retrieve station information
+2025-02-02 11:25:51,255 - logger - INFO - request status: Successful
+2025-02-02 11:25:51,273 - logger - INFO - Successful dumping
+2025-02-02 11:25:51,274 - logger - INFO - ------
