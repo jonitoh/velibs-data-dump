@@ -11608,3 +11608,11 @@
 2025-02-05 12:53:18,802 - logger - INFO - request status: Successful
 2025-02-05 12:53:18,820 - logger - INFO - Successful dumping
 2025-02-05 12:53:18,820 - logger - INFO - ------
+2025-02-05 13:33:01,087 - logger - INFO - ------
+2025-02-05 13:33:01,087 - logger - INFO - retrieve station status
+2025-02-05 13:33:01,387 - logger - INFO - request status: Successful
+2025-02-05 13:33:01,390 - logger - INFO - Successful dumping
+2025-02-05 13:33:01,390 - logger - INFO - retrieve station information
+2025-02-05 13:33:02,195 - logger - INFO - request status: Successful
+2025-02-05 13:33:02,213 - logger - INFO - Successful dumping
+2025-02-05 13:33:02,213 - logger - INFO - ------
