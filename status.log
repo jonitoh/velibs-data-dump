@@ -11792,3 +11792,11 @@
 2025-02-06 12:53:29,746 - logger - INFO - request status: Successful
 2025-02-06 12:53:29,764 - logger - INFO - Successful dumping
 2025-02-06 12:53:29,764 - logger - INFO - ------
+2025-02-06 13:33:45,200 - logger - INFO - ------
+2025-02-06 13:33:45,200 - logger - INFO - retrieve station status
+2025-02-06 13:33:45,732 - logger - INFO - request status: Successful
+2025-02-06 13:33:45,734 - logger - INFO - Successful dumping
+2025-02-06 13:33:45,734 - logger - INFO - retrieve station information
+2025-02-06 13:33:47,018 - logger - INFO - request status: Successful
+2025-02-06 13:33:47,042 - logger - INFO - Successful dumping
+2025-02-06 13:33:47,042 - logger - INFO - ------
