@@ -11832,3 +11832,10 @@
 2025-02-06 17:31:26,880 - logger - INFO - request status: Successful
 2025-02-06 17:31:26,898 - logger - INFO - Successful dumping
 2025-02-06 17:31:26,899 - logger - INFO - ------
+2025-02-06 18:39:16,402 - logger - INFO - ------
+2025-02-06 18:39:16,402 - logger - INFO - retrieve station status
+2025-02-06 18:39:16,894 - logger - INFO - request status: Unsuccessful 401
+2025-02-06 18:39:16,894 - logger - INFO - retrieve station information
+2025-02-06 18:39:18,176 - logger - INFO - request status: Successful
+2025-02-06 18:39:18,194 - logger - INFO - Successful dumping
+2025-02-06 18:39:18,195 - logger - INFO - ------
