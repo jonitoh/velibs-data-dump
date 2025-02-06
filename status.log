@@ -11784,3 +11784,11 @@
 2025-02-06 11:26:35,625 - logger - INFO - request status: Successful
 2025-02-06 11:26:35,643 - logger - INFO - Successful dumping
 2025-02-06 11:26:35,643 - logger - INFO - ------
+2025-02-06 12:53:28,564 - logger - INFO - ------
+2025-02-06 12:53:28,564 - logger - INFO - retrieve station status
+2025-02-06 12:53:29,000 - logger - INFO - request status: Successful
+2025-02-06 12:53:29,005 - logger - INFO - Successful dumping
+2025-02-06 12:53:29,005 - logger - INFO - retrieve station information
+2025-02-06 12:53:29,746 - logger - INFO - request status: Successful
+2025-02-06 12:53:29,764 - logger - INFO - Successful dumping
+2025-02-06 12:53:29,764 - logger - INFO - ------
