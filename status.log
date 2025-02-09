@@ -12407,3 +12407,11 @@
 2025-02-09 20:28:51,868 - logger - INFO - request status: Successful
 2025-02-09 20:28:51,886 - logger - INFO - Successful dumping
 2025-02-09 20:28:51,886 - logger - INFO - ------
+2025-02-09 21:27:29,867 - logger - INFO - ------
+2025-02-09 21:27:29,867 - logger - INFO - retrieve station status
+2025-02-09 21:27:30,245 - logger - INFO - request status: Successful
+2025-02-09 21:27:30,248 - logger - INFO - Successful dumping
+2025-02-09 21:27:30,248 - logger - INFO - retrieve station information
+2025-02-09 21:27:30,976 - logger - INFO - request status: Successful
+2025-02-09 21:27:30,996 - logger - INFO - Successful dumping
+2025-02-09 21:27:30,997 - logger - INFO - ------
