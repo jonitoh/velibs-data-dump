@@ -12359,3 +12359,11 @@
 2025-02-09 14:30:01,535 - logger - INFO - request status: Successful
 2025-02-09 14:30:01,553 - logger - INFO - Successful dumping
 2025-02-09 14:30:01,553 - logger - INFO - ------
+2025-02-09 15:30:01,861 - logger - INFO - ------
+2025-02-09 15:30:01,861 - logger - INFO - retrieve station status
+2025-02-09 15:30:02,387 - logger - INFO - request status: Successful
+2025-02-09 15:30:02,390 - logger - INFO - Successful dumping
+2025-02-09 15:30:02,390 - logger - INFO - retrieve station information
+2025-02-09 15:30:03,666 - logger - INFO - request status: Successful
+2025-02-09 15:30:03,684 - logger - INFO - Successful dumping
+2025-02-09 15:30:03,685 - logger - INFO - ------
