@@ -12439,3 +12439,11 @@
 2025-02-10 01:56:24,963 - logger - INFO - request status: Successful
 2025-02-10 01:56:24,981 - logger - INFO - Successful dumping
 2025-02-10 01:56:24,982 - logger - INFO - ------
+2025-02-10 02:58:49,910 - logger - INFO - ------
+2025-02-10 02:58:49,910 - logger - INFO - retrieve station status
+2025-02-10 02:58:50,246 - logger - INFO - request status: Successful
+2025-02-10 02:58:50,249 - logger - INFO - Successful dumping
+2025-02-10 02:58:50,249 - logger - INFO - retrieve station information
+2025-02-10 02:58:51,027 - logger - INFO - request status: Successful
+2025-02-10 02:58:51,046 - logger - INFO - Successful dumping
+2025-02-10 02:58:51,046 - logger - INFO - ------
