@@ -12559,3 +12559,11 @@
 2025-02-10 16:39:09,405 - logger - INFO - request status: Successful
 2025-02-10 16:39:09,423 - logger - INFO - Successful dumping
 2025-02-10 16:39:09,423 - logger - INFO - ------
+2025-02-10 17:30:52,879 - logger - INFO - ------
+2025-02-10 17:30:52,879 - logger - INFO - retrieve station status
+2025-02-10 17:30:53,142 - logger - INFO - request status: Successful
+2025-02-10 17:30:53,145 - logger - INFO - Successful dumping
+2025-02-10 17:30:53,145 - logger - INFO - retrieve station information
+2025-02-10 17:30:53,891 - logger - INFO - request status: Successful
+2025-02-10 17:30:53,909 - logger - INFO - Successful dumping
+2025-02-10 17:30:53,910 - logger - INFO - ------
