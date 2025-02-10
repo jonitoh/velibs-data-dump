@@ -12591,3 +12591,11 @@
 2025-02-10 20:31:53,950 - logger - INFO - request status: Successful
 2025-02-10 20:31:53,970 - logger - INFO - Successful dumping
 2025-02-10 20:31:53,971 - logger - INFO - ------
+2025-02-10 21:29:00,823 - logger - INFO - ------
+2025-02-10 21:29:00,823 - logger - INFO - retrieve station status
+2025-02-10 21:29:01,201 - logger - INFO - request status: Successful
+2025-02-10 21:29:01,204 - logger - INFO - Successful dumping
+2025-02-10 21:29:01,204 - logger - INFO - retrieve station information
+2025-02-10 21:29:02,106 - logger - INFO - request status: Successful
+2025-02-10 21:29:02,124 - logger - INFO - Successful dumping
+2025-02-10 21:29:02,125 - logger - INFO - ------
