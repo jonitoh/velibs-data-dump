@@ -12695,3 +12695,11 @@
 2025-02-11 10:36:55,130 - logger - INFO - request status: Successful
 2025-02-11 10:36:55,150 - logger - INFO - Successful dumping
 2025-02-11 10:36:55,150 - logger - INFO - ------
+2025-02-11 11:27:01,872 - logger - INFO - ------
+2025-02-11 11:27:01,872 - logger - INFO - retrieve station status
+2025-02-11 11:27:02,219 - logger - INFO - request status: Successful
+2025-02-11 11:27:02,221 - logger - INFO - Successful dumping
+2025-02-11 11:27:02,222 - logger - INFO - retrieve station information
+2025-02-11 11:27:03,005 - logger - INFO - request status: Successful
+2025-02-11 11:27:03,025 - logger - INFO - Successful dumping
+2025-02-11 11:27:03,025 - logger - INFO - ------
