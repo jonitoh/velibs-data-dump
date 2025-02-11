@@ -12671,3 +12671,11 @@
 2025-02-11 07:28:26,488 - logger - INFO - request status: Successful
 2025-02-11 07:28:26,510 - logger - INFO - Successful dumping
 2025-02-11 07:28:26,510 - logger - INFO - ------
+2025-02-11 08:35:52,828 - logger - INFO - ------
+2025-02-11 08:35:52,829 - logger - INFO - retrieve station status
+2025-02-11 08:35:53,107 - logger - INFO - request status: Successful
+2025-02-11 08:35:53,110 - logger - INFO - Successful dumping
+2025-02-11 08:35:53,110 - logger - INFO - retrieve station information
+2025-02-11 08:35:53,638 - logger - INFO - request status: Successful
+2025-02-11 08:35:53,656 - logger - INFO - Successful dumping
+2025-02-11 08:35:53,657 - logger - INFO - ------
