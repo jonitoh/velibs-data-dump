@@ -12887,3 +12887,11 @@
 2025-02-12 11:26:55,535 - logger - INFO - request status: Successful
 2025-02-12 11:26:55,553 - logger - INFO - Successful dumping
 2025-02-12 11:26:55,553 - logger - INFO - ------
+2025-02-12 12:53:21,504 - logger - INFO - ------
+2025-02-12 12:53:21,504 - logger - INFO - retrieve station status
+2025-02-12 12:53:21,870 - logger - INFO - request status: Successful
+2025-02-12 12:53:21,873 - logger - INFO - Successful dumping
+2025-02-12 12:53:21,873 - logger - INFO - retrieve station information
+2025-02-12 12:53:22,741 - logger - INFO - request status: Successful
+2025-02-12 12:53:22,761 - logger - INFO - Successful dumping
+2025-02-12 12:53:22,761 - logger - INFO - ------
