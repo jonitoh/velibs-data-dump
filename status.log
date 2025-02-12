@@ -12967,3 +12967,11 @@
 2025-02-12 21:29:21,286 - logger - INFO - request status: Successful
 2025-02-12 21:29:21,305 - logger - INFO - Successful dumping
 2025-02-12 21:29:21,306 - logger - INFO - ------
+2025-02-12 22:32:50,148 - logger - INFO - ------
+2025-02-12 22:32:50,148 - logger - INFO - retrieve station status
+2025-02-12 22:32:50,460 - logger - INFO - request status: Successful
+2025-02-12 22:32:50,463 - logger - INFO - Successful dumping
+2025-02-12 22:32:50,463 - logger - INFO - retrieve station information
+2025-02-12 22:32:51,280 - logger - INFO - request status: Successful
+2025-02-12 22:32:51,299 - logger - INFO - Successful dumping
+2025-02-12 22:32:51,300 - logger - INFO - ------
