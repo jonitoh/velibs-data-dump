@@ -13087,3 +13087,11 @@
 2025-02-13 13:33:52,482 - logger - INFO - request status: Successful
 2025-02-13 13:33:52,502 - logger - INFO - Successful dumping
 2025-02-13 13:33:52,502 - logger - INFO - ------
+2025-02-13 14:34:13,599 - logger - INFO - ------
+2025-02-13 14:34:13,599 - logger - INFO - retrieve station status
+2025-02-13 14:34:13,873 - logger - INFO - request status: Successful
+2025-02-13 14:34:13,875 - logger - INFO - Successful dumping
+2025-02-13 14:34:13,876 - logger - INFO - retrieve station information
+2025-02-13 14:34:14,653 - logger - INFO - request status: Successful
+2025-02-13 14:34:14,672 - logger - INFO - Successful dumping
+2025-02-13 14:34:14,673 - logger - INFO - ------
