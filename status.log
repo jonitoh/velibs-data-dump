@@ -13095,3 +13095,11 @@
 2025-02-13 14:34:14,653 - logger - INFO - request status: Successful
 2025-02-13 14:34:14,672 - logger - INFO - Successful dumping
 2025-02-13 14:34:14,673 - logger - INFO - ------
+2025-02-13 15:31:28,845 - logger - INFO - ------
+2025-02-13 15:31:28,845 - logger - INFO - retrieve station status
+2025-02-13 15:31:29,296 - logger - INFO - request status: Successful
+2025-02-13 15:31:29,299 - logger - INFO - Successful dumping
+2025-02-13 15:31:29,299 - logger - INFO - retrieve station information
+2025-02-13 15:31:30,586 - logger - INFO - request status: Successful
+2025-02-13 15:31:30,607 - logger - INFO - Successful dumping
+2025-02-13 15:31:30,608 - logger - INFO - ------
