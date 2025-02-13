@@ -13103,3 +13103,11 @@
 2025-02-13 15:31:30,586 - logger - INFO - request status: Successful
 2025-02-13 15:31:30,607 - logger - INFO - Successful dumping
 2025-02-13 15:31:30,608 - logger - INFO - ------
+2025-02-13 16:40:05,433 - logger - INFO - ------
+2025-02-13 16:40:05,433 - logger - INFO - retrieve station status
+2025-02-13 16:40:05,781 - logger - INFO - request status: Successful
+2025-02-13 16:40:05,784 - logger - INFO - Successful dumping
+2025-02-13 16:40:05,784 - logger - INFO - retrieve station information
+2025-02-13 16:40:06,599 - logger - INFO - request status: Successful
+2025-02-13 16:40:06,618 - logger - INFO - Successful dumping
+2025-02-13 16:40:06,619 - logger - INFO - ------
