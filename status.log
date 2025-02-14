@@ -13263,3 +13263,11 @@
 2025-02-14 12:52:33,114 - logger - INFO - request status: Successful
 2025-02-14 12:52:33,133 - logger - INFO - Successful dumping
 2025-02-14 12:52:33,134 - logger - INFO - ------
+2025-02-14 13:33:41,029 - logger - INFO - ------
+2025-02-14 13:33:41,030 - logger - INFO - retrieve station status
+2025-02-14 13:33:41,376 - logger - INFO - request status: Successful
+2025-02-14 13:33:41,379 - logger - INFO - Successful dumping
+2025-02-14 13:33:41,379 - logger - INFO - retrieve station information
+2025-02-14 13:33:42,169 - logger - INFO - request status: Successful
+2025-02-14 13:33:42,188 - logger - INFO - Successful dumping
+2025-02-14 13:33:42,189 - logger - INFO - ------
