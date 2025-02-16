@@ -13543,3 +13543,11 @@
 2025-02-16 02:02:21,749 - logger - INFO - request status: Successful
 2025-02-16 02:02:21,768 - logger - INFO - Successful dumping
 2025-02-16 02:02:21,769 - logger - INFO - ------
+2025-02-16 03:01:44,884 - logger - INFO - ------
+2025-02-16 03:01:44,884 - logger - INFO - retrieve station status
+2025-02-16 03:01:45,140 - logger - INFO - request status: Successful
+2025-02-16 03:01:45,142 - logger - INFO - Successful dumping
+2025-02-16 03:01:45,143 - logger - INFO - retrieve station information
+2025-02-16 03:01:45,675 - logger - INFO - request status: Successful
+2025-02-16 03:01:45,695 - logger - INFO - Successful dumping
+2025-02-16 03:01:45,695 - logger - INFO - ------
