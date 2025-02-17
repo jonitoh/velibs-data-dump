@@ -13855,3 +13855,11 @@
 2025-02-17 17:30:59,510 - logger - INFO - request status: Successful
 2025-02-17 17:30:59,530 - logger - INFO - Successful dumping
 2025-02-17 17:30:59,530 - logger - INFO - ------
+2025-02-17 18:38:21,213 - logger - INFO - ------
+2025-02-17 18:38:21,213 - logger - INFO - retrieve station status
+2025-02-17 18:38:21,633 - logger - INFO - request status: Successful
+2025-02-17 18:38:21,636 - logger - INFO - Successful dumping
+2025-02-17 18:38:21,636 - logger - INFO - retrieve station information
+2025-02-17 18:38:22,497 - logger - INFO - request status: Successful
+2025-02-17 18:38:22,516 - logger - INFO - Successful dumping
+2025-02-17 18:38:22,517 - logger - INFO - ------
