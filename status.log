@@ -14351,3 +14351,11 @@
 2025-02-20 10:37:05,100 - logger - INFO - request status: Successful
 2025-02-20 10:37:05,120 - logger - INFO - Successful dumping
 2025-02-20 10:37:05,121 - logger - INFO - ------
+2025-02-20 11:27:11,670 - logger - INFO - ------
+2025-02-20 11:27:11,670 - logger - INFO - retrieve station status
+2025-02-20 11:27:12,190 - logger - INFO - request status: Successful
+2025-02-20 11:27:12,193 - logger - INFO - Successful dumping
+2025-02-20 11:27:12,193 - logger - INFO - retrieve station information
+2025-02-20 11:27:13,484 - logger - INFO - request status: Successful
+2025-02-20 11:27:13,503 - logger - INFO - Successful dumping
+2025-02-20 11:27:13,504 - logger - INFO - ------
