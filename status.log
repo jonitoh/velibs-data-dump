@@ -15276,3 +15276,11 @@
 2025-02-25 11:28:30,493 - logger - INFO - request status: Successful
 2025-02-25 11:28:30,512 - logger - INFO - Successful dumping
 2025-02-25 11:28:30,513 - logger - INFO - ------
+2025-02-25 12:54:54,258 - logger - INFO - ------
+2025-02-25 12:54:54,259 - logger - INFO - retrieve station status
+2025-02-25 12:54:54,785 - logger - INFO - request status: Successful
+2025-02-25 12:54:54,790 - logger - INFO - Successful dumping
+2025-02-25 12:54:54,790 - logger - INFO - retrieve station information
+2025-02-25 12:54:56,085 - logger - INFO - request status: Successful
+2025-02-25 12:54:56,105 - logger - INFO - Successful dumping
+2025-02-25 12:54:56,105 - logger - INFO - ------
