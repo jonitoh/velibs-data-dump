@@ -15388,3 +15388,11 @@
 2025-02-26 03:01:16,105 - logger - INFO - request status: Successful
 2025-02-26 03:01:16,125 - logger - INFO - Successful dumping
 2025-02-26 03:01:16,125 - logger - INFO - ------
+2025-02-26 03:40:41,266 - logger - INFO - ------
+2025-02-26 03:40:41,266 - logger - INFO - retrieve station status
+2025-02-26 03:40:41,584 - logger - INFO - request status: Successful
+2025-02-26 03:40:41,587 - logger - INFO - Successful dumping
+2025-02-26 03:40:41,587 - logger - INFO - retrieve station information
+2025-02-26 03:40:42,457 - logger - INFO - request status: Successful
+2025-02-26 03:40:42,476 - logger - INFO - Successful dumping
+2025-02-26 03:40:42,477 - logger - INFO - ------
