@@ -15500,3 +15500,11 @@
 2025-02-26 16:40:54,148 - logger - INFO - request status: Successful
 2025-02-26 16:40:54,168 - logger - INFO - Successful dumping
 2025-02-26 16:40:54,168 - logger - INFO - ------
+2025-02-26 17:32:24,293 - logger - INFO - ------
+2025-02-26 17:32:24,293 - logger - INFO - retrieve station status
+2025-02-26 17:32:24,860 - logger - INFO - request status: Successful
+2025-02-26 17:32:24,862 - logger - INFO - Successful dumping
+2025-02-26 17:32:24,862 - logger - INFO - retrieve station information
+2025-02-26 17:32:26,206 - logger - INFO - request status: Successful
+2025-02-26 17:32:26,227 - logger - INFO - Successful dumping
+2025-02-26 17:32:26,227 - logger - INFO - ------
