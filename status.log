@@ -15908,3 +15908,11 @@
 2025-02-28 21:29:34,600 - logger - INFO - request status: Successful
 2025-02-28 21:29:34,619 - logger - INFO - Successful dumping
 2025-02-28 21:29:34,620 - logger - INFO - ------
+2025-02-28 22:33:53,109 - logger - INFO - ------
+2025-02-28 22:33:53,110 - logger - INFO - retrieve station status
+2025-02-28 22:33:53,551 - logger - INFO - request status: Successful
+2025-02-28 22:33:53,553 - logger - INFO - Successful dumping
+2025-02-28 22:33:53,554 - logger - INFO - retrieve station information
+2025-02-28 22:33:54,813 - logger - INFO - request status: Successful
+2025-02-28 22:33:54,832 - logger - INFO - Successful dumping
+2025-02-28 22:33:54,833 - logger - INFO - ------
