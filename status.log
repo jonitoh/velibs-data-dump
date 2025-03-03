@@ -16428,3 +16428,11 @@
 2025-03-03 17:32:34,417 - logger - INFO - request status: Successful
 2025-03-03 17:32:34,441 - logger - INFO - Successful dumping
 2025-03-03 17:32:34,442 - logger - INFO - ------
+2025-03-03 18:39:23,400 - logger - INFO - ------
+2025-03-03 18:39:23,400 - logger - INFO - retrieve station status
+2025-03-03 18:39:23,750 - logger - INFO - request status: Successful
+2025-03-03 18:39:23,753 - logger - INFO - Successful dumping
+2025-03-03 18:39:23,753 - logger - INFO - retrieve station information
+2025-03-03 18:39:24,569 - logger - INFO - request status: Successful
+2025-03-03 18:39:24,589 - logger - INFO - Successful dumping
+2025-03-03 18:39:24,589 - logger - INFO - ------
