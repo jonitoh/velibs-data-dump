@@ -16308,3 +16308,11 @@
 2025-03-03 03:04:49,403 - logger - INFO - request status: Successful
 2025-03-03 03:04:49,422 - logger - INFO - Successful dumping
 2025-03-03 03:04:49,423 - logger - INFO - ------
+2025-03-03 03:42:04,271 - logger - INFO - ------
+2025-03-03 03:42:04,271 - logger - INFO - retrieve station status
+2025-03-03 03:42:04,734 - logger - INFO - request status: Successful
+2025-03-03 03:42:04,736 - logger - INFO - Successful dumping
+2025-03-03 03:42:04,737 - logger - INFO - retrieve station information
+2025-03-03 03:42:06,099 - logger - INFO - request status: Successful
+2025-03-03 03:42:06,118 - logger - INFO - Successful dumping
+2025-03-03 03:42:06,119 - logger - INFO - ------
