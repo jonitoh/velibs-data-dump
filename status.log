@@ -242,3 +242,11 @@
 2025-03-07 20:32:28,103 - logger - INFO - request status: Successful
 2025-03-07 20:32:28,123 - logger - INFO - Successful dumping
 2025-03-07 20:32:28,123 - logger - INFO - ------
+2025-03-07 21:26:49,276 - logger - INFO - ------
+2025-03-07 21:26:49,276 - logger - INFO - retrieve station status
+2025-03-07 21:26:49,890 - logger - INFO - request status: Successful
+2025-03-07 21:26:49,893 - logger - INFO - Successful dumping
+2025-03-07 21:26:49,893 - logger - INFO - retrieve station information
+2025-03-07 21:26:51,208 - logger - INFO - request status: Successful
+2025-03-07 21:26:51,227 - logger - INFO - Successful dumping
+2025-03-07 21:26:51,227 - logger - INFO - ------
