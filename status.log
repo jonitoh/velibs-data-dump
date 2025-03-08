@@ -290,3 +290,11 @@
 2025-03-08 03:29:51,500 - logger - INFO - request status: Successful
 2025-03-08 03:29:51,520 - logger - INFO - Successful dumping
 2025-03-08 03:29:51,520 - logger - INFO - ------
+2025-03-08 04:29:45,200 - logger - INFO - ------
+2025-03-08 04:29:45,200 - logger - INFO - retrieve station status
+2025-03-08 04:29:45,654 - logger - INFO - request status: Successful
+2025-03-08 04:29:45,657 - logger - INFO - Successful dumping
+2025-03-08 04:29:45,657 - logger - INFO - retrieve station information
+2025-03-08 04:29:46,976 - logger - INFO - request status: Successful
+2025-03-08 04:29:46,995 - logger - INFO - Successful dumping
+2025-03-08 04:29:46,995 - logger - INFO - ------
