@@ -802,3 +802,11 @@
 2025-03-10 22:34:19,099 - logger - INFO - request status: Successful
 2025-03-10 22:34:19,119 - logger - INFO - Successful dumping
 2025-03-10 22:34:19,119 - logger - INFO - ------
+2025-03-10 23:30:26,499 - logger - INFO - ------
+2025-03-10 23:30:26,499 - logger - INFO - retrieve station status
+2025-03-10 23:30:26,925 - logger - INFO - request status: Successful
+2025-03-10 23:30:26,928 - logger - INFO - Successful dumping
+2025-03-10 23:30:26,928 - logger - INFO - retrieve station information
+2025-03-10 23:30:27,783 - logger - INFO - request status: Successful
+2025-03-10 23:30:27,803 - logger - INFO - Successful dumping
+2025-03-10 23:30:27,803 - logger - INFO - ------
