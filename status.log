@@ -762,3 +762,11 @@
 2025-03-10 17:33:22,505 - logger - INFO - request status: Successful
 2025-03-10 17:33:22,525 - logger - INFO - Successful dumping
 2025-03-10 17:33:22,525 - logger - INFO - ------
+2025-03-10 18:40:11,854 - logger - INFO - ------
+2025-03-10 18:40:11,854 - logger - INFO - retrieve station status
+2025-03-10 18:40:12,150 - logger - INFO - request status: Successful
+2025-03-10 18:40:12,152 - logger - INFO - Successful dumping
+2025-03-10 18:40:12,153 - logger - INFO - retrieve station information
+2025-03-10 18:40:12,936 - logger - INFO - request status: Successful
+2025-03-10 18:40:12,955 - logger - INFO - Successful dumping
+2025-03-10 18:40:12,956 - logger - INFO - ------
