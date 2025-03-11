@@ -818,3 +818,11 @@
 2025-03-11 02:01:37,583 - logger - INFO - request status: Successful
 2025-03-11 02:01:37,602 - logger - INFO - Successful dumping
 2025-03-11 02:01:37,603 - logger - INFO - ------
+2025-03-11 03:05:13,553 - logger - INFO - ------
+2025-03-11 03:05:13,553 - logger - INFO - retrieve station status
+2025-03-11 03:05:13,854 - logger - INFO - request status: Successful
+2025-03-11 03:05:13,857 - logger - INFO - Successful dumping
+2025-03-11 03:05:13,857 - logger - INFO - retrieve station information
+2025-03-11 03:05:14,615 - logger - INFO - request status: Successful
+2025-03-11 03:05:14,635 - logger - INFO - Successful dumping
+2025-03-11 03:05:14,635 - logger - INFO - ------
