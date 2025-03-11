@@ -842,3 +842,11 @@
 2025-03-11 04:37:01,411 - logger - INFO - request status: Successful
 2025-03-11 04:37:01,432 - logger - INFO - Successful dumping
 2025-03-11 04:37:01,433 - logger - INFO - ------
+2025-03-11 05:33:33,534 - logger - INFO - ------
+2025-03-11 05:33:33,535 - logger - INFO - retrieve station status
+2025-03-11 05:33:33,889 - logger - INFO - request status: Successful
+2025-03-11 05:33:33,892 - logger - INFO - Successful dumping
+2025-03-11 05:33:33,892 - logger - INFO - retrieve station information
+2025-03-11 05:33:34,646 - logger - INFO - request status: Successful
+2025-03-11 05:33:34,665 - logger - INFO - Successful dumping
+2025-03-11 05:33:34,666 - logger - INFO - ------
