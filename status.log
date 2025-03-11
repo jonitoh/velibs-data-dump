@@ -978,3 +978,11 @@
 2025-03-11 21:26:01,252 - logger - INFO - request status: Successful
 2025-03-11 21:26:01,271 - logger - INFO - Successful dumping
 2025-03-11 21:26:01,272 - logger - INFO - ------
+2025-03-11 22:33:53,307 - logger - INFO - ------
+2025-03-11 22:33:53,307 - logger - INFO - retrieve station status
+2025-03-11 22:33:53,672 - logger - INFO - request status: Successful
+2025-03-11 22:33:53,674 - logger - INFO - Successful dumping
+2025-03-11 22:33:53,675 - logger - INFO - retrieve station information
+2025-03-11 22:33:54,544 - logger - INFO - request status: Successful
+2025-03-11 22:33:54,564 - logger - INFO - Successful dumping
+2025-03-11 22:33:54,564 - logger - INFO - ------
