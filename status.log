@@ -962,3 +962,11 @@
 2025-03-11 19:28:47,696 - logger - INFO - request status: Successful
 2025-03-11 19:28:47,716 - logger - INFO - Successful dumping
 2025-03-11 19:28:47,716 - logger - INFO - ------
+2025-03-11 20:32:51,217 - logger - INFO - ------
+2025-03-11 20:32:51,217 - logger - INFO - retrieve station status
+2025-03-11 20:32:51,619 - logger - INFO - request status: Successful
+2025-03-11 20:32:51,622 - logger - INFO - Successful dumping
+2025-03-11 20:32:51,622 - logger - INFO - retrieve station information
+2025-03-11 20:32:52,375 - logger - INFO - request status: Successful
+2025-03-11 20:32:52,395 - logger - INFO - Successful dumping
+2025-03-11 20:32:52,395 - logger - INFO - ------
