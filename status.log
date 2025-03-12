@@ -1034,3 +1034,11 @@
 2025-03-12 05:33:44,737 - logger - INFO - request status: Successful
 2025-03-12 05:33:44,756 - logger - INFO - Successful dumping
 2025-03-12 05:33:44,757 - logger - INFO - ------
+2025-03-12 06:43:06,574 - logger - INFO - ------
+2025-03-12 06:43:06,574 - logger - INFO - retrieve station status
+2025-03-12 06:43:06,990 - logger - INFO - request status: Successful
+2025-03-12 06:43:06,993 - logger - INFO - Successful dumping
+2025-03-12 06:43:06,993 - logger - INFO - retrieve station information
+2025-03-12 06:43:07,742 - logger - INFO - request status: Successful
+2025-03-12 06:43:07,761 - logger - INFO - Successful dumping
+2025-03-12 06:43:07,762 - logger - INFO - ------
