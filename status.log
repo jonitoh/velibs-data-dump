@@ -1162,3 +1162,11 @@
 2025-03-12 21:31:03,307 - logger - INFO - request status: Successful
 2025-03-12 21:31:03,327 - logger - INFO - Successful dumping
 2025-03-12 21:31:03,327 - logger - INFO - ------
+2025-03-12 22:34:10,124 - logger - INFO - ------
+2025-03-12 22:34:10,124 - logger - INFO - retrieve station status
+2025-03-12 22:34:10,419 - logger - INFO - request status: Successful
+2025-03-12 22:34:10,421 - logger - INFO - Successful dumping
+2025-03-12 22:34:10,422 - logger - INFO - retrieve station information
+2025-03-12 22:34:11,173 - logger - INFO - request status: Successful
+2025-03-12 22:34:11,193 - logger - INFO - Successful dumping
+2025-03-12 22:34:11,194 - logger - INFO - ------
