@@ -1194,3 +1194,11 @@
 2025-03-13 03:05:57,557 - logger - INFO - request status: Successful
 2025-03-13 03:05:57,577 - logger - INFO - Successful dumping
 2025-03-13 03:05:57,578 - logger - INFO - ------
+2025-03-13 03:44:25,004 - logger - INFO - ------
+2025-03-13 03:44:25,005 - logger - INFO - retrieve station status
+2025-03-13 03:44:25,336 - logger - INFO - request status: Successful
+2025-03-13 03:44:25,338 - logger - INFO - Successful dumping
+2025-03-13 03:44:25,338 - logger - INFO - retrieve station information
+2025-03-13 03:44:26,209 - logger - INFO - request status: Successful
+2025-03-13 03:44:26,228 - logger - INFO - Successful dumping
+2025-03-13 03:44:26,229 - logger - INFO - ------
