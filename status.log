@@ -1370,3 +1370,11 @@
 2025-03-14 02:00:30,246 - logger - INFO - request status: Successful
 2025-03-14 02:00:30,266 - logger - INFO - Successful dumping
 2025-03-14 02:00:30,266 - logger - INFO - ------
+2025-03-14 03:04:11,407 - logger - INFO - ------
+2025-03-14 03:04:11,408 - logger - INFO - retrieve station status
+2025-03-14 03:04:11,824 - logger - INFO - request status: Successful
+2025-03-14 03:04:11,827 - logger - INFO - Successful dumping
+2025-03-14 03:04:11,827 - logger - INFO - retrieve station information
+2025-03-14 03:04:12,695 - logger - INFO - request status: Successful
+2025-03-14 03:04:12,714 - logger - INFO - Successful dumping
+2025-03-14 03:04:12,715 - logger - INFO - ------
