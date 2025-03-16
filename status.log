@@ -1826,3 +1826,11 @@
 2025-03-16 12:52:06,899 - logger - INFO - request status: Successful
 2025-03-16 12:52:06,919 - logger - INFO - Successful dumping
 2025-03-16 12:52:06,919 - logger - INFO - ------
+2025-03-16 13:33:05,934 - logger - INFO - ------
+2025-03-16 13:33:05,934 - logger - INFO - retrieve station status
+2025-03-16 13:33:06,294 - logger - INFO - request status: Successful
+2025-03-16 13:33:06,296 - logger - INFO - Successful dumping
+2025-03-16 13:33:06,297 - logger - INFO - retrieve station information
+2025-03-16 13:33:07,155 - logger - INFO - request status: Successful
+2025-03-16 13:33:07,174 - logger - INFO - Successful dumping
+2025-03-16 13:33:07,174 - logger - INFO - ------
