@@ -2074,3 +2074,11 @@
 2025-03-17 20:33:27,653 - logger - INFO - request status: Successful
 2025-03-17 20:33:27,672 - logger - INFO - Successful dumping
 2025-03-17 20:33:27,673 - logger - INFO - ------
+2025-03-17 21:30:55,630 - logger - INFO - ------
+2025-03-17 21:30:55,630 - logger - INFO - retrieve station status
+2025-03-17 21:30:55,958 - logger - INFO - request status: Successful
+2025-03-17 21:30:55,961 - logger - INFO - Successful dumping
+2025-03-17 21:30:55,961 - logger - INFO - retrieve station information
+2025-03-17 21:30:56,732 - logger - INFO - request status: Successful
+2025-03-17 21:30:56,751 - logger - INFO - Successful dumping
+2025-03-17 21:30:56,752 - logger - INFO - ------
