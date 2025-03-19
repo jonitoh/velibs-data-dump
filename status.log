@@ -2370,3 +2370,11 @@
 2025-03-19 11:28:23,392 - logger - INFO - request status: Successful
 2025-03-19 11:28:23,412 - logger - INFO - Successful dumping
 2025-03-19 11:28:23,412 - logger - INFO - ------
+2025-03-19 12:56:57,643 - logger - INFO - ------
+2025-03-19 12:56:57,643 - logger - INFO - retrieve station status
+2025-03-19 12:56:58,044 - logger - INFO - request status: Successful
+2025-03-19 12:56:58,047 - logger - INFO - Successful dumping
+2025-03-19 12:56:58,047 - logger - INFO - retrieve station information
+2025-03-19 12:56:58,851 - logger - INFO - request status: Successful
+2025-03-19 12:56:58,871 - logger - INFO - Successful dumping
+2025-03-19 12:56:58,871 - logger - INFO - ------
