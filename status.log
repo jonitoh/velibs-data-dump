@@ -2602,3 +2602,11 @@
 2025-03-20 17:33:20,191 - logger - INFO - request status: Successful
 2025-03-20 17:33:20,211 - logger - INFO - Successful dumping
 2025-03-20 17:33:20,211 - logger - INFO - ------
+2025-03-20 18:41:16,246 - logger - INFO - ------
+2025-03-20 18:41:16,247 - logger - INFO - retrieve station status
+2025-03-20 18:41:16,538 - logger - INFO - request status: Successful
+2025-03-20 18:41:16,541 - logger - INFO - Successful dumping
+2025-03-20 18:41:16,541 - logger - INFO - retrieve station information
+2025-03-20 18:41:17,370 - logger - INFO - request status: Successful
+2025-03-20 18:41:17,390 - logger - INFO - Successful dumping
+2025-03-20 18:41:17,390 - logger - INFO - ------
