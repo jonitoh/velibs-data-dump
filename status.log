@@ -2810,3 +2810,11 @@
 2025-03-21 20:31:30,437 - logger - INFO - request status: Successful
 2025-03-21 20:31:30,457 - logger - INFO - Successful dumping
 2025-03-21 20:31:30,457 - logger - INFO - ------
+2025-03-21 21:29:43,593 - logger - INFO - ------
+2025-03-21 21:29:43,593 - logger - INFO - retrieve station status
+2025-03-21 21:29:44,101 - logger - INFO - request status: Successful
+2025-03-21 21:29:44,103 - logger - INFO - Successful dumping
+2025-03-21 21:29:44,103 - logger - INFO - retrieve station information
+2025-03-21 21:29:45,378 - logger - INFO - request status: Successful
+2025-03-21 21:29:45,397 - logger - INFO - Successful dumping
+2025-03-21 21:29:45,398 - logger - INFO - ------
