@@ -2666,3 +2666,11 @@
 2025-03-21 03:07:39,248 - logger - INFO - request status: Successful
 2025-03-21 03:07:39,267 - logger - INFO - Successful dumping
 2025-03-21 03:07:39,268 - logger - INFO - ------
+2025-03-21 03:44:50,700 - logger - INFO - ------
+2025-03-21 03:44:50,700 - logger - INFO - retrieve station status
+2025-03-21 03:44:51,139 - logger - INFO - request status: Successful
+2025-03-21 03:44:51,141 - logger - INFO - Successful dumping
+2025-03-21 03:44:51,142 - logger - INFO - retrieve station information
+2025-03-21 03:44:52,010 - logger - INFO - request status: Successful
+2025-03-21 03:44:52,029 - logger - INFO - Successful dumping
+2025-03-21 03:44:52,030 - logger - INFO - ------
