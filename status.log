@@ -2938,3 +2938,11 @@
 2025-03-22 13:31:46,634 - logger - INFO - request status: Successful
 2025-03-22 13:31:46,654 - logger - INFO - Successful dumping
 2025-03-22 13:31:46,654 - logger - INFO - ------
+2025-03-22 14:32:41,087 - logger - INFO - ------
+2025-03-22 14:32:41,087 - logger - INFO - retrieve station status
+2025-03-22 14:32:41,428 - logger - INFO - request status: Successful
+2025-03-22 14:32:41,431 - logger - INFO - Successful dumping
+2025-03-22 14:32:41,431 - logger - INFO - retrieve station information
+2025-03-22 14:32:42,199 - logger - INFO - request status: Successful
+2025-03-22 14:32:42,218 - logger - INFO - Successful dumping
+2025-03-22 14:32:42,219 - logger - INFO - ------
