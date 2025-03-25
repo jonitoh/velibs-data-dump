@@ -3474,3 +3474,11 @@
 2025-03-25 11:29:50,324 - logger - INFO - request status: Successful
 2025-03-25 11:29:50,344 - logger - INFO - Successful dumping
 2025-03-25 11:29:50,344 - logger - INFO - ------
+2025-03-25 12:56:44,989 - logger - INFO - ------
+2025-03-25 12:56:44,989 - logger - INFO - retrieve station status
+2025-03-25 12:56:45,392 - logger - INFO - request status: Successful
+2025-03-25 12:56:45,394 - logger - INFO - Successful dumping
+2025-03-25 12:56:45,394 - logger - INFO - retrieve station information
+2025-03-25 12:56:46,181 - logger - INFO - request status: Successful
+2025-03-25 12:56:46,200 - logger - INFO - Successful dumping
+2025-03-25 12:56:46,201 - logger - INFO - ------
