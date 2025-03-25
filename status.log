@@ -3482,3 +3482,11 @@
 2025-03-25 12:56:46,181 - logger - INFO - request status: Successful
 2025-03-25 12:56:46,200 - logger - INFO - Successful dumping
 2025-03-25 12:56:46,201 - logger - INFO - ------
+2025-03-25 13:38:52,019 - logger - INFO - ------
+2025-03-25 13:38:52,019 - logger - INFO - retrieve station status
+2025-03-25 13:38:52,482 - logger - INFO - request status: Successful
+2025-03-25 13:38:52,485 - logger - INFO - Successful dumping
+2025-03-25 13:38:52,485 - logger - INFO - retrieve station information
+2025-03-25 13:38:53,425 - logger - INFO - request status: Successful
+2025-03-25 13:38:53,444 - logger - INFO - Successful dumping
+2025-03-25 13:38:53,445 - logger - INFO - ------
