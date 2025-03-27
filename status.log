@@ -3850,3 +3850,11 @@
 2025-03-27 12:57:19,252 - logger - INFO - request status: Successful
 2025-03-27 12:57:19,285 - logger - INFO - Successful dumping
 2025-03-27 12:57:19,286 - logger - INFO - ------
+2025-03-27 13:39:58,898 - logger - INFO - ------
+2025-03-27 13:39:58,898 - logger - INFO - retrieve station status
+2025-03-27 13:39:59,267 - logger - INFO - request status: Successful
+2025-03-27 13:39:59,269 - logger - INFO - Successful dumping
+2025-03-27 13:39:59,269 - logger - INFO - retrieve station information
+2025-03-27 13:40:00,046 - logger - INFO - request status: Successful
+2025-03-27 13:40:00,065 - logger - INFO - Successful dumping
+2025-03-27 13:40:00,066 - logger - INFO - ------
