@@ -3906,3 +3906,11 @@
 2025-03-27 19:27:12,987 - logger - INFO - request status: Successful
 2025-03-27 19:27:13,007 - logger - INFO - Successful dumping
 2025-03-27 19:27:13,007 - logger - INFO - ------
+2025-03-27 20:33:02,558 - logger - INFO - ------
+2025-03-27 20:33:02,558 - logger - INFO - retrieve station status
+2025-03-27 20:33:02,880 - logger - INFO - request status: Successful
+2025-03-27 20:33:02,883 - logger - INFO - Successful dumping
+2025-03-27 20:33:02,883 - logger - INFO - retrieve station information
+2025-03-27 20:33:03,657 - logger - INFO - request status: Successful
+2025-03-27 20:33:03,677 - logger - INFO - Successful dumping
+2025-03-27 20:33:03,678 - logger - INFO - ------
