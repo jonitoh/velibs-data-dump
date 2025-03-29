@@ -4210,3 +4210,11 @@
 2025-03-29 11:27:20,440 - logger - INFO - request status: Successful
 2025-03-29 11:27:20,463 - logger - INFO - Successful dumping
 2025-03-29 11:27:20,464 - logger - INFO - ------
+2025-03-29 12:52:59,407 - logger - INFO - ------
+2025-03-29 12:52:59,407 - logger - INFO - retrieve station status
+2025-03-29 12:52:59,909 - logger - INFO - request status: Successful
+2025-03-29 12:52:59,911 - logger - INFO - Successful dumping
+2025-03-29 12:52:59,912 - logger - INFO - retrieve station information
+2025-03-29 12:53:01,236 - logger - INFO - request status: Successful
+2025-03-29 12:53:01,256 - logger - INFO - Successful dumping
+2025-03-29 12:53:01,257 - logger - INFO - ------
