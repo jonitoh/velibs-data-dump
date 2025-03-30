@@ -4338,3 +4338,11 @@
 2025-03-30 04:37:56,249 - logger - INFO - request status: Successful
 2025-03-30 04:37:56,269 - logger - INFO - Successful dumping
 2025-03-30 04:37:56,269 - logger - INFO - ------
+2025-03-30 05:33:04,150 - logger - INFO - ------
+2025-03-30 05:33:04,150 - logger - INFO - retrieve station status
+2025-03-30 05:33:04,557 - logger - INFO - request status: Successful
+2025-03-30 05:33:04,559 - logger - INFO - Successful dumping
+2025-03-30 05:33:04,559 - logger - INFO - retrieve station information
+2025-03-30 05:33:05,410 - logger - INFO - request status: Successful
+2025-03-30 05:33:05,430 - logger - INFO - Successful dumping
+2025-03-30 05:33:05,431 - logger - INFO - ------
