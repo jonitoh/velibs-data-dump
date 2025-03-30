@@ -4410,3 +4410,11 @@
 2025-03-30 13:33:13,385 - logger - INFO - request status: Successful
 2025-03-30 13:33:13,405 - logger - INFO - Successful dumping
 2025-03-30 13:33:13,405 - logger - INFO - ------
+2025-03-30 14:33:15,558 - logger - INFO - ------
+2025-03-30 14:33:15,559 - logger - INFO - retrieve station status
+2025-03-30 14:33:15,960 - logger - INFO - request status: Successful
+2025-03-30 14:33:15,963 - logger - INFO - Successful dumping
+2025-03-30 14:33:15,963 - logger - INFO - retrieve station information
+2025-03-30 14:33:16,735 - logger - INFO - request status: Successful
+2025-03-30 14:33:16,754 - logger - INFO - Successful dumping
+2025-03-30 14:33:16,755 - logger - INFO - ------
