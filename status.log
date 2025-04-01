@@ -4826,3 +4826,11 @@
 2025-04-01 20:34:28,404 - logger - INFO - request status: Successful
 2025-04-01 20:34:28,423 - logger - INFO - Successful dumping
 2025-04-01 20:34:28,424 - logger - INFO - ------
+2025-04-01 21:31:11,581 - logger - INFO - ------
+2025-04-01 21:31:11,581 - logger - INFO - retrieve station status
+2025-04-01 21:31:11,916 - logger - INFO - request status: Successful
+2025-04-01 21:31:11,918 - logger - INFO - Successful dumping
+2025-04-01 21:31:11,918 - logger - INFO - retrieve station information
+2025-04-01 21:31:12,686 - logger - INFO - request status: Successful
+2025-04-01 21:31:12,705 - logger - INFO - Successful dumping
+2025-04-01 21:31:12,705 - logger - INFO - ------
