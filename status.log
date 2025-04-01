@@ -4706,3 +4706,11 @@
 2025-04-01 05:35:52,675 - logger - INFO - request status: Successful
 2025-04-01 05:35:52,695 - logger - INFO - Successful dumping
 2025-04-01 05:35:52,695 - logger - INFO - ------
+2025-04-01 06:44:56,981 - logger - INFO - ------
+2025-04-01 06:44:56,981 - logger - INFO - retrieve station status
+2025-04-01 06:44:57,585 - logger - INFO - request status: Successful
+2025-04-01 06:44:57,588 - logger - INFO - Successful dumping
+2025-04-01 06:44:57,588 - logger - INFO - retrieve station information
+2025-04-01 06:44:58,355 - logger - INFO - request status: Successful
+2025-04-01 06:44:58,374 - logger - INFO - Successful dumping
+2025-04-01 06:44:58,375 - logger - INFO - ------
