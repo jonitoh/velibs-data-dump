@@ -4674,3 +4674,11 @@
 2025-03-31 23:31:04,495 - logger - INFO - request status: Successful
 2025-03-31 23:31:04,514 - logger - INFO - Successful dumping
 2025-03-31 23:31:04,515 - logger - INFO - ------
+2025-04-01 02:21:53,409 - logger - INFO - ------
+2025-04-01 02:21:53,409 - logger - INFO - retrieve station status
+2025-04-01 02:21:53,854 - logger - INFO - request status: Successful
+2025-04-01 02:21:53,856 - logger - INFO - Successful dumping
+2025-04-01 02:21:53,856 - logger - INFO - retrieve station information
+2025-04-01 02:21:54,632 - logger - INFO - request status: Successful
+2025-04-01 02:21:54,651 - logger - INFO - Successful dumping
+2025-04-01 02:21:54,652 - logger - INFO - ------
