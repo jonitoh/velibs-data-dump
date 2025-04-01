@@ -4754,3 +4754,11 @@
 2025-04-01 11:29:56,135 - logger - INFO - request status: Successful
 2025-04-01 11:29:56,155 - logger - INFO - Successful dumping
 2025-04-01 11:29:56,156 - logger - INFO - ------
+2025-04-01 12:59:03,217 - logger - INFO - ------
+2025-04-01 12:59:03,217 - logger - INFO - retrieve station status
+2025-04-01 12:59:03,634 - logger - INFO - request status: Successful
+2025-04-01 12:59:03,637 - logger - INFO - Successful dumping
+2025-04-01 12:59:03,637 - logger - INFO - retrieve station information
+2025-04-01 12:59:04,430 - logger - INFO - request status: Successful
+2025-04-01 12:59:04,449 - logger - INFO - Successful dumping
+2025-04-01 12:59:04,450 - logger - INFO - ------
