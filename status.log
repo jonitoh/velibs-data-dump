@@ -4866,3 +4866,11 @@
 2025-04-02 03:10:05,020 - logger - INFO - request status: Successful
 2025-04-02 03:10:05,040 - logger - INFO - Successful dumping
 2025-04-02 03:10:05,040 - logger - INFO - ------
+2025-04-02 03:47:29,546 - logger - INFO - ------
+2025-04-02 03:47:29,546 - logger - INFO - retrieve station status
+2025-04-02 03:47:29,847 - logger - INFO - request status: Successful
+2025-04-02 03:47:29,851 - logger - INFO - Successful dumping
+2025-04-02 03:47:29,851 - logger - INFO - retrieve station information
+2025-04-02 03:47:30,596 - logger - INFO - request status: Successful
+2025-04-02 03:47:30,616 - logger - INFO - Successful dumping
+2025-04-02 03:47:30,616 - logger - INFO - ------
