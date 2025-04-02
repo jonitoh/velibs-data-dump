@@ -4930,3 +4930,11 @@
 2025-04-02 10:40:10,953 - logger - INFO - request status: Successful
 2025-04-02 10:40:10,972 - logger - INFO - Successful dumping
 2025-04-02 10:40:10,973 - logger - INFO - ------
+2025-04-02 11:28:53,812 - logger - INFO - ------
+2025-04-02 11:28:53,812 - logger - INFO - retrieve station status
+2025-04-02 11:28:54,223 - logger - INFO - request status: Successful
+2025-04-02 11:28:54,226 - logger - INFO - Successful dumping
+2025-04-02 11:28:54,226 - logger - INFO - retrieve station information
+2025-04-02 11:28:54,979 - logger - INFO - request status: Successful
+2025-04-02 11:28:54,998 - logger - INFO - Successful dumping
+2025-04-02 11:28:54,999 - logger - INFO - ------
