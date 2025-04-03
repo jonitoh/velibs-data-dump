@@ -5050,3 +5050,11 @@
 2025-04-03 03:09:33,484 - logger - INFO - request status: Successful
 2025-04-03 03:09:33,503 - logger - INFO - Successful dumping
 2025-04-03 03:09:33,504 - logger - INFO - ------
+2025-04-03 03:46:52,904 - logger - INFO - ------
+2025-04-03 03:46:52,904 - logger - INFO - retrieve station status
+2025-04-03 03:46:53,369 - logger - INFO - request status: Successful
+2025-04-03 03:46:53,371 - logger - INFO - Successful dumping
+2025-04-03 03:46:53,371 - logger - INFO - retrieve station information
+2025-04-03 03:46:54,137 - logger - INFO - request status: Successful
+2025-04-03 03:46:54,156 - logger - INFO - Successful dumping
+2025-04-03 03:46:54,157 - logger - INFO - ------
