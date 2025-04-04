@@ -5218,3 +5218,11 @@
 2025-04-03 23:32:51,943 - logger - INFO - request status: Successful
 2025-04-03 23:32:51,963 - logger - INFO - Successful dumping
 2025-04-03 23:32:51,963 - logger - INFO - ------
+2025-04-04 02:06:50,171 - logger - INFO - ------
+2025-04-04 02:06:50,171 - logger - INFO - retrieve station status
+2025-04-04 02:06:50,703 - logger - INFO - request status: Successful
+2025-04-04 02:06:50,707 - logger - INFO - Successful dumping
+2025-04-04 02:06:50,707 - logger - INFO - retrieve station information
+2025-04-04 02:06:51,500 - logger - INFO - request status: Successful
+2025-04-04 02:06:51,520 - logger - INFO - Successful dumping
+2025-04-04 02:06:51,520 - logger - INFO - ------
