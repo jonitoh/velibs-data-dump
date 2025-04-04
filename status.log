@@ -5226,3 +5226,11 @@
 2025-04-04 02:06:51,500 - logger - INFO - request status: Successful
 2025-04-04 02:06:51,520 - logger - INFO - Successful dumping
 2025-04-04 02:06:51,520 - logger - INFO - ------
+2025-04-04 03:09:09,663 - logger - INFO - ------
+2025-04-04 03:09:09,663 - logger - INFO - retrieve station status
+2025-04-04 03:09:10,192 - logger - INFO - request status: Successful
+2025-04-04 03:09:10,195 - logger - INFO - Successful dumping
+2025-04-04 03:09:10,195 - logger - INFO - retrieve station information
+2025-04-04 03:09:10,963 - logger - INFO - request status: Successful
+2025-04-04 03:09:10,982 - logger - INFO - Successful dumping
+2025-04-04 03:09:10,983 - logger - INFO - ------
