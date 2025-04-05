@@ -5562,3 +5562,11 @@
 2025-04-05 20:31:31,577 - logger - INFO - request status: Successful
 2025-04-05 20:31:31,597 - logger - INFO - Successful dumping
 2025-04-05 20:31:31,597 - logger - INFO - ------
+2025-04-05 21:29:45,928 - logger - INFO - ------
+2025-04-05 21:29:45,928 - logger - INFO - retrieve station status
+2025-04-05 21:29:46,250 - logger - INFO - request status: Successful
+2025-04-05 21:29:46,253 - logger - INFO - Successful dumping
+2025-04-05 21:29:46,253 - logger - INFO - retrieve station information
+2025-04-05 21:29:46,990 - logger - INFO - request status: Successful
+2025-04-05 21:29:47,012 - logger - INFO - Successful dumping
+2025-04-05 21:29:47,012 - logger - INFO - ------
