@@ -5674,3 +5674,11 @@
 2025-04-06 11:27:19,085 - logger - INFO - request status: Successful
 2025-04-06 11:27:19,105 - logger - INFO - Successful dumping
 2025-04-06 11:27:19,105 - logger - INFO - ------
+2025-04-06 12:52:32,706 - logger - INFO - ------
+2025-04-06 12:52:32,706 - logger - INFO - retrieve station status
+2025-04-06 12:52:33,120 - logger - INFO - request status: Successful
+2025-04-06 12:52:33,123 - logger - INFO - Successful dumping
+2025-04-06 12:52:33,123 - logger - INFO - retrieve station information
+2025-04-06 12:52:33,877 - logger - INFO - request status: Successful
+2025-04-06 12:52:33,897 - logger - INFO - Successful dumping
+2025-04-06 12:52:33,897 - logger - INFO - ------
