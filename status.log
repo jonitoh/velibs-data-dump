@@ -6082,3 +6082,11 @@
 2025-04-08 16:42:51,449 - logger - INFO - request status: Successful
 2025-04-08 16:42:51,468 - logger - INFO - Successful dumping
 2025-04-08 16:42:51,469 - logger - INFO - ------
+2025-04-08 17:33:59,349 - logger - INFO - ------
+2025-04-08 17:33:59,349 - logger - INFO - retrieve station status
+2025-04-08 17:33:59,806 - logger - INFO - request status: Successful
+2025-04-08 17:33:59,809 - logger - INFO - Successful dumping
+2025-04-08 17:33:59,809 - logger - INFO - retrieve station information
+2025-04-08 17:34:01,099 - logger - INFO - request status: Successful
+2025-04-08 17:34:01,118 - logger - INFO - Successful dumping
+2025-04-08 17:34:01,119 - logger - INFO - ------
