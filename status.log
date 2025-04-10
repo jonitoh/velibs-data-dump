@@ -6402,3 +6402,11 @@
 2025-04-10 10:40:41,550 - logger - INFO - request status: Successful
 2025-04-10 10:40:41,569 - logger - INFO - Successful dumping
 2025-04-10 10:40:41,570 - logger - INFO - ------
+2025-04-10 11:29:13,452 - logger - INFO - ------
+2025-04-10 11:29:13,452 - logger - INFO - retrieve station status
+2025-04-10 11:29:13,852 - logger - INFO - request status: Successful
+2025-04-10 11:29:13,855 - logger - INFO - Successful dumping
+2025-04-10 11:29:13,855 - logger - INFO - retrieve station information
+2025-04-10 11:29:14,643 - logger - INFO - request status: Successful
+2025-04-10 11:29:14,663 - logger - INFO - Successful dumping
+2025-04-10 11:29:14,663 - logger - INFO - ------
