@@ -6410,3 +6410,11 @@
 2025-04-10 11:29:14,643 - logger - INFO - request status: Successful
 2025-04-10 11:29:14,663 - logger - INFO - Successful dumping
 2025-04-10 11:29:14,663 - logger - INFO - ------
+2025-04-10 12:58:45,266 - logger - INFO - ------
+2025-04-10 12:58:45,266 - logger - INFO - retrieve station status
+2025-04-10 12:58:45,710 - logger - INFO - request status: Successful
+2025-04-10 12:58:45,712 - logger - INFO - Successful dumping
+2025-04-10 12:58:45,712 - logger - INFO - retrieve station information
+2025-04-10 12:58:46,476 - logger - INFO - request status: Successful
+2025-04-10 12:58:46,495 - logger - INFO - Successful dumping
+2025-04-10 12:58:46,496 - logger - INFO - ------
