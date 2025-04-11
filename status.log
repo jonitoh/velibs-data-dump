@@ -6522,3 +6522,11 @@
 2025-04-11 03:11:15,034 - logger - INFO - request status: Successful
 2025-04-11 03:11:15,053 - logger - INFO - Successful dumping
 2025-04-11 03:11:15,054 - logger - INFO - ------
+2025-04-11 03:45:30,471 - logger - INFO - ------
+2025-04-11 03:45:30,471 - logger - INFO - retrieve station status
+2025-04-11 03:45:30,974 - logger - INFO - request status: Successful
+2025-04-11 03:45:30,977 - logger - INFO - Successful dumping
+2025-04-11 03:45:30,977 - logger - INFO - retrieve station information
+2025-04-11 03:45:32,217 - logger - INFO - request status: Successful
+2025-04-11 03:45:32,237 - logger - INFO - Successful dumping
+2025-04-11 03:45:32,237 - logger - INFO - ------
