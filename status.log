@@ -6634,3 +6634,11 @@
 2025-04-11 16:42:28,860 - logger - INFO - request status: Successful
 2025-04-11 16:42:28,880 - logger - INFO - Successful dumping
 2025-04-11 16:42:28,880 - logger - INFO - ------
+2025-04-11 17:31:31,245 - logger - INFO - ------
+2025-04-11 17:31:31,245 - logger - INFO - retrieve station status
+2025-04-11 17:31:31,653 - logger - INFO - request status: Successful
+2025-04-11 17:31:31,656 - logger - INFO - Successful dumping
+2025-04-11 17:31:31,656 - logger - INFO - retrieve station information
+2025-04-11 17:31:32,759 - logger - INFO - request status: Successful
+2025-04-11 17:31:32,779 - logger - INFO - Successful dumping
+2025-04-11 17:31:32,779 - logger - INFO - ------
