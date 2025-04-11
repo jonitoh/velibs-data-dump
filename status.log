@@ -6514,3 +6514,11 @@
 2025-04-11 02:10:58,334 - logger - INFO - request status: Successful
 2025-04-11 02:10:58,353 - logger - INFO - Successful dumping
 2025-04-11 02:10:58,354 - logger - INFO - ------
+2025-04-11 03:11:13,265 - logger - INFO - ------
+2025-04-11 03:11:13,265 - logger - INFO - retrieve station status
+2025-04-11 03:11:13,728 - logger - INFO - request status: Successful
+2025-04-11 03:11:13,731 - logger - INFO - Successful dumping
+2025-04-11 03:11:13,731 - logger - INFO - retrieve station information
+2025-04-11 03:11:15,034 - logger - INFO - request status: Successful
+2025-04-11 03:11:15,053 - logger - INFO - Successful dumping
+2025-04-11 03:11:15,054 - logger - INFO - ------
