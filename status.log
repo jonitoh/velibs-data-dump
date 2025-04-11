@@ -6506,3 +6506,11 @@
 2025-04-10 23:37:05,140 - logger - INFO - request status: Successful
 2025-04-10 23:37:05,159 - logger - INFO - Successful dumping
 2025-04-10 23:37:05,160 - logger - INFO - ------
+2025-04-11 02:10:57,122 - logger - INFO - ------
+2025-04-11 02:10:57,122 - logger - INFO - retrieve station status
+2025-04-11 02:10:57,564 - logger - INFO - request status: Successful
+2025-04-11 02:10:57,567 - logger - INFO - Successful dumping
+2025-04-11 02:10:57,567 - logger - INFO - retrieve station information
+2025-04-11 02:10:58,334 - logger - INFO - request status: Successful
+2025-04-11 02:10:58,353 - logger - INFO - Successful dumping
+2025-04-11 02:10:58,354 - logger - INFO - ------
