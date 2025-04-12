@@ -6810,3 +6810,11 @@
 2025-04-12 15:31:01,161 - logger - INFO - request status: Successful
 2025-04-12 15:31:01,180 - logger - INFO - Successful dumping
 2025-04-12 15:31:01,181 - logger - INFO - ------
+2025-04-12 16:37:36,550 - logger - INFO - ------
+2025-04-12 16:37:36,550 - logger - INFO - retrieve station status
+2025-04-12 16:37:37,056 - logger - INFO - request status: Successful
+2025-04-12 16:37:37,059 - logger - INFO - Successful dumping
+2025-04-12 16:37:37,059 - logger - INFO - retrieve station information
+2025-04-12 16:37:37,943 - logger - INFO - request status: Successful
+2025-04-12 16:37:37,962 - logger - INFO - Successful dumping
+2025-04-12 16:37:37,963 - logger - INFO - ------
