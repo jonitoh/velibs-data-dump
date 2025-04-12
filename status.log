@@ -6802,3 +6802,11 @@
 2025-04-12 14:32:40,091 - logger - INFO - request status: Successful
 2025-04-12 14:32:40,111 - logger - INFO - Successful dumping
 2025-04-12 14:32:40,111 - logger - INFO - ------
+2025-04-12 15:30:59,829 - logger - INFO - ------
+2025-04-12 15:30:59,829 - logger - INFO - retrieve station status
+2025-04-12 15:31:00,280 - logger - INFO - request status: Successful
+2025-04-12 15:31:00,283 - logger - INFO - Successful dumping
+2025-04-12 15:31:00,283 - logger - INFO - retrieve station information
+2025-04-12 15:31:01,161 - logger - INFO - request status: Successful
+2025-04-12 15:31:01,180 - logger - INFO - Successful dumping
+2025-04-12 15:31:01,181 - logger - INFO - ------
