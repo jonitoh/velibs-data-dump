@@ -7010,3 +7010,11 @@
 2025-04-13 19:25:59,525 - logger - INFO - request status: Successful
 2025-04-13 19:25:59,544 - logger - INFO - Successful dumping
 2025-04-13 19:25:59,545 - logger - INFO - ------
+2025-04-13 20:32:13,903 - logger - INFO - ------
+2025-04-13 20:32:13,903 - logger - INFO - retrieve station status
+2025-04-13 20:32:14,285 - logger - INFO - request status: Successful
+2025-04-13 20:32:14,287 - logger - INFO - Successful dumping
+2025-04-13 20:32:14,288 - logger - INFO - retrieve station information
+2025-04-13 20:32:15,369 - logger - INFO - request status: Successful
+2025-04-13 20:32:15,388 - logger - INFO - Successful dumping
+2025-04-13 20:32:15,389 - logger - INFO - ------
