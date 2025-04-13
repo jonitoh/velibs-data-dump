@@ -6946,3 +6946,11 @@
 2025-04-13 11:27:11,381 - logger - INFO - request status: Successful
 2025-04-13 11:27:11,400 - logger - INFO - Successful dumping
 2025-04-13 11:27:11,401 - logger - INFO - ------
+2025-04-13 12:53:21,085 - logger - INFO - ------
+2025-04-13 12:53:21,085 - logger - INFO - retrieve station status
+2025-04-13 12:53:21,350 - logger - INFO - request status: Successful
+2025-04-13 12:53:21,352 - logger - INFO - Successful dumping
+2025-04-13 12:53:21,353 - logger - INFO - retrieve station information
+2025-04-13 12:53:22,133 - logger - INFO - request status: Successful
+2025-04-13 12:53:22,153 - logger - INFO - Successful dumping
+2025-04-13 12:53:22,153 - logger - INFO - ------
