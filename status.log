@@ -6922,3 +6922,11 @@
 2025-04-13 08:37:26,280 - logger - INFO - request status: Successful
 2025-04-13 08:37:26,300 - logger - INFO - Successful dumping
 2025-04-13 08:37:26,300 - logger - INFO - ------
+2025-04-13 09:32:46,958 - logger - INFO - ------
+2025-04-13 09:32:46,958 - logger - INFO - retrieve station status
+2025-04-13 09:32:47,280 - logger - INFO - request status: Successful
+2025-04-13 09:32:47,282 - logger - INFO - Successful dumping
+2025-04-13 09:32:47,282 - logger - INFO - retrieve station information
+2025-04-13 09:32:48,004 - logger - INFO - request status: Successful
+2025-04-13 09:32:48,023 - logger - INFO - Successful dumping
+2025-04-13 09:32:48,024 - logger - INFO - ------
