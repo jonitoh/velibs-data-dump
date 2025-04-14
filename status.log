@@ -7058,3 +7058,11 @@
 2025-04-14 03:15:11,907 - logger - INFO - request status: Successful
 2025-04-14 03:15:11,926 - logger - INFO - Successful dumping
 2025-04-14 03:15:11,926 - logger - INFO - ------
+2025-04-14 03:48:30,105 - logger - INFO - ------
+2025-04-14 03:48:30,105 - logger - INFO - retrieve station status
+2025-04-14 03:48:30,581 - logger - INFO - request status: Successful
+2025-04-14 03:48:30,584 - logger - INFO - Successful dumping
+2025-04-14 03:48:30,584 - logger - INFO - retrieve station information
+2025-04-14 03:48:31,841 - logger - INFO - request status: Successful
+2025-04-14 03:48:31,861 - logger - INFO - Successful dumping
+2025-04-14 03:48:31,861 - logger - INFO - ------
