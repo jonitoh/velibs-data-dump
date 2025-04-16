@@ -7538,3 +7538,11 @@
 2025-04-16 16:44:10,419 - logger - INFO - request status: Successful
 2025-04-16 16:44:10,439 - logger - INFO - Successful dumping
 2025-04-16 16:44:10,440 - logger - INFO - ------
+2025-04-16 17:33:29,047 - logger - INFO - ------
+2025-04-16 17:33:29,047 - logger - INFO - retrieve station status
+2025-04-16 17:33:29,590 - logger - INFO - request status: Successful
+2025-04-16 17:33:29,592 - logger - INFO - Successful dumping
+2025-04-16 17:33:29,593 - logger - INFO - retrieve station information
+2025-04-16 17:33:30,890 - logger - INFO - request status: Successful
+2025-04-16 17:33:30,910 - logger - INFO - Successful dumping
+2025-04-16 17:33:30,911 - logger - INFO - ------
