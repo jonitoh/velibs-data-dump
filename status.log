@@ -7770,3 +7770,11 @@
 2025-04-17 22:35:19,777 - logger - INFO - request status: Successful
 2025-04-17 22:35:19,797 - logger - INFO - Successful dumping
 2025-04-17 22:35:19,797 - logger - INFO - ------
+2025-04-17 23:31:47,170 - logger - INFO - ------
+2025-04-17 23:31:47,170 - logger - INFO - retrieve station status
+2025-04-17 23:31:47,520 - logger - INFO - request status: Successful
+2025-04-17 23:31:47,523 - logger - INFO - Successful dumping
+2025-04-17 23:31:47,523 - logger - INFO - retrieve station information
+2025-04-17 23:31:48,301 - logger - INFO - request status: Successful
+2025-04-17 23:31:48,321 - logger - INFO - Successful dumping
+2025-04-17 23:31:48,321 - logger - INFO - ------
