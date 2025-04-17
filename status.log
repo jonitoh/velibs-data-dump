@@ -7610,3 +7610,11 @@
 2025-04-17 03:12:36,179 - logger - INFO - request status: Successful
 2025-04-17 03:12:36,199 - logger - INFO - Successful dumping
 2025-04-17 03:12:36,199 - logger - INFO - ------
+2025-04-17 03:46:55,063 - logger - INFO - ------
+2025-04-17 03:46:55,063 - logger - INFO - retrieve station status
+2025-04-17 03:46:55,522 - logger - INFO - request status: Successful
+2025-04-17 03:46:55,525 - logger - INFO - Successful dumping
+2025-04-17 03:46:55,525 - logger - INFO - retrieve station information
+2025-04-17 03:46:56,402 - logger - INFO - request status: Successful
+2025-04-17 03:46:56,422 - logger - INFO - Successful dumping
+2025-04-17 03:46:56,422 - logger - INFO - ------
