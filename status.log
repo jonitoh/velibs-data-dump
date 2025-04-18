@@ -7930,3 +7930,11 @@
 2025-04-18 19:27:08,590 - logger - INFO - request status: Successful
 2025-04-18 19:27:08,610 - logger - INFO - Successful dumping
 2025-04-18 19:27:08,610 - logger - INFO - ------
+2025-04-18 20:32:54,883 - logger - INFO - ------
+2025-04-18 20:32:54,883 - logger - INFO - retrieve station status
+2025-04-18 20:32:55,382 - logger - INFO - request status: Successful
+2025-04-18 20:32:55,384 - logger - INFO - Successful dumping
+2025-04-18 20:32:55,385 - logger - INFO - retrieve station information
+2025-04-18 20:32:56,692 - logger - INFO - request status: Successful
+2025-04-18 20:32:56,711 - logger - INFO - Successful dumping
+2025-04-18 20:32:56,712 - logger - INFO - ------
