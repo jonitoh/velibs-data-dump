@@ -7938,3 +7938,11 @@
 2025-04-18 20:32:56,692 - logger - INFO - request status: Successful
 2025-04-18 20:32:56,711 - logger - INFO - Successful dumping
 2025-04-18 20:32:56,712 - logger - INFO - ------
+2025-04-18 21:31:41,735 - logger - INFO - ------
+2025-04-18 21:31:41,735 - logger - INFO - retrieve station status
+2025-04-18 21:31:42,197 - logger - INFO - request status: Successful
+2025-04-18 21:31:42,200 - logger - INFO - Successful dumping
+2025-04-18 21:31:42,200 - logger - INFO - retrieve station information
+2025-04-18 21:31:42,971 - logger - INFO - request status: Successful
+2025-04-18 21:31:42,991 - logger - INFO - Successful dumping
+2025-04-18 21:31:42,991 - logger - INFO - ------
