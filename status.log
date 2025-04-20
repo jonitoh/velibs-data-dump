@@ -8306,3 +8306,11 @@
 2025-04-20 20:32:33,911 - logger - INFO - request status: Successful
 2025-04-20 20:32:33,930 - logger - INFO - Successful dumping
 2025-04-20 20:32:33,931 - logger - INFO - ------
+2025-04-20 21:29:55,914 - logger - INFO - ------
+2025-04-20 21:29:55,914 - logger - INFO - retrieve station status
+2025-04-20 21:29:56,318 - logger - INFO - request status: Successful
+2025-04-20 21:29:56,320 - logger - INFO - Successful dumping
+2025-04-20 21:29:56,320 - logger - INFO - retrieve station information
+2025-04-20 21:29:57,093 - logger - INFO - request status: Successful
+2025-04-20 21:29:57,113 - logger - INFO - Successful dumping
+2025-04-20 21:29:57,113 - logger - INFO - ------
