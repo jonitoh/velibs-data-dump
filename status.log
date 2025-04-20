@@ -8282,3 +8282,11 @@
 2025-04-20 17:32:58,356 - logger - INFO - request status: Successful
 2025-04-20 17:32:58,376 - logger - INFO - Successful dumping
 2025-04-20 17:32:58,376 - logger - INFO - ------
+2025-04-20 18:40:17,594 - logger - INFO - ------
+2025-04-20 18:40:17,594 - logger - INFO - retrieve station status
+2025-04-20 18:40:17,890 - logger - INFO - request status: Successful
+2025-04-20 18:40:17,893 - logger - INFO - Successful dumping
+2025-04-20 18:40:17,893 - logger - INFO - retrieve station information
+2025-04-20 18:40:18,645 - logger - INFO - request status: Successful
+2025-04-20 18:40:18,664 - logger - INFO - Successful dumping
+2025-04-20 18:40:18,665 - logger - INFO - ------
