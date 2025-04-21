@@ -8490,3 +8490,11 @@
 2025-04-21 20:34:08,690 - logger - INFO - request status: Successful
 2025-04-21 20:34:08,710 - logger - INFO - Successful dumping
 2025-04-21 20:34:08,710 - logger - INFO - ------
+2025-04-21 21:31:30,735 - logger - INFO - ------
+2025-04-21 21:31:30,735 - logger - INFO - retrieve station status
+2025-04-21 21:31:31,267 - logger - INFO - request status: Successful
+2025-04-21 21:31:31,269 - logger - INFO - Successful dumping
+2025-04-21 21:31:31,270 - logger - INFO - retrieve station information
+2025-04-21 21:31:32,543 - logger - INFO - request status: Successful
+2025-04-21 21:31:32,563 - logger - INFO - Successful dumping
+2025-04-21 21:31:32,563 - logger - INFO - ------
