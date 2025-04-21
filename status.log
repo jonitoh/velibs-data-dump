@@ -8402,3 +8402,11 @@
 2025-04-21 09:33:56,170 - logger - INFO - request status: Successful
 2025-04-21 09:33:56,189 - logger - INFO - Successful dumping
 2025-04-21 09:33:56,190 - logger - INFO - ------
+2025-04-21 10:41:47,449 - logger - INFO - ------
+2025-04-21 10:41:47,449 - logger - INFO - retrieve station status
+2025-04-21 10:41:47,897 - logger - INFO - request status: Successful
+2025-04-21 10:41:47,900 - logger - INFO - Successful dumping
+2025-04-21 10:41:47,900 - logger - INFO - retrieve station information
+2025-04-21 10:41:48,790 - logger - INFO - request status: Successful
+2025-04-21 10:41:48,809 - logger - INFO - Successful dumping
+2025-04-21 10:41:48,810 - logger - INFO - ------
