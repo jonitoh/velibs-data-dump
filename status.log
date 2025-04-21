@@ -8418,3 +8418,11 @@
 2025-04-21 11:29:15,333 - logger - INFO - request status: Successful
 2025-04-21 11:29:15,353 - logger - INFO - Successful dumping
 2025-04-21 11:29:15,353 - logger - INFO - ------
+2025-04-21 12:57:11,841 - logger - INFO - ------
+2025-04-21 12:57:11,841 - logger - INFO - retrieve station status
+2025-04-21 12:57:12,334 - logger - INFO - request status: Successful
+2025-04-21 12:57:12,337 - logger - INFO - Successful dumping
+2025-04-21 12:57:12,337 - logger - INFO - retrieve station information
+2025-04-21 12:57:13,615 - logger - INFO - request status: Successful
+2025-04-21 12:57:13,634 - logger - INFO - Successful dumping
+2025-04-21 12:57:13,635 - logger - INFO - ------
