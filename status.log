@@ -8634,3 +8634,11 @@
 2025-04-22 15:35:08,445 - logger - INFO - request status: Successful
 2025-04-22 15:35:08,465 - logger - INFO - Successful dumping
 2025-04-22 15:35:08,465 - logger - INFO - ------
+2025-04-22 16:42:50,568 - logger - INFO - ------
+2025-04-22 16:42:50,568 - logger - INFO - retrieve station status
+2025-04-22 16:42:50,924 - logger - INFO - request status: Successful
+2025-04-22 16:42:50,927 - logger - INFO - Successful dumping
+2025-04-22 16:42:50,927 - logger - INFO - retrieve station information
+2025-04-22 16:42:51,793 - logger - INFO - request status: Successful
+2025-04-22 16:42:51,812 - logger - INFO - Successful dumping
+2025-04-22 16:42:51,813 - logger - INFO - ------
