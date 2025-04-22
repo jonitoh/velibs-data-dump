@@ -8650,3 +8650,11 @@
 2025-04-22 17:34:58,592 - logger - INFO - request status: Successful
 2025-04-22 17:34:58,611 - logger - INFO - Successful dumping
 2025-04-22 17:34:58,612 - logger - INFO - ------
+2025-04-22 18:43:18,192 - logger - INFO - ------
+2025-04-22 18:43:18,192 - logger - INFO - retrieve station status
+2025-04-22 18:43:18,676 - logger - INFO - request status: Successful
+2025-04-22 18:43:18,678 - logger - INFO - Successful dumping
+2025-04-22 18:43:18,679 - logger - INFO - retrieve station information
+2025-04-22 18:43:19,900 - logger - INFO - request status: Successful
+2025-04-22 18:43:19,920 - logger - INFO - Successful dumping
+2025-04-22 18:43:19,920 - logger - INFO - ------
