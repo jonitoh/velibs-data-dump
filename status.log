@@ -8826,3 +8826,11 @@
 2025-04-23 16:44:32,149 - logger - INFO - request status: Successful
 2025-04-23 16:44:32,169 - logger - INFO - Successful dumping
 2025-04-23 16:44:32,169 - logger - INFO - ------
+2025-04-23 17:34:46,421 - logger - INFO - ------
+2025-04-23 17:34:46,421 - logger - INFO - retrieve station status
+2025-04-23 17:34:46,995 - logger - INFO - request status: Successful
+2025-04-23 17:34:46,998 - logger - INFO - Successful dumping
+2025-04-23 17:34:46,998 - logger - INFO - retrieve station information
+2025-04-23 17:34:48,315 - logger - INFO - request status: Successful
+2025-04-23 17:34:48,335 - logger - INFO - Successful dumping
+2025-04-23 17:34:48,335 - logger - INFO - ------
