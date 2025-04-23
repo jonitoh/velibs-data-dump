@@ -8874,3 +8874,11 @@
 2025-04-23 22:37:36,572 - logger - INFO - request status: Successful
 2025-04-23 22:37:36,592 - logger - INFO - Successful dumping
 2025-04-23 22:37:36,593 - logger - INFO - ------
+2025-04-23 23:31:50,050 - logger - INFO - ------
+2025-04-23 23:31:50,050 - logger - INFO - retrieve station status
+2025-04-23 23:31:50,532 - logger - INFO - request status: Successful
+2025-04-23 23:31:50,535 - logger - INFO - Successful dumping
+2025-04-23 23:31:50,535 - logger - INFO - retrieve station information
+2025-04-23 23:31:51,305 - logger - INFO - request status: Successful
+2025-04-23 23:31:51,327 - logger - INFO - Successful dumping
+2025-04-23 23:31:51,327 - logger - INFO - ------
