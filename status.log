@@ -8706,3 +8706,11 @@
 2025-04-23 02:13:21,413 - logger - INFO - request status: Successful
 2025-04-23 02:13:21,433 - logger - INFO - Successful dumping
 2025-04-23 02:13:21,434 - logger - INFO - ------
+2025-04-23 03:13:20,084 - logger - INFO - ------
+2025-04-23 03:13:20,084 - logger - INFO - retrieve station status
+2025-04-23 03:13:20,568 - logger - INFO - request status: Successful
+2025-04-23 03:13:20,571 - logger - INFO - Successful dumping
+2025-04-23 03:13:20,571 - logger - INFO - retrieve station information
+2025-04-23 03:13:21,870 - logger - INFO - request status: Successful
+2025-04-23 03:13:21,890 - logger - INFO - Successful dumping
+2025-04-23 03:13:21,890 - logger - INFO - ------
