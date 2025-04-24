@@ -8970,3 +8970,11 @@
 2025-04-24 11:30:03,296 - logger - INFO - request status: Successful
 2025-04-24 11:30:03,315 - logger - INFO - Successful dumping
 2025-04-24 11:30:03,316 - logger - INFO - ------
+2025-04-24 13:00:03,320 - logger - INFO - ------
+2025-04-24 13:00:03,320 - logger - INFO - retrieve station status
+2025-04-24 13:00:03,809 - logger - INFO - request status: Successful
+2025-04-24 13:00:03,811 - logger - INFO - Successful dumping
+2025-04-24 13:00:03,811 - logger - INFO - retrieve station information
+2025-04-24 13:00:05,066 - logger - INFO - request status: Successful
+2025-04-24 13:00:05,085 - logger - INFO - Successful dumping
+2025-04-24 13:00:05,086 - logger - INFO - ------
