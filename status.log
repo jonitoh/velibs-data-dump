@@ -9002,3 +9002,11 @@
 2025-04-24 15:36:33,267 - logger - INFO - request status: Successful
 2025-04-24 15:36:33,286 - logger - INFO - Successful dumping
 2025-04-24 15:36:33,286 - logger - INFO - ------
+2025-04-24 16:43:02,285 - logger - INFO - ------
+2025-04-24 16:43:02,285 - logger - INFO - retrieve station status
+2025-04-24 16:43:02,782 - logger - INFO - request status: Successful
+2025-04-24 16:43:02,785 - logger - INFO - Successful dumping
+2025-04-24 16:43:02,785 - logger - INFO - retrieve station information
+2025-04-24 16:43:04,046 - logger - INFO - request status: Successful
+2025-04-24 16:43:04,066 - logger - INFO - Successful dumping
+2025-04-24 16:43:04,066 - logger - INFO - ------
