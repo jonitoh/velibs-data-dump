@@ -9066,3 +9066,11 @@
 2025-04-24 23:31:27,000 - logger - INFO - request status: Successful
 2025-04-24 23:31:27,019 - logger - INFO - Successful dumping
 2025-04-24 23:31:27,020 - logger - INFO - ------
+2025-04-25 02:14:07,170 - logger - INFO - ------
+2025-04-25 02:14:07,170 - logger - INFO - retrieve station status
+2025-04-25 02:14:07,652 - logger - INFO - request status: Successful
+2025-04-25 02:14:07,655 - logger - INFO - Successful dumping
+2025-04-25 02:14:07,655 - logger - INFO - retrieve station information
+2025-04-25 02:14:08,961 - logger - INFO - request status: Successful
+2025-04-25 02:14:08,980 - logger - INFO - Successful dumping
+2025-04-25 02:14:08,981 - logger - INFO - ------
