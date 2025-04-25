@@ -9122,3 +9122,11 @@
 2025-04-25 07:31:26,747 - logger - INFO - request status: Successful
 2025-04-25 07:31:26,767 - logger - INFO - Successful dumping
 2025-04-25 07:31:26,767 - logger - INFO - ------
+2025-04-25 08:41:58,200 - logger - INFO - ------
+2025-04-25 08:41:58,201 - logger - INFO - retrieve station status
+2025-04-25 08:41:58,783 - logger - INFO - request status: Successful
+2025-04-25 08:41:58,786 - logger - INFO - Successful dumping
+2025-04-25 08:41:58,786 - logger - INFO - retrieve station information
+2025-04-25 08:42:00,082 - logger - INFO - request status: Successful
+2025-04-25 08:42:00,101 - logger - INFO - Successful dumping
+2025-04-25 08:42:00,102 - logger - INFO - ------
