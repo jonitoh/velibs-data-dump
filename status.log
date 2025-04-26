@@ -9266,3 +9266,11 @@
 2025-04-26 03:10:05,975 - logger - INFO - request status: Successful
 2025-04-26 03:10:05,995 - logger - INFO - Successful dumping
 2025-04-26 03:10:05,996 - logger - INFO - ------
+2025-04-26 03:46:09,576 - logger - INFO - ------
+2025-04-26 03:46:09,576 - logger - INFO - retrieve station status
+2025-04-26 03:46:10,002 - logger - INFO - request status: Successful
+2025-04-26 03:46:10,005 - logger - INFO - Successful dumping
+2025-04-26 03:46:10,005 - logger - INFO - retrieve station information
+2025-04-26 03:46:11,101 - logger - INFO - request status: Successful
+2025-04-26 03:46:11,121 - logger - INFO - Successful dumping
+2025-04-26 03:46:11,121 - logger - INFO - ------
