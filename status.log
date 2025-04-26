@@ -9338,3 +9338,11 @@
 2025-04-26 11:27:19,657 - logger - INFO - request status: Successful
 2025-04-26 11:27:19,677 - logger - INFO - Successful dumping
 2025-04-26 11:27:19,677 - logger - INFO - ------
+2025-04-26 12:53:43,371 - logger - INFO - ------
+2025-04-26 12:53:43,371 - logger - INFO - retrieve station status
+2025-04-26 12:53:43,752 - logger - INFO - request status: Successful
+2025-04-26 12:53:43,755 - logger - INFO - Successful dumping
+2025-04-26 12:53:43,755 - logger - INFO - retrieve station information
+2025-04-26 12:53:44,623 - logger - INFO - request status: Successful
+2025-04-26 12:53:44,643 - logger - INFO - Successful dumping
+2025-04-26 12:53:44,643 - logger - INFO - ------
