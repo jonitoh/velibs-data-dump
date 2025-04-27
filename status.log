@@ -9450,3 +9450,11 @@
 2025-04-27 03:16:10,700 - logger - INFO - request status: Successful
 2025-04-27 03:16:10,720 - logger - INFO - Successful dumping
 2025-04-27 03:16:10,721 - logger - INFO - ------
+2025-04-27 03:47:51,646 - logger - INFO - ------
+2025-04-27 03:47:51,646 - logger - INFO - retrieve station status
+2025-04-27 03:47:51,966 - logger - INFO - request status: Successful
+2025-04-27 03:47:51,969 - logger - INFO - Successful dumping
+2025-04-27 03:47:51,969 - logger - INFO - retrieve station information
+2025-04-27 03:47:52,928 - logger - INFO - request status: Successful
+2025-04-27 03:47:52,948 - logger - INFO - Successful dumping
+2025-04-27 03:47:52,948 - logger - INFO - ------
