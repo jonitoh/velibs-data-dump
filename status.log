@@ -9690,3 +9690,11 @@
 2025-04-28 11:22:07,198 - logger - INFO - request status: Successful
 2025-04-28 11:22:07,217 - logger - INFO - Successful dumping
 2025-04-28 11:22:07,217 - logger - INFO - ------
+2025-04-28 13:12:27,972 - logger - INFO - ------
+2025-04-28 13:12:27,972 - logger - INFO - retrieve station status
+2025-04-28 13:12:28,426 - logger - INFO - request status: Successful
+2025-04-28 13:12:28,429 - logger - INFO - Successful dumping
+2025-04-28 13:12:28,429 - logger - INFO - retrieve station information
+2025-04-28 13:12:29,729 - logger - INFO - request status: Successful
+2025-04-28 13:12:29,750 - logger - INFO - Successful dumping
+2025-04-28 13:12:29,750 - logger - INFO - ------
