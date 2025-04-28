@@ -9706,3 +9706,11 @@
 2025-04-28 13:51:16,534 - logger - INFO - request status: Successful
 2025-04-28 13:51:16,553 - logger - INFO - Successful dumping
 2025-04-28 13:51:16,554 - logger - INFO - ------
+2025-04-28 14:42:55,599 - logger - INFO - ------
+2025-04-28 14:42:55,599 - logger - INFO - retrieve station status
+2025-04-28 14:42:56,057 - logger - INFO - request status: Successful
+2025-04-28 14:42:56,060 - logger - INFO - Successful dumping
+2025-04-28 14:42:56,060 - logger - INFO - retrieve station information
+2025-04-28 14:42:56,847 - logger - INFO - request status: Successful
+2025-04-28 14:42:56,867 - logger - INFO - Successful dumping
+2025-04-28 14:42:56,868 - logger - INFO - ------
