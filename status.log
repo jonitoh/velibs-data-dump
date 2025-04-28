@@ -9626,3 +9626,11 @@
 2025-04-28 02:17:33,637 - logger - INFO - request status: Successful
 2025-04-28 02:17:33,657 - logger - INFO - Successful dumping
 2025-04-28 02:17:33,657 - logger - INFO - ------
+2025-04-28 03:17:52,827 - logger - INFO - ------
+2025-04-28 03:17:52,827 - logger - INFO - retrieve station status
+2025-04-28 03:17:53,135 - logger - INFO - request status: Successful
+2025-04-28 03:17:53,137 - logger - INFO - Successful dumping
+2025-04-28 03:17:53,138 - logger - INFO - retrieve station information
+2025-04-28 03:17:53,857 - logger - INFO - request status: Successful
+2025-04-28 03:17:53,876 - logger - INFO - Successful dumping
+2025-04-28 03:17:53,877 - logger - INFO - ------
