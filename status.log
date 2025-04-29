@@ -9802,3 +9802,11 @@
 2025-04-29 03:14:36,301 - logger - INFO - request status: Successful
 2025-04-29 03:14:36,320 - logger - INFO - Successful dumping
 2025-04-29 03:14:36,321 - logger - INFO - ------
+2025-04-29 03:47:15,101 - logger - INFO - ------
+2025-04-29 03:47:15,101 - logger - INFO - retrieve station status
+2025-04-29 03:47:15,490 - logger - INFO - request status: Successful
+2025-04-29 03:47:15,493 - logger - INFO - Successful dumping
+2025-04-29 03:47:15,493 - logger - INFO - retrieve station information
+2025-04-29 03:47:16,377 - logger - INFO - request status: Successful
+2025-04-29 03:47:16,396 - logger - INFO - Successful dumping
+2025-04-29 03:47:16,397 - logger - INFO - ------
