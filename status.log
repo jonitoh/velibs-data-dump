@@ -10066,3 +10066,11 @@
 2025-04-30 12:58:35,717 - logger - INFO - request status: Successful
 2025-04-30 12:58:35,737 - logger - INFO - Successful dumping
 2025-04-30 12:58:35,738 - logger - INFO - ------
+2025-04-30 13:41:10,260 - logger - INFO - ------
+2025-04-30 13:41:10,260 - logger - INFO - retrieve station status
+2025-04-30 13:41:10,778 - logger - INFO - request status: Successful
+2025-04-30 13:41:10,781 - logger - INFO - Successful dumping
+2025-04-30 13:41:10,781 - logger - INFO - retrieve station information
+2025-04-30 13:41:12,076 - logger - INFO - request status: Successful
+2025-04-30 13:41:12,095 - logger - INFO - Successful dumping
+2025-04-30 13:41:12,096 - logger - INFO - ------
