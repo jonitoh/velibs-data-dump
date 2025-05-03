@@ -10530,3 +10530,11 @@
 2025-05-03 03:13:50,544 - logger - INFO - request status: Successful
 2025-05-03 03:13:50,564 - logger - INFO - Successful dumping
 2025-05-03 03:13:50,564 - logger - INFO - ------
+2025-05-03 03:46:28,785 - logger - INFO - ------
+2025-05-03 03:46:28,785 - logger - INFO - retrieve station status
+2025-05-03 03:46:29,198 - logger - INFO - request status: Successful
+2025-05-03 03:46:29,201 - logger - INFO - Successful dumping
+2025-05-03 03:46:29,201 - logger - INFO - retrieve station information
+2025-05-03 03:46:29,987 - logger - INFO - request status: Successful
+2025-05-03 03:46:30,006 - logger - INFO - Successful dumping
+2025-05-03 03:46:30,007 - logger - INFO - ------
