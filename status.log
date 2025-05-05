@@ -10890,3 +10890,11 @@
 2025-05-05 03:28:09,181 - logger - INFO - request status: Successful
 2025-05-05 03:28:09,201 - logger - INFO - Successful dumping
 2025-05-05 03:28:09,201 - logger - INFO - ------
+2025-05-05 04:41:20,839 - logger - INFO - ------
+2025-05-05 04:41:20,839 - logger - INFO - retrieve station status
+2025-05-05 04:41:21,331 - logger - INFO - request status: Successful
+2025-05-05 04:41:21,334 - logger - INFO - Successful dumping
+2025-05-05 04:41:21,334 - logger - INFO - retrieve station information
+2025-05-05 04:41:22,631 - logger - INFO - request status: Successful
+2025-05-05 04:41:22,651 - logger - INFO - Successful dumping
+2025-05-05 04:41:22,652 - logger - INFO - ------
