@@ -11130,3 +11130,11 @@
 2025-05-06 10:41:11,652 - logger - INFO - request status: Successful
 2025-05-06 10:41:11,672 - logger - INFO - Successful dumping
 2025-05-06 10:41:11,672 - logger - INFO - ------
+2025-05-06 11:30:06,637 - logger - INFO - ------
+2025-05-06 11:30:06,637 - logger - INFO - retrieve station status
+2025-05-06 11:30:06,926 - logger - INFO - request status: Successful
+2025-05-06 11:30:06,929 - logger - INFO - Successful dumping
+2025-05-06 11:30:06,929 - logger - INFO - retrieve station information
+2025-05-06 11:30:07,713 - logger - INFO - request status: Successful
+2025-05-06 11:30:07,733 - logger - INFO - Successful dumping
+2025-05-06 11:30:07,734 - logger - INFO - ------
