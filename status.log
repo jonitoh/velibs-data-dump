@@ -11138,3 +11138,11 @@
 2025-05-06 11:30:07,713 - logger - INFO - request status: Successful
 2025-05-06 11:30:07,733 - logger - INFO - Successful dumping
 2025-05-06 11:30:07,734 - logger - INFO - ------
+2025-05-06 13:01:30,042 - logger - INFO - ------
+2025-05-06 13:01:30,042 - logger - INFO - retrieve station status
+2025-05-06 13:01:30,587 - logger - INFO - request status: Successful
+2025-05-06 13:01:30,591 - logger - INFO - Successful dumping
+2025-05-06 13:01:30,591 - logger - INFO - retrieve station information
+2025-05-06 13:01:31,880 - logger - INFO - request status: Successful
+2025-05-06 13:01:31,900 - logger - INFO - Successful dumping
+2025-05-06 13:01:31,901 - logger - INFO - ------
