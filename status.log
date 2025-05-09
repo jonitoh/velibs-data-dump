@@ -11610,3 +11610,11 @@
 2025-05-09 03:18:09,293 - logger - INFO - request status: Successful
 2025-05-09 03:18:09,313 - logger - INFO - Successful dumping
 2025-05-09 03:18:09,313 - logger - INFO - ------
+2025-05-09 03:50:45,821 - logger - INFO - ------
+2025-05-09 03:50:45,821 - logger - INFO - retrieve station status
+2025-05-09 03:50:46,293 - logger - INFO - request status: Successful
+2025-05-09 03:50:46,296 - logger - INFO - Successful dumping
+2025-05-09 03:50:46,296 - logger - INFO - retrieve station information
+2025-05-09 03:50:47,601 - logger - INFO - request status: Successful
+2025-05-09 03:50:47,621 - logger - INFO - Successful dumping
+2025-05-09 03:50:47,621 - logger - INFO - ------
