@@ -12114,3 +12114,11 @@
 2025-05-11 20:32:49,535 - logger - INFO - request status: Successful
 2025-05-11 20:32:49,555 - logger - INFO - Successful dumping
 2025-05-11 20:32:49,555 - logger - INFO - ------
+2025-05-11 21:30:13,783 - logger - INFO - ------
+2025-05-11 21:30:13,783 - logger - INFO - retrieve station status
+2025-05-11 21:30:14,104 - logger - INFO - request status: Successful
+2025-05-11 21:30:14,107 - logger - INFO - Successful dumping
+2025-05-11 21:30:14,107 - logger - INFO - retrieve station information
+2025-05-11 21:30:14,853 - logger - INFO - request status: Successful
+2025-05-11 21:30:14,873 - logger - INFO - Successful dumping
+2025-05-11 21:30:14,873 - logger - INFO - ------
