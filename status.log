@@ -12298,3 +12298,11 @@
 2025-05-12 21:32:20,615 - logger - INFO - request status: Successful
 2025-05-12 21:32:20,635 - logger - INFO - Successful dumping
 2025-05-12 21:32:20,635 - logger - INFO - ------
+2025-05-12 22:37:53,497 - logger - INFO - ------
+2025-05-12 22:37:53,497 - logger - INFO - retrieve station status
+2025-05-12 22:37:53,941 - logger - INFO - request status: Successful
+2025-05-12 22:37:53,943 - logger - INFO - Successful dumping
+2025-05-12 22:37:53,944 - logger - INFO - retrieve station information
+2025-05-12 22:37:55,233 - logger - INFO - request status: Successful
+2025-05-12 22:37:55,252 - logger - INFO - Successful dumping
+2025-05-12 22:37:55,253 - logger - INFO - ------
