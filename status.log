@@ -12226,3 +12226,11 @@
 2025-05-12 13:02:30,784 - logger - INFO - request status: Successful
 2025-05-12 13:02:30,803 - logger - INFO - Successful dumping
 2025-05-12 13:02:30,804 - logger - INFO - ------
+2025-05-12 13:44:49,395 - logger - INFO - ------
+2025-05-12 13:44:49,395 - logger - INFO - retrieve station status
+2025-05-12 13:44:49,774 - logger - INFO - request status: Successful
+2025-05-12 13:44:49,777 - logger - INFO - Successful dumping
+2025-05-12 13:44:49,777 - logger - INFO - retrieve station information
+2025-05-12 13:44:50,522 - logger - INFO - request status: Successful
+2025-05-12 13:44:50,542 - logger - INFO - Successful dumping
+2025-05-12 13:44:50,542 - logger - INFO - ------
