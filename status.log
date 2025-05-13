@@ -12394,3 +12394,11 @@
 2025-05-13 11:30:39,823 - logger - INFO - request status: Successful
 2025-05-13 11:30:39,843 - logger - INFO - Successful dumping
 2025-05-13 11:30:39,843 - logger - INFO - ------
+2025-05-13 13:02:49,116 - logger - INFO - ------
+2025-05-13 13:02:49,116 - logger - INFO - retrieve station status
+2025-05-13 13:02:49,511 - logger - INFO - request status: Successful
+2025-05-13 13:02:49,514 - logger - INFO - Successful dumping
+2025-05-13 13:02:49,514 - logger - INFO - retrieve station information
+2025-05-13 13:02:50,417 - logger - INFO - request status: Successful
+2025-05-13 13:02:50,436 - logger - INFO - Successful dumping
+2025-05-13 13:02:50,437 - logger - INFO - ------
