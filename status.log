@@ -12634,3 +12634,11 @@
 2025-05-14 19:27:28,316 - logger - INFO - request status: Successful
 2025-05-14 19:27:28,336 - logger - INFO - Successful dumping
 2025-05-14 19:27:28,336 - logger - INFO - ------
+2025-05-14 20:31:11,906 - logger - INFO - ------
+2025-05-14 20:31:11,906 - logger - INFO - retrieve station status
+2025-05-14 20:31:12,384 - logger - INFO - request status: Successful
+2025-05-14 20:31:12,387 - logger - INFO - Successful dumping
+2025-05-14 20:31:12,387 - logger - INFO - retrieve station information
+2025-05-14 20:31:13,179 - logger - INFO - request status: Successful
+2025-05-14 20:31:13,198 - logger - INFO - Successful dumping
+2025-05-14 20:31:13,199 - logger - INFO - ------
