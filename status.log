@@ -13762,3 +13762,11 @@
 2025-05-21 04:41:33,316 - logger - INFO - request status: Successful
 2025-05-21 04:41:33,336 - logger - INFO - Successful dumping
 2025-05-21 04:41:33,336 - logger - INFO - ------
+2025-05-21 05:37:59,647 - logger - INFO - ------
+2025-05-21 05:37:59,647 - logger - INFO - retrieve station status
+2025-05-21 05:38:00,151 - logger - INFO - request status: Successful
+2025-05-21 05:38:00,153 - logger - INFO - Successful dumping
+2025-05-21 05:38:00,153 - logger - INFO - retrieve station information
+2025-05-21 05:38:01,389 - logger - INFO - request status: Successful
+2025-05-21 05:38:01,408 - logger - INFO - Successful dumping
+2025-05-21 05:38:01,409 - logger - INFO - ------
