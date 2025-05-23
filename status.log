@@ -14194,3 +14194,11 @@
 2025-05-23 14:39:23,398 - logger - INFO - request status: Successful
 2025-05-23 14:39:23,417 - logger - INFO - Successful dumping
 2025-05-23 14:39:23,418 - logger - INFO - ------
+2025-05-23 15:35:04,396 - logger - INFO - ------
+2025-05-23 15:35:04,396 - logger - INFO - retrieve station status
+2025-05-23 15:35:04,783 - logger - INFO - request status: Successful
+2025-05-23 15:35:04,786 - logger - INFO - Successful dumping
+2025-05-23 15:35:04,786 - logger - INFO - retrieve station information
+2025-05-23 15:35:05,572 - logger - INFO - request status: Successful
+2025-05-23 15:35:05,591 - logger - INFO - Successful dumping
+2025-05-23 15:35:05,592 - logger - INFO - ------
