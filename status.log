@@ -14098,3 +14098,11 @@
 2025-05-23 02:17:50,571 - logger - INFO - request status: Successful
 2025-05-23 02:17:50,591 - logger - INFO - Successful dumping
 2025-05-23 02:17:50,591 - logger - INFO - ------
+2025-05-23 03:27:25,526 - logger - INFO - ------
+2025-05-23 03:27:25,526 - logger - INFO - retrieve station status
+2025-05-23 03:27:25,994 - logger - INFO - request status: Successful
+2025-05-23 03:27:25,997 - logger - INFO - Successful dumping
+2025-05-23 03:27:25,997 - logger - INFO - retrieve station information
+2025-05-23 03:27:26,850 - logger - INFO - request status: Successful
+2025-05-23 03:27:26,869 - logger - INFO - Successful dumping
+2025-05-23 03:27:26,870 - logger - INFO - ------
