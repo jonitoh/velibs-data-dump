@@ -14530,3 +14530,11 @@
 2025-05-25 11:28:01,481 - logger - INFO - request status: Successful
 2025-05-25 11:28:01,500 - logger - INFO - Successful dumping
 2025-05-25 11:28:01,501 - logger - INFO - ------
+2025-05-25 12:56:30,081 - logger - INFO - ------
+2025-05-25 12:56:30,081 - logger - INFO - retrieve station status
+2025-05-25 12:56:30,521 - logger - INFO - request status: Successful
+2025-05-25 12:56:30,523 - logger - INFO - Successful dumping
+2025-05-25 12:56:30,523 - logger - INFO - retrieve station information
+2025-05-25 12:56:31,285 - logger - INFO - request status: Successful
+2025-05-25 12:56:31,305 - logger - INFO - Successful dumping
+2025-05-25 12:56:31,305 - logger - INFO - ------
