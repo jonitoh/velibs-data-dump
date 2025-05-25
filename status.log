@@ -14466,3 +14466,11 @@
 2025-05-25 03:57:32,053 - logger - INFO - request status: Successful
 2025-05-25 03:57:32,074 - logger - INFO - Successful dumping
 2025-05-25 03:57:32,075 - logger - INFO - ------
+2025-05-25 04:42:50,425 - logger - INFO - ------
+2025-05-25 04:42:50,425 - logger - INFO - retrieve station status
+2025-05-25 04:42:50,901 - logger - INFO - request status: Successful
+2025-05-25 04:42:50,904 - logger - INFO - Successful dumping
+2025-05-25 04:42:50,904 - logger - INFO - retrieve station information
+2025-05-25 04:42:52,118 - logger - INFO - request status: Successful
+2025-05-25 04:42:52,138 - logger - INFO - Successful dumping
+2025-05-25 04:42:52,138 - logger - INFO - ------
