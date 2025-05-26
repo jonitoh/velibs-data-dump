@@ -14746,3 +14746,11 @@
 2025-05-26 18:42:59,119 - logger - INFO - request status: Successful
 2025-05-26 18:42:59,139 - logger - INFO - Successful dumping
 2025-05-26 18:42:59,139 - logger - INFO - ------
+2025-05-26 19:28:03,250 - logger - INFO - ------
+2025-05-26 19:28:03,250 - logger - INFO - retrieve station status
+2025-05-26 19:28:03,569 - logger - INFO - request status: Successful
+2025-05-26 19:28:03,572 - logger - INFO - Successful dumping
+2025-05-26 19:28:03,572 - logger - INFO - retrieve station information
+2025-05-26 19:28:04,314 - logger - INFO - request status: Successful
+2025-05-26 19:28:04,333 - logger - INFO - Successful dumping
+2025-05-26 19:28:04,334 - logger - INFO - ------
