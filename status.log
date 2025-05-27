@@ -14882,3 +14882,11 @@
 2025-05-27 13:45:30,103 - logger - INFO - request status: Successful
 2025-05-27 13:45:30,123 - logger - INFO - Successful dumping
 2025-05-27 13:45:30,123 - logger - INFO - ------
+2025-05-27 14:40:55,070 - logger - INFO - ------
+2025-05-27 14:40:55,071 - logger - INFO - retrieve station status
+2025-05-27 14:40:55,615 - logger - INFO - request status: Successful
+2025-05-27 14:40:55,618 - logger - INFO - Successful dumping
+2025-05-27 14:40:55,618 - logger - INFO - retrieve station information
+2025-05-27 14:40:56,433 - logger - INFO - request status: Successful
+2025-05-27 14:40:56,452 - logger - INFO - Successful dumping
+2025-05-27 14:40:56,453 - logger - INFO - ------
