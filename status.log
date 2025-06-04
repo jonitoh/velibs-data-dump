@@ -16274,3 +16274,11 @@
 2025-06-04 11:32:23,310 - logger - INFO - request status: Successful
 2025-06-04 11:32:23,329 - logger - INFO - Successful dumping
 2025-06-04 11:32:23,330 - logger - INFO - ------
+2025-06-04 13:04:04,012 - logger - INFO - ------
+2025-06-04 13:04:04,012 - logger - INFO - retrieve station status
+2025-06-04 13:04:04,349 - logger - INFO - request status: Successful
+2025-06-04 13:04:04,352 - logger - INFO - Successful dumping
+2025-06-04 13:04:04,352 - logger - INFO - retrieve station information
+2025-06-04 13:04:05,107 - logger - INFO - request status: Successful
+2025-06-04 13:04:05,127 - logger - INFO - Successful dumping
+2025-06-04 13:04:05,127 - logger - INFO - ------
