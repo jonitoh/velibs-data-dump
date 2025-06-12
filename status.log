@@ -800,3 +800,11 @@
 2025-06-12 19:29:08,501 - logger - INFO - request status: Successful
 2025-06-12 19:29:08,520 - logger - INFO - Successful dumping
 2025-06-12 19:29:08,521 - logger - INFO - ------
+2025-06-12 20:37:39,921 - logger - INFO - ------
+2025-06-12 20:37:39,921 - logger - INFO - retrieve station status
+2025-06-12 20:37:40,367 - logger - INFO - request status: Successful
+2025-06-12 20:37:40,369 - logger - INFO - Successful dumping
+2025-06-12 20:37:40,370 - logger - INFO - retrieve station information
+2025-06-12 20:37:41,105 - logger - INFO - request status: Successful
+2025-06-12 20:37:41,124 - logger - INFO - Successful dumping
+2025-06-12 20:37:41,125 - logger - INFO - ------
