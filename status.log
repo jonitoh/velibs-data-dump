@@ -728,3 +728,11 @@
 2025-06-12 10:42:50,474 - logger - INFO - request status: Successful
 2025-06-12 10:42:50,493 - logger - INFO - Successful dumping
 2025-06-12 10:42:50,493 - logger - INFO - ------
+2025-06-12 11:31:22,422 - logger - INFO - ------
+2025-06-12 11:31:22,422 - logger - INFO - retrieve station status
+2025-06-12 11:31:22,801 - logger - INFO - request status: Successful
+2025-06-12 11:31:22,804 - logger - INFO - Successful dumping
+2025-06-12 11:31:22,804 - logger - INFO - retrieve station information
+2025-06-12 11:31:23,617 - logger - INFO - request status: Successful
+2025-06-12 11:31:23,636 - logger - INFO - Successful dumping
+2025-06-12 11:31:23,637 - logger - INFO - ------
