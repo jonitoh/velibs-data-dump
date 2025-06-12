@@ -824,3 +824,11 @@
 2025-06-12 22:37:57,838 - logger - INFO - request status: Successful
 2025-06-12 22:37:57,857 - logger - INFO - Successful dumping
 2025-06-12 22:37:57,857 - logger - INFO - ------
+2025-06-12 23:32:49,635 - logger - INFO - ------
+2025-06-12 23:32:49,635 - logger - INFO - retrieve station status
+2025-06-12 23:32:50,118 - logger - INFO - request status: Successful
+2025-06-12 23:32:50,121 - logger - INFO - Successful dumping
+2025-06-12 23:32:50,121 - logger - INFO - retrieve station information
+2025-06-12 23:32:51,404 - logger - INFO - request status: Successful
+2025-06-12 23:32:51,423 - logger - INFO - Successful dumping
+2025-06-12 23:32:51,424 - logger - INFO - ------
