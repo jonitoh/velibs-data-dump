@@ -896,3 +896,11 @@
 2025-06-13 09:36:49,424 - logger - INFO - request status: Successful
 2025-06-13 09:36:49,443 - logger - INFO - Successful dumping
 2025-06-13 09:36:49,443 - logger - INFO - ------
+2025-06-13 10:41:54,698 - logger - INFO - ------
+2025-06-13 10:41:54,699 - logger - INFO - retrieve station status
+2025-06-13 10:41:55,158 - logger - INFO - request status: Successful
+2025-06-13 10:41:55,161 - logger - INFO - Successful dumping
+2025-06-13 10:41:55,161 - logger - INFO - retrieve station information
+2025-06-13 10:41:55,974 - logger - INFO - request status: Successful
+2025-06-13 10:41:55,993 - logger - INFO - Successful dumping
+2025-06-13 10:41:55,994 - logger - INFO - ------
