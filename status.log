@@ -952,3 +952,11 @@
 2025-06-13 16:44:11,312 - logger - INFO - request status: Successful
 2025-06-13 16:44:11,331 - logger - INFO - Successful dumping
 2025-06-13 16:44:11,332 - logger - INFO - ------
+2025-06-13 17:35:46,111 - logger - INFO - ------
+2025-06-13 17:35:46,111 - logger - INFO - retrieve station status
+2025-06-13 17:35:46,493 - logger - INFO - request status: Successful
+2025-06-13 17:35:46,495 - logger - INFO - Successful dumping
+2025-06-13 17:35:46,495 - logger - INFO - retrieve station information
+2025-06-13 17:35:47,360 - logger - INFO - request status: Successful
+2025-06-13 17:35:47,380 - logger - INFO - Successful dumping
+2025-06-13 17:35:47,380 - logger - INFO - ------
