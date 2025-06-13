@@ -960,3 +960,11 @@
 2025-06-13 17:35:47,360 - logger - INFO - request status: Successful
 2025-06-13 17:35:47,380 - logger - INFO - Successful dumping
 2025-06-13 17:35:47,380 - logger - INFO - ------
+2025-06-13 18:45:08,490 - logger - INFO - ------
+2025-06-13 18:45:08,490 - logger - INFO - retrieve station status
+2025-06-13 18:45:09,035 - logger - INFO - request status: Successful
+2025-06-13 18:45:09,037 - logger - INFO - Successful dumping
+2025-06-13 18:45:09,038 - logger - INFO - retrieve station information
+2025-06-13 18:45:10,301 - logger - INFO - request status: Successful
+2025-06-13 18:45:10,320 - logger - INFO - Successful dumping
+2025-06-13 18:45:10,321 - logger - INFO - ------
