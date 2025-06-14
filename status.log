@@ -1032,3 +1032,11 @@
 2025-06-14 04:42:32,357 - logger - INFO - request status: Successful
 2025-06-14 04:42:32,376 - logger - INFO - Successful dumping
 2025-06-14 04:42:32,377 - logger - INFO - ------
+2025-06-14 05:37:59,523 - logger - INFO - ------
+2025-06-14 05:37:59,523 - logger - INFO - retrieve station status
+2025-06-14 05:37:59,860 - logger - INFO - request status: Successful
+2025-06-14 05:37:59,863 - logger - INFO - Successful dumping
+2025-06-14 05:37:59,863 - logger - INFO - retrieve station information
+2025-06-14 05:38:00,571 - logger - INFO - request status: Successful
+2025-06-14 05:38:00,590 - logger - INFO - Successful dumping
+2025-06-14 05:38:00,591 - logger - INFO - ------
