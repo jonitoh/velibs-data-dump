@@ -1200,3 +1200,11 @@
 2025-06-15 04:01:31,459 - logger - INFO - request status: Successful
 2025-06-15 04:01:31,479 - logger - INFO - Successful dumping
 2025-06-15 04:01:31,480 - logger - INFO - ------
+2025-06-15 04:46:13,404 - logger - INFO - ------
+2025-06-15 04:46:13,405 - logger - INFO - retrieve station status
+2025-06-15 04:46:14,088 - logger - INFO - request status: Successful
+2025-06-15 04:46:14,091 - logger - INFO - Successful dumping
+2025-06-15 04:46:14,091 - logger - INFO - retrieve station information
+2025-06-15 04:46:15,377 - logger - INFO - request status: Successful
+2025-06-15 04:46:15,396 - logger - INFO - Successful dumping
+2025-06-15 04:46:15,397 - logger - INFO - ------
