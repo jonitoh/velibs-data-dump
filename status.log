@@ -1432,3 +1432,11 @@
 2025-06-16 10:43:16,184 - logger - INFO - request status: Successful
 2025-06-16 10:43:16,203 - logger - INFO - Successful dumping
 2025-06-16 10:43:16,204 - logger - INFO - ------
+2025-06-16 11:31:54,245 - logger - INFO - ------
+2025-06-16 11:31:54,245 - logger - INFO - retrieve station status
+2025-06-16 11:31:54,636 - logger - INFO - request status: Successful
+2025-06-16 11:31:54,639 - logger - INFO - Successful dumping
+2025-06-16 11:31:54,639 - logger - INFO - retrieve station information
+2025-06-16 11:31:55,561 - logger - INFO - request status: Successful
+2025-06-16 11:31:55,580 - logger - INFO - Successful dumping
+2025-06-16 11:31:55,581 - logger - INFO - ------
