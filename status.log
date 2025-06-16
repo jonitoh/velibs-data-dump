@@ -1424,3 +1424,11 @@
 2025-06-16 09:40:10,751 - logger - INFO - request status: Successful
 2025-06-16 09:40:10,771 - logger - INFO - Successful dumping
 2025-06-16 09:40:10,771 - logger - INFO - ------
+2025-06-16 10:43:14,910 - logger - INFO - ------
+2025-06-16 10:43:14,910 - logger - INFO - retrieve station status
+2025-06-16 10:43:15,383 - logger - INFO - request status: Successful
+2025-06-16 10:43:15,385 - logger - INFO - Successful dumping
+2025-06-16 10:43:15,386 - logger - INFO - retrieve station information
+2025-06-16 10:43:16,184 - logger - INFO - request status: Successful
+2025-06-16 10:43:16,203 - logger - INFO - Successful dumping
+2025-06-16 10:43:16,204 - logger - INFO - ------
