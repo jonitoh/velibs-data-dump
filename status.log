@@ -1392,3 +1392,11 @@
 2025-06-16 05:41:08,283 - logger - INFO - request status: Successful
 2025-06-16 05:41:08,303 - logger - INFO - Successful dumping
 2025-06-16 05:41:08,303 - logger - INFO - ------
+2025-06-16 06:48:42,862 - logger - INFO - ------
+2025-06-16 06:48:42,862 - logger - INFO - retrieve station status
+2025-06-16 06:48:43,158 - logger - INFO - request status: Successful
+2025-06-16 06:48:43,161 - logger - INFO - Successful dumping
+2025-06-16 06:48:43,161 - logger - INFO - retrieve station information
+2025-06-16 06:48:43,912 - logger - INFO - request status: Successful
+2025-06-16 06:48:43,931 - logger - INFO - Successful dumping
+2025-06-16 06:48:43,932 - logger - INFO - ------
