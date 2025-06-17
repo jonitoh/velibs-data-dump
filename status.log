@@ -1600,3 +1600,11 @@
 2025-06-17 09:38:40,117 - logger - INFO - request status: Successful
 2025-06-17 09:38:40,136 - logger - INFO - Successful dumping
 2025-06-17 09:38:40,137 - logger - INFO - ------
+2025-06-17 10:42:25,552 - logger - INFO - ------
+2025-06-17 10:42:25,552 - logger - INFO - retrieve station status
+2025-06-17 10:42:26,053 - logger - INFO - request status: Successful
+2025-06-17 10:42:26,056 - logger - INFO - Successful dumping
+2025-06-17 10:42:26,056 - logger - INFO - retrieve station information
+2025-06-17 10:42:26,861 - logger - INFO - request status: Successful
+2025-06-17 10:42:26,880 - logger - INFO - Successful dumping
+2025-06-17 10:42:26,881 - logger - INFO - ------
