@@ -1800,3 +1800,11 @@
 2025-06-18 13:03:45,361 - logger - INFO - request status: Successful
 2025-06-18 13:03:45,380 - logger - INFO - Successful dumping
 2025-06-18 13:03:45,381 - logger - INFO - ------
+2025-06-18 13:47:28,195 - logger - INFO - ------
+2025-06-18 13:47:28,196 - logger - INFO - retrieve station status
+2025-06-18 13:47:28,681 - logger - INFO - request status: Successful
+2025-06-18 13:47:28,684 - logger - INFO - Successful dumping
+2025-06-18 13:47:28,684 - logger - INFO - retrieve station information
+2025-06-18 13:47:30,012 - logger - INFO - request status: Successful
+2025-06-18 13:47:30,032 - logger - INFO - Successful dumping
+2025-06-18 13:47:30,032 - logger - INFO - ------
