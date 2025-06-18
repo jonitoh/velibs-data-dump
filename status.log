@@ -1824,3 +1824,11 @@
 2025-06-18 15:39:50,643 - logger - INFO - request status: Successful
 2025-06-18 15:39:50,662 - logger - INFO - Successful dumping
 2025-06-18 15:39:50,663 - logger - INFO - ------
+2025-06-18 16:45:20,904 - logger - INFO - ------
+2025-06-18 16:45:20,905 - logger - INFO - retrieve station status
+2025-06-18 16:45:21,222 - logger - INFO - request status: Successful
+2025-06-18 16:45:21,224 - logger - INFO - Successful dumping
+2025-06-18 16:45:21,224 - logger - INFO - retrieve station information
+2025-06-18 16:45:22,107 - logger - INFO - request status: Successful
+2025-06-18 16:45:22,126 - logger - INFO - Successful dumping
+2025-06-18 16:45:22,127 - logger - INFO - ------
