@@ -2032,3 +2032,11 @@
 2025-06-19 19:27:58,491 - logger - INFO - request status: Successful
 2025-06-19 19:27:58,510 - logger - INFO - Successful dumping
 2025-06-19 19:27:58,511 - logger - INFO - ------
+2025-06-19 20:38:02,038 - logger - INFO - ------
+2025-06-19 20:38:02,038 - logger - INFO - retrieve station status
+2025-06-19 20:38:02,521 - logger - INFO - request status: Successful
+2025-06-19 20:38:02,524 - logger - INFO - Successful dumping
+2025-06-19 20:38:02,524 - logger - INFO - retrieve station information
+2025-06-19 20:38:03,827 - logger - INFO - request status: Successful
+2025-06-19 20:38:03,846 - logger - INFO - Successful dumping
+2025-06-19 20:38:03,847 - logger - INFO - ------
