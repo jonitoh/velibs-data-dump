@@ -1968,3 +1968,11 @@
 2025-06-19 11:32:06,795 - logger - INFO - request status: Successful
 2025-06-19 11:32:06,814 - logger - INFO - Successful dumping
 2025-06-19 11:32:06,815 - logger - INFO - ------
+2025-06-19 13:02:39,663 - logger - INFO - ------
+2025-06-19 13:02:39,663 - logger - INFO - retrieve station status
+2025-06-19 13:02:39,970 - logger - INFO - request status: Successful
+2025-06-19 13:02:39,973 - logger - INFO - Successful dumping
+2025-06-19 13:02:39,973 - logger - INFO - retrieve station information
+2025-06-19 13:02:40,915 - logger - INFO - request status: Successful
+2025-06-19 13:02:40,934 - logger - INFO - Successful dumping
+2025-06-19 13:02:40,934 - logger - INFO - ------
