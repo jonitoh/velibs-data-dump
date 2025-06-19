@@ -1960,3 +1960,11 @@
 2025-06-19 10:42:05,546 - logger - INFO - request status: Successful
 2025-06-19 10:42:05,565 - logger - INFO - Successful dumping
 2025-06-19 10:42:05,565 - logger - INFO - ------
+2025-06-19 11:32:05,576 - logger - INFO - ------
+2025-06-19 11:32:05,576 - logger - INFO - retrieve station status
+2025-06-19 11:32:05,988 - logger - INFO - request status: Successful
+2025-06-19 11:32:05,991 - logger - INFO - Successful dumping
+2025-06-19 11:32:05,991 - logger - INFO - retrieve station information
+2025-06-19 11:32:06,795 - logger - INFO - request status: Successful
+2025-06-19 11:32:06,814 - logger - INFO - Successful dumping
+2025-06-19 11:32:06,815 - logger - INFO - ------
