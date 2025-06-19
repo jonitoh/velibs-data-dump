@@ -1976,3 +1976,11 @@
 2025-06-19 13:02:40,915 - logger - INFO - request status: Successful
 2025-06-19 13:02:40,934 - logger - INFO - Successful dumping
 2025-06-19 13:02:40,934 - logger - INFO - ------
+2025-06-19 13:45:17,370 - logger - INFO - ------
+2025-06-19 13:45:17,370 - logger - INFO - retrieve station status
+2025-06-19 13:45:17,884 - logger - INFO - request status: Successful
+2025-06-19 13:45:17,887 - logger - INFO - Successful dumping
+2025-06-19 13:45:17,887 - logger - INFO - retrieve station information
+2025-06-19 13:45:19,197 - logger - INFO - request status: Successful
+2025-06-19 13:45:19,216 - logger - INFO - Successful dumping
+2025-06-19 13:45:19,217 - logger - INFO - ------
