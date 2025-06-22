@@ -2480,3 +2480,11 @@
 2025-06-22 09:33:42,982 - logger - INFO - request status: Successful
 2025-06-22 09:33:43,001 - logger - INFO - Successful dumping
 2025-06-22 09:33:43,001 - logger - INFO - ------
+2025-06-22 10:39:11,161 - logger - INFO - ------
+2025-06-22 10:39:11,161 - logger - INFO - retrieve station status
+2025-06-22 10:39:11,605 - logger - INFO - request status: Successful
+2025-06-22 10:39:11,607 - logger - INFO - Successful dumping
+2025-06-22 10:39:11,608 - logger - INFO - retrieve station information
+2025-06-22 10:39:12,897 - logger - INFO - request status: Successful
+2025-06-22 10:39:12,916 - logger - INFO - Successful dumping
+2025-06-22 10:39:12,917 - logger - INFO - ------
