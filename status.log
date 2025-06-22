@@ -2424,3 +2424,11 @@
 2025-06-22 02:32:11,280 - logger - INFO - request status: Successful
 2025-06-22 02:32:11,300 - logger - INFO - Successful dumping
 2025-06-22 02:32:11,300 - logger - INFO - ------
+2025-06-22 04:02:57,903 - logger - INFO - ------
+2025-06-22 04:02:57,903 - logger - INFO - retrieve station status
+2025-06-22 04:02:58,380 - logger - INFO - request status: Successful
+2025-06-22 04:02:58,383 - logger - INFO - Successful dumping
+2025-06-22 04:02:58,383 - logger - INFO - retrieve station information
+2025-06-22 04:02:59,752 - logger - INFO - request status: Successful
+2025-06-22 04:02:59,771 - logger - INFO - Successful dumping
+2025-06-22 04:02:59,771 - logger - INFO - ------
