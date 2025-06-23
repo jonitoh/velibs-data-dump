@@ -2744,3 +2744,11 @@
 2025-06-23 20:38:05,312 - logger - INFO - request status: Successful
 2025-06-23 20:38:05,331 - logger - INFO - Successful dumping
 2025-06-23 20:38:05,331 - logger - INFO - ------
+2025-06-23 21:33:21,652 - logger - INFO - ------
+2025-06-23 21:33:21,652 - logger - INFO - retrieve station status
+2025-06-23 21:33:22,124 - logger - INFO - request status: Successful
+2025-06-23 21:33:22,127 - logger - INFO - Successful dumping
+2025-06-23 21:33:22,127 - logger - INFO - retrieve station information
+2025-06-23 21:33:23,066 - logger - INFO - request status: Successful
+2025-06-23 21:33:23,085 - logger - INFO - Successful dumping
+2025-06-23 21:33:23,086 - logger - INFO - ------
