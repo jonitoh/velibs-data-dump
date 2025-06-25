@@ -2960,3 +2960,11 @@
 2025-06-25 04:01:33,700 - logger - INFO - request status: Successful
 2025-06-25 04:01:33,720 - logger - INFO - Successful dumping
 2025-06-25 04:01:33,721 - logger - INFO - ------
+2025-06-25 04:46:40,606 - logger - INFO - ------
+2025-06-25 04:46:40,607 - logger - INFO - retrieve station status
+2025-06-25 04:46:41,091 - logger - INFO - request status: Successful
+2025-06-25 04:46:41,094 - logger - INFO - Successful dumping
+2025-06-25 04:46:41,094 - logger - INFO - retrieve station information
+2025-06-25 04:46:42,015 - logger - INFO - request status: Successful
+2025-06-25 04:46:42,034 - logger - INFO - Successful dumping
+2025-06-25 04:46:42,035 - logger - INFO - ------
