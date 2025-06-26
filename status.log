@@ -3208,3 +3208,11 @@
 2025-06-26 13:04:06,604 - logger - INFO - request status: Successful
 2025-06-26 13:04:06,624 - logger - INFO - Successful dumping
 2025-06-26 13:04:06,624 - logger - INFO - ------
+2025-06-26 13:46:31,019 - logger - INFO - ------
+2025-06-26 13:46:31,019 - logger - INFO - retrieve station status
+2025-06-26 13:46:31,549 - logger - INFO - request status: Successful
+2025-06-26 13:46:31,551 - logger - INFO - Successful dumping
+2025-06-26 13:46:31,551 - logger - INFO - retrieve station information
+2025-06-26 13:46:32,849 - logger - INFO - request status: Successful
+2025-06-26 13:46:32,868 - logger - INFO - Successful dumping
+2025-06-26 13:46:32,868 - logger - INFO - ------
