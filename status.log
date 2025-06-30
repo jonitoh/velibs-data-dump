@@ -3840,3 +3840,11 @@
 2025-06-30 04:04:25,787 - logger - INFO - request status: Successful
 2025-06-30 04:04:25,806 - logger - INFO - Successful dumping
 2025-06-30 04:04:25,807 - logger - INFO - ------
+2025-06-30 04:49:05,845 - logger - INFO - ------
+2025-06-30 04:49:05,845 - logger - INFO - retrieve station status
+2025-06-30 04:49:06,219 - logger - INFO - request status: Successful
+2025-06-30 04:49:06,221 - logger - INFO - Successful dumping
+2025-06-30 04:49:06,222 - logger - INFO - retrieve station information
+2025-06-30 04:49:06,982 - logger - INFO - request status: Successful
+2025-06-30 04:49:07,001 - logger - INFO - Successful dumping
+2025-06-30 04:49:07,001 - logger - INFO - ------
