@@ -3912,3 +3912,11 @@
 2025-06-30 13:03:59,844 - logger - INFO - request status: Successful
 2025-06-30 13:03:59,863 - logger - INFO - Successful dumping
 2025-06-30 13:03:59,864 - logger - INFO - ------
+2025-06-30 13:46:57,713 - logger - INFO - ------
+2025-06-30 13:46:57,714 - logger - INFO - retrieve station status
+2025-06-30 13:46:58,159 - logger - INFO - request status: Successful
+2025-06-30 13:46:58,161 - logger - INFO - Successful dumping
+2025-06-30 13:46:58,162 - logger - INFO - retrieve station information
+2025-06-30 13:46:58,706 - logger - INFO - request status: Successful
+2025-06-30 13:46:58,725 - logger - INFO - Successful dumping
+2025-06-30 13:46:58,726 - logger - INFO - ------
