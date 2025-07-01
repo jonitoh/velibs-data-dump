@@ -4088,3 +4088,11 @@
 2025-07-01 13:04:00,167 - logger - INFO - request status: Successful
 2025-07-01 13:04:00,187 - logger - INFO - Successful dumping
 2025-07-01 13:04:00,187 - logger - INFO - ------
+2025-07-01 13:47:01,399 - logger - INFO - ------
+2025-07-01 13:47:01,399 - logger - INFO - retrieve station status
+2025-07-01 13:47:01,828 - logger - INFO - request status: Successful
+2025-07-01 13:47:01,830 - logger - INFO - Successful dumping
+2025-07-01 13:47:01,830 - logger - INFO - retrieve station information
+2025-07-01 13:47:03,000 - logger - INFO - request status: Successful
+2025-07-01 13:47:03,019 - logger - INFO - Successful dumping
+2025-07-01 13:47:03,019 - logger - INFO - ------
