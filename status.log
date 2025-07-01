@@ -4080,3 +4080,11 @@
 2025-07-01 11:32:11,099 - logger - INFO - request status: Successful
 2025-07-01 11:32:11,119 - logger - INFO - Successful dumping
 2025-07-01 11:32:11,119 - logger - INFO - ------
+2025-07-01 13:03:58,326 - logger - INFO - ------
+2025-07-01 13:03:58,326 - logger - INFO - retrieve station status
+2025-07-01 13:03:58,857 - logger - INFO - request status: Successful
+2025-07-01 13:03:58,859 - logger - INFO - Successful dumping
+2025-07-01 13:03:58,860 - logger - INFO - retrieve station information
+2025-07-01 13:04:00,167 - logger - INFO - request status: Successful
+2025-07-01 13:04:00,187 - logger - INFO - Successful dumping
+2025-07-01 13:04:00,187 - logger - INFO - ------
