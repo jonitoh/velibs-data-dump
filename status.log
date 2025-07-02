@@ -4264,3 +4264,11 @@
 2025-07-02 13:03:47,870 - logger - INFO - request status: Successful
 2025-07-02 13:03:47,889 - logger - INFO - Successful dumping
 2025-07-02 13:03:47,889 - logger - INFO - ------
+2025-07-02 13:46:03,955 - logger - INFO - ------
+2025-07-02 13:46:03,955 - logger - INFO - retrieve station status
+2025-07-02 13:46:04,353 - logger - INFO - request status: Successful
+2025-07-02 13:46:04,356 - logger - INFO - Successful dumping
+2025-07-02 13:46:04,356 - logger - INFO - retrieve station information
+2025-07-02 13:46:05,243 - logger - INFO - request status: Successful
+2025-07-02 13:46:05,262 - logger - INFO - Successful dumping
+2025-07-02 13:46:05,263 - logger - INFO - ------
