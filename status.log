@@ -5656,3 +5656,11 @@
 2025-07-10 10:43:18,657 - logger - INFO - request status: Successful
 2025-07-10 10:43:18,676 - logger - INFO - Successful dumping
 2025-07-10 10:43:18,676 - logger - INFO - ------
+2025-07-10 11:32:43,999 - logger - INFO - ------
+2025-07-10 11:32:44,000 - logger - INFO - retrieve station status
+2025-07-10 11:32:44,534 - logger - INFO - request status: Successful
+2025-07-10 11:32:44,537 - logger - INFO - Successful dumping
+2025-07-10 11:32:44,537 - logger - INFO - retrieve station information
+2025-07-10 11:32:45,802 - logger - INFO - request status: Successful
+2025-07-10 11:32:45,821 - logger - INFO - Successful dumping
+2025-07-10 11:32:45,821 - logger - INFO - ------
