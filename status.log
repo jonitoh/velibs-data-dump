@@ -5672,3 +5672,11 @@
 2025-07-10 13:04:50,110 - logger - INFO - request status: Successful
 2025-07-10 13:04:50,130 - logger - INFO - Successful dumping
 2025-07-10 13:04:50,130 - logger - INFO - ------
+2025-07-10 13:48:49,766 - logger - INFO - ------
+2025-07-10 13:48:49,767 - logger - INFO - retrieve station status
+2025-07-10 13:48:50,168 - logger - INFO - request status: Successful
+2025-07-10 13:48:50,171 - logger - INFO - Successful dumping
+2025-07-10 13:48:50,171 - logger - INFO - retrieve station information
+2025-07-10 13:48:50,969 - logger - INFO - request status: Successful
+2025-07-10 13:48:50,989 - logger - INFO - Successful dumping
+2025-07-10 13:48:50,989 - logger - INFO - ------
