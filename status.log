@@ -5720,3 +5720,11 @@
 2025-07-10 18:46:53,974 - logger - INFO - request status: Successful
 2025-07-10 18:46:53,993 - logger - INFO - Successful dumping
 2025-07-10 18:46:53,994 - logger - INFO - ------
+2025-07-10 19:30:21,123 - logger - INFO - ------
+2025-07-10 19:30:21,123 - logger - INFO - retrieve station status
+2025-07-10 19:30:21,499 - logger - INFO - request status: Successful
+2025-07-10 19:30:21,502 - logger - INFO - Successful dumping
+2025-07-10 19:30:21,502 - logger - INFO - retrieve station information
+2025-07-10 19:30:22,282 - logger - INFO - request status: Successful
+2025-07-10 19:30:22,301 - logger - INFO - Successful dumping
+2025-07-10 19:30:22,302 - logger - INFO - ------
