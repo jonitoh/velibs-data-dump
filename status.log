@@ -5848,3 +5848,11 @@
 2025-07-11 13:03:26,456 - logger - INFO - request status: Successful
 2025-07-11 13:03:26,475 - logger - INFO - Successful dumping
 2025-07-11 13:03:26,475 - logger - INFO - ------
+2025-07-11 13:46:11,152 - logger - INFO - ------
+2025-07-11 13:46:11,153 - logger - INFO - retrieve station status
+2025-07-11 13:46:11,555 - logger - INFO - request status: Successful
+2025-07-11 13:46:11,559 - logger - INFO - Successful dumping
+2025-07-11 13:46:11,559 - logger - INFO - retrieve station information
+2025-07-11 13:46:12,376 - logger - INFO - request status: Successful
+2025-07-11 13:46:12,396 - logger - INFO - Successful dumping
+2025-07-11 13:46:12,396 - logger - INFO - ------
