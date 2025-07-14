@@ -6456,3 +6456,11 @@
 2025-07-14 22:41:45,516 - logger - INFO - request status: Successful
 2025-07-14 22:41:45,535 - logger - INFO - Successful dumping
 2025-07-14 22:41:45,536 - logger - INFO - ------
+2025-07-14 23:33:44,345 - logger - INFO - ------
+2025-07-14 23:33:44,345 - logger - INFO - retrieve station status
+2025-07-14 23:33:44,725 - logger - INFO - request status: Successful
+2025-07-14 23:33:44,728 - logger - INFO - Successful dumping
+2025-07-14 23:33:44,728 - logger - INFO - retrieve station information
+2025-07-14 23:33:45,584 - logger - INFO - request status: Successful
+2025-07-14 23:33:45,603 - logger - INFO - Successful dumping
+2025-07-14 23:33:45,603 - logger - INFO - ------
