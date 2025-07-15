@@ -6536,3 +6536,11 @@
 2025-07-15 10:44:09,233 - logger - INFO - request status: Successful
 2025-07-15 10:44:09,252 - logger - INFO - Successful dumping
 2025-07-15 10:44:09,253 - logger - INFO - ------
+2025-07-15 11:32:59,390 - logger - INFO - ------
+2025-07-15 11:32:59,390 - logger - INFO - retrieve station status
+2025-07-15 11:32:59,908 - logger - INFO - request status: Successful
+2025-07-15 11:32:59,911 - logger - INFO - Successful dumping
+2025-07-15 11:32:59,911 - logger - INFO - retrieve station information
+2025-07-15 11:33:00,654 - logger - INFO - request status: Successful
+2025-07-15 11:33:00,673 - logger - INFO - Successful dumping
+2025-07-15 11:33:00,673 - logger - INFO - ------
