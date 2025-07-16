@@ -6760,3 +6760,11 @@
 2025-07-16 16:47:29,208 - logger - INFO - request status: Successful
 2025-07-16 16:47:29,227 - logger - INFO - Successful dumping
 2025-07-16 16:47:29,227 - logger - INFO - ------
+2025-07-16 17:41:42,231 - logger - INFO - ------
+2025-07-16 17:41:42,231 - logger - INFO - retrieve station status
+2025-07-16 17:41:42,679 - logger - INFO - request status: Successful
+2025-07-16 17:41:42,681 - logger - INFO - Successful dumping
+2025-07-16 17:41:42,681 - logger - INFO - retrieve station information
+2025-07-16 17:41:43,567 - logger - INFO - request status: Successful
+2025-07-16 17:41:43,587 - logger - INFO - Successful dumping
+2025-07-16 17:41:43,587 - logger - INFO - ------
