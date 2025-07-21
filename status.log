@@ -7600,3 +7600,11 @@
 2025-07-21 11:33:43,147 - logger - INFO - request status: Successful
 2025-07-21 11:33:43,166 - logger - INFO - Successful dumping
 2025-07-21 11:33:43,167 - logger - INFO - ------
+2025-07-21 13:07:54,530 - logger - INFO - ------
+2025-07-21 13:07:54,530 - logger - INFO - retrieve station status
+2025-07-21 13:07:55,064 - logger - INFO - request status: Successful
+2025-07-21 13:07:55,067 - logger - INFO - Successful dumping
+2025-07-21 13:07:55,067 - logger - INFO - retrieve station information
+2025-07-21 13:07:55,991 - logger - INFO - request status: Successful
+2025-07-21 13:07:56,011 - logger - INFO - Successful dumping
+2025-07-21 13:07:56,011 - logger - INFO - ------
