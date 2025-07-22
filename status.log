@@ -7704,3 +7704,11 @@
 2025-07-22 02:31:52,041 - logger - INFO - request status: Successful
 2025-07-22 02:31:52,061 - logger - INFO - Successful dumping
 2025-07-22 02:31:52,061 - logger - INFO - ------
+2025-07-22 04:09:35,560 - logger - INFO - ------
+2025-07-22 04:09:35,560 - logger - INFO - retrieve station status
+2025-07-22 04:09:36,040 - logger - INFO - request status: Successful
+2025-07-22 04:09:36,043 - logger - INFO - Successful dumping
+2025-07-22 04:09:36,043 - logger - INFO - retrieve station information
+2025-07-22 04:09:36,840 - logger - INFO - request status: Successful
+2025-07-22 04:09:36,859 - logger - INFO - Successful dumping
+2025-07-22 04:09:36,860 - logger - INFO - ------
