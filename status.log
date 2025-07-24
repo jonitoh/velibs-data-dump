@@ -8136,3 +8136,11 @@
 2025-07-24 13:07:26,603 - logger - INFO - request status: Successful
 2025-07-24 13:07:26,622 - logger - INFO - Successful dumping
 2025-07-24 13:07:26,623 - logger - INFO - ------
+2025-07-24 13:52:19,188 - logger - INFO - ------
+2025-07-24 13:52:19,189 - logger - INFO - retrieve station status
+2025-07-24 13:52:19,676 - logger - INFO - request status: Successful
+2025-07-24 13:52:19,679 - logger - INFO - Successful dumping
+2025-07-24 13:52:19,679 - logger - INFO - retrieve station information
+2025-07-24 13:52:20,863 - logger - INFO - request status: Successful
+2025-07-24 13:52:20,882 - logger - INFO - Successful dumping
+2025-07-24 13:52:20,883 - logger - INFO - ------
