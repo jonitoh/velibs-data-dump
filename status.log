@@ -8384,3 +8384,11 @@
 2025-07-25 21:35:16,001 - logger - INFO - request status: Successful
 2025-07-25 21:35:16,021 - logger - INFO - Successful dumping
 2025-07-25 21:35:16,021 - logger - INFO - ------
+2025-07-25 22:41:01,546 - logger - INFO - ------
+2025-07-25 22:41:01,547 - logger - INFO - retrieve station status
+2025-07-25 22:41:01,950 - logger - INFO - request status: Successful
+2025-07-25 22:41:01,955 - logger - INFO - Successful dumping
+2025-07-25 22:41:01,956 - logger - INFO - retrieve station information
+2025-07-25 22:41:02,777 - logger - INFO - request status: Successful
+2025-07-25 22:41:02,796 - logger - INFO - Successful dumping
+2025-07-25 22:41:02,797 - logger - INFO - ------
