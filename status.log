@@ -8352,3 +8352,11 @@
 2025-07-25 17:41:21,878 - logger - INFO - request status: Successful
 2025-07-25 17:41:21,897 - logger - INFO - Successful dumping
 2025-07-25 17:41:21,897 - logger - INFO - ------
+2025-07-25 18:48:51,884 - logger - INFO - ------
+2025-07-25 18:48:51,884 - logger - INFO - retrieve station status
+2025-07-25 18:48:52,232 - logger - INFO - request status: Successful
+2025-07-25 18:48:52,234 - logger - INFO - Successful dumping
+2025-07-25 18:48:52,234 - logger - INFO - retrieve station information
+2025-07-25 18:48:53,184 - logger - INFO - request status: Successful
+2025-07-25 18:48:53,204 - logger - INFO - Successful dumping
+2025-07-25 18:48:53,204 - logger - INFO - ------
