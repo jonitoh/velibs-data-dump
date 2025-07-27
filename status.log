@@ -8656,3 +8656,11 @@
 2025-07-27 11:31:34,359 - logger - INFO - request status: Successful
 2025-07-27 11:31:34,378 - logger - INFO - Successful dumping
 2025-07-27 11:31:34,379 - logger - INFO - ------
+2025-07-27 13:02:43,609 - logger - INFO - ------
+2025-07-27 13:02:43,609 - logger - INFO - retrieve station status
+2025-07-27 13:02:44,041 - logger - INFO - request status: Successful
+2025-07-27 13:02:44,044 - logger - INFO - Successful dumping
+2025-07-27 13:02:44,044 - logger - INFO - retrieve station information
+2025-07-27 13:02:44,832 - logger - INFO - request status: Successful
+2025-07-27 13:02:44,852 - logger - INFO - Successful dumping
+2025-07-27 13:02:44,852 - logger - INFO - ------
