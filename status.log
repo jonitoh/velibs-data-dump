@@ -8688,3 +8688,11 @@
 2025-07-27 15:36:38,454 - logger - INFO - request status: Successful
 2025-07-27 15:36:38,473 - logger - INFO - Successful dumping
 2025-07-27 15:36:38,474 - logger - INFO - ------
+2025-07-27 16:44:09,695 - logger - INFO - ------
+2025-07-27 16:44:09,695 - logger - INFO - retrieve station status
+2025-07-27 16:44:10,142 - logger - INFO - request status: Successful
+2025-07-27 16:44:10,145 - logger - INFO - Successful dumping
+2025-07-27 16:44:10,145 - logger - INFO - retrieve station information
+2025-07-27 16:44:10,934 - logger - INFO - request status: Successful
+2025-07-27 16:44:10,954 - logger - INFO - Successful dumping
+2025-07-27 16:44:10,955 - logger - INFO - ------
