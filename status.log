@@ -9360,3 +9360,11 @@
 2025-07-31 13:07:45,533 - logger - INFO - request status: Successful
 2025-07-31 13:07:45,553 - logger - INFO - Successful dumping
 2025-07-31 13:07:45,553 - logger - INFO - ------
+2025-07-31 13:52:54,638 - logger - INFO - ------
+2025-07-31 13:52:54,638 - logger - INFO - retrieve station status
+2025-07-31 13:52:55,107 - logger - INFO - request status: Successful
+2025-07-31 13:52:55,110 - logger - INFO - Successful dumping
+2025-07-31 13:52:55,110 - logger - INFO - retrieve station information
+2025-07-31 13:52:56,030 - logger - INFO - request status: Successful
+2025-07-31 13:52:56,052 - logger - INFO - Successful dumping
+2025-07-31 13:52:56,052 - logger - INFO - ------
