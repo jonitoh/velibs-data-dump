@@ -9872,3 +9872,11 @@
 2025-08-03 13:05:12,183 - logger - INFO - request status: Successful
 2025-08-03 13:05:12,203 - logger - INFO - Successful dumping
 2025-08-03 13:05:12,203 - logger - INFO - ------
+2025-08-03 13:46:32,150 - logger - INFO - ------
+2025-08-03 13:46:32,150 - logger - INFO - retrieve station status
+2025-08-03 13:46:32,710 - logger - INFO - request status: Successful
+2025-08-03 13:46:32,713 - logger - INFO - Successful dumping
+2025-08-03 13:46:32,713 - logger - INFO - retrieve station information
+2025-08-03 13:46:34,024 - logger - INFO - request status: Successful
+2025-08-03 13:46:34,044 - logger - INFO - Successful dumping
+2025-08-03 13:46:34,045 - logger - INFO - ------
