@@ -9824,3 +9824,11 @@
 2025-08-03 06:48:15,117 - logger - INFO - request status: Successful
 2025-08-03 06:48:15,137 - logger - INFO - Successful dumping
 2025-08-03 06:48:15,137 - logger - INFO - ------
+2025-08-03 07:33:59,688 - logger - INFO - ------
+2025-08-03 07:33:59,688 - logger - INFO - retrieve station status
+2025-08-03 07:34:00,161 - logger - INFO - request status: Successful
+2025-08-03 07:34:00,164 - logger - INFO - Successful dumping
+2025-08-03 07:34:00,164 - logger - INFO - retrieve station information
+2025-08-03 07:34:00,933 - logger - INFO - request status: Successful
+2025-08-03 07:34:00,953 - logger - INFO - Successful dumping
+2025-08-03 07:34:00,953 - logger - INFO - ------
