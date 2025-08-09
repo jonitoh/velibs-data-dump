@@ -10840,3 +10840,11 @@
 2025-08-09 02:23:12,405 - logger - INFO - request status: Successful
 2025-08-09 02:23:12,424 - logger - INFO - Successful dumping
 2025-08-09 02:23:12,424 - logger - INFO - ------
+2025-08-09 04:00:51,077 - logger - INFO - ------
+2025-08-09 04:00:51,077 - logger - INFO - retrieve station status
+2025-08-09 04:00:51,447 - logger - INFO - request status: Successful
+2025-08-09 04:00:51,450 - logger - INFO - Successful dumping
+2025-08-09 04:00:51,450 - logger - INFO - retrieve station information
+2025-08-09 04:00:52,335 - logger - INFO - request status: Successful
+2025-08-09 04:00:52,354 - logger - INFO - Successful dumping
+2025-08-09 04:00:52,355 - logger - INFO - ------
