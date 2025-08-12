@@ -11392,3 +11392,11 @@
 2025-08-12 05:39:21,001 - logger - INFO - request status: Successful
 2025-08-12 05:39:21,021 - logger - INFO - Successful dumping
 2025-08-12 05:39:21,021 - logger - INFO - ------
+2025-08-12 06:48:56,105 - logger - INFO - ------
+2025-08-12 06:48:56,105 - logger - INFO - retrieve station status
+2025-08-12 06:48:56,532 - logger - INFO - request status: Successful
+2025-08-12 06:48:56,535 - logger - INFO - Successful dumping
+2025-08-12 06:48:56,535 - logger - INFO - retrieve station information
+2025-08-12 06:48:57,588 - logger - INFO - request status: Successful
+2025-08-12 06:48:57,608 - logger - INFO - Successful dumping
+2025-08-12 06:48:57,609 - logger - INFO - ------
