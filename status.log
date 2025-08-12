@@ -11448,3 +11448,11 @@
 2025-08-12 13:04:34,566 - logger - INFO - request status: Successful
 2025-08-12 13:04:34,586 - logger - INFO - Successful dumping
 2025-08-12 13:04:34,586 - logger - INFO - ------
+2025-08-12 13:48:09,606 - logger - INFO - ------
+2025-08-12 13:48:09,606 - logger - INFO - retrieve station status
+2025-08-12 13:48:10,037 - logger - INFO - request status: Successful
+2025-08-12 13:48:10,040 - logger - INFO - Successful dumping
+2025-08-12 13:48:10,040 - logger - INFO - retrieve station information
+2025-08-12 13:48:10,850 - logger - INFO - request status: Successful
+2025-08-12 13:48:10,871 - logger - INFO - Successful dumping
+2025-08-12 13:48:10,871 - logger - INFO - ------
