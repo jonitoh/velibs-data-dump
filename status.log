@@ -11728,3 +11728,11 @@
 2025-08-14 04:01:26,228 - logger - INFO - request status: Successful
 2025-08-14 04:01:26,247 - logger - INFO - Successful dumping
 2025-08-14 04:01:26,248 - logger - INFO - ------
+2025-08-14 04:47:04,409 - logger - INFO - ------
+2025-08-14 04:47:04,409 - logger - INFO - retrieve station status
+2025-08-14 04:47:04,734 - logger - INFO - request status: Successful
+2025-08-14 04:47:04,736 - logger - INFO - Successful dumping
+2025-08-14 04:47:04,737 - logger - INFO - retrieve station information
+2025-08-14 04:47:05,524 - logger - INFO - request status: Successful
+2025-08-14 04:47:05,543 - logger - INFO - Successful dumping
+2025-08-14 04:47:05,544 - logger - INFO - ------
