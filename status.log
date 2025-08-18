@@ -12504,3 +12504,11 @@
 2025-08-18 13:06:27,563 - logger - INFO - request status: Successful
 2025-08-18 13:06:27,583 - logger - INFO - Successful dumping
 2025-08-18 13:06:27,583 - logger - INFO - ------
+2025-08-18 13:50:17,568 - logger - INFO - ------
+2025-08-18 13:50:17,568 - logger - INFO - retrieve station status
+2025-08-18 13:50:17,999 - logger - INFO - request status: Successful
+2025-08-18 13:50:18,002 - logger - INFO - Successful dumping
+2025-08-18 13:50:18,002 - logger - INFO - retrieve station information
+2025-08-18 13:50:19,223 - logger - INFO - request status: Successful
+2025-08-18 13:50:19,242 - logger - INFO - Successful dumping
+2025-08-18 13:50:19,243 - logger - INFO - ------
