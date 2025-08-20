@@ -12936,3 +12936,11 @@
 2025-08-20 21:32:16,365 - logger - INFO - request status: Successful
 2025-08-20 21:32:16,384 - logger - INFO - Successful dumping
 2025-08-20 21:32:16,385 - logger - INFO - ------
+2025-08-20 22:34:48,495 - logger - INFO - ------
+2025-08-20 22:34:48,495 - logger - INFO - retrieve station status
+2025-08-20 22:34:49,012 - logger - INFO - request status: Successful
+2025-08-20 22:34:49,014 - logger - INFO - Successful dumping
+2025-08-20 22:34:49,015 - logger - INFO - retrieve station information
+2025-08-20 22:34:50,323 - logger - INFO - request status: Successful
+2025-08-20 22:34:50,342 - logger - INFO - Successful dumping
+2025-08-20 22:34:50,343 - logger - INFO - ------
