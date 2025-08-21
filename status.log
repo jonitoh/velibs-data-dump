@@ -13048,3 +13048,11 @@
 2025-08-21 13:01:02,860 - logger - INFO - request status: Successful
 2025-08-21 13:01:02,879 - logger - INFO - Successful dumping
 2025-08-21 13:01:02,880 - logger - INFO - ------
+2025-08-21 13:43:38,403 - logger - INFO - ------
+2025-08-21 13:43:38,403 - logger - INFO - retrieve station status
+2025-08-21 13:43:38,860 - logger - INFO - request status: Successful
+2025-08-21 13:43:38,862 - logger - INFO - Successful dumping
+2025-08-21 13:43:38,863 - logger - INFO - retrieve station information
+2025-08-21 13:43:40,140 - logger - INFO - request status: Successful
+2025-08-21 13:43:40,159 - logger - INFO - Successful dumping
+2025-08-21 13:43:40,160 - logger - INFO - ------
