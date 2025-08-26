@@ -13872,3 +13872,11 @@
 2025-08-26 03:18:31,323 - logger - INFO - request status: Successful
 2025-08-26 03:18:31,343 - logger - INFO - Successful dumping
 2025-08-26 03:18:31,343 - logger - INFO - ------
+2025-08-26 03:51:00,688 - logger - INFO - ------
+2025-08-26 03:51:00,688 - logger - INFO - retrieve station status
+2025-08-26 03:51:01,157 - logger - INFO - request status: Successful
+2025-08-26 03:51:01,160 - logger - INFO - Successful dumping
+2025-08-26 03:51:01,160 - logger - INFO - retrieve station information
+2025-08-26 03:51:02,478 - logger - INFO - request status: Successful
+2025-08-26 03:51:02,498 - logger - INFO - Successful dumping
+2025-08-26 03:51:02,498 - logger - INFO - ------
