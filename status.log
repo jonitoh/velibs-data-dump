@@ -14144,3 +14144,11 @@
 2025-08-27 13:40:50,339 - logger - INFO - request status: Successful
 2025-08-27 13:40:50,359 - logger - INFO - Successful dumping
 2025-08-27 13:40:50,360 - logger - INFO - ------
+2025-08-27 14:37:32,309 - logger - INFO - ------
+2025-08-27 14:37:32,309 - logger - INFO - retrieve station status
+2025-08-27 14:37:32,676 - logger - INFO - request status: Successful
+2025-08-27 14:37:32,679 - logger - INFO - Successful dumping
+2025-08-27 14:37:32,679 - logger - INFO - retrieve station information
+2025-08-27 14:37:33,447 - logger - INFO - request status: Successful
+2025-08-27 14:37:33,467 - logger - INFO - Successful dumping
+2025-08-27 14:37:33,467 - logger - INFO - ------
