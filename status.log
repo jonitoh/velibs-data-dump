@@ -14384,3 +14384,11 @@
 2025-08-28 20:34:31,806 - logger - INFO - request status: Successful
 2025-08-28 20:34:31,825 - logger - INFO - Successful dumping
 2025-08-28 20:34:31,826 - logger - INFO - ------
+2025-08-28 21:31:01,619 - logger - INFO - ------
+2025-08-28 21:31:01,619 - logger - INFO - retrieve station status
+2025-08-28 21:31:02,107 - logger - INFO - request status: Successful
+2025-08-28 21:31:02,110 - logger - INFO - Successful dumping
+2025-08-28 21:31:02,110 - logger - INFO - retrieve station information
+2025-08-28 21:31:02,922 - logger - INFO - request status: Successful
+2025-08-28 21:31:02,941 - logger - INFO - Successful dumping
+2025-08-28 21:31:02,942 - logger - INFO - ------
