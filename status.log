@@ -16328,3 +16328,11 @@
 2025-09-08 11:29:03,352 - logger - INFO - request status: Successful
 2025-09-08 11:29:03,371 - logger - INFO - Successful dumping
 2025-09-08 11:29:03,372 - logger - INFO - ------
+2025-09-08 13:01:26,160 - logger - INFO - ------
+2025-09-08 13:01:26,160 - logger - INFO - retrieve station status
+2025-09-08 13:01:26,646 - logger - INFO - request status: Successful
+2025-09-08 13:01:26,649 - logger - INFO - Successful dumping
+2025-09-08 13:01:26,649 - logger - INFO - retrieve station information
+2025-09-08 13:01:28,031 - logger - INFO - request status: Successful
+2025-09-08 13:01:28,050 - logger - INFO - Successful dumping
+2025-09-08 13:01:28,051 - logger - INFO - ------
