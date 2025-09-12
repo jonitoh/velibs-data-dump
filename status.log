@@ -92,3 +92,11 @@
 2025-09-12 08:39:36,171 - logger - INFO - request status: Successful
 2025-09-12 08:39:36,191 - logger - INFO - Successful dumping
 2025-09-12 08:39:36,191 - logger - INFO - ------
+2025-09-12 09:32:20,285 - logger - INFO - ------
+2025-09-12 09:32:20,285 - logger - INFO - retrieve station status
+2025-09-12 09:32:20,725 - logger - INFO - request status: Successful
+2025-09-12 09:32:20,728 - logger - INFO - Successful dumping
+2025-09-12 09:32:20,728 - logger - INFO - retrieve station information
+2025-09-12 09:32:22,024 - logger - INFO - request status: Successful
+2025-09-12 09:32:22,043 - logger - INFO - Successful dumping
+2025-09-12 09:32:22,044 - logger - INFO - ------
