@@ -660,3 +660,11 @@
 2025-09-15 10:38:19,061 - logger - INFO - request status: Successful
 2025-09-15 10:38:19,081 - logger - INFO - Successful dumping
 2025-09-15 10:38:19,081 - logger - INFO - ------
+2025-09-15 11:28:50,541 - logger - INFO - ------
+2025-09-15 11:28:50,541 - logger - INFO - retrieve station status
+2025-09-15 11:28:50,974 - logger - INFO - request status: Successful
+2025-09-15 11:28:50,977 - logger - INFO - Successful dumping
+2025-09-15 11:28:50,977 - logger - INFO - retrieve station information
+2025-09-15 11:28:52,273 - logger - INFO - request status: Successful
+2025-09-15 11:28:52,292 - logger - INFO - Successful dumping
+2025-09-15 11:28:52,293 - logger - INFO - ------
