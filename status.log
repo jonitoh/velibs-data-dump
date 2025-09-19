@@ -1404,3 +1404,11 @@
 2025-09-19 11:28:52,384 - logger - INFO - request status: Successful
 2025-09-19 11:28:52,403 - logger - INFO - Successful dumping
 2025-09-19 11:28:52,404 - logger - INFO - ------
+2025-09-19 12:58:30,124 - logger - INFO - ------
+2025-09-19 12:58:30,124 - logger - INFO - retrieve station status
+2025-09-19 12:58:30,703 - logger - INFO - request status: Successful
+2025-09-19 12:58:30,706 - logger - INFO - Successful dumping
+2025-09-19 12:58:30,706 - logger - INFO - retrieve station information
+2025-09-19 12:58:31,944 - logger - INFO - request status: Successful
+2025-09-19 12:58:31,964 - logger - INFO - Successful dumping
+2025-09-19 12:58:31,965 - logger - INFO - ------
