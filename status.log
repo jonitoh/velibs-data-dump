@@ -2020,3 +2020,11 @@
 2025-09-22 19:28:08,273 - logger - INFO - request status: Successful
 2025-09-22 19:28:08,292 - logger - INFO - Successful dumping
 2025-09-22 19:28:08,293 - logger - INFO - ------
+2025-09-22 20:33:42,893 - logger - INFO - ------
+2025-09-22 20:33:42,893 - logger - INFO - retrieve station status
+2025-09-22 20:33:43,287 - logger - INFO - request status: Successful
+2025-09-22 20:33:43,290 - logger - INFO - Successful dumping
+2025-09-22 20:33:43,290 - logger - INFO - retrieve station information
+2025-09-22 20:33:44,118 - logger - INFO - request status: Successful
+2025-09-22 20:33:44,138 - logger - INFO - Successful dumping
+2025-09-22 20:33:44,138 - logger - INFO - ------
