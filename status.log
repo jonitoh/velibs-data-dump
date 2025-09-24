@@ -2332,3 +2332,11 @@
 2025-09-24 13:00:12,514 - logger - INFO - request status: Successful
 2025-09-24 13:00:12,534 - logger - INFO - Successful dumping
 2025-09-24 13:00:12,535 - logger - INFO - ------
+2025-09-24 13:41:23,262 - logger - INFO - ------
+2025-09-24 13:41:23,262 - logger - INFO - retrieve station status
+2025-09-24 13:41:23,676 - logger - INFO - request status: Successful
+2025-09-24 13:41:23,679 - logger - INFO - Successful dumping
+2025-09-24 13:41:23,679 - logger - INFO - retrieve station information
+2025-09-24 13:41:24,546 - logger - INFO - request status: Successful
+2025-09-24 13:41:24,566 - logger - INFO - Successful dumping
+2025-09-24 13:41:24,566 - logger - INFO - ------
