@@ -2940,3 +2940,11 @@
 2025-09-27 19:26:32,233 - logger - INFO - request status: Successful
 2025-09-27 19:26:32,253 - logger - INFO - Successful dumping
 2025-09-27 19:26:32,253 - logger - INFO - ------
+2025-09-27 20:31:59,031 - logger - INFO - ------
+2025-09-27 20:31:59,031 - logger - INFO - retrieve station status
+2025-09-27 20:31:59,480 - logger - INFO - request status: Successful
+2025-09-27 20:31:59,482 - logger - INFO - Successful dumping
+2025-09-27 20:31:59,483 - logger - INFO - retrieve station information
+2025-09-27 20:32:00,256 - logger - INFO - request status: Successful
+2025-09-27 20:32:00,275 - logger - INFO - Successful dumping
+2025-09-27 20:32:00,276 - logger - INFO - ------
