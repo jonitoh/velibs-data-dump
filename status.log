@@ -3612,3 +3612,11 @@
 2025-10-01 13:01:58,447 - logger - INFO - request status: Successful
 2025-10-01 13:01:58,467 - logger - INFO - Successful dumping
 2025-10-01 13:01:58,467 - logger - INFO - ------
+2025-10-01 13:43:10,711 - logger - INFO - ------
+2025-10-01 13:43:10,711 - logger - INFO - retrieve station status
+2025-10-01 13:43:11,146 - logger - INFO - request status: Successful
+2025-10-01 13:43:11,148 - logger - INFO - Successful dumping
+2025-10-01 13:43:11,149 - logger - INFO - retrieve station information
+2025-10-01 13:43:12,322 - logger - INFO - request status: Successful
+2025-10-01 13:43:12,342 - logger - INFO - Successful dumping
+2025-10-01 13:43:12,342 - logger - INFO - ------
