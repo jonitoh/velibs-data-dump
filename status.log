@@ -3604,3 +3604,11 @@
 2025-10-01 11:29:50,278 - logger - INFO - request status: Successful
 2025-10-01 11:29:50,298 - logger - INFO - Successful dumping
 2025-10-01 11:29:50,298 - logger - INFO - ------
+2025-10-01 13:01:57,143 - logger - INFO - ------
+2025-10-01 13:01:57,143 - logger - INFO - retrieve station status
+2025-10-01 13:01:57,618 - logger - INFO - request status: Successful
+2025-10-01 13:01:57,620 - logger - INFO - Successful dumping
+2025-10-01 13:01:57,621 - logger - INFO - retrieve station information
+2025-10-01 13:01:58,447 - logger - INFO - request status: Successful
+2025-10-01 13:01:58,467 - logger - INFO - Successful dumping
+2025-10-01 13:01:58,467 - logger - INFO - ------
