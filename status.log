@@ -3636,3 +3636,11 @@
 2025-10-01 15:33:28,478 - logger - INFO - request status: Successful
 2025-10-01 15:33:28,498 - logger - INFO - Successful dumping
 2025-10-01 15:33:28,498 - logger - INFO - ------
+2025-10-01 16:41:35,858 - logger - INFO - ------
+2025-10-01 16:41:35,858 - logger - INFO - retrieve station status
+2025-10-01 16:41:36,300 - logger - INFO - request status: Successful
+2025-10-01 16:41:36,303 - logger - INFO - Successful dumping
+2025-10-01 16:41:36,303 - logger - INFO - retrieve station information
+2025-10-01 16:41:37,231 - logger - INFO - request status: Successful
+2025-10-01 16:41:37,250 - logger - INFO - Successful dumping
+2025-10-01 16:41:37,251 - logger - INFO - ------
