@@ -3788,3 +3788,11 @@
 2025-10-02 11:27:44,522 - logger - INFO - request status: Successful
 2025-10-02 11:27:44,542 - logger - INFO - Successful dumping
 2025-10-02 11:27:44,542 - logger - INFO - ------
+2025-10-02 12:58:01,768 - logger - INFO - ------
+2025-10-02 12:58:01,768 - logger - INFO - retrieve station status
+2025-10-02 12:58:02,219 - logger - INFO - request status: Successful
+2025-10-02 12:58:02,222 - logger - INFO - Successful dumping
+2025-10-02 12:58:02,222 - logger - INFO - retrieve station information
+2025-10-02 12:58:03,567 - logger - INFO - request status: Successful
+2025-10-02 12:58:03,586 - logger - INFO - Successful dumping
+2025-10-02 12:58:03,586 - logger - INFO - ------
