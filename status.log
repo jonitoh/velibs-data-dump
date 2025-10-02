@@ -3700,3 +3700,11 @@
 2025-10-01 23:29:05,583 - logger - INFO - request status: Successful
 2025-10-01 23:29:05,604 - logger - INFO - Successful dumping
 2025-10-01 23:29:05,605 - logger - INFO - ------
+2025-10-02 02:01:01,740 - logger - INFO - ------
+2025-10-02 02:01:01,740 - logger - INFO - retrieve station status
+2025-10-02 02:01:02,167 - logger - INFO - request status: Successful
+2025-10-02 02:01:02,169 - logger - INFO - Successful dumping
+2025-10-02 02:01:02,170 - logger - INFO - retrieve station information
+2025-10-02 02:01:03,063 - logger - INFO - request status: Successful
+2025-10-02 02:01:03,082 - logger - INFO - Successful dumping
+2025-10-02 02:01:03,082 - logger - INFO - ------
