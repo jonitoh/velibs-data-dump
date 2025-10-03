@@ -3972,3 +3972,11 @@
 2025-10-03 11:28:18,487 - logger - INFO - request status: Successful
 2025-10-03 11:28:18,507 - logger - INFO - Successful dumping
 2025-10-03 11:28:18,508 - logger - INFO - ------
+2025-10-03 12:57:46,625 - logger - INFO - ------
+2025-10-03 12:57:46,625 - logger - INFO - retrieve station status
+2025-10-03 12:57:47,120 - logger - INFO - request status: Successful
+2025-10-03 12:57:47,122 - logger - INFO - Successful dumping
+2025-10-03 12:57:47,123 - logger - INFO - retrieve station information
+2025-10-03 12:57:47,983 - logger - INFO - request status: Successful
+2025-10-03 12:57:48,003 - logger - INFO - Successful dumping
+2025-10-03 12:57:48,003 - logger - INFO - ------
