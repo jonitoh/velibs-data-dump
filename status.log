@@ -4412,3 +4412,11 @@
 2025-10-05 20:31:57,204 - logger - INFO - request status: Successful
 2025-10-05 20:31:57,223 - logger - INFO - Successful dumping
 2025-10-05 20:31:57,224 - logger - INFO - ------
+2025-10-05 21:28:01,382 - logger - INFO - ------
+2025-10-05 21:28:01,382 - logger - INFO - retrieve station status
+2025-10-05 21:28:01,686 - logger - INFO - request status: Successful
+2025-10-05 21:28:01,688 - logger - INFO - Successful dumping
+2025-10-05 21:28:01,689 - logger - INFO - retrieve station information
+2025-10-05 21:28:02,557 - logger - INFO - request status: Successful
+2025-10-05 21:28:02,576 - logger - INFO - Successful dumping
+2025-10-05 21:28:02,577 - logger - INFO - ------
