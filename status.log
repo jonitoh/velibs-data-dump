@@ -4572,3 +4572,11 @@
 2025-10-06 17:32:49,369 - logger - INFO - request status: Successful
 2025-10-06 17:32:49,391 - logger - INFO - Successful dumping
 2025-10-06 17:32:49,391 - logger - INFO - ------
+2025-10-06 18:44:08,379 - logger - INFO - ------
+2025-10-06 18:44:08,379 - logger - INFO - retrieve station status
+2025-10-06 18:44:08,923 - logger - INFO - request status: Successful
+2025-10-06 18:44:08,926 - logger - INFO - Successful dumping
+2025-10-06 18:44:08,926 - logger - INFO - retrieve station information
+2025-10-06 18:44:09,825 - logger - INFO - request status: Successful
+2025-10-06 18:44:09,845 - logger - INFO - Successful dumping
+2025-10-06 18:44:09,845 - logger - INFO - ------
