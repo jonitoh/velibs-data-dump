@@ -4772,3 +4772,11 @@
 2025-10-07 19:27:33,965 - logger - INFO - request status: Successful
 2025-10-07 19:27:33,985 - logger - INFO - Successful dumping
 2025-10-07 19:27:33,986 - logger - INFO - ------
+2025-10-07 20:33:59,564 - logger - INFO - ------
+2025-10-07 20:33:59,564 - logger - INFO - retrieve station status
+2025-10-07 20:34:00,011 - logger - INFO - request status: Successful
+2025-10-07 20:34:00,014 - logger - INFO - Successful dumping
+2025-10-07 20:34:00,014 - logger - INFO - retrieve station information
+2025-10-07 20:34:00,927 - logger - INFO - request status: Successful
+2025-10-07 20:34:00,947 - logger - INFO - Successful dumping
+2025-10-07 20:34:00,948 - logger - INFO - ------
