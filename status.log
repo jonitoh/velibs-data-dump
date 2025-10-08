@@ -4820,3 +4820,11 @@
 2025-10-08 03:08:11,014 - logger - INFO - request status: Successful
 2025-10-08 03:08:11,034 - logger - INFO - Successful dumping
 2025-10-08 03:08:11,035 - logger - INFO - ------
+2025-10-08 03:42:57,177 - logger - INFO - ------
+2025-10-08 03:42:57,177 - logger - INFO - retrieve station status
+2025-10-08 03:42:57,538 - logger - INFO - request status: Successful
+2025-10-08 03:42:57,543 - logger - INFO - Successful dumping
+2025-10-08 03:42:57,543 - logger - INFO - retrieve station information
+2025-10-08 03:42:58,282 - logger - INFO - request status: Successful
+2025-10-08 03:42:58,302 - logger - INFO - Successful dumping
+2025-10-08 03:42:58,303 - logger - INFO - ------
