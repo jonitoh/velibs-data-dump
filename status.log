@@ -5444,3 +5444,11 @@
 2025-10-11 11:26:42,515 - logger - INFO - request status: Successful
 2025-10-11 11:26:42,534 - logger - INFO - Successful dumping
 2025-10-11 11:26:42,534 - logger - INFO - ------
+2025-10-11 12:53:17,117 - logger - INFO - ------
+2025-10-11 12:53:17,117 - logger - INFO - retrieve station status
+2025-10-11 12:53:17,486 - logger - INFO - request status: Successful
+2025-10-11 12:53:17,489 - logger - INFO - Successful dumping
+2025-10-11 12:53:17,489 - logger - INFO - retrieve station information
+2025-10-11 12:53:18,295 - logger - INFO - request status: Successful
+2025-10-11 12:53:18,315 - logger - INFO - Successful dumping
+2025-10-11 12:53:18,315 - logger - INFO - ------
