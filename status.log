@@ -5628,3 +5628,11 @@
 2025-10-12 11:27:02,193 - logger - INFO - request status: Successful
 2025-10-12 11:27:02,212 - logger - INFO - Successful dumping
 2025-10-12 11:27:02,213 - logger - INFO - ------
+2025-10-12 12:54:12,480 - logger - INFO - ------
+2025-10-12 12:54:12,481 - logger - INFO - retrieve station status
+2025-10-12 12:54:12,948 - logger - INFO - request status: Successful
+2025-10-12 12:54:12,951 - logger - INFO - Successful dumping
+2025-10-12 12:54:12,951 - logger - INFO - retrieve station information
+2025-10-12 12:54:14,077 - logger - INFO - request status: Successful
+2025-10-12 12:54:14,097 - logger - INFO - Successful dumping
+2025-10-12 12:54:14,097 - logger - INFO - ------
