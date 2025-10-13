@@ -5820,3 +5820,11 @@
 2025-10-13 13:01:11,987 - logger - INFO - request status: Successful
 2025-10-13 13:01:12,008 - logger - INFO - Successful dumping
 2025-10-13 13:01:12,008 - logger - INFO - ------
+2025-10-13 13:43:16,829 - logger - INFO - ------
+2025-10-13 13:43:16,829 - logger - INFO - retrieve station status
+2025-10-13 13:43:17,232 - logger - INFO - request status: Successful
+2025-10-13 13:43:17,235 - logger - INFO - Successful dumping
+2025-10-13 13:43:17,235 - logger - INFO - retrieve station information
+2025-10-13 13:43:18,032 - logger - INFO - request status: Successful
+2025-10-13 13:43:18,052 - logger - INFO - Successful dumping
+2025-10-13 13:43:18,052 - logger - INFO - ------
