@@ -6004,3 +6004,11 @@
 2025-10-14 13:03:08,958 - logger - INFO - request status: Successful
 2025-10-14 13:03:08,979 - logger - INFO - Successful dumping
 2025-10-14 13:03:08,979 - logger - INFO - ------
+2025-10-14 13:43:56,374 - logger - INFO - ------
+2025-10-14 13:43:56,374 - logger - INFO - retrieve station status
+2025-10-14 13:43:56,915 - logger - INFO - request status: Successful
+2025-10-14 13:43:56,917 - logger - INFO - Successful dumping
+2025-10-14 13:43:56,918 - logger - INFO - retrieve station information
+2025-10-14 13:43:58,284 - logger - INFO - request status: Successful
+2025-10-14 13:43:58,304 - logger - INFO - Successful dumping
+2025-10-14 13:43:58,305 - logger - INFO - ------
