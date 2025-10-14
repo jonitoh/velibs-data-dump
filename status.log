@@ -5940,3 +5940,11 @@
 2025-10-14 04:37:57,303 - logger - INFO - request status: Successful
 2025-10-14 04:37:57,322 - logger - INFO - Successful dumping
 2025-10-14 04:37:57,322 - logger - INFO - ------
+2025-10-14 05:34:00,726 - logger - INFO - ------
+2025-10-14 05:34:00,726 - logger - INFO - retrieve station status
+2025-10-14 05:34:01,189 - logger - INFO - request status: Successful
+2025-10-14 05:34:01,192 - logger - INFO - Successful dumping
+2025-10-14 05:34:01,192 - logger - INFO - retrieve station information
+2025-10-14 05:34:02,025 - logger - INFO - request status: Successful
+2025-10-14 05:34:02,052 - logger - INFO - Successful dumping
+2025-10-14 05:34:02,053 - logger - INFO - ------
