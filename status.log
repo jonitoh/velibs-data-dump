@@ -5988,3 +5988,11 @@
 2025-10-14 10:39:28,781 - logger - INFO - request status: Successful
 2025-10-14 10:39:28,801 - logger - INFO - Successful dumping
 2025-10-14 10:39:28,802 - logger - INFO - ------
+2025-10-14 11:29:21,379 - logger - INFO - ------
+2025-10-14 11:29:21,379 - logger - INFO - retrieve station status
+2025-10-14 11:29:22,010 - logger - INFO - request status: Successful
+2025-10-14 11:29:22,013 - logger - INFO - Successful dumping
+2025-10-14 11:29:22,013 - logger - INFO - retrieve station information
+2025-10-14 11:29:22,800 - logger - INFO - request status: Successful
+2025-10-14 11:29:22,820 - logger - INFO - Successful dumping
+2025-10-14 11:29:22,820 - logger - INFO - ------
