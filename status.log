@@ -6108,3 +6108,11 @@
 2025-10-15 03:14:38,269 - logger - INFO - request status: Successful
 2025-10-15 03:14:38,289 - logger - INFO - Successful dumping
 2025-10-15 03:14:38,289 - logger - INFO - ------
+2025-10-15 03:46:43,641 - logger - INFO - ------
+2025-10-15 03:46:43,641 - logger - INFO - retrieve station status
+2025-10-15 03:46:44,146 - logger - INFO - request status: Successful
+2025-10-15 03:46:44,149 - logger - INFO - Successful dumping
+2025-10-15 03:46:44,149 - logger - INFO - retrieve station information
+2025-10-15 03:46:45,420 - logger - INFO - request status: Successful
+2025-10-15 03:46:45,439 - logger - INFO - Successful dumping
+2025-10-15 03:46:45,440 - logger - INFO - ------
