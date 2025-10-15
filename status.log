@@ -6220,3 +6220,11 @@
 2025-10-15 16:39:40,641 - logger - INFO - request status: Successful
 2025-10-15 16:39:40,661 - logger - INFO - Successful dumping
 2025-10-15 16:39:40,661 - logger - INFO - ------
+2025-10-15 17:33:01,796 - logger - INFO - ------
+2025-10-15 17:33:01,796 - logger - INFO - retrieve station status
+2025-10-15 17:33:02,292 - logger - INFO - request status: Successful
+2025-10-15 17:33:02,295 - logger - INFO - Successful dumping
+2025-10-15 17:33:02,295 - logger - INFO - retrieve station information
+2025-10-15 17:33:03,072 - logger - INFO - request status: Successful
+2025-10-15 17:33:03,091 - logger - INFO - Successful dumping
+2025-10-15 17:33:03,092 - logger - INFO - ------
