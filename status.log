@@ -6364,3 +6364,11 @@
 2025-10-16 11:30:39,724 - logger - INFO - request status: Successful
 2025-10-16 11:30:39,744 - logger - INFO - Successful dumping
 2025-10-16 11:30:39,744 - logger - INFO - ------
+2025-10-16 13:02:27,120 - logger - INFO - ------
+2025-10-16 13:02:27,120 - logger - INFO - retrieve station status
+2025-10-16 13:02:27,530 - logger - INFO - request status: Successful
+2025-10-16 13:02:27,532 - logger - INFO - Successful dumping
+2025-10-16 13:02:27,533 - logger - INFO - retrieve station information
+2025-10-16 13:02:28,387 - logger - INFO - request status: Successful
+2025-10-16 13:02:28,407 - logger - INFO - Successful dumping
+2025-10-16 13:02:28,408 - logger - INFO - ------
