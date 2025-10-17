@@ -6548,3 +6548,11 @@
 2025-10-17 11:29:39,752 - logger - INFO - request status: Successful
 2025-10-17 11:29:39,771 - logger - INFO - Successful dumping
 2025-10-17 11:29:39,772 - logger - INFO - ------
+2025-10-17 13:00:39,860 - logger - INFO - ------
+2025-10-17 13:00:39,860 - logger - INFO - retrieve station status
+2025-10-17 13:00:40,311 - logger - INFO - request status: Successful
+2025-10-17 13:00:40,314 - logger - INFO - Successful dumping
+2025-10-17 13:00:40,314 - logger - INFO - retrieve station information
+2025-10-17 13:00:41,415 - logger - INFO - request status: Successful
+2025-10-17 13:00:41,435 - logger - INFO - Successful dumping
+2025-10-17 13:00:41,435 - logger - INFO - ------
