@@ -6676,3 +6676,11 @@
 2025-10-18 04:35:39,180 - logger - INFO - request status: Successful
 2025-10-18 04:35:39,200 - logger - INFO - Successful dumping
 2025-10-18 04:35:39,201 - logger - INFO - ------
+2025-10-18 05:33:28,473 - logger - INFO - ------
+2025-10-18 05:33:28,473 - logger - INFO - retrieve station status
+2025-10-18 05:33:28,900 - logger - INFO - request status: Successful
+2025-10-18 05:33:28,903 - logger - INFO - Successful dumping
+2025-10-18 05:33:28,903 - logger - INFO - retrieve station information
+2025-10-18 05:33:29,739 - logger - INFO - request status: Successful
+2025-10-18 05:33:29,759 - logger - INFO - Successful dumping
+2025-10-18 05:33:29,759 - logger - INFO - ------
