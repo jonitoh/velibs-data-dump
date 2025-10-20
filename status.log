@@ -7020,3 +7020,11 @@
 2025-10-20 03:33:33,109 - logger - INFO - request status: Successful
 2025-10-20 03:33:33,128 - logger - INFO - Successful dumping
 2025-10-20 03:33:33,129 - logger - INFO - ------
+2025-10-20 04:41:15,280 - logger - INFO - ------
+2025-10-20 04:41:15,280 - logger - INFO - retrieve station status
+2025-10-20 04:41:15,706 - logger - INFO - request status: Successful
+2025-10-20 04:41:15,710 - logger - INFO - Successful dumping
+2025-10-20 04:41:15,710 - logger - INFO - retrieve station information
+2025-10-20 04:41:16,193 - logger - INFO - request status: Successful
+2025-10-20 04:41:16,214 - logger - INFO - Successful dumping
+2025-10-20 04:41:16,214 - logger - INFO - ------
