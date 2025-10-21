@@ -7252,3 +7252,11 @@
 2025-10-21 09:35:51,806 - logger - INFO - request status: Successful
 2025-10-21 09:35:51,826 - logger - INFO - Successful dumping
 2025-10-21 09:35:51,827 - logger - INFO - ------
+2025-10-21 10:40:12,994 - logger - INFO - ------
+2025-10-21 10:40:12,994 - logger - INFO - retrieve station status
+2025-10-21 10:40:13,339 - logger - INFO - request status: Successful
+2025-10-21 10:40:13,342 - logger - INFO - Successful dumping
+2025-10-21 10:40:13,343 - logger - INFO - retrieve station information
+2025-10-21 10:40:13,898 - logger - INFO - request status: Successful
+2025-10-21 10:40:13,918 - logger - INFO - Successful dumping
+2025-10-21 10:40:13,919 - logger - INFO - ------
