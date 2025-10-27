@@ -8348,3 +8348,11 @@
 2025-10-27 11:31:34,949 - logger - INFO - request status: Successful
 2025-10-27 11:31:34,969 - logger - INFO - Successful dumping
 2025-10-27 11:31:34,970 - logger - INFO - ------
+2025-10-27 13:03:35,901 - logger - INFO - ------
+2025-10-27 13:03:35,901 - logger - INFO - retrieve station status
+2025-10-27 13:03:36,182 - logger - INFO - request status: Successful
+2025-10-27 13:03:36,185 - logger - INFO - Successful dumping
+2025-10-27 13:03:36,185 - logger - INFO - retrieve station information
+2025-10-27 13:03:36,988 - logger - INFO - request status: Successful
+2025-10-27 13:03:37,010 - logger - INFO - Successful dumping
+2025-10-27 13:03:37,011 - logger - INFO - ------
