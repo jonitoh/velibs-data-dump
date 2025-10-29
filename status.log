@@ -8740,3 +8740,11 @@
 2025-10-29 15:39:24,972 - logger - INFO - request status: Successful
 2025-10-29 15:39:24,992 - logger - INFO - Successful dumping
 2025-10-29 15:39:24,992 - logger - INFO - ------
+2025-10-29 16:45:42,838 - logger - INFO - ------
+2025-10-29 16:45:42,838 - logger - INFO - retrieve station status
+2025-10-29 16:45:43,171 - logger - INFO - request status: Successful
+2025-10-29 16:45:43,174 - logger - INFO - Successful dumping
+2025-10-29 16:45:43,174 - logger - INFO - retrieve station information
+2025-10-29 16:45:43,949 - logger - INFO - request status: Successful
+2025-10-29 16:45:43,969 - logger - INFO - Successful dumping
+2025-10-29 16:45:43,970 - logger - INFO - ------
