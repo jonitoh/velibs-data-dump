@@ -9756,3 +9756,11 @@
 2025-11-04 10:43:35,100 - logger - INFO - request status: Successful
 2025-11-04 10:43:35,121 - logger - INFO - Successful dumping
 2025-11-04 10:43:35,121 - logger - INFO - ------
+2025-11-04 11:32:07,938 - logger - INFO - ------
+2025-11-04 11:32:07,938 - logger - INFO - retrieve station status
+2025-11-04 11:32:08,296 - logger - INFO - request status: Successful
+2025-11-04 11:32:08,300 - logger - INFO - Successful dumping
+2025-11-04 11:32:08,301 - logger - INFO - retrieve station information
+2025-11-04 11:32:08,807 - logger - INFO - request status: Successful
+2025-11-04 11:32:08,828 - logger - INFO - Successful dumping
+2025-11-04 11:32:08,828 - logger - INFO - ------
