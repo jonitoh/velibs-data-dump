@@ -10396,3 +10396,11 @@
 2025-11-08 02:04:07,685 - logger - INFO - request status: Successful
 2025-11-08 02:04:07,704 - logger - INFO - Successful dumping
 2025-11-08 02:04:07,705 - logger - INFO - ------
+2025-11-08 03:13:49,731 - logger - INFO - ------
+2025-11-08 03:13:49,731 - logger - INFO - retrieve station status
+2025-11-08 03:13:50,142 - logger - INFO - request status: Successful
+2025-11-08 03:13:50,145 - logger - INFO - Successful dumping
+2025-11-08 03:13:50,145 - logger - INFO - retrieve station information
+2025-11-08 03:13:50,702 - logger - INFO - request status: Successful
+2025-11-08 03:13:50,721 - logger - INFO - Successful dumping
+2025-11-08 03:13:50,722 - logger - INFO - ------
