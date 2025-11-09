@@ -10660,3 +10660,11 @@
 2025-11-09 12:56:02,010 - logger - INFO - request status: Successful
 2025-11-09 12:56:02,030 - logger - INFO - Successful dumping
 2025-11-09 12:56:02,031 - logger - INFO - ------
+2025-11-09 13:35:23,178 - logger - INFO - ------
+2025-11-09 13:35:23,178 - logger - INFO - retrieve station status
+2025-11-09 13:35:23,647 - logger - INFO - request status: Successful
+2025-11-09 13:35:23,650 - logger - INFO - Successful dumping
+2025-11-09 13:35:23,650 - logger - INFO - retrieve station information
+2025-11-09 13:35:24,909 - logger - INFO - request status: Successful
+2025-11-09 13:35:24,929 - logger - INFO - Successful dumping
+2025-11-09 13:35:24,930 - logger - INFO - ------
