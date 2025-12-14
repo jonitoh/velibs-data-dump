@@ -146,3 +146,11 @@
 2025-12-14 11:31:09,688 - logger - INFO - request status: Successful
 2025-12-14 11:31:09,707 - logger - INFO - Successful dumping
 2025-12-14 11:31:09,708 - logger - INFO - ------
+2025-12-14 13:00:08,720 - logger - INFO - ------
+2025-12-14 13:00:08,720 - logger - INFO - retrieve station status
+2025-12-14 13:00:09,230 - logger - INFO - request status: Successful
+2025-12-14 13:00:09,233 - logger - INFO - Successful dumping
+2025-12-14 13:00:09,233 - logger - INFO - retrieve station information
+2025-12-14 13:00:10,095 - logger - INFO - request status: Successful
+2025-12-14 13:00:10,115 - logger - INFO - Successful dumping
+2025-12-14 13:00:10,115 - logger - INFO - ------
