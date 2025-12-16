@@ -498,3 +498,11 @@
 2025-12-16 11:34:32,357 - logger - INFO - request status: Successful
 2025-12-16 11:34:32,377 - logger - INFO - Successful dumping
 2025-12-16 11:34:32,378 - logger - INFO - ------
+2025-12-16 13:08:54,256 - logger - INFO - ------
+2025-12-16 13:08:54,257 - logger - INFO - retrieve station status
+2025-12-16 13:08:54,824 - logger - INFO - request status: Successful
+2025-12-16 13:08:54,827 - logger - INFO - Successful dumping
+2025-12-16 13:08:54,827 - logger - INFO - retrieve station information
+2025-12-16 13:08:55,935 - logger - INFO - request status: Successful
+2025-12-16 13:08:55,955 - logger - INFO - Successful dumping
+2025-12-16 13:08:55,956 - logger - INFO - ------
