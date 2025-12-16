@@ -562,3 +562,11 @@
 2025-12-16 19:33:20,365 - logger - INFO - request status: Successful
 2025-12-16 19:33:20,385 - logger - INFO - Successful dumping
 2025-12-16 19:33:20,386 - logger - INFO - ------
+2025-12-16 20:41:38,402 - logger - INFO - ------
+2025-12-16 20:41:38,402 - logger - INFO - retrieve station status
+2025-12-16 20:41:38,913 - logger - INFO - request status: Successful
+2025-12-16 20:41:38,916 - logger - INFO - Successful dumping
+2025-12-16 20:41:38,916 - logger - INFO - retrieve station information
+2025-12-16 20:41:40,201 - logger - INFO - request status: Successful
+2025-12-16 20:41:40,222 - logger - INFO - Successful dumping
+2025-12-16 20:41:40,222 - logger - INFO - ------
