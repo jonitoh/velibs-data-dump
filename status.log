@@ -698,3 +698,11 @@
 2025-12-17 14:44:21,157 - logger - INFO - request status: Successful
 2025-12-17 14:44:21,177 - logger - INFO - Successful dumping
 2025-12-17 14:44:21,177 - logger - INFO - ------
+2025-12-17 15:42:23,871 - logger - INFO - ------
+2025-12-17 15:42:23,872 - logger - INFO - retrieve station status
+2025-12-17 15:42:24,276 - logger - INFO - request status: Successful
+2025-12-17 15:42:24,279 - logger - INFO - Successful dumping
+2025-12-17 15:42:24,279 - logger - INFO - retrieve station information
+2025-12-17 15:42:25,084 - logger - INFO - request status: Successful
+2025-12-17 15:42:25,104 - logger - INFO - Successful dumping
+2025-12-17 15:42:25,104 - logger - INFO - ------
