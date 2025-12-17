@@ -682,3 +682,11 @@
 2025-12-17 13:08:47,080 - logger - INFO - request status: Successful
 2025-12-17 13:08:47,100 - logger - INFO - Successful dumping
 2025-12-17 13:08:47,100 - logger - INFO - ------
+2025-12-17 13:48:06,604 - logger - INFO - ------
+2025-12-17 13:48:06,604 - logger - INFO - retrieve station status
+2025-12-17 13:48:07,116 - logger - INFO - request status: Successful
+2025-12-17 13:48:07,119 - logger - INFO - Successful dumping
+2025-12-17 13:48:07,119 - logger - INFO - retrieve station information
+2025-12-17 13:48:07,718 - logger - INFO - request status: Successful
+2025-12-17 13:48:07,739 - logger - INFO - Successful dumping
+2025-12-17 13:48:07,739 - logger - INFO - ------
