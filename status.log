@@ -874,3 +874,11 @@
 2025-12-18 15:41:47,659 - logger - INFO - request status: Successful
 2025-12-18 15:41:47,679 - logger - INFO - Successful dumping
 2025-12-18 15:41:47,680 - logger - INFO - ------
+2025-12-18 16:49:42,123 - logger - INFO - ------
+2025-12-18 16:49:42,123 - logger - INFO - retrieve station status
+2025-12-18 16:49:42,704 - logger - INFO - request status: Successful
+2025-12-18 16:49:42,707 - logger - INFO - Successful dumping
+2025-12-18 16:49:42,707 - logger - INFO - retrieve station information
+2025-12-18 16:49:44,046 - logger - INFO - request status: Successful
+2025-12-18 16:49:44,066 - logger - INFO - Successful dumping
+2025-12-18 16:49:44,067 - logger - INFO - ------
