@@ -858,3 +858,11 @@
 2025-12-18 13:51:14,333 - logger - INFO - request status: Successful
 2025-12-18 13:51:14,353 - logger - INFO - Successful dumping
 2025-12-18 13:51:14,354 - logger - INFO - ------
+2025-12-18 14:43:38,190 - logger - INFO - ------
+2025-12-18 14:43:38,190 - logger - INFO - retrieve station status
+2025-12-18 14:43:38,603 - logger - INFO - request status: Successful
+2025-12-18 14:43:38,605 - logger - INFO - Successful dumping
+2025-12-18 14:43:38,605 - logger - INFO - retrieve station information
+2025-12-18 14:43:39,115 - logger - INFO - request status: Successful
+2025-12-18 14:43:39,140 - logger - INFO - Successful dumping
+2025-12-18 14:43:39,140 - logger - INFO - ------
