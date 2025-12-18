@@ -866,3 +866,11 @@
 2025-12-18 14:43:39,115 - logger - INFO - request status: Successful
 2025-12-18 14:43:39,140 - logger - INFO - Successful dumping
 2025-12-18 14:43:39,140 - logger - INFO - ------
+2025-12-18 15:41:46,013 - logger - INFO - ------
+2025-12-18 15:41:46,013 - logger - INFO - retrieve station status
+2025-12-18 15:41:46,433 - logger - INFO - request status: Successful
+2025-12-18 15:41:46,436 - logger - INFO - Successful dumping
+2025-12-18 15:41:46,436 - logger - INFO - retrieve station information
+2025-12-18 15:41:47,659 - logger - INFO - request status: Successful
+2025-12-18 15:41:47,679 - logger - INFO - Successful dumping
+2025-12-18 15:41:47,680 - logger - INFO - ------
