@@ -786,3 +786,11 @@
 2025-12-18 04:05:21,007 - logger - INFO - request status: Successful
 2025-12-18 04:05:21,027 - logger - INFO - Successful dumping
 2025-12-18 04:05:21,028 - logger - INFO - ------
+2025-12-18 04:48:53,303 - logger - INFO - ------
+2025-12-18 04:48:53,303 - logger - INFO - retrieve station status
+2025-12-18 04:48:53,781 - logger - INFO - request status: Successful
+2025-12-18 04:48:53,784 - logger - INFO - Successful dumping
+2025-12-18 04:48:53,784 - logger - INFO - retrieve station information
+2025-12-18 04:48:54,566 - logger - INFO - request status: Successful
+2025-12-18 04:48:54,586 - logger - INFO - Successful dumping
+2025-12-18 04:48:54,586 - logger - INFO - ------
