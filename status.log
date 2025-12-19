@@ -1026,3 +1026,11 @@
 2025-12-19 13:05:21,484 - logger - INFO - request status: Successful
 2025-12-19 13:05:21,505 - logger - INFO - Successful dumping
 2025-12-19 13:05:21,505 - logger - INFO - ------
+2025-12-19 13:46:59,841 - logger - INFO - ------
+2025-12-19 13:46:59,842 - logger - INFO - retrieve station status
+2025-12-19 13:47:00,238 - logger - INFO - request status: Successful
+2025-12-19 13:47:00,240 - logger - INFO - Successful dumping
+2025-12-19 13:47:00,241 - logger - INFO - retrieve station information
+2025-12-19 13:47:01,118 - logger - INFO - request status: Successful
+2025-12-19 13:47:01,138 - logger - INFO - Successful dumping
+2025-12-19 13:47:01,138 - logger - INFO - ------
