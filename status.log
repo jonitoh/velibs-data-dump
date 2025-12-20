@@ -1258,3 +1258,11 @@
 2025-12-20 19:29:21,504 - logger - INFO - request status: Successful
 2025-12-20 19:29:21,524 - logger - INFO - Successful dumping
 2025-12-20 19:29:21,525 - logger - INFO - ------
+2025-12-20 20:35:13,963 - logger - INFO - ------
+2025-12-20 20:35:13,963 - logger - INFO - retrieve station status
+2025-12-20 20:35:14,289 - logger - INFO - request status: Successful
+2025-12-20 20:35:14,292 - logger - INFO - Successful dumping
+2025-12-20 20:35:14,292 - logger - INFO - retrieve station information
+2025-12-20 20:35:14,818 - logger - INFO - request status: Successful
+2025-12-20 20:35:14,838 - logger - INFO - Successful dumping
+2025-12-20 20:35:14,838 - logger - INFO - ------
