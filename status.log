@@ -1274,3 +1274,11 @@
 2025-12-20 21:31:41,596 - logger - INFO - request status: Successful
 2025-12-20 21:31:41,616 - logger - INFO - Successful dumping
 2025-12-20 21:31:41,616 - logger - INFO - ------
+2025-12-20 22:35:50,399 - logger - INFO - ------
+2025-12-20 22:35:50,399 - logger - INFO - retrieve station status
+2025-12-20 22:35:50,877 - logger - INFO - request status: Successful
+2025-12-20 22:35:50,880 - logger - INFO - Successful dumping
+2025-12-20 22:35:50,880 - logger - INFO - retrieve station information
+2025-12-20 22:35:52,146 - logger - INFO - request status: Successful
+2025-12-20 22:35:52,165 - logger - INFO - Successful dumping
+2025-12-20 22:35:52,165 - logger - INFO - ------
