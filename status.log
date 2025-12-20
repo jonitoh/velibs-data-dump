@@ -1250,3 +1250,11 @@
 2025-12-20 18:43:30,038 - logger - INFO - request status: Successful
 2025-12-20 18:43:30,058 - logger - INFO - Successful dumping
 2025-12-20 18:43:30,059 - logger - INFO - ------
+2025-12-20 19:29:19,683 - logger - INFO - ------
+2025-12-20 19:29:19,683 - logger - INFO - retrieve station status
+2025-12-20 19:29:20,241 - logger - INFO - request status: Successful
+2025-12-20 19:29:20,244 - logger - INFO - Successful dumping
+2025-12-20 19:29:20,244 - logger - INFO - retrieve station information
+2025-12-20 19:29:21,504 - logger - INFO - request status: Successful
+2025-12-20 19:29:21,524 - logger - INFO - Successful dumping
+2025-12-20 19:29:21,525 - logger - INFO - ------
