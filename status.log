@@ -1402,3 +1402,11 @@
 2025-12-21 15:34:06,544 - logger - INFO - request status: Successful
 2025-12-21 15:34:06,564 - logger - INFO - Successful dumping
 2025-12-21 15:34:06,565 - logger - INFO - ------
+2025-12-21 16:42:18,062 - logger - INFO - ------
+2025-12-21 16:42:18,062 - logger - INFO - retrieve station status
+2025-12-21 16:42:18,400 - logger - INFO - request status: Successful
+2025-12-21 16:42:18,403 - logger - INFO - Successful dumping
+2025-12-21 16:42:18,403 - logger - INFO - retrieve station information
+2025-12-21 16:42:18,927 - logger - INFO - request status: Successful
+2025-12-21 16:42:18,947 - logger - INFO - Successful dumping
+2025-12-21 16:42:18,947 - logger - INFO - ------
