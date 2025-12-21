@@ -1362,3 +1362,11 @@
 2025-12-21 10:39:35,815 - logger - INFO - request status: Successful
 2025-12-21 10:39:35,834 - logger - INFO - Successful dumping
 2025-12-21 10:39:35,835 - logger - INFO - ------
+2025-12-21 11:30:51,505 - logger - INFO - ------
+2025-12-21 11:30:51,505 - logger - INFO - retrieve station status
+2025-12-21 11:30:51,997 - logger - INFO - request status: Successful
+2025-12-21 11:30:52,000 - logger - INFO - Successful dumping
+2025-12-21 11:30:52,000 - logger - INFO - retrieve station information
+2025-12-21 11:30:52,771 - logger - INFO - request status: Successful
+2025-12-21 11:30:52,790 - logger - INFO - Successful dumping
+2025-12-21 11:30:52,791 - logger - INFO - ------
