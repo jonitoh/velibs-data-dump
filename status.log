@@ -1674,3 +1674,11 @@
 2025-12-23 05:43:58,739 - logger - INFO - request status: Successful
 2025-12-23 05:43:58,759 - logger - INFO - Successful dumping
 2025-12-23 05:43:58,759 - logger - INFO - ------
+2025-12-23 06:52:31,304 - logger - INFO - ------
+2025-12-23 06:52:31,304 - logger - INFO - retrieve station status
+2025-12-23 06:52:31,739 - logger - INFO - request status: Successful
+2025-12-23 06:52:31,741 - logger - INFO - Successful dumping
+2025-12-23 06:52:31,742 - logger - INFO - retrieve station information
+2025-12-23 06:52:32,538 - logger - INFO - request status: Successful
+2025-12-23 06:52:32,558 - logger - INFO - Successful dumping
+2025-12-23 06:52:32,559 - logger - INFO - ------
