@@ -1722,3 +1722,11 @@
 2025-12-23 11:33:55,695 - logger - INFO - request status: Successful
 2025-12-23 11:33:55,715 - logger - INFO - Successful dumping
 2025-12-23 11:33:55,715 - logger - INFO - ------
+2025-12-23 13:07:31,015 - logger - INFO - ------
+2025-12-23 13:07:31,015 - logger - INFO - retrieve station status
+2025-12-23 13:07:31,423 - logger - INFO - request status: Successful
+2025-12-23 13:07:31,426 - logger - INFO - Successful dumping
+2025-12-23 13:07:31,426 - logger - INFO - retrieve station information
+2025-12-23 13:07:32,259 - logger - INFO - request status: Successful
+2025-12-23 13:07:32,279 - logger - INFO - Successful dumping
+2025-12-23 13:07:32,279 - logger - INFO - ------
