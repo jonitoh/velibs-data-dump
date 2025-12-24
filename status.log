@@ -1978,3 +1978,11 @@
 2025-12-24 21:33:07,657 - logger - INFO - request status: Successful
 2025-12-24 21:33:07,677 - logger - INFO - Successful dumping
 2025-12-24 21:33:07,677 - logger - INFO - ------
+2025-12-24 22:39:27,957 - logger - INFO - ------
+2025-12-24 22:39:27,957 - logger - INFO - retrieve station status
+2025-12-24 22:39:28,401 - logger - INFO - request status: Successful
+2025-12-24 22:39:28,403 - logger - INFO - Successful dumping
+2025-12-24 22:39:28,404 - logger - INFO - retrieve station information
+2025-12-24 22:39:28,981 - logger - INFO - request status: Successful
+2025-12-24 22:39:29,001 - logger - INFO - Successful dumping
+2025-12-24 22:39:29,002 - logger - INFO - ------
