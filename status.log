@@ -1962,3 +1962,11 @@
 2025-12-24 19:30:53,705 - logger - INFO - request status: Successful
 2025-12-24 19:30:53,725 - logger - INFO - Successful dumping
 2025-12-24 19:30:53,725 - logger - INFO - ------
+2025-12-24 20:38:47,705 - logger - INFO - ------
+2025-12-24 20:38:47,705 - logger - INFO - retrieve station status
+2025-12-24 20:38:48,103 - logger - INFO - request status: Successful
+2025-12-24 20:38:48,106 - logger - INFO - Successful dumping
+2025-12-24 20:38:48,106 - logger - INFO - retrieve station information
+2025-12-24 20:38:48,964 - logger - INFO - request status: Successful
+2025-12-24 20:38:48,983 - logger - INFO - Successful dumping
+2025-12-24 20:38:48,984 - logger - INFO - ------
