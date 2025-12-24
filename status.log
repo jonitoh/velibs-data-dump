@@ -1954,3 +1954,11 @@
 2025-12-24 18:48:02,370 - logger - INFO - request status: Successful
 2025-12-24 18:48:02,390 - logger - INFO - Successful dumping
 2025-12-24 18:48:02,390 - logger - INFO - ------
+2025-12-24 19:30:52,456 - logger - INFO - ------
+2025-12-24 19:30:52,457 - logger - INFO - retrieve station status
+2025-12-24 19:30:52,897 - logger - INFO - request status: Successful
+2025-12-24 19:30:52,900 - logger - INFO - Successful dumping
+2025-12-24 19:30:52,900 - logger - INFO - retrieve station information
+2025-12-24 19:30:53,705 - logger - INFO - request status: Successful
+2025-12-24 19:30:53,725 - logger - INFO - Successful dumping
+2025-12-24 19:30:53,725 - logger - INFO - ------
