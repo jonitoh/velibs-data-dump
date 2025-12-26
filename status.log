@@ -2258,3 +2258,11 @@
 2025-12-26 13:04:41,879 - logger - INFO - request status: Successful
 2025-12-26 13:04:41,899 - logger - INFO - Successful dumping
 2025-12-26 13:04:41,900 - logger - INFO - ------
+2025-12-26 13:46:51,892 - logger - INFO - ------
+2025-12-26 13:46:51,892 - logger - INFO - retrieve station status
+2025-12-26 13:46:52,335 - logger - INFO - request status: Successful
+2025-12-26 13:46:52,338 - logger - INFO - Successful dumping
+2025-12-26 13:46:52,338 - logger - INFO - retrieve station information
+2025-12-26 13:46:53,582 - logger - INFO - request status: Successful
+2025-12-26 13:46:53,602 - logger - INFO - Successful dumping
+2025-12-26 13:46:53,602 - logger - INFO - ------
