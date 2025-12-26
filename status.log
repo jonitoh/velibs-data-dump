@@ -2186,3 +2186,11 @@
 2025-12-26 04:08:36,466 - logger - INFO - request status: Successful
 2025-12-26 04:08:36,486 - logger - INFO - Successful dumping
 2025-12-26 04:08:36,486 - logger - INFO - ------
+2025-12-26 04:49:44,904 - logger - INFO - ------
+2025-12-26 04:49:44,905 - logger - INFO - retrieve station status
+2025-12-26 04:49:45,314 - logger - INFO - request status: Successful
+2025-12-26 04:49:45,316 - logger - INFO - Successful dumping
+2025-12-26 04:49:45,316 - logger - INFO - retrieve station information
+2025-12-26 04:49:45,848 - logger - INFO - request status: Successful
+2025-12-26 04:49:45,867 - logger - INFO - Successful dumping
+2025-12-26 04:49:45,868 - logger - INFO - ------
