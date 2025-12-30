@@ -2882,3 +2882,11 @@
 2025-12-30 04:10:53,105 - logger - INFO - request status: Successful
 2025-12-30 04:10:53,127 - logger - INFO - Successful dumping
 2025-12-30 04:10:53,128 - logger - INFO - ------
+2025-12-30 04:54:45,586 - logger - INFO - ------
+2025-12-30 04:54:45,586 - logger - INFO - retrieve station status
+2025-12-30 04:54:46,043 - logger - INFO - request status: Successful
+2025-12-30 04:54:46,046 - logger - INFO - Successful dumping
+2025-12-30 04:54:46,046 - logger - INFO - retrieve station information
+2025-12-30 04:54:47,304 - logger - INFO - request status: Successful
+2025-12-30 04:54:47,323 - logger - INFO - Successful dumping
+2025-12-30 04:54:47,324 - logger - INFO - ------
