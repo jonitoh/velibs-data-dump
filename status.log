@@ -3130,3 +3130,11 @@
 2025-12-31 13:05:28,821 - logger - INFO - request status: Successful
 2025-12-31 13:05:28,841 - logger - INFO - Successful dumping
 2025-12-31 13:05:28,841 - logger - INFO - ------
+2025-12-31 13:47:03,668 - logger - INFO - ------
+2025-12-31 13:47:03,668 - logger - INFO - retrieve station status
+2025-12-31 13:47:04,113 - logger - INFO - request status: Successful
+2025-12-31 13:47:04,116 - logger - INFO - Successful dumping
+2025-12-31 13:47:04,116 - logger - INFO - retrieve station information
+2025-12-31 13:47:04,606 - logger - INFO - request status: Successful
+2025-12-31 13:47:04,626 - logger - INFO - Successful dumping
+2025-12-31 13:47:04,626 - logger - INFO - ------
