@@ -3530,3 +3530,11 @@
 2026-01-02 19:28:24,035 - logger - INFO - request status: Successful
 2026-01-02 19:28:24,055 - logger - INFO - Successful dumping
 2026-01-02 19:28:24,055 - logger - INFO - ------
+2026-01-02 20:39:07,160 - logger - INFO - ------
+2026-01-02 20:39:07,160 - logger - INFO - retrieve station status
+2026-01-02 20:39:07,581 - logger - INFO - request status: Successful
+2026-01-02 20:39:07,584 - logger - INFO - Successful dumping
+2026-01-02 20:39:07,584 - logger - INFO - retrieve station information
+2026-01-02 20:39:08,700 - logger - INFO - request status: Successful
+2026-01-02 20:39:08,720 - logger - INFO - Successful dumping
+2026-01-02 20:39:08,721 - logger - INFO - ------
