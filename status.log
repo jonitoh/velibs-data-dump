@@ -3802,3 +3802,11 @@
 2026-01-04 10:40:27,678 - logger - INFO - request status: Successful
 2026-01-04 10:40:27,697 - logger - INFO - Successful dumping
 2026-01-04 10:40:27,698 - logger - INFO - ------
+2026-01-04 11:31:35,966 - logger - INFO - ------
+2026-01-04 11:31:35,966 - logger - INFO - retrieve station status
+2026-01-04 11:31:36,471 - logger - INFO - request status: Successful
+2026-01-04 11:31:36,474 - logger - INFO - Successful dumping
+2026-01-04 11:31:36,474 - logger - INFO - retrieve station information
+2026-01-04 11:31:37,035 - logger - INFO - request status: Successful
+2026-01-04 11:31:37,055 - logger - INFO - Successful dumping
+2026-01-04 11:31:37,056 - logger - INFO - ------
