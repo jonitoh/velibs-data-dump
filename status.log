@@ -3818,3 +3818,11 @@
 2026-01-04 13:03:10,400 - logger - INFO - request status: Successful
 2026-01-04 13:03:10,419 - logger - INFO - Successful dumping
 2026-01-04 13:03:10,420 - logger - INFO - ------
+2026-01-04 13:43:18,946 - logger - INFO - ------
+2026-01-04 13:43:18,946 - logger - INFO - retrieve station status
+2026-01-04 13:43:19,261 - logger - INFO - request status: Successful
+2026-01-04 13:43:19,264 - logger - INFO - Successful dumping
+2026-01-04 13:43:19,264 - logger - INFO - retrieve station information
+2026-01-04 13:43:20,111 - logger - INFO - request status: Successful
+2026-01-04 13:43:20,131 - logger - INFO - Successful dumping
+2026-01-04 13:43:20,131 - logger - INFO - ------
