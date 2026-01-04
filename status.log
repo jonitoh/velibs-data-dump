@@ -3770,3 +3770,11 @@
 2026-01-04 06:50:38,228 - logger - INFO - request status: Successful
 2026-01-04 06:50:38,248 - logger - INFO - Successful dumping
 2026-01-04 06:50:38,248 - logger - INFO - ------
+2026-01-04 07:35:54,120 - logger - INFO - ------
+2026-01-04 07:35:54,120 - logger - INFO - retrieve station status
+2026-01-04 07:35:54,528 - logger - INFO - request status: Successful
+2026-01-04 07:35:54,531 - logger - INFO - Successful dumping
+2026-01-04 07:35:54,531 - logger - INFO - retrieve station information
+2026-01-04 07:35:55,116 - logger - INFO - request status: Successful
+2026-01-04 07:35:55,136 - logger - INFO - Successful dumping
+2026-01-04 07:35:55,137 - logger - INFO - ------
