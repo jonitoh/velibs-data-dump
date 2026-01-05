@@ -3994,3 +3994,11 @@
 2026-01-05 13:53:51,618 - logger - INFO - request status: Successful
 2026-01-05 13:53:51,638 - logger - INFO - Successful dumping
 2026-01-05 13:53:51,638 - logger - INFO - ------
+2026-01-05 14:46:51,347 - logger - INFO - ------
+2026-01-05 14:46:51,347 - logger - INFO - retrieve station status
+2026-01-05 14:46:51,712 - logger - INFO - request status: Successful
+2026-01-05 14:46:51,715 - logger - INFO - Successful dumping
+2026-01-05 14:46:51,715 - logger - INFO - retrieve station information
+2026-01-05 14:46:52,573 - logger - INFO - request status: Successful
+2026-01-05 14:46:52,593 - logger - INFO - Successful dumping
+2026-01-05 14:46:52,594 - logger - INFO - ------
