@@ -4050,3 +4050,11 @@
 2026-01-05 20:42:44,444 - logger - INFO - request status: Successful
 2026-01-05 20:42:44,464 - logger - INFO - Successful dumping
 2026-01-05 20:42:44,464 - logger - INFO - ------
+2026-01-05 21:37:16,051 - logger - INFO - ------
+2026-01-05 21:37:16,051 - logger - INFO - retrieve station status
+2026-01-05 21:37:16,431 - logger - INFO - request status: Successful
+2026-01-05 21:37:16,434 - logger - INFO - Successful dumping
+2026-01-05 21:37:16,434 - logger - INFO - retrieve station information
+2026-01-05 21:37:17,231 - logger - INFO - request status: Successful
+2026-01-05 21:37:17,251 - logger - INFO - Successful dumping
+2026-01-05 21:37:17,251 - logger - INFO - ------
