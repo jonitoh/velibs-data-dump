@@ -3914,3 +3914,11 @@
 2026-01-05 02:41:44,865 - logger - INFO - request status: Successful
 2026-01-05 02:41:44,884 - logger - INFO - Successful dumping
 2026-01-05 02:41:44,885 - logger - INFO - ------
+2026-01-05 04:36:02,704 - logger - INFO - ------
+2026-01-05 04:36:02,704 - logger - INFO - retrieve station status
+2026-01-05 04:36:03,100 - logger - INFO - request status: Successful
+2026-01-05 04:36:03,105 - logger - INFO - Successful dumping
+2026-01-05 04:36:03,106 - logger - INFO - retrieve station information
+2026-01-05 04:36:03,934 - logger - INFO - request status: Successful
+2026-01-05 04:36:03,954 - logger - INFO - Successful dumping
+2026-01-05 04:36:03,955 - logger - INFO - ------
