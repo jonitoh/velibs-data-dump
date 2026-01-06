@@ -4162,3 +4162,11 @@
 2026-01-06 13:08:26,808 - logger - INFO - request status: Successful
 2026-01-06 13:08:26,828 - logger - INFO - Successful dumping
 2026-01-06 13:08:26,829 - logger - INFO - ------
+2026-01-06 13:51:56,926 - logger - INFO - ------
+2026-01-06 13:51:56,927 - logger - INFO - retrieve station status
+2026-01-06 13:51:57,236 - logger - INFO - request status: Successful
+2026-01-06 13:51:57,239 - logger - INFO - Successful dumping
+2026-01-06 13:51:57,239 - logger - INFO - retrieve station information
+2026-01-06 13:51:57,973 - logger - INFO - request status: Successful
+2026-01-06 13:51:57,993 - logger - INFO - Successful dumping
+2026-01-06 13:51:57,993 - logger - INFO - ------
