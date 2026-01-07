@@ -4362,3 +4362,11 @@
 2026-01-07 15:44:37,119 - logger - INFO - request status: Successful
 2026-01-07 15:44:37,139 - logger - INFO - Successful dumping
 2026-01-07 15:44:37,139 - logger - INFO - ------
+2026-01-07 16:51:35,122 - logger - INFO - ------
+2026-01-07 16:51:35,122 - logger - INFO - retrieve station status
+2026-01-07 16:51:35,680 - logger - INFO - request status: Successful
+2026-01-07 16:51:35,682 - logger - INFO - Successful dumping
+2026-01-07 16:51:35,683 - logger - INFO - retrieve station information
+2026-01-07 16:51:36,936 - logger - INFO - request status: Successful
+2026-01-07 16:51:36,955 - logger - INFO - Successful dumping
+2026-01-07 16:51:36,955 - logger - INFO - ------
