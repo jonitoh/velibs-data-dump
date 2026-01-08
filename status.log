@@ -4458,3 +4458,11 @@
 2026-01-08 05:44:42,818 - logger - INFO - request status: Successful
 2026-01-08 05:44:42,838 - logger - INFO - Successful dumping
 2026-01-08 05:44:42,839 - logger - INFO - ------
+2026-01-08 06:53:30,018 - logger - INFO - ------
+2026-01-08 06:53:30,018 - logger - INFO - retrieve station status
+2026-01-08 06:53:30,450 - logger - INFO - request status: Successful
+2026-01-08 06:53:30,452 - logger - INFO - Successful dumping
+2026-01-08 06:53:30,453 - logger - INFO - retrieve station information
+2026-01-08 06:53:31,731 - logger - INFO - request status: Successful
+2026-01-08 06:53:31,749 - logger - INFO - Successful dumping
+2026-01-08 06:53:31,750 - logger - INFO - ------
