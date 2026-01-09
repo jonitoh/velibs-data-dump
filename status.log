@@ -4722,3 +4722,11 @@
 2026-01-09 16:48:47,153 - logger - INFO - request status: Successful
 2026-01-09 16:48:47,173 - logger - INFO - Successful dumping
 2026-01-09 16:48:47,174 - logger - INFO - ------
+2026-01-09 17:42:34,689 - logger - INFO - ------
+2026-01-09 17:42:34,689 - logger - INFO - retrieve station status
+2026-01-09 17:42:35,106 - logger - INFO - request status: Successful
+2026-01-09 17:42:35,109 - logger - INFO - Successful dumping
+2026-01-09 17:42:35,109 - logger - INFO - retrieve station information
+2026-01-09 17:42:35,717 - logger - INFO - request status: Successful
+2026-01-09 17:42:35,738 - logger - INFO - Successful dumping
+2026-01-09 17:42:35,738 - logger - INFO - ------
