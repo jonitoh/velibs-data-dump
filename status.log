@@ -4962,3 +4962,11 @@
 2026-01-11 02:41:29,284 - logger - INFO - request status: Successful
 2026-01-11 02:41:29,303 - logger - INFO - Successful dumping
 2026-01-11 02:41:29,304 - logger - INFO - ------
+2026-01-11 04:29:35,895 - logger - INFO - ------
+2026-01-11 04:29:35,895 - logger - INFO - retrieve station status
+2026-01-11 04:29:36,484 - logger - INFO - request status: Successful
+2026-01-11 04:29:36,487 - logger - INFO - Successful dumping
+2026-01-11 04:29:36,487 - logger - INFO - retrieve station information
+2026-01-11 04:29:37,724 - logger - INFO - request status: Successful
+2026-01-11 04:29:37,744 - logger - INFO - Successful dumping
+2026-01-11 04:29:37,745 - logger - INFO - ------
