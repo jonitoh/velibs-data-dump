@@ -5242,3 +5242,11 @@
 2026-01-12 17:41:51,566 - logger - INFO - request status: Successful
 2026-01-12 17:41:51,586 - logger - INFO - Successful dumping
 2026-01-12 17:41:51,587 - logger - INFO - ------
+2026-01-12 18:52:03,933 - logger - INFO - ------
+2026-01-12 18:52:03,933 - logger - INFO - retrieve station status
+2026-01-12 18:52:04,334 - logger - INFO - request status: Successful
+2026-01-12 18:52:04,337 - logger - INFO - Successful dumping
+2026-01-12 18:52:04,337 - logger - INFO - retrieve station information
+2026-01-12 18:52:05,515 - logger - INFO - request status: Successful
+2026-01-12 18:52:05,535 - logger - INFO - Successful dumping
+2026-01-12 18:52:05,536 - logger - INFO - ------
