@@ -5306,3 +5306,11 @@
 2026-01-13 04:12:12,574 - logger - INFO - request status: Successful
 2026-01-13 04:12:12,594 - logger - INFO - Successful dumping
 2026-01-13 04:12:12,594 - logger - INFO - ------
+2026-01-13 04:56:00,973 - logger - INFO - ------
+2026-01-13 04:56:00,973 - logger - INFO - retrieve station status
+2026-01-13 04:56:01,398 - logger - INFO - request status: Successful
+2026-01-13 04:56:01,401 - logger - INFO - Successful dumping
+2026-01-13 04:56:01,401 - logger - INFO - retrieve station information
+2026-01-13 04:56:02,310 - logger - INFO - request status: Successful
+2026-01-13 04:56:02,330 - logger - INFO - Successful dumping
+2026-01-13 04:56:02,331 - logger - INFO - ------
