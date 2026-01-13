@@ -5370,3 +5370,11 @@
 2026-01-13 11:36:16,613 - logger - INFO - request status: Successful
 2026-01-13 11:36:16,635 - logger - INFO - Successful dumping
 2026-01-13 11:36:16,635 - logger - INFO - ------
+2026-01-13 13:11:36,671 - logger - INFO - ------
+2026-01-13 13:11:36,671 - logger - INFO - retrieve station status
+2026-01-13 13:11:37,005 - logger - INFO - request status: Successful
+2026-01-13 13:11:37,008 - logger - INFO - Successful dumping
+2026-01-13 13:11:37,008 - logger - INFO - retrieve station information
+2026-01-13 13:11:38,131 - logger - INFO - request status: Successful
+2026-01-13 13:11:38,151 - logger - INFO - Successful dumping
+2026-01-13 13:11:38,151 - logger - INFO - ------
