@@ -5418,3 +5418,11 @@
 2026-01-13 17:47:07,671 - logger - INFO - request status: Successful
 2026-01-13 17:47:07,691 - logger - INFO - Successful dumping
 2026-01-13 17:47:07,691 - logger - INFO - ------
+2026-01-13 18:50:51,025 - logger - INFO - ------
+2026-01-13 18:50:51,025 - logger - INFO - retrieve station status
+2026-01-13 18:50:51,381 - logger - INFO - request status: Successful
+2026-01-13 18:50:51,384 - logger - INFO - Successful dumping
+2026-01-13 18:50:51,384 - logger - INFO - retrieve station information
+2026-01-13 18:50:52,219 - logger - INFO - request status: Successful
+2026-01-13 18:50:52,239 - logger - INFO - Successful dumping
+2026-01-13 18:50:52,239 - logger - INFO - ------
