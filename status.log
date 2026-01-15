@@ -5714,3 +5714,11 @@
 2026-01-15 10:46:21,686 - logger - INFO - request status: Successful
 2026-01-15 10:46:21,705 - logger - INFO - Successful dumping
 2026-01-15 10:46:21,706 - logger - INFO - ------
+2026-01-15 11:36:27,219 - logger - INFO - ------
+2026-01-15 11:36:27,219 - logger - INFO - retrieve station status
+2026-01-15 11:36:27,646 - logger - INFO - request status: Successful
+2026-01-15 11:36:27,649 - logger - INFO - Successful dumping
+2026-01-15 11:36:27,649 - logger - INFO - retrieve station information
+2026-01-15 11:36:28,495 - logger - INFO - request status: Successful
+2026-01-15 11:36:28,515 - logger - INFO - Successful dumping
+2026-01-15 11:36:28,516 - logger - INFO - ------
