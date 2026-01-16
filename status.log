@@ -5978,3 +5978,11 @@
 2026-01-16 21:36:55,163 - logger - INFO - request status: Successful
 2026-01-16 21:36:55,183 - logger - INFO - Successful dumping
 2026-01-16 21:36:55,184 - logger - INFO - ------
+2026-01-16 22:41:40,277 - logger - INFO - ------
+2026-01-16 22:41:40,277 - logger - INFO - retrieve station status
+2026-01-16 22:41:40,755 - logger - INFO - request status: Successful
+2026-01-16 22:41:40,757 - logger - INFO - Successful dumping
+2026-01-16 22:41:40,758 - logger - INFO - retrieve station information
+2026-01-16 22:41:42,085 - logger - INFO - request status: Successful
+2026-01-16 22:41:42,105 - logger - INFO - Successful dumping
+2026-01-16 22:41:42,105 - logger - INFO - ------
