@@ -6114,3 +6114,11 @@
 2026-01-17 16:42:19,602 - logger - INFO - request status: Successful
 2026-01-17 16:42:19,622 - logger - INFO - Successful dumping
 2026-01-17 16:42:19,623 - logger - INFO - ------
+2026-01-17 17:34:27,157 - logger - INFO - ------
+2026-01-17 17:34:27,157 - logger - INFO - retrieve station status
+2026-01-17 17:34:27,620 - logger - INFO - request status: Successful
+2026-01-17 17:34:27,623 - logger - INFO - Successful dumping
+2026-01-17 17:34:27,623 - logger - INFO - retrieve station information
+2026-01-17 17:34:28,794 - logger - INFO - request status: Successful
+2026-01-17 17:34:28,813 - logger - INFO - Successful dumping
+2026-01-17 17:34:28,814 - logger - INFO - ------
