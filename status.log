@@ -6298,3 +6298,11 @@
 2026-01-18 17:35:39,560 - logger - INFO - request status: Successful
 2026-01-18 17:35:39,579 - logger - INFO - Successful dumping
 2026-01-18 17:35:39,580 - logger - INFO - ------
+2026-01-18 18:46:09,191 - logger - INFO - ------
+2026-01-18 18:46:09,191 - logger - INFO - retrieve station status
+2026-01-18 18:46:09,437 - logger - INFO - request status: Successful
+2026-01-18 18:46:09,439 - logger - INFO - Successful dumping
+2026-01-18 18:46:09,439 - logger - INFO - retrieve station information
+2026-01-18 18:46:10,195 - logger - INFO - request status: Successful
+2026-01-18 18:46:10,215 - logger - INFO - Successful dumping
+2026-01-18 18:46:10,216 - logger - INFO - ------
