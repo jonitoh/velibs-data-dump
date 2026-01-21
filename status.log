@@ -6834,3 +6834,11 @@
 2026-01-21 20:51:00,074 - logger - INFO - request status: Successful
 2026-01-21 20:51:00,094 - logger - INFO - Successful dumping
 2026-01-21 20:51:00,095 - logger - INFO - ------
+2026-01-21 21:46:34,191 - logger - INFO - ------
+2026-01-21 21:46:34,191 - logger - INFO - retrieve station status
+2026-01-21 21:46:34,671 - logger - INFO - request status: Successful
+2026-01-21 21:46:34,673 - logger - INFO - Successful dumping
+2026-01-21 21:46:34,674 - logger - INFO - retrieve station information
+2026-01-21 21:46:35,946 - logger - INFO - request status: Successful
+2026-01-21 21:46:35,965 - logger - INFO - Successful dumping
+2026-01-21 21:46:35,966 - logger - INFO - ------
