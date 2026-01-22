@@ -7002,3 +7002,11 @@
 2026-01-22 20:46:30,637 - logger - INFO - request status: Successful
 2026-01-22 20:46:30,656 - logger - INFO - Successful dumping
 2026-01-22 20:46:30,656 - logger - INFO - ------
+2026-01-22 21:41:49,323 - logger - INFO - ------
+2026-01-22 21:41:49,323 - logger - INFO - retrieve station status
+2026-01-22 21:41:49,784 - logger - INFO - request status: Successful
+2026-01-22 21:41:49,787 - logger - INFO - Successful dumping
+2026-01-22 21:41:49,787 - logger - INFO - retrieve station information
+2026-01-22 21:41:51,009 - logger - INFO - request status: Successful
+2026-01-22 21:41:51,029 - logger - INFO - Successful dumping
+2026-01-22 21:41:51,029 - logger - INFO - ------
