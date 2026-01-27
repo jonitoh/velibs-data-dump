@@ -7842,3 +7842,11 @@
 2026-01-27 17:48:01,648 - logger - INFO - request status: Successful
 2026-01-27 17:48:01,668 - logger - INFO - Successful dumping
 2026-01-27 17:48:01,669 - logger - INFO - ------
+2026-01-27 18:59:22,972 - logger - INFO - ------
+2026-01-27 18:59:22,972 - logger - INFO - retrieve station status
+2026-01-27 18:59:23,426 - logger - INFO - request status: Successful
+2026-01-27 18:59:23,429 - logger - INFO - Successful dumping
+2026-01-27 18:59:23,429 - logger - INFO - retrieve station information
+2026-01-27 18:59:24,306 - logger - INFO - request status: Successful
+2026-01-27 18:59:24,326 - logger - INFO - Successful dumping
+2026-01-27 18:59:24,327 - logger - INFO - ------
