@@ -7946,3 +7946,11 @@
 2026-01-28 08:52:35,493 - logger - INFO - request status: Successful
 2026-01-28 08:52:35,513 - logger - INFO - Successful dumping
 2026-01-28 08:52:35,513 - logger - INFO - ------
+2026-01-28 09:50:52,671 - logger - INFO - ------
+2026-01-28 09:50:52,671 - logger - INFO - retrieve station status
+2026-01-28 09:50:52,979 - logger - INFO - request status: Successful
+2026-01-28 09:50:52,982 - logger - INFO - Successful dumping
+2026-01-28 09:50:52,982 - logger - INFO - retrieve station information
+2026-01-28 09:50:53,811 - logger - INFO - request status: Successful
+2026-01-28 09:50:53,830 - logger - INFO - Successful dumping
+2026-01-28 09:50:53,831 - logger - INFO - ------
