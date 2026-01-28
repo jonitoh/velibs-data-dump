@@ -8050,3 +8050,11 @@
 2026-01-28 21:48:32,201 - logger - INFO - request status: Successful
 2026-01-28 21:48:32,221 - logger - INFO - Successful dumping
 2026-01-28 21:48:32,221 - logger - INFO - ------
+2026-01-28 22:49:35,566 - logger - INFO - ------
+2026-01-28 22:49:35,566 - logger - INFO - retrieve station status
+2026-01-28 22:49:36,010 - logger - INFO - request status: Successful
+2026-01-28 22:49:36,012 - logger - INFO - Successful dumping
+2026-01-28 22:49:36,013 - logger - INFO - retrieve station information
+2026-01-28 22:49:37,125 - logger - INFO - request status: Successful
+2026-01-28 22:49:37,146 - logger - INFO - Successful dumping
+2026-01-28 22:49:37,146 - logger - INFO - ------
