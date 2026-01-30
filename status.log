@@ -8322,3 +8322,11 @@
 2026-01-30 15:53:35,306 - logger - INFO - request status: Successful
 2026-01-30 15:53:35,326 - logger - INFO - Successful dumping
 2026-01-30 15:53:35,327 - logger - INFO - ------
+2026-01-30 17:02:43,796 - logger - INFO - ------
+2026-01-30 17:02:43,797 - logger - INFO - retrieve station status
+2026-01-30 17:02:44,158 - logger - INFO - request status: Successful
+2026-01-30 17:02:44,162 - logger - INFO - Successful dumping
+2026-01-30 17:02:44,162 - logger - INFO - retrieve station information
+2026-01-30 17:02:44,953 - logger - INFO - request status: Successful
+2026-01-30 17:02:44,974 - logger - INFO - Successful dumping
+2026-01-30 17:02:44,975 - logger - INFO - ------
