@@ -8442,3 +8442,11 @@
 2026-01-31 09:46:30,894 - logger - INFO - request status: Successful
 2026-01-31 09:46:30,914 - logger - INFO - Successful dumping
 2026-01-31 09:46:30,915 - logger - INFO - ------
+2026-01-31 10:46:46,453 - logger - INFO - ------
+2026-01-31 10:46:46,453 - logger - INFO - retrieve station status
+2026-01-31 10:46:46,769 - logger - INFO - request status: Successful
+2026-01-31 10:46:46,771 - logger - INFO - Successful dumping
+2026-01-31 10:46:46,772 - logger - INFO - retrieve station information
+2026-01-31 10:46:47,319 - logger - INFO - request status: Successful
+2026-01-31 10:46:47,339 - logger - INFO - Successful dumping
+2026-01-31 10:46:47,340 - logger - INFO - ------
