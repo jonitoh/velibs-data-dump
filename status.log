@@ -8634,3 +8634,11 @@
 2026-02-01 13:55:29,587 - logger - INFO - request status: Successful
 2026-02-01 13:55:29,606 - logger - INFO - Successful dumping
 2026-02-01 13:55:29,607 - logger - INFO - ------
+2026-02-01 14:48:08,568 - logger - INFO - ------
+2026-02-01 14:48:08,568 - logger - INFO - retrieve station status
+2026-02-01 14:48:09,175 - logger - INFO - request status: Successful
+2026-02-01 14:48:09,178 - logger - INFO - Successful dumping
+2026-02-01 14:48:09,178 - logger - INFO - retrieve station information
+2026-02-01 14:48:10,228 - logger - INFO - request status: Successful
+2026-02-01 14:48:10,248 - logger - INFO - Successful dumping
+2026-02-01 14:48:10,248 - logger - INFO - ------
