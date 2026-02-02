@@ -8786,3 +8786,11 @@
 2026-02-02 15:04:15,245 - logger - INFO - request status: Successful
 2026-02-02 15:04:15,265 - logger - INFO - Successful dumping
 2026-02-02 15:04:15,266 - logger - INFO - ------
+2026-02-02 15:54:27,352 - logger - INFO - ------
+2026-02-02 15:54:27,352 - logger - INFO - retrieve station status
+2026-02-02 15:54:27,740 - logger - INFO - request status: Successful
+2026-02-02 15:54:27,742 - logger - INFO - Successful dumping
+2026-02-02 15:54:27,743 - logger - INFO - retrieve station information
+2026-02-02 15:54:28,535 - logger - INFO - request status: Successful
+2026-02-02 15:54:28,555 - logger - INFO - Successful dumping
+2026-02-02 15:54:28,555 - logger - INFO - ------
