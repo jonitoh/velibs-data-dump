@@ -9010,3 +9010,11 @@
 2026-02-04 07:13:14,484 - logger - INFO - request status: Successful
 2026-02-04 07:13:14,504 - logger - INFO - Successful dumping
 2026-02-04 07:13:14,504 - logger - INFO - ------
+2026-02-04 07:59:23,396 - logger - INFO - ------
+2026-02-04 07:59:23,396 - logger - INFO - retrieve station status
+2026-02-04 07:59:23,888 - logger - INFO - request status: Successful
+2026-02-04 07:59:23,891 - logger - INFO - Successful dumping
+2026-02-04 07:59:23,891 - logger - INFO - retrieve station information
+2026-02-04 07:59:24,802 - logger - INFO - request status: Successful
+2026-02-04 07:59:24,822 - logger - INFO - Successful dumping
+2026-02-04 07:59:24,823 - logger - INFO - ------
