@@ -9442,3 +9442,11 @@
 2026-02-06 21:48:42,346 - logger - INFO - request status: Successful
 2026-02-06 21:48:42,366 - logger - INFO - Successful dumping
 2026-02-06 21:48:42,367 - logger - INFO - ------
+2026-02-06 22:46:05,092 - logger - INFO - ------
+2026-02-06 22:46:05,092 - logger - INFO - retrieve station status
+2026-02-06 22:46:05,516 - logger - INFO - request status: Successful
+2026-02-06 22:46:05,518 - logger - INFO - Successful dumping
+2026-02-06 22:46:05,519 - logger - INFO - retrieve station information
+2026-02-06 22:46:06,363 - logger - INFO - request status: Successful
+2026-02-06 22:46:06,383 - logger - INFO - Successful dumping
+2026-02-06 22:46:06,384 - logger - INFO - ------
