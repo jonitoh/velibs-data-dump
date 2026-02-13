@@ -10410,3 +10410,11 @@
 2026-02-13 19:11:35,069 - logger - INFO - request status: Successful
 2026-02-13 19:11:35,090 - logger - INFO - Successful dumping
 2026-02-13 19:11:35,091 - logger - INFO - ------
+2026-02-13 19:55:33,504 - logger - INFO - ------
+2026-02-13 19:55:33,504 - logger - INFO - retrieve station status
+2026-02-13 19:55:33,953 - logger - INFO - request status: Successful
+2026-02-13 19:55:33,956 - logger - INFO - Successful dumping
+2026-02-13 19:55:33,956 - logger - INFO - retrieve station information
+2026-02-13 19:55:35,187 - logger - INFO - request status: Successful
+2026-02-13 19:55:35,207 - logger - INFO - Successful dumping
+2026-02-13 19:55:35,208 - logger - INFO - ------
