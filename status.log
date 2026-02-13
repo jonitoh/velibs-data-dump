@@ -10338,3 +10338,11 @@
 2026-02-13 09:05:16,160 - logger - INFO - request status: Successful
 2026-02-13 09:05:16,180 - logger - INFO - Successful dumping
 2026-02-13 09:05:16,181 - logger - INFO - ------
+2026-02-13 10:04:39,025 - logger - INFO - ------
+2026-02-13 10:04:39,026 - logger - INFO - retrieve station status
+2026-02-13 10:04:39,404 - logger - INFO - request status: Successful
+2026-02-13 10:04:39,409 - logger - INFO - Successful dumping
+2026-02-13 10:04:39,409 - logger - INFO - retrieve station information
+2026-02-13 10:04:40,211 - logger - INFO - request status: Successful
+2026-02-13 10:04:40,232 - logger - INFO - Successful dumping
+2026-02-13 10:04:40,232 - logger - INFO - ------
