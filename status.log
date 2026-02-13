@@ -10306,3 +10306,11 @@
 2026-02-13 03:25:23,748 - logger - INFO - request status: Successful
 2026-02-13 03:25:23,768 - logger - INFO - Successful dumping
 2026-02-13 03:25:23,769 - logger - INFO - ------
+2026-02-13 05:40:47,262 - logger - INFO - ------
+2026-02-13 05:40:47,262 - logger - INFO - retrieve station status
+2026-02-13 05:40:47,726 - logger - INFO - request status: Successful
+2026-02-13 05:40:47,729 - logger - INFO - Successful dumping
+2026-02-13 05:40:47,729 - logger - INFO - retrieve station information
+2026-02-13 05:40:48,930 - logger - INFO - request status: Successful
+2026-02-13 05:40:48,950 - logger - INFO - Successful dumping
+2026-02-13 05:40:48,951 - logger - INFO - ------
