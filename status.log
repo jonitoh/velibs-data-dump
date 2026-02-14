@@ -10514,3 +10514,11 @@
 2026-02-14 10:49:11,754 - logger - INFO - request status: Successful
 2026-02-14 10:49:11,775 - logger - INFO - Successful dumping
 2026-02-14 10:49:11,775 - logger - INFO - ------
+2026-02-14 11:40:40,630 - logger - INFO - ------
+2026-02-14 11:40:40,630 - logger - INFO - retrieve station status
+2026-02-14 11:40:41,073 - logger - INFO - request status: Successful
+2026-02-14 11:40:41,076 - logger - INFO - Successful dumping
+2026-02-14 11:40:41,076 - logger - INFO - retrieve station information
+2026-02-14 11:40:41,927 - logger - INFO - request status: Successful
+2026-02-14 11:40:41,948 - logger - INFO - Successful dumping
+2026-02-14 11:40:41,948 - logger - INFO - ------
