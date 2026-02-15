@@ -10682,3 +10682,11 @@
 2026-02-15 11:41:12,615 - logger - INFO - request status: Successful
 2026-02-15 11:41:12,635 - logger - INFO - Successful dumping
 2026-02-15 11:41:12,636 - logger - INFO - ------
+2026-02-15 13:15:55,352 - logger - INFO - ------
+2026-02-15 13:15:55,352 - logger - INFO - retrieve station status
+2026-02-15 13:15:55,726 - logger - INFO - request status: Successful
+2026-02-15 13:15:55,729 - logger - INFO - Successful dumping
+2026-02-15 13:15:55,729 - logger - INFO - retrieve station information
+2026-02-15 13:15:56,829 - logger - INFO - request status: Successful
+2026-02-15 13:15:56,849 - logger - INFO - Successful dumping
+2026-02-15 13:15:56,850 - logger - INFO - ------
