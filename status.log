@@ -10986,3 +10986,11 @@
 2026-02-17 11:09:43,295 - logger - INFO - request status: Successful
 2026-02-17 11:09:43,315 - logger - INFO - Successful dumping
 2026-02-17 11:09:43,316 - logger - INFO - ------
+2026-02-17 11:56:57,976 - logger - INFO - ------
+2026-02-17 11:56:57,976 - logger - INFO - retrieve station status
+2026-02-17 11:56:58,315 - logger - INFO - request status: Successful
+2026-02-17 11:56:58,318 - logger - INFO - Successful dumping
+2026-02-17 11:56:58,318 - logger - INFO - retrieve station information
+2026-02-17 11:56:59,157 - logger - INFO - request status: Successful
+2026-02-17 11:56:59,177 - logger - INFO - Successful dumping
+2026-02-17 11:56:59,178 - logger - INFO - ------
