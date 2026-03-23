@@ -16666,3 +16666,11 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='velib-metropole-o
 2026-03-23 18:07:29,723 - logger - INFO - request status: Successful
 2026-03-23 18:07:29,744 - logger - INFO - Successful dumping
 2026-03-23 18:07:29,744 - logger - INFO - ------
+2026-03-23 19:16:39,990 - logger - INFO - ------
+2026-03-23 19:16:39,990 - logger - INFO - retrieve station status
+2026-03-23 19:16:40,365 - logger - INFO - request status: Successful
+2026-03-23 19:16:40,367 - logger - INFO - Successful dumping
+2026-03-23 19:16:40,368 - logger - INFO - retrieve station information
+2026-03-23 19:16:40,880 - logger - INFO - request status: Successful
+2026-03-23 19:16:40,901 - logger - INFO - Successful dumping
+2026-03-23 19:16:40,902 - logger - INFO - ------
