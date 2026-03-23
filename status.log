@@ -16610,3 +16610,11 @@ Traceback (most recent call last):
     raise ConnectionError(e, request=request)
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='velib-metropole-opendata.smovengo.cloud', port=443): Max retries exceeded with url: /opendata/Velib_Metropole/station_information.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3d53c89160>: Failed to resolve 'velib-metropole-opendata.smovengo.cloud' ([Errno -3] Temporary failure in name resolution)"))
 2026-03-23 10:17:13,633 - logger - INFO - ------
+2026-03-23 11:11:55,140 - logger - INFO - ------
+2026-03-23 11:11:55,140 - logger - INFO - retrieve station status
+2026-03-23 11:11:55,509 - logger - INFO - request status: Successful
+2026-03-23 11:11:55,512 - logger - INFO - Successful dumping
+2026-03-23 11:11:55,512 - logger - INFO - retrieve station information
+2026-03-23 11:11:56,030 - logger - INFO - request status: Successful
+2026-03-23 11:11:56,052 - logger - INFO - Successful dumping
+2026-03-23 11:11:56,053 - logger - INFO - ------
