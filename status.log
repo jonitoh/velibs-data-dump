@@ -290,3 +290,11 @@
 2026-03-27 03:32:13,147 - logger - INFO - request status: Successful
 2026-03-27 03:32:13,171 - logger - INFO - Successful dumping
 2026-03-27 03:32:13,171 - logger - INFO - ------
+2026-03-27 05:53:17,567 - logger - INFO - ------
+2026-03-27 05:53:17,567 - logger - INFO - retrieve station status
+2026-03-27 05:53:18,031 - logger - INFO - request status: Successful
+2026-03-27 05:53:18,034 - logger - INFO - Successful dumping
+2026-03-27 05:53:18,034 - logger - INFO - retrieve station information
+2026-03-27 05:53:18,956 - logger - INFO - request status: Successful
+2026-03-27 05:53:18,977 - logger - INFO - Successful dumping
+2026-03-27 05:53:18,978 - logger - INFO - ------
