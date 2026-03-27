@@ -394,3 +394,11 @@
 2026-03-27 19:54:26,494 - logger - INFO - request status: Successful
 2026-03-27 19:54:26,514 - logger - INFO - Successful dumping
 2026-03-27 19:54:26,515 - logger - INFO - ------
+2026-03-27 20:58:26,890 - logger - INFO - ------
+2026-03-27 20:58:26,891 - logger - INFO - retrieve station status
+2026-03-27 20:58:27,328 - logger - INFO - request status: Successful
+2026-03-27 20:58:27,332 - logger - INFO - Successful dumping
+2026-03-27 20:58:27,332 - logger - INFO - retrieve station information
+2026-03-27 20:58:27,840 - logger - INFO - request status: Successful
+2026-03-27 20:58:27,863 - logger - INFO - Successful dumping
+2026-03-27 20:58:27,864 - logger - INFO - ------
