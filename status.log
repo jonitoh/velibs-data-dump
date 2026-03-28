@@ -498,3 +498,11 @@
 2026-03-28 11:46:29,494 - logger - INFO - request status: Successful
 2026-03-28 11:46:29,516 - logger - INFO - Successful dumping
 2026-03-28 11:46:29,517 - logger - INFO - ------
+2026-03-28 13:29:31,885 - logger - INFO - ------
+2026-03-28 13:29:31,885 - logger - INFO - retrieve station status
+2026-03-28 13:29:32,357 - logger - INFO - request status: Successful
+2026-03-28 13:29:32,360 - logger - INFO - Successful dumping
+2026-03-28 13:29:32,360 - logger - INFO - retrieve station information
+2026-03-28 13:29:33,608 - logger - INFO - request status: Successful
+2026-03-28 13:29:33,629 - logger - INFO - Successful dumping
+2026-03-28 13:29:33,630 - logger - INFO - ------
