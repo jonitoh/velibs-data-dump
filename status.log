@@ -466,3 +466,11 @@
 2026-03-28 07:56:29,319 - logger - INFO - request status: Successful
 2026-03-28 07:56:29,342 - logger - INFO - Successful dumping
 2026-03-28 07:56:29,343 - logger - INFO - ------
+2026-03-28 09:00:48,148 - logger - INFO - ------
+2026-03-28 09:00:48,148 - logger - INFO - retrieve station status
+2026-03-28 09:00:48,501 - logger - INFO - request status: Successful
+2026-03-28 09:00:48,504 - logger - INFO - Successful dumping
+2026-03-28 09:00:48,504 - logger - INFO - retrieve station information
+2026-03-28 09:00:49,445 - logger - INFO - request status: Successful
+2026-03-28 09:00:49,466 - logger - INFO - Successful dumping
+2026-03-28 09:00:49,466 - logger - INFO - ------
