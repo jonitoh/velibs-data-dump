@@ -690,3 +690,11 @@
 2026-03-29 19:05:08,234 - logger - INFO - request status: Successful
 2026-03-29 19:05:08,255 - logger - INFO - Successful dumping
 2026-03-29 19:05:08,256 - logger - INFO - ------
+2026-03-29 19:49:58,411 - logger - INFO - ------
+2026-03-29 19:49:58,411 - logger - INFO - retrieve station status
+2026-03-29 19:49:58,807 - logger - INFO - request status: Successful
+2026-03-29 19:49:58,810 - logger - INFO - Successful dumping
+2026-03-29 19:49:58,810 - logger - INFO - retrieve station information
+2026-03-29 19:49:59,317 - logger - INFO - request status: Successful
+2026-03-29 19:49:59,338 - logger - INFO - Successful dumping
+2026-03-29 19:49:59,339 - logger - INFO - ------
