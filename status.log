@@ -650,3 +650,11 @@
 2026-03-29 13:31:10,919 - logger - INFO - request status: Successful
 2026-03-29 13:31:10,940 - logger - INFO - Successful dumping
 2026-03-29 13:31:10,941 - logger - INFO - ------
+2026-03-29 14:55:56,929 - logger - INFO - ------
+2026-03-29 14:55:56,929 - logger - INFO - retrieve station status
+2026-03-29 14:55:57,400 - logger - INFO - request status: Successful
+2026-03-29 14:55:57,403 - logger - INFO - Successful dumping
+2026-03-29 14:55:57,403 - logger - INFO - retrieve station information
+2026-03-29 14:55:58,663 - logger - INFO - request status: Successful
+2026-03-29 14:55:58,682 - logger - INFO - Successful dumping
+2026-03-29 14:55:58,683 - logger - INFO - ------
