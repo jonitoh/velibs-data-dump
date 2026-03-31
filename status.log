@@ -882,3 +882,11 @@
 2026-03-31 11:13:40,116 - logger - INFO - request status: Successful
 2026-03-31 11:13:40,137 - logger - INFO - Successful dumping
 2026-03-31 11:13:40,137 - logger - INFO - ------
+2026-03-31 12:03:38,182 - logger - INFO - ------
+2026-03-31 12:03:38,182 - logger - INFO - retrieve station status
+2026-03-31 12:03:38,775 - logger - INFO - request status: Successful
+2026-03-31 12:03:38,778 - logger - INFO - Successful dumping
+2026-03-31 12:03:38,778 - logger - INFO - retrieve station information
+2026-03-31 12:03:40,139 - logger - INFO - request status: Successful
+2026-03-31 12:03:40,165 - logger - INFO - Successful dumping
+2026-03-31 12:03:40,166 - logger - INFO - ------
