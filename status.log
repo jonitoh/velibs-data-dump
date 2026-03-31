@@ -890,3 +890,11 @@
 2026-03-31 12:03:40,139 - logger - INFO - request status: Successful
 2026-03-31 12:03:40,165 - logger - INFO - Successful dumping
 2026-03-31 12:03:40,166 - logger - INFO - ------
+2026-03-31 14:04:14,334 - logger - INFO - ------
+2026-03-31 14:04:14,334 - logger - INFO - retrieve station status
+2026-03-31 14:04:14,777 - logger - INFO - request status: Successful
+2026-03-31 14:04:14,779 - logger - INFO - Successful dumping
+2026-03-31 14:04:14,780 - logger - INFO - retrieve station information
+2026-03-31 14:04:15,329 - logger - INFO - request status: Successful
+2026-03-31 14:04:15,349 - logger - INFO - Successful dumping
+2026-03-31 14:04:15,350 - logger - INFO - ------
