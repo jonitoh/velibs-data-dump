@@ -850,3 +850,11 @@
 2026-03-31 03:32:20,846 - logger - INFO - request status: Successful
 2026-03-31 03:32:20,867 - logger - INFO - Successful dumping
 2026-03-31 03:32:20,868 - logger - INFO - ------
+2026-03-31 05:57:10,696 - logger - INFO - ------
+2026-03-31 05:57:10,696 - logger - INFO - retrieve station status
+2026-03-31 05:57:11,198 - logger - INFO - request status: Successful
+2026-03-31 05:57:11,200 - logger - INFO - Successful dumping
+2026-03-31 05:57:11,201 - logger - INFO - retrieve station information
+2026-03-31 05:57:12,516 - logger - INFO - request status: Successful
+2026-03-31 05:57:12,537 - logger - INFO - Successful dumping
+2026-03-31 05:57:12,538 - logger - INFO - ------
