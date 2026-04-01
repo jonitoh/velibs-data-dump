@@ -1058,3 +1058,11 @@
 2026-04-01 21:03:52,166 - logger - INFO - request status: Successful
 2026-04-01 21:03:52,187 - logger - INFO - Successful dumping
 2026-04-01 21:03:52,188 - logger - INFO - ------
+2026-04-01 22:00:53,436 - logger - INFO - ------
+2026-04-01 22:00:53,436 - logger - INFO - retrieve station status
+2026-04-01 22:00:53,874 - logger - INFO - request status: Successful
+2026-04-01 22:00:53,877 - logger - INFO - Successful dumping
+2026-04-01 22:00:53,877 - logger - INFO - retrieve station information
+2026-04-01 22:00:55,165 - logger - INFO - request status: Successful
+2026-04-01 22:00:55,188 - logger - INFO - Successful dumping
+2026-04-01 22:00:55,189 - logger - INFO - ------
