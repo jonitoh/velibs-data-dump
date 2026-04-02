@@ -1218,3 +1218,11 @@
 2026-04-02 22:54:13,918 - logger - INFO - request status: Successful
 2026-04-02 22:54:13,939 - logger - INFO - Successful dumping
 2026-04-02 22:54:13,939 - logger - INFO - ------
+2026-04-02 23:53:01,709 - logger - INFO - ------
+2026-04-02 23:53:01,709 - logger - INFO - retrieve station status
+2026-04-02 23:53:02,078 - logger - INFO - request status: Successful
+2026-04-02 23:53:02,081 - logger - INFO - Successful dumping
+2026-04-02 23:53:02,081 - logger - INFO - retrieve station information
+2026-04-02 23:53:03,093 - logger - INFO - request status: Successful
+2026-04-02 23:53:03,114 - logger - INFO - Successful dumping
+2026-04-02 23:53:03,115 - logger - INFO - ------
