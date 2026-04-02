@@ -1178,3 +1178,11 @@
 2026-04-02 18:05:11,710 - logger - INFO - request status: Successful
 2026-04-02 18:05:11,733 - logger - INFO - Successful dumping
 2026-04-02 18:05:11,733 - logger - INFO - ------
+2026-04-02 19:18:12,002 - logger - INFO - ------
+2026-04-02 19:18:12,002 - logger - INFO - retrieve station status
+2026-04-02 19:18:12,526 - logger - INFO - request status: Successful
+2026-04-02 19:18:12,529 - logger - INFO - Successful dumping
+2026-04-02 19:18:12,529 - logger - INFO - retrieve station information
+2026-04-02 19:18:13,732 - logger - INFO - request status: Successful
+2026-04-02 19:18:13,754 - logger - INFO - Successful dumping
+2026-04-02 19:18:13,754 - logger - INFO - ------
