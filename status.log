@@ -1194,3 +1194,11 @@
 2026-04-02 20:01:22,247 - logger - INFO - request status: Successful
 2026-04-02 20:01:22,267 - logger - INFO - Successful dumping
 2026-04-02 20:01:22,267 - logger - INFO - ------
+2026-04-02 20:57:17,184 - logger - INFO - ------
+2026-04-02 20:57:17,184 - logger - INFO - retrieve station status
+2026-04-02 20:57:17,681 - logger - INFO - request status: Successful
+2026-04-02 20:57:17,684 - logger - INFO - Successful dumping
+2026-04-02 20:57:17,684 - logger - INFO - retrieve station information
+2026-04-02 20:57:18,611 - logger - INFO - request status: Successful
+2026-04-02 20:57:18,633 - logger - INFO - Successful dumping
+2026-04-02 20:57:18,633 - logger - INFO - ------
