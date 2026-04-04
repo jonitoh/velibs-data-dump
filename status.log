@@ -1410,3 +1410,11 @@
 2026-04-04 09:01:44,756 - logger - INFO - request status: Successful
 2026-04-04 09:01:44,777 - logger - INFO - Successful dumping
 2026-04-04 09:01:44,777 - logger - INFO - ------
+2026-04-04 09:57:24,393 - logger - INFO - ------
+2026-04-04 09:57:24,393 - logger - INFO - retrieve station status
+2026-04-04 09:57:24,932 - logger - INFO - request status: Successful
+2026-04-04 09:57:24,935 - logger - INFO - Successful dumping
+2026-04-04 09:57:24,935 - logger - INFO - retrieve station information
+2026-04-04 09:57:25,781 - logger - INFO - request status: Successful
+2026-04-04 09:57:25,802 - logger - INFO - Successful dumping
+2026-04-04 09:57:25,803 - logger - INFO - ------
