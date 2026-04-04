@@ -1482,3 +1482,11 @@
 2026-04-04 19:04:39,328 - logger - INFO - request status: Successful
 2026-04-04 19:04:39,349 - logger - INFO - Successful dumping
 2026-04-04 19:04:39,350 - logger - INFO - ------
+2026-04-04 19:49:08,334 - logger - INFO - ------
+2026-04-04 19:49:08,335 - logger - INFO - retrieve station status
+2026-04-04 19:49:08,760 - logger - INFO - request status: Successful
+2026-04-04 19:49:08,763 - logger - INFO - Successful dumping
+2026-04-04 19:49:08,764 - logger - INFO - retrieve station information
+2026-04-04 19:49:10,001 - logger - INFO - request status: Successful
+2026-04-04 19:49:10,022 - logger - INFO - Successful dumping
+2026-04-04 19:49:10,023 - logger - INFO - ------
