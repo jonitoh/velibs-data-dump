@@ -1626,3 +1626,11 @@
 2026-04-05 19:07:07,510 - logger - INFO - request status: Successful
 2026-04-05 19:07:07,530 - logger - INFO - Successful dumping
 2026-04-05 19:07:07,531 - logger - INFO - ------
+2026-04-05 19:52:03,007 - logger - INFO - ------
+2026-04-05 19:52:03,007 - logger - INFO - retrieve station status
+2026-04-05 19:52:03,440 - logger - INFO - request status: Successful
+2026-04-05 19:52:03,443 - logger - INFO - Successful dumping
+2026-04-05 19:52:03,443 - logger - INFO - retrieve station information
+2026-04-05 19:52:04,209 - logger - INFO - request status: Successful
+2026-04-05 19:52:04,231 - logger - INFO - Successful dumping
+2026-04-05 19:52:04,231 - logger - INFO - ------
