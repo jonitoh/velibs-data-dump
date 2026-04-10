@@ -2218,3 +2218,11 @@
 2026-04-10 17:10:51,540 - logger - INFO - request status: Successful
 2026-04-10 17:10:51,561 - logger - INFO - Successful dumping
 2026-04-10 17:10:51,562 - logger - INFO - ------
+2026-04-10 18:04:05,531 - logger - INFO - ------
+2026-04-10 18:04:05,531 - logger - INFO - retrieve station status
+2026-04-10 18:04:05,952 - logger - INFO - request status: Successful
+2026-04-10 18:04:05,955 - logger - INFO - Successful dumping
+2026-04-10 18:04:05,955 - logger - INFO - retrieve station information
+2026-04-10 18:04:06,986 - logger - INFO - request status: Successful
+2026-04-10 18:04:07,007 - logger - INFO - Successful dumping
+2026-04-10 18:04:07,008 - logger - INFO - ------
