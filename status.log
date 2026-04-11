@@ -2402,3 +2402,11 @@
 2026-04-11 22:55:25,500 - logger - INFO - request status: Successful
 2026-04-11 22:55:25,523 - logger - INFO - Successful dumping
 2026-04-11 22:55:25,523 - logger - INFO - ------
+2026-04-11 23:53:13,480 - logger - INFO - ------
+2026-04-11 23:53:13,480 - logger - INFO - retrieve station status
+2026-04-11 23:53:13,855 - logger - INFO - request status: Successful
+2026-04-11 23:53:13,858 - logger - INFO - Successful dumping
+2026-04-11 23:53:13,858 - logger - INFO - retrieve station information
+2026-04-11 23:53:14,556 - logger - INFO - request status: Successful
+2026-04-11 23:53:14,577 - logger - INFO - Successful dumping
+2026-04-11 23:53:14,578 - logger - INFO - ------
