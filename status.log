@@ -2346,3 +2346,11 @@
 2026-04-11 15:50:23,622 - logger - INFO - request status: Successful
 2026-04-11 15:50:23,644 - logger - INFO - Successful dumping
 2026-04-11 15:50:23,645 - logger - INFO - ------
+2026-04-11 16:58:04,377 - logger - INFO - ------
+2026-04-11 16:58:04,377 - logger - INFO - retrieve station status
+2026-04-11 16:58:04,809 - logger - INFO - request status: Successful
+2026-04-11 16:58:04,812 - logger - INFO - Successful dumping
+2026-04-11 16:58:04,812 - logger - INFO - retrieve station information
+2026-04-11 16:58:05,324 - logger - INFO - request status: Successful
+2026-04-11 16:58:05,346 - logger - INFO - Successful dumping
+2026-04-11 16:58:05,346 - logger - INFO - ------
