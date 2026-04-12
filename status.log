@@ -2490,3 +2490,11 @@
 2026-04-12 15:55:13,647 - logger - INFO - request status: Successful
 2026-04-12 15:55:13,668 - logger - INFO - Successful dumping
 2026-04-12 15:55:13,669 - logger - INFO - ------
+2026-04-12 16:59:39,891 - logger - INFO - ------
+2026-04-12 16:59:39,891 - logger - INFO - retrieve station status
+2026-04-12 16:59:40,340 - logger - INFO - request status: Successful
+2026-04-12 16:59:40,342 - logger - INFO - Successful dumping
+2026-04-12 16:59:40,342 - logger - INFO - retrieve station information
+2026-04-12 16:59:41,413 - logger - INFO - request status: Successful
+2026-04-12 16:59:41,434 - logger - INFO - Successful dumping
+2026-04-12 16:59:41,434 - logger - INFO - ------
