@@ -2458,3 +2458,11 @@
 2026-04-12 11:02:58,298 - logger - INFO - request status: Successful
 2026-04-12 11:02:58,320 - logger - INFO - Successful dumping
 2026-04-12 11:02:58,321 - logger - INFO - ------
+2026-04-12 11:50:56,146 - logger - INFO - ------
+2026-04-12 11:50:56,146 - logger - INFO - retrieve station status
+2026-04-12 11:50:56,512 - logger - INFO - request status: Successful
+2026-04-12 11:50:56,515 - logger - INFO - Successful dumping
+2026-04-12 11:50:56,515 - logger - INFO - retrieve station information
+2026-04-12 11:50:57,021 - logger - INFO - request status: Successful
+2026-04-12 11:50:57,043 - logger - INFO - Successful dumping
+2026-04-12 11:50:57,043 - logger - INFO - ------
