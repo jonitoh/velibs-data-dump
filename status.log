@@ -2578,3 +2578,11 @@
 2026-04-13 09:14:46,576 - logger - INFO - request status: Successful
 2026-04-13 09:14:46,597 - logger - INFO - Successful dumping
 2026-04-13 09:14:46,598 - logger - INFO - ------
+2026-04-13 10:58:13,732 - logger - INFO - ------
+2026-04-13 10:58:13,732 - logger - INFO - retrieve station status
+2026-04-13 10:58:14,171 - logger - INFO - request status: Successful
+2026-04-13 10:58:14,174 - logger - INFO - Successful dumping
+2026-04-13 10:58:14,174 - logger - INFO - retrieve station information
+2026-04-13 10:58:15,430 - logger - INFO - request status: Successful
+2026-04-13 10:58:15,451 - logger - INFO - Successful dumping
+2026-04-13 10:58:15,452 - logger - INFO - ------
