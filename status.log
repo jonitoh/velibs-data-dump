@@ -9994,3 +9994,11 @@ requests.exceptions.ConnectionError: HTTPSConnectionPool(host='data.opendatasoft
 2026-07-11 19:36:19,297 - logger - INFO - request status: Successful
 2026-07-11 19:36:19,318 - logger - INFO - Successful dumping
 2026-07-11 19:36:19,318 - logger - INFO - ------
+2026-07-11 21:10:26,410 - logger - INFO - ------
+2026-07-11 21:10:26,410 - logger - INFO - retrieve station status
+2026-07-11 21:10:26,845 - logger - INFO - request status: Successful
+2026-07-11 21:10:26,848 - logger - INFO - Successful dumping
+2026-07-11 21:10:26,848 - logger - INFO - retrieve station information
+2026-07-11 21:10:28,099 - logger - INFO - request status: Successful
+2026-07-11 21:10:28,119 - logger - INFO - Successful dumping
+2026-07-11 21:10:28,119 - logger - INFO - ------
