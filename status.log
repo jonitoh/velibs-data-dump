@@ -790,3 +790,11 @@
 2026-10-17 13:48:57,924 - logger - INFO - request status: Successful
 2026-10-17 13:48:57,945 - logger - INFO - Successful dumping
 2026-10-17 13:48:57,945 - logger - INFO - ------
+2026-10-17 17:18:20,506 - logger - INFO - ------
+2026-10-17 17:18:20,506 - logger - INFO - retrieve station status
+2026-10-17 17:18:20,836 - logger - INFO - request status: Successful
+2026-10-17 17:18:20,839 - logger - INFO - Successful dumping
+2026-10-17 17:18:20,839 - logger - INFO - retrieve station information
+2026-10-17 17:18:21,614 - logger - INFO - request status: Successful
+2026-10-17 17:18:21,635 - logger - INFO - Successful dumping
+2026-10-17 17:18:21,635 - logger - INFO - ------
